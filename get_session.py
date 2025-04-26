@@ -31,5 +31,10 @@ session_match = re.search(r'\(S\((.*?)\)\)', response.url)
 if session_match:
     session_id = session_match.group(1)
     print(f"New session ID: {session_id}")
+    
+    # Update session.json with the new session ID
+    with open('session.json', 'w') as f:
+        json.dump({"session_id": session_id}, f, indent=4)
+    print("Session ID saved to session.json")
 else:
     print("Failed to get session ID") 

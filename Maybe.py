@@ -19,20 +19,23 @@ else:
     target_id = "91588"
     output_file = "page_content.html"
 
-# Function to get fresh session ID
-def get_fresh_session():
-    result = subprocess.run(['python', 'get_session.py'], capture_output=True, text=True)
-    output = result.stdout.strip()
-    session_match = re.search(r'New session ID: (.*)', output)
-    if session_match:
-        return session_match.group(1)
-    raise Exception("Failed to get new session ID")
+# Function to get session ID from JSON file
+def get_session_from_json():
+    try:
+        with open('session.json', 'r') as f:
+            session_data = json.load(f)
+            return session_data.get('session_id')
+    except Exception as e:
+        print(f"Error reading session ID from JSON: {e}")
+        return None
 
 # Get initial session ID
 try:
-    SID = get_fresh_session()
+    SID = get_session_from_json()
+    if not SID:
+        raise Exception("No session ID found in JSON file")
 except Exception as e:
-    print(f"Error getting initial session ID: {e}")
+    print(f"Error getting session ID: {e}")
     SID = "x0mox505oes13veaytoc5qx4"  # Fallback to hardcoded value
 
 def get_anticaptcha_key():
