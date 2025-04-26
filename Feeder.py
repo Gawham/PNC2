@@ -75,10 +75,17 @@ def check_file_for_expiration(file_path):
         print(f"Error reading file {file_path}: {e}")
         return False
 
-# Load IDs from JSON file
+# Load IDs from both JSON files
 with open('26-4.json', 'r') as f:
     data = json.load(f)
-    id_list = data.get('extracted_values', [])
+    id_list_26_4 = data.get('extracted_values', [])
+
+with open('ALL.json', 'r') as f:
+    data = json.load(f)
+    id_list_all = [str(id) for id in data.get('ALL', [])]  # Convert integers to strings
+
+# Combine both lists while maintaining order (26-4 first, then ALL)
+id_list = id_list_26_4 + id_list_all
 
 # Get list of already processed IDs
 processed_ids = get_existing_ids()
