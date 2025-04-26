@@ -5,6 +5,7 @@ import random
 import sys
 import boto3
 import re
+import os
 
 # Ensure required packages are installed
 def install_required_packages():
@@ -61,6 +62,19 @@ def get_existing_ids():
 def is_session_expired(html_content):
     return '<div class ="please-note">' in html_content and 'I agree to the Terms of Use' in html_content
 
+# Function to check local file content for session expiration
+def check_file_for_expiration(file_path):
+    if not os.path.exists(file_path):
+        return False
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            return is_session_expired(content)
+    except Exception as e:
+        print(f"Error reading file {file_path}: {e}")
+        return False
+
 # Load IDs from JSON file
 with open('26-4.json', 'r') as f:
     data = json.load(f)
@@ -88,14 +102,22 @@ for id_num in id_list:
             # Call Maybe.py with the ID as command line argument
             result = subprocess.run([sys.executable, 'Maybe.py', id_num], capture_output=True, text=True)
             
+            # Local file path
+            local_file = f"{id_num}.html"
+            
             # Check if the output indicates session expiration
-            if is_session_expired(result.stdout):
+            if is_session_expired(result.stdout) or check_file_for_expiration(local_file):
                 print("Session expired. Refreshing session ID...")
                 refresh_session()
                 continue  # Retry without incrementing retry count
             
+            # Check if the local file exists and has valid content before uploading
+            if not os.path.exists(local_file):
+                print(f"File {local_file} not found. Retrying...")
+                retry_count += 1
+                continue
+                
             # Upload the generated HTML file to S3
-            local_file = f"{id_num}.html"
             s3_key = f"{s3_prefix}{id_num}.html"
             
             s3.upload_file(local_file, bucket_name, s3_key)
