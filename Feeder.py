@@ -4,6 +4,8 @@ import time
 import random
 import sys
 import boto3
+import tempfile
+import os
 
 # Ensure required packages are installed
 def install_required_packages():
@@ -67,20 +69,26 @@ for id_num in id_list:
         
     print(f"\n===== Processing ID: {id_num} =====")
     
-    # Run Maybe.py with the current ID
+    # Create a temporary file
+    with tempfile.NamedTemporaryFile(suffix='.html', delete=False) as temp_file:
+        temp_file_path = temp_file.name
+    
     try:
-        # Call Maybe.py with the ID as command line argument
-        subprocess.run([sys.executable, 'Maybe.py', id_num], check=True)
+        # Call Maybe.py with the ID as command line argument and specify the temporary output file
+        subprocess.run([sys.executable, 'Maybe.py', id_num, temp_file_path], check=True)
         
         # Upload the generated HTML file to S3
-        local_file = f"{id_num}.html"
         s3_key = f"{s3_prefix}{id_num}.html"
+        s3.upload_file(temp_file_path, bucket_name, s3_key)
+        print(f"Successfully processed ID: {id_num}, saved directly to S3 as {s3_key}")
         
-        s3.upload_file(local_file, bucket_name, s3_key)
-        print(f"Successfully processed ID: {id_num}, output saved to S3 as {s3_key}")
-    
     except Exception as e:
         print(f"Error processing ID {id_num}: {e}")
+    
+    finally:
+        # Clean up the temporary file
+        if os.path.exists(temp_file_path):
+            os.remove(temp_file_path)
     
     # Random delay between 5-10 seconds before next ID
     delay = random.uniform(5, 10)
