@@ -4,6 +4,7 @@ import time
 import random
 import sys
 import boto3
+import re
 
 # Ensure required packages are installed
 def install_required_packages():
@@ -28,6 +29,12 @@ s3 = boto3.client('s3')
 bucket_name = 'datainsdr'
 s3_prefix = 'PNC26-4/'
 
+# Function to run get_session.py and update session ID
+def refresh_session():
+    print("Refreshing session ID by running get_session.py...")
+    subprocess.run([sys.executable, 'get_session.py'], check=True)
+    print("Session ID refreshed successfully")
+
 # Check which IDs are already processed in S3
 def get_existing_ids():
     existing_ids = set()
@@ -49,6 +56,10 @@ def get_existing_ids():
         print(f"Error checking S3 for existing files: {e}")
     
     return existing_ids
+
+# Function to check if session has expired in the HTML content
+def is_session_expired(html_content):
+    return '<div class ="please-note">' in html_content and 'I agree to the Terms of Use' in html_content
 
 # Load IDs from JSON file
 with open('26-4.json', 'r') as f:
@@ -75,7 +86,13 @@ for id_num in id_list:
     while retry_count < max_retries and not success:
         try:
             # Call Maybe.py with the ID as command line argument
-            subprocess.run([sys.executable, 'Maybe.py', id_num], check=True)
+            result = subprocess.run([sys.executable, 'Maybe.py', id_num], capture_output=True, text=True)
+            
+            # Check if the output indicates session expiration
+            if is_session_expired(result.stdout):
+                print("Session expired. Refreshing session ID...")
+                refresh_session()
+                continue  # Retry without incrementing retry count
             
             # Upload the generated HTML file to S3
             local_file = f"{id_num}.html"
