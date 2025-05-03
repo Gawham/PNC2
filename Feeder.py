@@ -28,7 +28,7 @@ install_required_packages()
 # Initialize S3 client
 s3 = boto3.client('s3')
 bucket_name = 'datainsdr'
-s3_prefix = 'PNC26-4/'
+s3_prefix = 'PNC3May2/'
 
 # Function to run get_session.py and update session ID
 def refresh_session():
@@ -76,7 +76,7 @@ def check_file_for_expiration(file_path):
         return False
 
 # Load IDs from both JSON files
-with open('26-4.json', 'r') as f:
+with open('3May.json', 'r') as f:
     data = json.load(f)
     id_list_26_4 = data.get('extracted_values', [])
 
