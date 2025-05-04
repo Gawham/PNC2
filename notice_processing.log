@@ -1,0 +1,52 @@
+2025-05-04 12:30:34,742 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-05-04 12:30:35,031 - INFO - Successfully loaded 349 notices
+2025-05-04 12:30:35,031 - INFO - Processing notice 1 with ID 88055
+2025-05-04 12:30:35,031 - INFO - Processing new notice
+2025-05-04 12:30:37,540 - INFO - Processing notice 2 with ID 88107
+2025-05-04 12:30:37,541 - INFO - Processing new notice
+2025-05-04 12:30:38,637 - INFO - Processing notice 3 with ID 88926
+2025-05-04 12:30:38,637 - INFO - Processing new notice
+2025-05-04 12:30:39,791 - INFO - Processing notice 4 with ID 89336
+2025-05-04 12:30:39,791 - INFO - Processing new notice
+2025-05-04 12:30:41,011 - INFO - Processing notice 5 with ID 89917
+2025-05-04 12:30:41,011 - INFO - Processing new notice
+2025-05-04 12:30:42,248 - INFO - Processing notice 6 with ID 90077
+2025-05-04 12:30:42,248 - INFO - Processing new notice
+2025-05-04 12:30:43,315 - INFO - Processing notice 7 with ID 90134
+2025-05-04 12:30:43,315 - INFO - Processing new notice
+2025-05-04 12:30:44,472 - INFO - Processing notice 8 with ID 90995
+2025-05-04 12:30:44,472 - INFO - Processing new notice
+2025-05-04 12:30:45,465 - INFO - Processing notice 9 with ID 91602
+2025-05-04 12:30:45,465 - INFO - Processing new notice
+2025-05-04 12:30:46,818 - INFO - Processing notice 10 with ID 91771
+2025-05-04 12:30:46,818 - INFO - Processing new notice
+2025-05-04 12:30:47,990 - INFO - Processing notice 11 with ID 91778
+2025-05-04 12:30:47,990 - INFO - Processing new notice
+2025-05-04 12:30:49,168 - INFO - Processing notice 12 with ID 91779
+2025-05-04 12:30:49,168 - INFO - Processing new notice
+2025-05-04 12:30:50,351 - INFO - Processing notice 13 with ID 91782
+2025-05-04 12:30:50,351 - INFO - Processing new notice
+2025-05-04 12:30:51,437 - INFO - Processing notice 14 with ID 91783
+2025-05-04 12:30:51,438 - INFO - Processing new notice
+2025-05-04 12:30:52,539 - INFO - Processing notice 15 with ID 91803
+2025-05-04 12:30:52,540 - INFO - Processing new notice
+2025-05-04 12:30:53,709 - INFO - Processing notice 16 with ID 91804
+2025-05-04 12:30:53,709 - INFO - Processing new notice
+2025-05-04 12:30:54,766 - INFO - Processing notice 17 with ID 91805
+2025-05-04 12:30:54,766 - INFO - Processing new notice
+2025-05-04 12:30:55,964 - INFO - Processing notice 18 with ID 91806
+2025-05-04 12:30:55,964 - INFO - Processing new notice
+2025-05-04 12:30:56,949 - INFO - Processing notice 19 with ID 91807
+2025-05-04 12:30:56,949 - INFO - Processing new notice
+2025-05-04 12:30:58,184 - INFO - Processing notice 20 with ID 91808
+2025-05-04 12:30:58,186 - INFO - Processing new notice
+2025-05-04 12:30:59,554 - INFO - Processing notice 21 with ID 91809
+2025-05-04 12:30:59,554 - INFO - Processing new notice
+2025-05-04 12:31:00,674 - INFO - Processing notice 22 with ID 91814
+2025-05-04 12:31:00,674 - INFO - Processing new notice
+2025-05-04 12:31:01,781 - INFO - Processing notice 23 with ID 91815
+2025-05-04 12:31:01,782 - INFO - Processing new notice
+2025-05-04 12:31:03,000 - INFO - Processing notice 24 with ID 91817
+2025-05-04 12:31:03,000 - INFO - Processing new notice
+2025-05-04 12:31:04,191 - INFO - Processing notice 25 with ID 91820
+2025-05-04 12:31:04,191 - INFO - Processing new notice

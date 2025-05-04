@@ -1,36 +1,47 @@
 import json
 
-# Function to load JSON data from a file
-def load_json(filename):
-    with open(filename, 'r') as f:
-        return json.load(f)
+# Load the IDs from 3May.json
+try:
+    with open('3May.json', 'r') as f:
+        may_data = json.load(f)
+    # Extract the IDs from the "extracted_values" list
+    if 'extracted_values' in may_data and isinstance(may_data['extracted_values'], list):
+        valid_ids = set(may_data['extracted_values'])
+    else:
+        print("Error: 3May.json does not have the expected 'extracted_values' structure.")
+        exit()
+except FileNotFoundError:
+    print("Error: 3May.json not found.")
+    exit()
+except json.JSONDecodeError:
+    print("Error: 3May.json is not valid JSON.")
+    exit()
 
-# Function to save JSON data to a file
-def save_json(filename, data):
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=4)
+# Load all notices
+try:
+    with open('all_notices.json', 'r') as f:
+        all_data = json.load(f)
+    if not isinstance(all_data, dict):
+        print("Error: all_notices.json does not contain a dictionary.")
+        exit()
+except FileNotFoundError:
+    print("Error: all_notices.json not found.")
+    exit()
+except json.JSONDecodeError:
+    print("Error: all_notices.json is not valid JSON.")
+    exit()
 
-# Load the data from both files
-file1_path = '3May.json'
-file2_path = '26-4.json'
+# Filter all_notices based on valid IDs
+filtered_notices = {
+    notice_id: notice_data
+    for notice_id, notice_data in all_data.items()
+    if notice_id in valid_ids
+}
 
-data1 = load_json(file1_path)
-data2 = load_json(file2_path)
-
-# Extract the lists of values
-values1 = data1.get('extracted_values', [])
-values2 = data2.get('extracted_values', [])
-
-# Convert the second list to a set for efficient lookup
-values2_set = set(values2)
-
-# Filter the first list, removing items present in the second list
-filtered_values1 = [value for value in values1 if value not in values2_set]
-
-# Create the new data structure for the first file
-new_data1 = {'extracted_values': filtered_values1}
-
-# Save the filtered data back to the first file
-save_json(file1_path, new_data1)
-
-print(f"Filtered data saved back to {file1_path}")
+# Write the filtered data back to all_notices.json
+try:
+    with open('all_noticesCleaned.json', 'w') as f:
+        json.dump(filtered_notices, f, indent=4)
+    print(f"Successfully filtered all_notices.json. Kept {len(filtered_notices)} entries out of {len(all_data)}.")
+except IOError as e:
+    print(f"Error writing to all_notices.json: {e}")
