@@ -31,19 +31,19 @@ except json.JSONDecodeError:
 
 # Load IDs from 3May.json
 try:
-    with open('3May.json', 'r') as f:
+    with open('May10.json', 'r') as f:
         data = json.load(f)
         ids = data.get('extracted_values', [])
 except FileNotFoundError:
-    print("Error: 3May.json not found.")
+    print("Error: May10.json not found.")
     exit()
 except json.JSONDecodeError:
-    print("Error: 3May.json is not valid JSON.")
+    print("Error: May10.json is not valid JSON.")
     exit()
 
 # S3 configuration
 s3_bucket = 'datainsdr'
-s3_prefix = 'PNC3May'
+s3_prefix = 'PNC10May'
 s3_client = boto3.client('s3')
 
 # Create local temp directory for files before uploading to S3
@@ -64,7 +64,7 @@ headers = {
     'cache-control': 'max-age=0',
     'dnt': '1',
     'priority': 'u=0, i',
-    'referer': 'https://www.publicnoticecolorado.com/(S(cetmjcnkgrm5ppi3ikjml1jn))/Details.aspx?SID=q43xf0daobditvpcak2gcbsf&ID=88405',
+    'referer': 'https://www.publicnoticecolorado.com/(S(jdiixezphd210xffsfx2l2rq))/Details.aspx?SID=jdiixezphd210xffsfx2l2rq&ID=88405',
     'sec-ch-ua': '"Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"',
     'sec-ch-ua-mobile': '?0',
     'sec-ch-ua-platform': '"Android"',
@@ -91,7 +91,7 @@ for idx, id_to_use in enumerate(ids_to_process):
         pass
     
     params = {
-        'SID': 'uwmkhvrgvy45imkvsf43fd3m',
+        'SID': 'jdiixezphd210xffsfx2l2rq',
         'ID': id_to_use,
     }
 
@@ -102,7 +102,7 @@ for idx, id_to_use in enumerate(ids_to_process):
     while retry_count < max_retries and not success:
         try:
             response = requests.get(
-                'https://www.publicnoticecolorado.com/(S(uwmkhvrgvy45imkvsf43fd3m))/Details.aspx',
+                'https://www.publicnoticecolorado.com/(S(jdiixezphd210xffsfx2l2rq))/Details.aspx',
                 params=params,
                 cookies=cookies,
                 headers=headers,

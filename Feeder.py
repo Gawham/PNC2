@@ -28,7 +28,7 @@ install_required_packages()
 # Initialize S3 client
 s3 = boto3.client('s3')
 bucket_name = 'datainsdr'
-s3_prefix = 'PNC3May2/'
+s3_prefix = 'PNC10May2/'
 
 # Function to run get_session.py and update session ID
 def refresh_session():
@@ -76,19 +76,20 @@ def check_file_for_expiration(file_path):
         return False
 
 # Load IDs from both JSON files
-with open('3May.json', 'r') as f:
+with open('May10.json', 'r') as f:
     data = json.load(f)
-    id_list_26_4 = data.get('extracted_values', [])
-
-with open('ALL.json', 'r') as f:
-    data = json.load(f)
-    id_list_all = [str(id) for id in data.get('ALL', [])]  # Convert integers to strings
-
-# Combine both lists while maintaining order (26-4 first, then ALL)
-id_list = id_list_26_4 + id_list_all
+    id_list = data.get('extracted_values', [])
 
 # Get list of already processed IDs
 processed_ids = get_existing_ids()
+
+# Print total IDs to be processed
+total_ids = len(id_list)
+already_processed = len(processed_ids)
+to_be_processed = total_ids - len(processed_ids.intersection(id_list))
+print(f"\nTotal IDs in May10.json: {total_ids}")
+print(f"Already processed: {already_processed}")
+print(f"Remaining to be processed: {to_be_processed}\n")
 
 # Process each ID
 for id_num in id_list:

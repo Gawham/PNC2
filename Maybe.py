@@ -36,7 +36,7 @@ try:
         raise Exception("No session ID found in JSON file")
 except Exception as e:
     print(f"Error getting session ID: {e}")
-    SID = "msqg0rrsbn4ao13u3lsputip"  # Fallback to hardcoded value
+    SID = "jdiixezphd210xffsfx2l2rq"  # Fallback to hardcoded value
 
 def get_anticaptcha_key():
     session = boto3.session.Session()
