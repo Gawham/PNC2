@@ -41,6 +41,7 @@ def make_api_call(name, city, state, notice_id, max_retries=25):
         return "already_exists"
 
     url = f"https://www.fastpeoplesearch.com/name/{formatted_name}_{formatted_city}-{formatted_state}"
+    print(f"Making request to URL: {url}")
     
     headers = {
         'Content-Type': 'application/json',
@@ -82,9 +83,8 @@ def make_api_call(name, city, state, notice_id, max_retries=25):
                 time.sleep(sleep_time)
         except Timeout:
             print(f"Request timed out on attempt {attempt}, retrying...")
-            sleep_time = min(300, 2 ** attempt + random.uniform(0, 1))
-            print(f"Backing off for {sleep_time:.2f} seconds...")
-            time.sleep(sleep_time)
+            print("Backing off for 15 seconds...")
+            time.sleep(15)
         except Exception as e:
             print(f"Error on attempt {attempt}: {str(e)}")
             sleep_time = min(300, 2 ** attempt + random.uniform(0, 1))
