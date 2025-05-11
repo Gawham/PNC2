@@ -32,6 +32,11 @@ def make_api_call(name, city, state, notice_id, max_retries=25):
     formatted_city = city.lower().replace(' ', '-')
     formatted_state = state.lower()
     
+    # Skip specific URL
+    if formatted_name == "diane-marie-o'neal" and formatted_city == "grand-junction" and formatted_state == "co":
+        print(f"Skipping {formatted_name} in {formatted_city}, {formatted_state} as requested")
+        return None
+        
     output_filename = f"{notice_id}_{formatted_name}_{formatted_city}_{formatted_state}.html"
     bucket_name = "datainsdr"
     s3_path = f"PNCFP3/{output_filename}"
@@ -83,8 +88,7 @@ def make_api_call(name, city, state, notice_id, max_retries=25):
                 time.sleep(sleep_time)
         except Timeout:
             print(f"Request timed out on attempt {attempt}, retrying...")
-            print("Backing off for 15 seconds...")
-            time.sleep(15)
+            continue
         except Exception as e:
             print(f"Error on attempt {attempt}: {str(e)}")
             sleep_time = min(300, 2 ** attempt + random.uniform(0, 1))
