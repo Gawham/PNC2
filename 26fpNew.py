@@ -28,7 +28,11 @@ def get_brightdata_api_key():
         raise e
 
 def make_api_call(name, city, state, notice_id, max_retries=25):
-    formatted_name = name.lower().replace(' ', '-')
+    # Remove "Dr" prefix and clean the name
+    name = name.replace("Dr ", "").replace("Dr. ", "").strip()
+    
+    # Clean and format the parameters
+    formatted_name = name.lower().replace(' ', '-').replace(',', '')
     formatted_city = city.lower().replace(' ', '-')
     formatted_state = state.lower()
     
@@ -67,7 +71,7 @@ def make_api_call(name, city, state, notice_id, max_retries=25):
             response = requests.post('https://api.brightdata.com/request', 
                                    headers=headers,
                                    json=data,
-                                   timeout=15)
+                                   timeout=10)
             
             if response.status_code == 200 and response.text:
                 print("Received valid content, uploading to S3")
@@ -141,7 +145,9 @@ def process_csv_file():
             
             # If deceased name is valid, add to pending items
             if deceased_name and deceased_city:
-                output_filename = f"{notice_id}_{deceased_name.lower().replace(' ', '-')}_{deceased_city.lower().replace(' ', '-')}_{deceased_state}.html"
+                formatted_name = deceased_name.lower().replace(' ', '-').replace(',', '')
+                formatted_city = deceased_city.lower().replace(' ', '-')
+                output_filename = f"{notice_id}_{formatted_name}_{formatted_city}_{deceased_state}.html"
                 if output_filename not in existing_files:
                     pending_items_by_notice_id[notice_id].append((deceased_name, deceased_city, deceased_state))
             
@@ -152,7 +158,9 @@ def process_csv_file():
             
             # If representative name is valid, add to pending items
             if rep_name and rep_city:
-                output_filename = f"{notice_id}_{rep_name.lower().replace(' ', '-')}_{rep_city.lower().replace(' ', '-')}_{rep_state}.html"
+                formatted_name = rep_name.lower().replace(' ', '-').replace(',', '')
+                formatted_city = rep_city.lower().replace(' ', '-')
+                output_filename = f"{notice_id}_{formatted_name}_{formatted_city}_{rep_state}.html"
                 if output_filename not in existing_files:
                     pending_items_by_notice_id[notice_id].append((rep_name, rep_city, rep_state))
     
