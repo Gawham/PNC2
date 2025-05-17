@@ -50,3 +50,15 @@
 2025-05-04 12:31:03,000 - INFO - Processing new notice
 2025-05-04 12:31:04,191 - INFO - Processing notice 25 with ID 91820
 2025-05-04 12:31:04,191 - INFO - Processing new notice
+2025-05-18 01:24:31,468 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-05-18 01:24:31,685 - INFO - Successfully loaded 337 notices
+2025-05-18 01:24:31,685 - INFO - Processing notice 1 with ID 90135
+2025-05-18 01:24:31,685 - INFO - Processing new notice
+2025-05-18 01:24:34,192 - INFO - Processing notice 2 with ID 90996
+2025-05-18 01:24:34,193 - INFO - Processing new notice
+2025-05-18 01:24:35,420 - INFO - Processing notice 3 with ID 91603
+2025-05-18 01:24:35,421 - INFO - Processing new notice
+2025-05-18 01:24:36,649 - INFO - Processing notice 4 with ID 91779
+2025-05-18 01:24:36,649 - INFO - Processing new notice
+2025-05-18 01:24:37,878 - INFO - Processing notice 5 with ID 91780
+2025-05-18 01:24:37,878 - INFO - Processing new notice

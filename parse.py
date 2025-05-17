@@ -99,7 +99,7 @@ def main():
     
     # Define buckets and prefixes
     s3_locations = [
-        ('datainsdr', 'PNC3May2/'),
+        ('datainsdr', 'PNC17May/'),
     ]
     
     all_results = {}

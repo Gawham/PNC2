@@ -28,7 +28,7 @@ install_required_packages()
 # Initialize S3 client
 s3 = boto3.client('s3')
 bucket_name = 'datainsdr'
-s3_prefix = 'PNC17May/'
+s3_prefix = 'PNC17MayNew/'
 
 # Check which IDs are already processed in S3
 def get_existing_ids():
@@ -53,9 +53,9 @@ def get_existing_ids():
     return existing_ids
 
 # Load IDs from both JSON files
-with open('May17.json', 'r') as f:
+with open('May17New.json', 'r') as f:
     data = json.load(f)
-    id_list = data.get('extracted_values', [])
+    id_list = data.get('ids', [])
 
 # Get list of already processed IDs
 processed_ids = get_existing_ids()
@@ -64,7 +64,7 @@ processed_ids = get_existing_ids()
 total_ids = len(id_list)
 already_processed = len(processed_ids)
 to_be_processed = total_ids - len(processed_ids.intersection(id_list))
-print(f"\nTotal IDs in May17.json: {total_ids}")
+print(f"\nTotal IDs in May17New.json: {total_ids}")
 print(f"Already processed: {already_processed}")
 print(f"Remaining to be processed: {to_be_processed}\n")
 
@@ -87,7 +87,7 @@ for id_num in id_list:
     while retry_count < max_retries and not success:
         try:
             # Call Maybe.py with the ID as command line argument
-            result = subprocess.run([sys.executable, 'Maybe.py', id_num, 'xvvhnbnvz4ecp51i4lksmsms'], capture_output=True, text=True)
+            result = subprocess.run([sys.executable, 'Maybe.py', id_num, 'epv520du3h4avqakgpw0ltje'], capture_output=True, text=True)
             
             # Print stdout and stderr from Maybe.py
             if result.stdout:

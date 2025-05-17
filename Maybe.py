@@ -21,7 +21,7 @@ else:
     output_file = "page_content.html"
 
 # Hardcoded session ID
-SID = "xvvhnbnvz4ecp51i4lksmsms"
+SID = "epv520du3h4avqakgpw0ltje"
 
 def get_anticaptcha_key():
     session = boto3.session.Session()
