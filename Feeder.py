@@ -30,12 +30,6 @@ s3 = boto3.client('s3')
 bucket_name = 'datainsdr'
 s3_prefix = 'PNC17May/'
 
-# Function to run get_session.py and update session ID
-def refresh_session():
-    print("Refreshing session ID by running get_session.py...")
-    subprocess.run([sys.executable, 'get_session.py'], check=True)
-    print("Session ID refreshed successfully")
-
 # Check which IDs are already processed in S3
 def get_existing_ids():
     existing_ids = set()
@@ -57,23 +51,6 @@ def get_existing_ids():
         print(f"Error checking S3 for existing files: {e}")
     
     return existing_ids
-
-# Function to check if session has expired in the HTML content
-def is_session_expired(html_content):
-    return '<div class ="please-note">' in html_content and 'I agree to the Terms of Use' in html_content
-
-# Function to check local file content for session expiration
-def check_file_for_expiration(file_path):
-    if not os.path.exists(file_path):
-        return False
-    
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            return is_session_expired(content)
-    except Exception as e:
-        print(f"Error reading file {file_path}: {e}")
-        return False
 
 # Load IDs from both JSON files
 with open('May17.json', 'r') as f:
@@ -108,7 +85,7 @@ for id_num in id_list:
     while retry_count < max_retries and not success:
         try:
             # Call Maybe.py with the ID as command line argument
-            result = subprocess.run([sys.executable, 'Maybe.py', id_num, 'ctvyttyxs3ei5n2dvxvruagk'], capture_output=True, text=True)
+            result = subprocess.run([sys.executable, 'Maybe.py', id_num, 'xvvhnbnvz4ecp51i4lksmsms'], capture_output=True, text=True)
             
             # Print stdout and stderr from Maybe.py
             if result.stdout:
@@ -118,12 +95,6 @@ for id_num in id_list:
             
             # Local file path
             local_file = f"{id_num}.html"
-            
-            # Check if the output indicates session expiration
-            if is_session_expired(result.stdout) or check_file_for_expiration(local_file):
-                print("Session expired. Refreshing session ID...")
-                refresh_session()
-                continue  # Retry without incrementing retry count
             
             # Check if the local file exists and has valid content before uploading
             if not os.path.exists(local_file):
@@ -141,10 +112,8 @@ for id_num in id_list:
         except Exception as e:
             retry_count += 1
             if "Max retries exceeded" in str(e) or "Tunnel connection failed" in str(e) or "522 status code" in str(e) or "ProxyError" in str(e):
-                retry_delay = 2  # Fixed 2 second delay for proxy issues
-                print(f"Proxy timeout for ID {id_num}, retrying in 2 seconds... (Attempt {retry_count}/{max_retries})")
-                time.sleep(retry_delay)
-                continue  # Skip the rest of the loop and retry immediately
+                print(f"Proxy timeout for ID {id_num}, retrying immediately... (Attempt {retry_count}/{max_retries})")
+                continue
             else:
                 print(f"Error processing ID {id_num}: {e}")
                 if retry_count < max_retries:
