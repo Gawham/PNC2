@@ -69,6 +69,8 @@ print(f"Already processed: {already_processed}")
 print(f"Remaining to be processed: {to_be_processed}\n")
 
 # Process each ID
+consecutive_non_proxy_errors = 0
+
 for id_num in id_list:
     # Skip if already processed
     if id_num in processed_ids:
@@ -108,14 +110,20 @@ for id_num in id_list:
             s3.upload_file(local_file, bucket_name, s3_key)
             print(f"Successfully processed ID: {id_num}, output saved to S3 as {s3_key}")
             success = True
+            consecutive_non_proxy_errors = 0
         
         except Exception as e:
             retry_count += 1
             if "Max retries exceeded" in str(e) or "Tunnel connection failed" in str(e) or "522 status code" in str(e) or "ProxyError" in str(e):
                 print(f"Proxy timeout for ID {id_num}, retrying immediately... (Attempt {retry_count}/{max_retries})")
+                consecutive_non_proxy_errors = 0
                 continue
             else:
                 print(f"Error processing ID {id_num}: {e}")
+                consecutive_non_proxy_errors += 1
+                if consecutive_non_proxy_errors >= 5:
+                    print("5 consecutive non-proxy errors detected. Ending process.")
+                    sys.exit(1)
                 if retry_count < max_retries:
                     retry_delay = random.uniform(5, 10)
                     print(f"Retrying in {retry_delay:.2f} seconds... (Attempt {retry_count}/{max_retries})")
