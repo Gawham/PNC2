@@ -1,4 +1,3 @@
-import json
 import csv
 import re
 import os
@@ -6,17 +5,10 @@ import boto3
 import tempfile
 from bs4 import BeautifulSoup
 
-def process_json_file(json_file_path):
+def process_html_file(html_file_path):
     try:
-        with open(json_file_path, "r", encoding="utf-8") as file:
-            data = json.load(file)
-
-        # Extract relevant details - handle data as a list if needed
-        html_content = data
-        if isinstance(data, dict) and "results" in data:
-            html_content = data["results"][0].get("content", "")
-        elif isinstance(data, list):
-            html_content = data[0].get("content", "")
+        with open(html_file_path, "r", encoding="utf-8") as file:
+            html_content = file.read()
 
         # Parse HTML content
         soup = BeautifulSoup(html_content, "html.parser")
@@ -95,12 +87,12 @@ def process_json_file(json_file_path):
         
         return [dox_name, full_name, current_address, current_phone, secondary_phone, tertiary_phone]
     except Exception as e:
-        print(f"Error processing {json_file_path}: {e}")
+        print(f"Error processing {html_file_path}: {e}")
         return None
 
 def main():
     bucket_name = "datainsdr"
-    prefix = "PNCFP2/"
+    prefix = "PNCFP3/"
     processed_count = 0
     output_file = "output.csv"
     no_matches = []  # New list to track files with no matches
@@ -121,16 +113,16 @@ def main():
                 continue
                 
             for obj in page['Contents']:
-                if not obj['Key'].endswith('.json'):
+                if not obj['Key'].endswith('.html'):
                     continue
                     
                 print(f"\nProcessing {obj['Key']}...")
-                with tempfile.NamedTemporaryFile(suffix='.json', delete=False) as temp_file:
+                with tempfile.NamedTemporaryFile(suffix='.html', delete=False) as temp_file:
                     temp_file_path = temp_file.name
                 
                 try:
                     s3_client.download_file(bucket_name, obj['Key'], temp_file_path)
-                    result = process_json_file(temp_file_path)
+                    result = process_html_file(temp_file_path)
                     if result:
                         # Append to CSV
                         with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:

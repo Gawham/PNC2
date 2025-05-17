@@ -28,7 +28,7 @@ install_required_packages()
 # Initialize S3 client
 s3 = boto3.client('s3')
 bucket_name = 'datainsdr'
-s3_prefix = 'PNC10May2/'
+s3_prefix = 'PNC17May/'
 
 # Function to run get_session.py and update session ID
 def refresh_session():
@@ -76,7 +76,7 @@ def check_file_for_expiration(file_path):
         return False
 
 # Load IDs from both JSON files
-with open('May10.json', 'r') as f:
+with open('May17.json', 'r') as f:
     data = json.load(f)
     id_list = data.get('extracted_values', [])
 
@@ -87,7 +87,7 @@ processed_ids = get_existing_ids()
 total_ids = len(id_list)
 already_processed = len(processed_ids)
 to_be_processed = total_ids - len(processed_ids.intersection(id_list))
-print(f"\nTotal IDs in May10.json: {total_ids}")
+print(f"\nTotal IDs in May17.json: {total_ids}")
 print(f"Already processed: {already_processed}")
 print(f"Remaining to be processed: {to_be_processed}\n")
 
@@ -108,7 +108,13 @@ for id_num in id_list:
     while retry_count < max_retries and not success:
         try:
             # Call Maybe.py with the ID as command line argument
-            result = subprocess.run([sys.executable, 'Maybe.py', id_num], capture_output=True, text=True)
+            result = subprocess.run([sys.executable, 'Maybe.py', id_num, 'ctvyttyxs3ei5n2dvxvruagk'], capture_output=True, text=True)
+            
+            # Print stdout and stderr from Maybe.py
+            if result.stdout:
+                print("Maybe.py output:", result.stdout)
+            if result.stderr:
+                print("Maybe.py errors:", result.stderr)
             
             # Local file path
             local_file = f"{id_num}.html"
@@ -135,10 +141,10 @@ for id_num in id_list:
         except Exception as e:
             retry_count += 1
             if "Max retries exceeded" in str(e) or "Tunnel connection failed" in str(e) or "522 status code" in str(e) or "ProxyError" in str(e):
-                retry_delay = random.uniform(5, 10)
-                print(f"Connection error for ID {id_num}: {e}")
-                print(f"Retrying in {retry_delay:.2f} seconds... (Attempt {retry_count}/{max_retries})")
+                retry_delay = 2  # Fixed 2 second delay for proxy issues
+                print(f"Proxy timeout for ID {id_num}, retrying in 2 seconds... (Attempt {retry_count}/{max_retries})")
                 time.sleep(retry_delay)
+                continue  # Skip the rest of the loop and retry immediately
             else:
                 print(f"Error processing ID {id_num}: {e}")
                 if retry_count < max_retries:

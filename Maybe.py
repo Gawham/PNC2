@@ -9,6 +9,7 @@ import re
 from bs4 import BeautifulSoup
 import subprocess
 import sys
+import os
 
 # Check if ID is provided as command line argument
 if len(sys.argv) > 1:
@@ -19,24 +20,8 @@ else:
     target_id = "91588"
     output_file = "page_content.html"
 
-# Function to get session ID from JSON file
-def get_session_from_json():
-    try:
-        with open('session.json', 'r') as f:
-            session_data = json.load(f)
-            return session_data.get('session_id')
-    except Exception as e:
-        print(f"Error reading session ID from JSON: {e}")
-        return None
-
-# Get initial session ID
-try:
-    SID = get_session_from_json()
-    if not SID:
-        raise Exception("No session ID found in JSON file")
-except Exception as e:
-    print(f"Error getting session ID: {e}")
-    SID = "jdiixezphd210xffsfx2l2rq"  # Fallback to hardcoded value
+# Hardcoded session ID
+SID = "ctvyttyxs3ei5n2dvxvruagk"
 
 def get_anticaptcha_key():
     session = boto3.session.Session()
@@ -45,7 +30,8 @@ def get_anticaptcha_key():
     return response['SecretString']
 
 def load_cookies():
-    with open('cookies.json', 'r') as f:
+    cookies_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'cookies.json')
+    with open(cookies_path, 'r') as f:
         cookie_data = json.load(f)
         return {cookie['name']: cookie['value'] for cookie in cookie_data}
 
