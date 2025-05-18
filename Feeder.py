@@ -28,7 +28,7 @@ install_required_packages()
 # Initialize S3 client
 s3 = boto3.client('s3')
 bucket_name = 'datainsdr'
-s3_prefix = 'PNC17MayNew/'
+s3_prefix = 'PNCForeclose/'
 
 # Check which IDs are already processed in S3
 def get_existing_ids():
@@ -53,7 +53,7 @@ def get_existing_ids():
     return existing_ids
 
 # Load IDs from both JSON files
-with open('May17New.json', 'r') as f:
+with open('Foreclose.json', 'r') as f:
     data = json.load(f)
     id_list = data.get('ids', [])
 
@@ -87,7 +87,7 @@ for id_num in id_list:
     while retry_count < max_retries and not success:
         try:
             # Call Maybe.py with the ID as command line argument
-            result = subprocess.run([sys.executable, 'Maybe.py', id_num, 'epv520du3h4avqakgpw0ltje'], capture_output=True, text=True)
+            result = subprocess.run([sys.executable, 'Maybe.py', id_num, 'c2bhh1v1gmwiivrmomagfqgb'], capture_output=True, text=True)
             
             # Print stdout and stderr from Maybe.py
             if result.stdout:
