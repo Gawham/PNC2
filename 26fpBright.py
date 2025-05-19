@@ -120,9 +120,9 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
         try:
             print(f"Attempt {attempt} for {notice_id}_{name} in {city}, {state}")
             
-            async with asyncio.timeout(45):
-                async with session.get(url, proxy=proxy, ssl=False) as response:
-                    response_text = await response.text()
+            timeout = aiohttp.ClientTimeout(total=45)
+            async with session.get(url, proxy=proxy, ssl=False, timeout=timeout) as response:
+                response_text = await response.text()
             
             # Check if we got a valid response
             if response_text and len(response_text.strip()) > 0:
