@@ -165,6 +165,7 @@ async def process_batch(batch, session):
 
 async def process_csv_file_async(csv_file_path):
     bucket_name = "datainsdr"
+    failed_entries = []  # Track failed entries
     
     # Get list of all existing files in S3 first
     s3_client = boto3.client('s3')
@@ -244,6 +245,11 @@ async def process_csv_file_async(csv_file_path):
             print(f"\nProcessing batch {i+1}/{num_batches} ({len(current_batch)} items)")
             results = await process_batch(current_batch, session)
             
+            # Track failed entries
+            for item, result in zip(current_batch, results):
+                if not result or result == "already_exists":
+                    failed_entries.append(item)
+            
             # Count successful results
             successful = sum(1 for r in results if r and r != "already_exists")
             processed_count += successful
@@ -261,7 +267,9 @@ async def process_csv_file_async(csv_file_path):
     
     print(f"\nFinal Results:")
     print(f"Successfully processed {processed_count} out of {total_pending} items")
-    print(f"Remaining items: {remaining}")
+    print(f"Failed entries ({len(failed_entries)}):")
+    for name, city, state, notice_id in failed_entries:
+        print(f"- Notice ID: {notice_id}, Name: {name}, Location: {city}, {state}")
     print("=" * 50)
 
 def main():
