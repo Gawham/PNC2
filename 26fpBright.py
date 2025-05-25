@@ -85,20 +85,30 @@ def get_proxy():
         print(f"Error retrieving proxy: {e}")
         raise
 
-async def make_api_call_async(session, name, city, state, notice_id, max_retries=3):
-    # Format the name for the URL (lowercase, replace spaces with hyphens)
+async def make_api_call_async(session, name, city, state, notice_id, max_retries=10):
+    # First replace spaces with hyphens
     formatted_name = name.lower().replace(' ', '-')
-    # Replace any existing hyphens in original name with tildes
-    if '-' in name:
-        formatted_name = formatted_name.replace('-', '~')
+    
+    # Then replace any original hyphens with tildes
+    if '-' in name:  # Only if the original name had hyphens
+        # Split by space first to avoid replacing the spaces-turned-hyphens
+        name_parts = name.split(' ')
+        formatted_parts = []
+        for part in name_parts:
+            if '-' in part:
+                formatted_parts.append(part.lower().replace('-', '~'))
+            else:
+                formatted_parts.append(part.lower())
+        formatted_name = '-'.join(formatted_parts)
     
     # Format the city and state
     formatted_city = city.lower().replace(' ', '-')
     formatted_state = state.lower()
     
     # Check if response file already exists in S3
-    formatted_output_name = name.replace(' ', '_')
-    output_filename = f"{notice_id}_{formatted_output_name}_{formatted_city}_{formatted_state}.html"
+    formatted_output_name = name.replace(' ', '_').replace('-', '_')
+    formatted_city_name = city.lower().replace(' ', '-')  # Use hyphens for city
+    output_filename = f"{notice_id}_{formatted_output_name}_{formatted_city_name}_{formatted_state}.html"
     bucket_name = "datainsdr"
     s3_path = f"PNCBigBoy/{output_filename}"
     
@@ -120,7 +130,7 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
         try:
             print(f"Attempt {attempt} for {notice_id}_{name} in {city}, {state}")
             
-            timeout = aiohttp.ClientTimeout(total=45)
+            timeout = aiohttp.ClientTimeout(total=60)
             async with session.get(url, proxy=proxy, ssl=False, timeout=timeout) as response:
                 response_text = await response.text()
             
@@ -148,7 +158,7 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
             else:
                 print("Empty content in response, retrying...")
         except asyncio.TimeoutError:
-            print(f"Timeout on attempt {attempt} after 45 seconds")
+            print(f"Timeout on attempt {attempt} after 60 seconds")
         except Exception as e:
             print(f"Error on attempt {attempt}: {str(e)}")
         await asyncio.sleep(2)  # Add a small delay between retries
@@ -156,39 +166,34 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
     print(f"Failed to get valid response after {max_retries} attempts")
     return None
 
-async def process_batch(batch, session):
-    tasks = []
-    for name, city, state, notice_id in batch:
-        task = asyncio.create_task(make_api_call_async(session, name, city, state, notice_id))
-        tasks.append(task)
-    return await asyncio.gather(*tasks)
-
 async def process_csv_file_async(csv_file_path):
     bucket_name = "datainsdr"
-    failed_entries = []  # Track failed entries
     
     # Get list of all existing files in S3 first
     s3_client = boto3.client('s3')
     existing_files = set()
     paginator = s3_client.get_paginator('list_objects_v2')
     
-    print(f"Checking for files in s3://{bucket_name}/PNCBigBoy/")
+    print(f"\nChecking existing files in s3://{bucket_name}/PNCBigBoy/")
     for page in paginator.paginate(Bucket=bucket_name, Prefix="PNCBigBoy/"):
         if 'Contents' in page:
-            print(f"Found {len(page['Contents'])} files in this page")
             for obj in page['Contents']:
                 key = obj['Key']
                 if not key.endswith('/'):
-                    existing_files.add(os.path.basename(key))
+                    filename = os.path.basename(key)
+                    existing_files.add(filename)
     
-    print(f"Found {len(existing_files)} existing files")
+    print(f"\nFound {len(existing_files)} existing files in S3")
     
     if not os.path.exists(csv_file_path):
         print(f"Error: Input file not found: {csv_file_path}")
         return
     
-    # Collect all pending items first
-    pending_items = []
+    # Collect all items and check which ones are missing
+    all_items = []
+    missing_items = []
+    processed_notice_ids = set()
+    
     with open(csv_file_path, mode='r', encoding='utf-8') as file:
         csv_reader = csv.DictReader(file)
         
@@ -197,16 +202,21 @@ async def process_csv_file_async(csv_file_path):
             if not notice_id:
                 continue
             
+            processed_notice_ids.add(notice_id)
+            
             # Process deceased person
             deceased_name = row.get('deceased_name', '').strip()
             deceased_city = row.get('deceased_city', '').strip()
             deceased_state = row.get('deceased_state', 'CO').strip()
             
             if deceased_name and deceased_city:
-                formatted_output_name = deceased_name.replace(' ', '_')
-                output_filename = f"{notice_id}_{formatted_output_name}_{deceased_city.lower()}_{deceased_state.lower()}.html"
-                if output_filename not in existing_files:
-                    pending_items.append((deceased_name, deceased_city, deceased_state, notice_id))
+                # Format name with underscores, but city with hyphens
+                formatted_name = deceased_name.replace(' ', '_').replace('-', '_')
+                formatted_city = deceased_city.lower().replace(' ', '-')  # Use hyphens for city
+                formatted_state = deceased_state.lower()
+                output_filename = f"{notice_id}_{formatted_name}_{formatted_city}_{formatted_state}.html"
+                item = (deceased_name, deceased_city, deceased_state, notice_id, "deceased")
+                all_items.append((item, output_filename))
             
             # Process representative
             rep_name = row.get('representative_name', '').strip()
@@ -214,59 +224,87 @@ async def process_csv_file_async(csv_file_path):
             rep_state = row.get('representative_state', 'CO').strip()
             
             if rep_name and rep_city:
-                formatted_output_name = rep_name.replace(' ', '_')
-                output_filename = f"{notice_id}_{formatted_output_name}_{rep_city.lower()}_{rep_state.lower()}.html"
-                if output_filename not in existing_files:
-                    pending_items.append((rep_name, rep_city, rep_state, notice_id))
+                # Format name with underscores, but city with hyphens
+                formatted_name = rep_name.replace(' ', '_').replace('-', '_')
+                formatted_city = rep_city.lower().replace(' ', '-')  # Use hyphens for city
+                formatted_state = rep_state.lower()
+                output_filename = f"{notice_id}_{formatted_name}_{formatted_city}_{formatted_state}.html"
+                item = (rep_name, rep_city, rep_state, notice_id, "representative")
+                all_items.append((item, output_filename))
     
-    total_pending = len(pending_items)
-    print(f"\nSTATS:")
-    print(f"Total entries to process: {total_pending}")
-    print(f"Already processed: {len(existing_files)}")
-    print(f"Remaining: {total_pending}")
+    # Count unique notice IDs in S3
+    s3_notice_ids = set()
+    for filename in existing_files:
+        notice_id = filename.split('_')[0]
+        s3_notice_ids.add(notice_id)
+    
+    # Check which items are missing
+    missing_by_type = {"deceased": 0, "representative": 0}
+    found_by_type = {"deceased": 0, "representative": 0}
+    
+    for item, filename in all_items:
+        name, city, state, notice_id, person_type = item
+        if filename in existing_files:
+            found_by_type[person_type] += 1
+        else:
+            missing_by_type[person_type] += 1
+            missing_items.append((name, city, state, notice_id))
+    
+    print("\nDETAILED STATS:")
+    print(f"Total unique notice IDs in CSV: {len(processed_notice_ids)}")
+    print(f"Total unique notice IDs in S3: {len(s3_notice_ids)}")
+    print(f"Total entries in CSV: {len(all_items)}")
+    print(f"- Deceased entries: {found_by_type['deceased'] + missing_by_type['deceased']}")
+    print(f"  - Found in S3: {found_by_type['deceased']}")
+    print(f"  - Missing: {missing_by_type['deceased']}")
+    print(f"- Representative entries: {found_by_type['representative'] + missing_by_type['representative']}")
+    print(f"  - Found in S3: {found_by_type['representative']}")
+    print(f"  - Missing: {missing_by_type['representative']}")
+    print(f"\nTotal files in S3: {len(existing_files)}")
+    print(f"Total missing entries: {len(missing_items)}")
+    
+    # Print some example filenames for verification
+    print("\nExample filenames in S3:")
+    for filename in list(existing_files)[:5]:
+        print(f"- {filename}")
+    
+    print("\nExample filenames we're looking for:")
+    for _, filename in all_items[:5]:
+        print(f"- {filename}")
+    
+    if len(missing_items) > 0:
+        print("\nMissing entries:")
+        for name, city, state, notice_id in missing_items:
+            print(f"- Notice ID: {notice_id}, Name: {name}, Location: {city}, {state}")
+    
     print("=" * 50)
     
-    if total_pending == 0:
+    if len(missing_items) == 0:
         print("No new items to process")
         return
     
-    # Process in batches of 50
-    batch_size = 50
-    num_batches = math.ceil(total_pending / batch_size)
-    processed_count = 0
-    remaining = total_pending
+    proceed = input("\nDo you want to proceed with processing these entries? (y/n): ")
+    if proceed.lower() != 'y':
+        print("Aborting processing")
+        return
     
+    failed_entries = []
+    processed_count = 0
+    
+    print("\nStarting processing of all missing entries...")
     async with aiohttp.ClientSession() as session:
-        for i in range(num_batches):
-            start_idx = i * batch_size
-            end_idx = min((i + 1) * batch_size, total_pending)
-            current_batch = pending_items[start_idx:end_idx]
-            
-            print(f"\nProcessing batch {i+1}/{num_batches} ({len(current_batch)} items)")
-            results = await process_batch(current_batch, session)
-            
-            # Track failed entries
-            for item, result in zip(current_batch, results):
-                if not result or result == "already_exists":
-                    failed_entries.append(item)
-            
-            # Count successful results
-            successful = sum(1 for r in results if r and r != "already_exists")
-            processed_count += successful
-            remaining = total_pending - processed_count
-            
-            print(f"\nBatch {i+1} Complete:")
-            print(f"Successfully processed in this batch: {successful}")
-            print(f"Total processed so far: {processed_count}")
-            print(f"Remaining items: {remaining}")
-            print("-" * 50)
-            
-            # Small delay between batches
-            if i < num_batches - 1:
-                await asyncio.sleep(5)
+        tasks = [make_api_call_async(session, name, city, state, notice_id) for name, city, state, notice_id in missing_items]
+        results = await asyncio.gather(*tasks)
+        
+        # Track failed entries and count successes
+        for item, result in zip(missing_items, results):
+            if not result or result == "already_exists":
+                failed_entries.append(item)
+            elif result:
+                processed_count += 1
     
     print(f"\nFinal Results:")
-    print(f"Successfully processed {processed_count} out of {total_pending} items")
+    print(f"Successfully processed {processed_count} out of {len(missing_items)} items")
     print(f"Failed entries ({len(failed_entries)}):")
     for name, city, state, notice_id in failed_entries:
         print(f"- Notice ID: {notice_id}, Name: {name}, Location: {city}, {state}")

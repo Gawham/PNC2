@@ -92,7 +92,7 @@ def process_html_file(html_file_path):
 
 def main():
     bucket_name = "datainsdr"
-    prefix = "PNCFP3/"
+    prefix = "PNCBigBoy/"
     processed_count = 0
     output_file = "output.csv"
     no_matches = []  # New list to track files with no matches
