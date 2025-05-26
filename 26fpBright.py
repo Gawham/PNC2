@@ -110,7 +110,7 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
     formatted_city_name = city.lower().replace(' ', '-')  # Use hyphens for city
     output_filename = f"{notice_id}_{formatted_output_name}_{formatted_city_name}_{formatted_state}.html"
     bucket_name = "datainsdr"
-    s3_path = f"PNCBigBoy/{output_filename}"
+    s3_path = f"PNCBigBoy25thMay/{output_filename}"
     
     if check_file_exists_in_s3(bucket_name, s3_path):
         print(f"Response file already exists for {notice_id}_{name} in S3, skipping...")
@@ -174,8 +174,8 @@ async def process_csv_file_async(csv_file_path):
     existing_files = set()
     paginator = s3_client.get_paginator('list_objects_v2')
     
-    print(f"\nChecking existing files in s3://{bucket_name}/PNCBigBoy/")
-    for page in paginator.paginate(Bucket=bucket_name, Prefix="PNCBigBoy/"):
+    print(f"\nChecking existing files in s3://{bucket_name}/PNCBigBoy25thMay/")
+    for page in paginator.paginate(Bucket=bucket_name, Prefix="PNCBigBoy25thMay/"):
         if 'Contents' in page:
             for obj in page['Contents']:
                 key = obj['Key']
