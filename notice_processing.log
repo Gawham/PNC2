@@ -800,3 +800,696 @@
 2025-05-18 13:42:33,578 - INFO - Successfully uploaded JSON to s3://datainsdr/Processed/processed_notices.json
 2025-05-18 13:42:33,902 - INFO - Successfully uploaded CSV to s3://datainsdr/Processed/processed_notices.csv
 2025-05-18 13:42:33,903 - INFO - Cleaned up local files
+2025-05-26 08:12:22,889 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-05-26 08:12:23,042 - INFO - Successfully loaded 342 notices
+2025-05-26 08:12:23,042 - INFO - Processing notice 1 with ID 96001
+2025-05-26 08:12:23,042 - INFO - Processing new notice
+2025-05-26 08:12:24,223 - INFO - Processing notice 2 with ID 97071
+2025-05-26 08:12:24,223 - INFO - Processing new notice
+2025-05-26 08:12:25,786 - INFO - Processing notice 3 with ID 97074
+2025-05-26 08:12:25,787 - INFO - Processing new notice
+2025-05-26 08:12:27,052 - INFO - Processing notice 4 with ID 97075
+2025-05-26 08:12:27,053 - INFO - Processing new notice
+2025-05-26 08:12:28,314 - INFO - Processing notice 5 with ID 97129
+2025-05-26 08:12:28,314 - INFO - Processing new notice
+2025-05-26 08:12:29,516 - INFO - Processing notice 6 with ID 97132
+2025-05-26 08:12:29,516 - INFO - Processing new notice
+2025-05-26 08:12:30,771 - INFO - Processing notice 7 with ID 97397
+2025-05-26 08:12:30,772 - INFO - Processing new notice
+2025-05-26 08:12:32,083 - INFO - Processing notice 8 with ID 97633
+2025-05-26 08:12:32,083 - INFO - Processing new notice
+2025-05-26 08:12:33,414 - INFO - Processing notice 9 with ID 97636
+2025-05-26 08:12:33,414 - INFO - Processing new notice
+2025-05-26 08:12:34,735 - INFO - Processing notice 10 with ID 97639
+2025-05-26 08:12:34,735 - INFO - Processing new notice
+2025-05-26 08:12:35,988 - INFO - Processing notice 11 with ID 97713
+2025-05-26 08:12:35,989 - INFO - Processing new notice
+2025-05-26 08:12:37,221 - INFO - Processing notice 12 with ID 97717
+2025-05-26 08:12:37,221 - INFO - Processing new notice
+2025-05-26 08:12:38,383 - INFO - Processing notice 13 with ID 97734
+2025-05-26 08:12:38,383 - INFO - Processing new notice
+2025-05-26 08:12:39,748 - INFO - Processing notice 14 with ID 97770
+2025-05-26 08:12:39,748 - INFO - Processing new notice
+2025-05-26 08:12:41,014 - INFO - Processing notice 15 with ID 97822
+2025-05-26 08:12:41,014 - INFO - Processing new notice
+2025-05-26 08:12:42,177 - INFO - Processing notice 16 with ID 97903
+2025-05-26 08:12:42,177 - INFO - Processing new notice
+2025-05-26 08:12:43,433 - INFO - Processing notice 17 with ID 97904
+2025-05-26 08:12:43,433 - INFO - Processing new notice
+2025-05-26 08:12:44,790 - INFO - Processing notice 18 with ID 97905
+2025-05-26 08:12:44,790 - INFO - Processing new notice
+2025-05-26 08:12:45,928 - INFO - Processing notice 19 with ID 97906
+2025-05-26 08:12:45,929 - INFO - Processing new notice
+2025-05-26 08:12:47,221 - INFO - Processing notice 20 with ID 97907
+2025-05-26 08:12:47,221 - INFO - Processing new notice
+2025-05-26 08:12:48,489 - INFO - Processing notice 21 with ID 97908
+2025-05-26 08:12:48,489 - INFO - Processing new notice
+2025-05-26 08:12:49,708 - INFO - Processing notice 22 with ID 97910
+2025-05-26 08:12:49,708 - INFO - Processing new notice
+2025-05-26 08:12:50,944 - INFO - Processing notice 23 with ID 97913
+2025-05-26 08:12:50,944 - INFO - Processing new notice
+2025-05-26 08:12:52,197 - INFO - Processing notice 24 with ID 97914
+2025-05-26 08:12:52,198 - INFO - Processing new notice
+2025-05-26 08:12:53,432 - INFO - Processing notice 25 with ID 97939
+2025-05-26 08:12:53,432 - INFO - Processing new notice
+2025-05-26 08:12:54,612 - INFO - Processing notice 26 with ID 97942
+2025-05-26 08:12:54,612 - INFO - Processing new notice
+2025-05-26 08:12:56,081 - INFO - Processing notice 27 with ID 97966
+2025-05-26 08:12:56,081 - INFO - Processing new notice
+2025-05-26 08:12:57,220 - INFO - Processing notice 28 with ID 97967
+2025-05-26 08:12:57,221 - INFO - Processing new notice
+2025-05-26 08:12:58,551 - INFO - Processing notice 29 with ID 97969
+2025-05-26 08:12:58,551 - INFO - Processing new notice
+2025-05-26 08:13:00,011 - INFO - Processing notice 30 with ID 97970
+2025-05-26 08:13:00,012 - INFO - Processing new notice
+2025-05-26 08:13:01,379 - INFO - Processing notice 31 with ID 97971
+2025-05-26 08:13:01,379 - INFO - Processing new notice
+2025-05-26 08:13:02,670 - INFO - Processing notice 32 with ID 97973
+2025-05-26 08:13:02,670 - INFO - Processing new notice
+2025-05-26 08:13:03,826 - INFO - Processing notice 33 with ID 98228
+2025-05-26 08:13:03,826 - INFO - Processing new notice
+2025-05-26 08:13:05,000 - INFO - Processing notice 34 with ID 98229
+2025-05-26 08:13:05,001 - INFO - Processing new notice
+2025-05-26 08:13:06,262 - INFO - Processing notice 35 with ID 98232
+2025-05-26 08:13:06,262 - INFO - Processing new notice
+2025-05-26 08:13:07,414 - INFO - Processing notice 36 with ID 98233
+2025-05-26 08:13:07,414 - INFO - Processing new notice
+2025-05-26 08:13:08,661 - INFO - Processing notice 37 with ID 98276
+2025-05-26 08:13:08,661 - INFO - Processing new notice
+2025-05-26 08:13:09,844 - INFO - Processing notice 38 with ID 98277
+2025-05-26 08:13:09,844 - INFO - Processing new notice
+2025-05-26 08:13:11,109 - INFO - Processing notice 39 with ID 98278
+2025-05-26 08:13:11,109 - INFO - Processing new notice
+2025-05-26 08:13:12,296 - INFO - Processing notice 40 with ID 98279
+2025-05-26 08:13:12,296 - INFO - Processing new notice
+2025-05-26 08:13:13,521 - INFO - Processing notice 41 with ID 98280
+2025-05-26 08:13:13,521 - INFO - Processing new notice
+2025-05-26 08:13:14,679 - INFO - Processing notice 42 with ID 98281
+2025-05-26 08:13:14,679 - INFO - Processing new notice
+2025-05-26 08:13:16,059 - INFO - Processing notice 43 with ID 98282
+2025-05-26 08:13:16,059 - INFO - Processing new notice
+2025-05-26 08:13:17,256 - INFO - Processing notice 44 with ID 98283
+2025-05-26 08:13:17,256 - INFO - Processing new notice
+2025-05-26 08:13:18,498 - INFO - Processing notice 45 with ID 98284
+2025-05-26 08:13:18,498 - INFO - Processing new notice
+2025-05-26 08:13:19,753 - INFO - Processing notice 46 with ID 98285
+2025-05-26 08:13:19,754 - INFO - Processing new notice
+2025-05-26 08:13:20,871 - INFO - Processing notice 47 with ID 98288
+2025-05-26 08:13:20,871 - INFO - Processing new notice
+2025-05-26 08:13:22,051 - INFO - Processing notice 48 with ID 98290
+2025-05-26 08:13:22,051 - INFO - Processing new notice
+2025-05-26 08:13:23,216 - INFO - Processing notice 49 with ID 98294
+2025-05-26 08:13:23,216 - INFO - Processing new notice
+2025-05-26 08:13:24,383 - INFO - Processing notice 50 with ID 98311
+2025-05-26 08:13:24,383 - INFO - Processing new notice
+2025-05-26 08:13:25,499 - INFO - Processing notice 51 with ID 98313
+2025-05-26 08:13:25,499 - INFO - Processing new notice
+2025-05-26 08:13:26,854 - INFO - Processing notice 52 with ID 98318
+2025-05-26 08:13:26,855 - INFO - Processing new notice
+2025-05-26 08:13:28,136 - INFO - Processing notice 53 with ID 98323
+2025-05-26 08:13:28,136 - INFO - Processing new notice
+2025-05-26 08:13:29,331 - INFO - Processing notice 54 with ID 98336
+2025-05-26 08:13:29,331 - INFO - Processing new notice
+2025-05-26 08:13:30,574 - INFO - Processing notice 55 with ID 98379
+2025-05-26 08:13:30,574 - INFO - Processing new notice
+2025-05-26 08:13:31,815 - INFO - Processing notice 56 with ID 98399
+2025-05-26 08:13:31,816 - INFO - Processing new notice
+2025-05-26 08:13:33,010 - INFO - Processing notice 57 with ID 98405
+2025-05-26 08:13:33,010 - INFO - Processing new notice
+2025-05-26 08:13:34,240 - INFO - Processing notice 58 with ID 98414
+2025-05-26 08:13:34,240 - INFO - Processing new notice
+2025-05-26 08:13:35,533 - INFO - Processing notice 59 with ID 98417
+2025-05-26 08:13:35,533 - INFO - Processing new notice
+2025-05-26 08:13:36,764 - INFO - Processing notice 60 with ID 98418
+2025-05-26 08:13:36,764 - INFO - Processing new notice
+2025-05-26 08:13:38,060 - INFO - Processing notice 61 with ID 98421
+2025-05-26 08:13:38,060 - INFO - Processing new notice
+2025-05-26 08:13:39,316 - INFO - Processing notice 62 with ID 98422
+2025-05-26 08:13:39,316 - INFO - Processing new notice
+2025-05-26 08:13:40,642 - INFO - Processing notice 63 with ID 98425
+2025-05-26 08:13:40,642 - INFO - Processing new notice
+2025-05-26 08:13:41,805 - INFO - Processing notice 64 with ID 98434
+2025-05-26 08:13:41,805 - INFO - Processing new notice
+2025-05-26 08:13:42,911 - INFO - Processing notice 65 with ID 98458
+2025-05-26 08:13:42,911 - INFO - Processing new notice
+2025-05-26 08:13:44,147 - INFO - Processing notice 66 with ID 98467
+2025-05-26 08:13:44,147 - INFO - Processing new notice
+2025-05-26 08:13:45,280 - INFO - Processing notice 67 with ID 98475
+2025-05-26 08:13:45,280 - INFO - Processing new notice
+2025-05-26 08:13:46,682 - INFO - Processing notice 68 with ID 98476
+2025-05-26 08:13:46,682 - INFO - Processing new notice
+2025-05-26 08:13:47,852 - INFO - Processing notice 69 with ID 98477
+2025-05-26 08:13:47,852 - INFO - Processing new notice
+2025-05-26 08:13:49,062 - INFO - Processing notice 70 with ID 98635
+2025-05-26 08:13:49,062 - INFO - Processing new notice
+2025-05-26 08:13:50,215 - INFO - Processing notice 71 with ID 98640
+2025-05-26 08:13:50,215 - INFO - Processing new notice
+2025-05-26 08:13:51,333 - INFO - Processing notice 72 with ID 98641
+2025-05-26 08:13:51,333 - INFO - Processing new notice
+2025-05-26 08:13:52,568 - INFO - Processing notice 73 with ID 98642
+2025-05-26 08:13:52,568 - INFO - Processing new notice
+2025-05-26 08:13:53,704 - INFO - Processing notice 74 with ID 98643
+2025-05-26 08:13:53,704 - INFO - Processing new notice
+2025-05-26 08:13:54,837 - INFO - Processing notice 75 with ID 98650
+2025-05-26 08:13:54,837 - INFO - Processing new notice
+2025-05-26 08:13:56,340 - INFO - Processing notice 76 with ID 98651
+2025-05-26 08:13:56,341 - INFO - Processing new notice
+2025-05-26 08:13:57,590 - INFO - Processing notice 77 with ID 98652
+2025-05-26 08:13:57,590 - INFO - Processing new notice
+2025-05-26 08:13:58,784 - INFO - Processing notice 78 with ID 98653
+2025-05-26 08:13:58,784 - INFO - Processing new notice
+2025-05-26 08:14:00,089 - INFO - Processing notice 79 with ID 98655
+2025-05-26 08:14:00,090 - INFO - Processing new notice
+2025-05-26 08:14:01,443 - INFO - Processing notice 80 with ID 98660
+2025-05-26 08:14:01,443 - INFO - Processing new notice
+2025-05-26 08:14:02,686 - INFO - Processing notice 81 with ID 98663
+2025-05-26 08:14:02,686 - INFO - Processing new notice
+2025-05-26 08:14:03,955 - INFO - Processing notice 82 with ID 98666
+2025-05-26 08:14:03,955 - INFO - Processing new notice
+2025-05-26 08:14:05,096 - INFO - Processing notice 83 with ID 98668
+2025-05-26 08:14:05,096 - INFO - Processing new notice
+2025-05-26 08:14:06,291 - INFO - Processing notice 84 with ID 98669
+2025-05-26 08:14:06,291 - INFO - Processing new notice
+2025-05-26 08:14:07,424 - INFO - Processing notice 85 with ID 98672
+2025-05-26 08:14:07,424 - INFO - Processing new notice
+2025-05-26 08:14:08,555 - INFO - Processing notice 86 with ID 98677
+2025-05-26 08:14:08,555 - INFO - Processing new notice
+2025-05-26 08:14:09,890 - INFO - Processing notice 87 with ID 98682
+2025-05-26 08:14:09,890 - INFO - Processing new notice
+2025-05-26 08:14:11,047 - INFO - Processing notice 88 with ID 98684
+2025-05-26 08:14:11,047 - INFO - Processing new notice
+2025-05-26 08:14:12,223 - INFO - Processing notice 89 with ID 98685
+2025-05-26 08:14:12,224 - INFO - Processing new notice
+2025-05-26 08:14:13,431 - INFO - Processing notice 90 with ID 98781
+2025-05-26 08:14:13,431 - INFO - Processing new notice
+2025-05-26 08:14:14,591 - INFO - Processing notice 91 with ID 98783
+2025-05-26 08:14:14,591 - INFO - Processing new notice
+2025-05-26 08:14:15,774 - INFO - Processing notice 92 with ID 98784
+2025-05-26 08:14:15,774 - INFO - Processing new notice
+2025-05-26 08:14:16,863 - INFO - Processing notice 93 with ID 98785
+2025-05-26 08:14:16,863 - INFO - Processing new notice
+2025-05-26 08:14:18,092 - INFO - Processing notice 94 with ID 98789
+2025-05-26 08:14:18,092 - INFO - Processing new notice
+2025-05-26 08:14:19,412 - INFO - Processing notice 95 with ID 98790
+2025-05-26 08:14:19,412 - INFO - Processing new notice
+2025-05-26 08:14:20,727 - INFO - Processing notice 96 with ID 98791
+2025-05-26 08:14:20,727 - INFO - Processing new notice
+2025-05-26 08:14:21,915 - INFO - Processing notice 97 with ID 98792
+2025-05-26 08:14:21,915 - INFO - Processing new notice
+2025-05-26 08:14:23,122 - INFO - Processing notice 98 with ID 98793
+2025-05-26 08:14:23,122 - INFO - Processing new notice
+2025-05-26 08:14:24,335 - INFO - Processing notice 99 with ID 98795
+2025-05-26 08:14:24,335 - INFO - Processing new notice
+2025-05-26 08:14:25,690 - INFO - Processing notice 100 with ID 98801
+2025-05-26 08:14:25,690 - INFO - Processing new notice
+2025-05-26 08:14:26,992 - INFO - Processing notice 101 with ID 98805
+2025-05-26 08:14:26,992 - INFO - Processing new notice
+2025-05-26 08:14:28,160 - INFO - Processing notice 102 with ID 98806
+2025-05-26 08:14:28,160 - INFO - Processing new notice
+2025-05-26 08:14:29,432 - INFO - Processing notice 103 with ID 98808
+2025-05-26 08:14:29,432 - INFO - Processing new notice
+2025-05-26 08:14:30,615 - INFO - Processing notice 104 with ID 98809
+2025-05-26 08:14:30,615 - INFO - Processing new notice
+2025-05-26 08:14:31,946 - INFO - Processing notice 105 with ID 98813
+2025-05-26 08:14:31,946 - INFO - Processing new notice
+2025-05-26 08:14:33,144 - INFO - Processing notice 106 with ID 98815
+2025-05-26 08:14:33,144 - INFO - Processing new notice
+2025-05-26 08:14:34,345 - INFO - Processing notice 107 with ID 98816
+2025-05-26 08:14:34,345 - INFO - Processing new notice
+2025-05-26 08:14:35,619 - INFO - Processing notice 108 with ID 98817
+2025-05-26 08:14:35,620 - INFO - Processing new notice
+2025-05-26 08:14:36,813 - INFO - Processing notice 109 with ID 98825
+2025-05-26 08:14:36,813 - INFO - Processing new notice
+2025-05-26 08:14:38,116 - INFO - Processing notice 110 with ID 98826
+2025-05-26 08:14:38,116 - INFO - Processing new notice
+2025-05-26 08:14:39,459 - INFO - Processing notice 111 with ID 98827
+2025-05-26 08:14:39,459 - INFO - Processing new notice
+2025-05-26 08:14:40,715 - INFO - Processing notice 112 with ID 98839
+2025-05-26 08:14:40,715 - INFO - Processing new notice
+2025-05-26 08:14:42,002 - INFO - Processing notice 113 with ID 98841
+2025-05-26 08:14:42,002 - INFO - Processing new notice
+2025-05-26 08:14:43,363 - INFO - Processing notice 114 with ID 98846
+2025-05-26 08:14:43,363 - INFO - Processing new notice
+2025-05-26 08:14:44,648 - INFO - Processing notice 115 with ID 98848
+2025-05-26 08:14:44,648 - INFO - Processing new notice
+2025-05-26 08:14:45,991 - INFO - Processing notice 116 with ID 98853
+2025-05-26 08:14:45,991 - INFO - Processing new notice
+2025-05-26 08:14:47,279 - INFO - Processing notice 117 with ID 98855
+2025-05-26 08:14:47,279 - INFO - Processing new notice
+2025-05-26 08:14:48,639 - INFO - Processing notice 118 with ID 98860
+2025-05-26 08:14:48,639 - INFO - Processing new notice
+2025-05-26 08:14:49,851 - INFO - Processing notice 119 with ID 98867
+2025-05-26 08:14:49,851 - INFO - Processing new notice
+2025-05-26 08:14:50,977 - INFO - Processing notice 120 with ID 98868
+2025-05-26 08:14:50,977 - INFO - Processing new notice
+2025-05-26 08:14:52,118 - INFO - Processing notice 121 with ID 98869
+2025-05-26 08:14:52,118 - INFO - Processing new notice
+2025-05-26 08:14:53,429 - INFO - Processing notice 122 with ID 98870
+2025-05-26 08:14:53,429 - INFO - Processing new notice
+2025-05-26 08:14:54,663 - INFO - Processing notice 123 with ID 98871
+2025-05-26 08:14:54,663 - INFO - Processing new notice
+2025-05-26 08:14:55,934 - INFO - Processing notice 124 with ID 98872
+2025-05-26 08:14:55,935 - INFO - Processing new notice
+2025-05-26 08:14:57,086 - INFO - Processing notice 125 with ID 98874
+2025-05-26 08:14:57,087 - INFO - Processing new notice
+2025-05-26 08:14:58,401 - INFO - Processing notice 126 with ID 98875
+2025-05-26 08:14:58,401 - INFO - Processing new notice
+2025-05-26 08:14:59,529 - INFO - Processing notice 127 with ID 98877
+2025-05-26 08:14:59,529 - INFO - Processing new notice
+2025-05-26 08:15:00,664 - INFO - Processing notice 128 with ID 98878
+2025-05-26 08:15:00,664 - INFO - Processing new notice
+2025-05-26 08:15:01,852 - INFO - Processing notice 129 with ID 98879
+2025-05-26 08:15:01,853 - INFO - Processing new notice
+2025-05-26 08:15:02,985 - INFO - Processing notice 130 with ID 98880
+2025-05-26 08:15:02,986 - INFO - Processing new notice
+2025-05-26 08:15:04,208 - INFO - Processing notice 131 with ID 98882
+2025-05-26 08:15:04,209 - INFO - Processing new notice
+2025-05-26 08:15:05,565 - INFO - Processing notice 132 with ID 98883
+2025-05-26 08:15:05,566 - INFO - Processing new notice
+2025-05-26 08:15:06,815 - INFO - Processing notice 133 with ID 98885
+2025-05-26 08:15:06,815 - INFO - Processing new notice
+2025-05-26 08:15:07,969 - INFO - Processing notice 134 with ID 98886
+2025-05-26 08:15:07,969 - INFO - Processing new notice
+2025-05-26 08:15:09,176 - INFO - Processing notice 135 with ID 98888
+2025-05-26 08:15:09,176 - INFO - Processing new notice
+2025-05-26 08:15:10,476 - INFO - Processing notice 136 with ID 98889
+2025-05-26 08:15:10,476 - INFO - Processing new notice
+2025-05-26 08:15:11,703 - INFO - Processing notice 137 with ID 98890
+2025-05-26 08:15:11,703 - INFO - Processing new notice
+2025-05-26 08:15:12,950 - INFO - Processing notice 138 with ID 98891
+2025-05-26 08:15:12,951 - INFO - Processing new notice
+2025-05-26 08:15:14,322 - INFO - Processing notice 139 with ID 98892
+2025-05-26 08:15:14,322 - INFO - Processing new notice
+2025-05-26 08:15:15,528 - INFO - Processing notice 140 with ID 98899
+2025-05-26 08:15:15,528 - INFO - Processing new notice
+2025-05-26 08:15:16,776 - INFO - Processing notice 141 with ID 98902
+2025-05-26 08:15:16,776 - INFO - Processing new notice
+2025-05-26 08:15:18,141 - INFO - Processing notice 142 with ID 98903
+2025-05-26 08:15:18,142 - INFO - Processing new notice
+2025-05-26 08:15:19,217 - INFO - Processing notice 143 with ID 98904
+2025-05-26 08:15:19,218 - INFO - Processing new notice
+2025-05-26 08:15:20,402 - INFO - Processing notice 144 with ID 98905
+2025-05-26 08:15:20,402 - INFO - Processing new notice
+2025-05-26 08:15:21,660 - INFO - Processing notice 145 with ID 98906
+2025-05-26 08:15:21,660 - INFO - Processing new notice
+2025-05-26 08:15:22,806 - INFO - Processing notice 146 with ID 98907
+2025-05-26 08:15:22,806 - INFO - Processing new notice
+2025-05-26 08:15:23,961 - INFO - Processing notice 147 with ID 98908
+2025-05-26 08:15:23,962 - INFO - Processing new notice
+2025-05-26 08:15:25,185 - INFO - Processing notice 148 with ID 98910
+2025-05-26 08:15:25,185 - INFO - Processing new notice
+2025-05-26 08:15:26,355 - INFO - Processing notice 149 with ID 98913
+2025-05-26 08:15:26,355 - INFO - Processing new notice
+2025-05-26 08:15:27,575 - INFO - Processing notice 150 with ID 98914
+2025-05-26 08:15:27,575 - INFO - Processing new notice
+2025-05-26 08:15:28,745 - INFO - Processing notice 151 with ID 98940
+2025-05-26 08:15:28,745 - INFO - Processing new notice
+2025-05-26 08:15:29,911 - INFO - Processing notice 152 with ID 98941
+2025-05-26 08:15:29,911 - INFO - Processing new notice
+2025-05-26 08:15:31,271 - INFO - Processing notice 153 with ID 98942
+2025-05-26 08:15:31,271 - INFO - Processing new notice
+2025-05-26 08:15:32,501 - INFO - Processing notice 154 with ID 98944
+2025-05-26 08:15:32,501 - INFO - Processing new notice
+2025-05-26 08:15:33,707 - INFO - Processing notice 155 with ID 98949
+2025-05-26 08:15:33,707 - INFO - Processing new notice
+2025-05-26 08:15:34,999 - INFO - Processing notice 156 with ID 98950
+2025-05-26 08:15:34,999 - INFO - Processing new notice
+2025-05-26 08:15:36,193 - INFO - Processing notice 157 with ID 98952
+2025-05-26 08:15:36,193 - INFO - Processing new notice
+2025-05-26 08:15:37,384 - INFO - Processing notice 158 with ID 98954
+2025-05-26 08:15:37,384 - INFO - Processing new notice
+2025-05-26 08:15:38,586 - INFO - Processing notice 159 with ID 98956
+2025-05-26 08:15:38,586 - INFO - Processing new notice
+2025-05-26 08:15:39,777 - INFO - Processing notice 160 with ID 98959
+2025-05-26 08:15:39,778 - INFO - Processing new notice
+2025-05-26 08:15:41,035 - INFO - Processing notice 161 with ID 98965
+2025-05-26 08:15:41,035 - INFO - Processing new notice
+2025-05-26 08:15:42,359 - INFO - Processing notice 162 with ID 98968
+2025-05-26 08:15:42,359 - INFO - Processing new notice
+2025-05-26 08:15:43,603 - INFO - Processing notice 163 with ID 98970
+2025-05-26 08:15:43,603 - INFO - Processing new notice
+2025-05-26 08:15:44,750 - INFO - Processing notice 164 with ID 98971
+2025-05-26 08:15:44,751 - INFO - Processing new notice
+2025-05-26 08:15:45,887 - INFO - Processing notice 165 with ID 98973
+2025-05-26 08:15:45,887 - INFO - Processing new notice
+2025-05-26 08:15:47,144 - INFO - Processing notice 166 with ID 98974
+2025-05-26 08:15:47,144 - INFO - Processing new notice
+2025-05-26 08:15:48,324 - INFO - Processing notice 167 with ID 98978
+2025-05-26 08:15:48,324 - INFO - Processing new notice
+2025-05-26 08:15:49,540 - INFO - Processing notice 168 with ID 98980
+2025-05-26 08:15:49,540 - INFO - Processing new notice
+2025-05-26 08:15:50,791 - INFO - Processing notice 169 with ID 98990
+2025-05-26 08:15:50,791 - INFO - Processing new notice
+2025-05-26 08:15:52,019 - INFO - Processing notice 170 with ID 98993
+2025-05-26 08:15:52,019 - INFO - Processing new notice
+2025-05-26 08:15:53,182 - INFO - Processing notice 171 with ID 98996
+2025-05-26 08:15:53,183 - INFO - Processing new notice
+2025-05-26 08:15:54,558 - INFO - Processing notice 172 with ID 98997
+2025-05-26 08:15:54,558 - INFO - Processing new notice
+2025-05-26 08:15:55,669 - INFO - Processing notice 173 with ID 98998
+2025-05-26 08:15:55,669 - INFO - Processing new notice
+2025-05-26 08:15:56,932 - INFO - Processing notice 174 with ID 99001
+2025-05-26 08:15:56,933 - INFO - Processing new notice
+2025-05-26 08:15:58,229 - INFO - Processing notice 175 with ID 99004
+2025-05-26 08:15:58,229 - INFO - Processing new notice
+2025-05-26 08:15:59,487 - INFO - Processing notice 176 with ID 99005
+2025-05-26 08:15:59,487 - INFO - Processing new notice
+2025-05-26 08:16:00,627 - INFO - Processing notice 177 with ID 99006
+2025-05-26 08:16:00,627 - INFO - Processing new notice
+2025-05-26 08:16:01,901 - INFO - Processing notice 178 with ID 99007
+2025-05-26 08:16:01,901 - INFO - Processing new notice
+2025-05-26 08:16:03,130 - INFO - Processing notice 179 with ID 99011
+2025-05-26 08:16:03,130 - INFO - Processing new notice
+2025-05-26 08:16:04,396 - INFO - Processing notice 180 with ID 99012
+2025-05-26 08:16:04,396 - INFO - Processing new notice
+2025-05-26 08:16:05,630 - INFO - Processing notice 181 with ID 99013
+2025-05-26 08:16:05,630 - INFO - Processing new notice
+2025-05-26 08:16:06,810 - INFO - Processing notice 182 with ID 99014
+2025-05-26 08:16:06,810 - INFO - Processing new notice
+2025-05-26 08:16:07,962 - INFO - Processing notice 183 with ID 99016
+2025-05-26 08:16:07,962 - INFO - Processing new notice
+2025-05-26 08:16:09,110 - INFO - Processing notice 184 with ID 99059
+2025-05-26 08:16:09,110 - INFO - Processing new notice
+2025-05-26 08:16:10,307 - INFO - Processing notice 185 with ID 99060
+2025-05-26 08:16:10,307 - INFO - Processing new notice
+2025-05-26 08:16:11,631 - INFO - Processing notice 186 with ID 99061
+2025-05-26 08:16:11,631 - INFO - Processing new notice
+2025-05-26 08:16:12,763 - INFO - Processing notice 187 with ID 99062
+2025-05-26 08:16:12,763 - INFO - Processing new notice
+2025-05-26 08:16:14,190 - INFO - Processing notice 188 with ID 99063
+2025-05-26 08:16:14,190 - INFO - Processing new notice
+2025-05-26 08:16:15,385 - INFO - Processing notice 189 with ID 99064
+2025-05-26 08:16:15,385 - INFO - Processing new notice
+2025-05-26 08:16:16,617 - INFO - Processing notice 190 with ID 99065
+2025-05-26 08:16:16,618 - INFO - Processing new notice
+2025-05-26 08:16:17,873 - INFO - Processing notice 191 with ID 99066
+2025-05-26 08:16:17,873 - INFO - Processing new notice
+2025-05-26 08:16:19,102 - INFO - Processing notice 192 with ID 99072
+2025-05-26 08:16:19,102 - INFO - Processing new notice
+2025-05-26 08:16:20,252 - INFO - Processing notice 193 with ID 99073
+2025-05-26 08:16:20,252 - INFO - Processing new notice
+2025-05-26 08:16:21,418 - INFO - Processing notice 194 with ID 99074
+2025-05-26 08:16:21,418 - INFO - Processing new notice
+2025-05-26 08:16:22,644 - INFO - Processing notice 195 with ID 99075
+2025-05-26 08:16:22,644 - INFO - Processing new notice
+2025-05-26 08:16:23,955 - INFO - Processing notice 196 with ID 99076
+2025-05-26 08:16:23,955 - INFO - Processing new notice
+2025-05-26 08:16:25,140 - INFO - Processing notice 197 with ID 99077
+2025-05-26 08:16:25,140 - INFO - Processing new notice
+2025-05-26 08:16:26,366 - INFO - Processing notice 198 with ID 99078
+2025-05-26 08:16:26,366 - INFO - Processing new notice
+2025-05-26 08:16:27,623 - INFO - Processing notice 199 with ID 99079
+2025-05-26 08:16:27,623 - INFO - Processing new notice
+2025-05-26 08:16:28,808 - INFO - Processing notice 200 with ID 99080
+2025-05-26 08:16:28,808 - INFO - Processing new notice
+2025-05-26 08:16:30,022 - INFO - Processing notice 201 with ID 99081
+2025-05-26 08:16:30,022 - INFO - Processing new notice
+2025-05-26 08:16:31,380 - INFO - Processing notice 202 with ID 99082
+2025-05-26 08:16:31,380 - INFO - Processing new notice
+2025-05-26 08:16:32,516 - INFO - Processing notice 203 with ID 99083
+2025-05-26 08:16:32,516 - INFO - Processing new notice
+2025-05-26 08:16:33,798 - INFO - Processing notice 204 with ID 99084
+2025-05-26 08:16:33,798 - INFO - Processing new notice
+2025-05-26 08:16:34,962 - INFO - Processing notice 205 with ID 99085
+2025-05-26 08:16:34,963 - INFO - Processing new notice
+2025-05-26 08:16:36,120 - INFO - Processing notice 206 with ID 99086
+2025-05-26 08:16:36,120 - INFO - Processing new notice
+2025-05-26 08:16:37,233 - INFO - Processing notice 207 with ID 99087
+2025-05-26 08:16:37,233 - INFO - Processing new notice
+2025-05-26 08:16:38,392 - INFO - Processing notice 208 with ID 99088
+2025-05-26 08:16:38,392 - INFO - Processing new notice
+2025-05-26 08:16:39,526 - INFO - Processing notice 209 with ID 99095
+2025-05-26 08:16:39,526 - INFO - Processing new notice
+2025-05-26 08:16:40,752 - INFO - Processing notice 210 with ID 99096
+2025-05-26 08:16:40,752 - INFO - Processing new notice
+2025-05-26 08:16:41,873 - INFO - Processing notice 211 with ID 99097
+2025-05-26 08:16:41,873 - INFO - Processing new notice
+2025-05-26 08:16:43,063 - INFO - Processing notice 212 with ID 99098
+2025-05-26 08:16:43,063 - INFO - Processing new notice
+2025-05-26 08:16:44,183 - INFO - Processing notice 213 with ID 99099
+2025-05-26 08:16:44,183 - INFO - Processing new notice
+2025-05-26 08:16:45,290 - INFO - Processing notice 214 with ID 99101
+2025-05-26 08:16:45,290 - INFO - Processing new notice
+2025-05-26 08:16:46,604 - INFO - Processing notice 215 with ID 99102
+2025-05-26 08:16:46,604 - INFO - Processing new notice
+2025-05-26 08:16:47,776 - INFO - Processing notice 216 with ID 99103
+2025-05-26 08:16:47,776 - INFO - Processing new notice
+2025-05-26 08:16:48,918 - INFO - Processing notice 217 with ID 99105
+2025-05-26 08:16:48,918 - INFO - Processing new notice
+2025-05-26 08:16:50,114 - INFO - Processing notice 218 with ID 99108
+2025-05-26 08:16:50,115 - INFO - Processing new notice
+2025-05-26 08:16:51,311 - INFO - Processing notice 219 with ID 99109
+2025-05-26 08:16:51,311 - INFO - Processing new notice
+2025-05-26 08:16:52,472 - INFO - Processing notice 220 with ID 99113
+2025-05-26 08:16:52,472 - INFO - Processing new notice
+2025-05-26 08:16:53,710 - INFO - Processing notice 221 with ID 99114
+2025-05-26 08:16:53,710 - INFO - Processing new notice
+2025-05-26 08:16:54,871 - INFO - Processing notice 222 with ID 99115
+2025-05-26 08:16:54,871 - INFO - Processing new notice
+2025-05-26 08:16:55,999 - INFO - Processing notice 223 with ID 99116
+2025-05-26 08:16:55,999 - INFO - Processing new notice
+2025-05-26 08:16:57,205 - INFO - Processing notice 224 with ID 99117
+2025-05-26 08:16:57,205 - INFO - Processing new notice
+2025-05-26 08:16:58,569 - INFO - Processing notice 225 with ID 99120
+2025-05-26 08:16:58,569 - INFO - Processing new notice
+2025-05-26 08:16:59,794 - INFO - Processing notice 226 with ID 99124
+2025-05-26 08:16:59,794 - INFO - Processing new notice
+2025-05-26 08:17:00,965 - INFO - Processing notice 227 with ID 99130
+2025-05-26 08:17:00,965 - INFO - Processing new notice
+2025-05-26 08:17:02,249 - INFO - Processing notice 228 with ID 99137
+2025-05-26 08:17:02,249 - INFO - Processing new notice
+2025-05-26 08:17:03,549 - INFO - Processing notice 229 with ID 99144
+2025-05-26 08:17:03,550 - INFO - Processing new notice
+2025-05-26 08:17:04,876 - INFO - Processing notice 230 with ID 99147
+2025-05-26 08:17:04,876 - INFO - Processing new notice
+2025-05-26 08:17:06,189 - INFO - Processing notice 231 with ID 99148
+2025-05-26 08:17:06,189 - INFO - Processing new notice
+2025-05-26 08:17:07,324 - INFO - Processing notice 232 with ID 99152
+2025-05-26 08:17:07,324 - INFO - Processing new notice
+2025-05-26 08:17:08,509 - INFO - Processing notice 233 with ID 99157
+2025-05-26 08:17:08,509 - INFO - Processing new notice
+2025-05-26 08:17:09,712 - INFO - Processing notice 234 with ID 99158
+2025-05-26 08:17:09,712 - INFO - Processing new notice
+2025-05-26 08:17:10,933 - INFO - Processing notice 235 with ID 99161
+2025-05-26 08:17:10,933 - INFO - Processing new notice
+2025-05-26 08:17:12,171 - INFO - Processing notice 236 with ID 99162
+2025-05-26 08:17:12,171 - INFO - Processing new notice
+2025-05-26 08:17:13,354 - INFO - Processing notice 237 with ID 99165
+2025-05-26 08:17:13,354 - INFO - Processing new notice
+2025-05-26 08:17:14,571 - INFO - Processing notice 238 with ID 99167
+2025-05-26 08:17:14,571 - INFO - Processing new notice
+2025-05-26 08:17:15,743 - INFO - Processing notice 239 with ID 99173
+2025-05-26 08:17:15,743 - INFO - Processing new notice
+2025-05-26 08:17:16,937 - INFO - Processing notice 240 with ID 99181
+2025-05-26 08:17:16,937 - INFO - Processing new notice
+2025-05-26 08:17:18,102 - INFO - Processing notice 241 with ID 99204
+2025-05-26 08:17:18,103 - INFO - Processing new notice
+2025-05-26 08:17:19,238 - INFO - Processing notice 242 with ID 99205
+2025-05-26 08:17:19,238 - INFO - Processing new notice
+2025-05-26 08:17:20,354 - INFO - Processing notice 243 with ID 99215
+2025-05-26 08:17:20,354 - INFO - Processing new notice
+2025-05-26 08:17:21,474 - INFO - Processing notice 244 with ID 99222
+2025-05-26 08:17:21,475 - INFO - Processing new notice
+2025-05-26 08:17:22,799 - INFO - Processing notice 245 with ID 99288
+2025-05-26 08:17:22,799 - INFO - Processing new notice
+2025-05-26 08:17:24,185 - INFO - Processing notice 246 with ID 99290
+2025-05-26 08:17:24,185 - INFO - Processing new notice
+2025-05-26 08:17:25,409 - INFO - Processing notice 247 with ID 99293
+2025-05-26 08:17:25,409 - INFO - Processing new notice
+2025-05-26 08:17:26,615 - INFO - Processing notice 248 with ID 99297
+2025-05-26 08:17:26,615 - INFO - Processing new notice
+2025-05-26 08:17:27,915 - INFO - Processing notice 249 with ID 99302
+2025-05-26 08:17:27,915 - INFO - Processing new notice
+2025-05-26 08:17:29,207 - INFO - Processing notice 250 with ID 99303
+2025-05-26 08:17:29,207 - INFO - Processing new notice
+2025-05-26 08:17:30,470 - INFO - Processing notice 251 with ID 99308
+2025-05-26 08:17:30,470 - INFO - Processing new notice
+2025-05-26 08:17:31,779 - INFO - Processing notice 252 with ID 99311
+2025-05-26 08:17:31,779 - INFO - Processing new notice
+2025-05-26 08:17:33,106 - INFO - Processing notice 253 with ID 99312
+2025-05-26 08:17:33,106 - INFO - Processing new notice
+2025-05-26 08:17:34,299 - INFO - Processing notice 254 with ID 99314
+2025-05-26 08:17:34,300 - INFO - Processing new notice
+2025-05-26 08:17:35,647 - INFO - Processing notice 255 with ID 99340
+2025-05-26 08:17:35,647 - INFO - Processing new notice
+2025-05-26 08:17:36,978 - INFO - Processing notice 256 with ID 99347
+2025-05-26 08:17:36,978 - INFO - Processing new notice
+2025-05-26 08:17:38,151 - INFO - Processing notice 257 with ID 99348
+2025-05-26 08:17:38,151 - INFO - Processing new notice
+2025-05-26 08:17:39,447 - INFO - Processing notice 258 with ID 99358
+2025-05-26 08:17:39,447 - INFO - Processing new notice
+2025-05-26 08:17:40,627 - INFO - Processing notice 259 with ID 99359
+2025-05-26 08:17:40,627 - INFO - Processing new notice
+2025-05-26 08:17:41,885 - INFO - Processing notice 260 with ID 99360
+2025-05-26 08:17:41,885 - INFO - Processing new notice
+2025-05-26 08:17:43,117 - INFO - Processing notice 261 with ID 99361
+2025-05-26 08:17:43,117 - INFO - Processing new notice
+2025-05-26 08:17:44,615 - INFO - Processing notice 262 with ID 99362
+2025-05-26 08:17:44,615 - INFO - Processing new notice
+2025-05-26 08:17:45,826 - INFO - Processing notice 263 with ID 99373
+2025-05-26 08:17:45,826 - INFO - Processing new notice
+2025-05-26 08:17:46,943 - INFO - Processing notice 264 with ID 99387
+2025-05-26 08:17:46,944 - INFO - Processing new notice
+2025-05-26 08:17:48,272 - INFO - Processing notice 265 with ID 99393
+2025-05-26 08:17:48,272 - INFO - Processing new notice
+2025-05-26 08:17:49,603 - INFO - Processing notice 266 with ID 99394
+2025-05-26 08:17:49,603 - INFO - Processing new notice
+2025-05-26 08:17:50,590 - INFO - Processing notice 267 with ID 99395
+2025-05-26 08:17:50,590 - INFO - Processing new notice
+2025-05-26 08:17:51,864 - INFO - Processing notice 268 with ID 99396
+2025-05-26 08:17:51,864 - INFO - Processing new notice
+2025-05-26 08:17:53,074 - INFO - Processing notice 269 with ID 99397
+2025-05-26 08:17:53,074 - INFO - Processing new notice
+2025-05-26 08:17:54,307 - INFO - Processing notice 270 with ID 99400
+2025-05-26 08:17:54,307 - INFO - Processing new notice
+2025-05-26 08:17:55,602 - INFO - Processing notice 271 with ID 99414
+2025-05-26 08:17:55,602 - INFO - Processing new notice
+2025-05-26 08:17:56,865 - INFO - Processing notice 272 with ID 99418
+2025-05-26 08:17:56,865 - INFO - Processing new notice
+2025-05-26 08:17:58,081 - INFO - Processing notice 273 with ID 99419
+2025-05-26 08:17:58,081 - INFO - Processing new notice
+2025-05-26 08:17:59,518 - INFO - Processing notice 274 with ID 99420
+2025-05-26 08:17:59,519 - INFO - Processing new notice
+2025-05-26 08:18:00,884 - INFO - Processing notice 275 with ID 99421
+2025-05-26 08:18:00,884 - INFO - Processing new notice
+2025-05-26 08:18:02,169 - INFO - Processing notice 276 with ID 99422
+2025-05-26 08:18:02,169 - INFO - Processing new notice
+2025-05-26 08:18:03,432 - INFO - Processing notice 277 with ID 99423
+2025-05-26 08:18:03,432 - INFO - Processing new notice
+2025-05-26 08:18:04,851 - INFO - Processing notice 278 with ID 99424
+2025-05-26 08:18:04,851 - INFO - Processing new notice
+2025-05-26 08:18:06,352 - INFO - Processing notice 279 with ID 99425
+2025-05-26 08:18:06,353 - INFO - Processing new notice
+2025-05-26 08:18:07,897 - INFO - Processing notice 280 with ID 99426
+2025-05-26 08:18:07,898 - INFO - Processing new notice
+2025-05-26 08:18:09,118 - INFO - Processing notice 281 with ID 99427
+2025-05-26 08:18:09,119 - INFO - Processing new notice
+2025-05-26 08:18:10,549 - INFO - Processing notice 282 with ID 99431
+2025-05-26 08:18:10,549 - INFO - Processing new notice
+2025-05-26 08:18:11,755 - INFO - Processing notice 283 with ID 99432
+2025-05-26 08:18:11,755 - INFO - Processing new notice
+2025-05-26 08:18:12,968 - INFO - Processing notice 284 with ID 99433
+2025-05-26 08:18:12,968 - INFO - Processing new notice
+2025-05-26 08:18:14,088 - INFO - Processing notice 285 with ID 99434
+2025-05-26 08:18:14,088 - INFO - Processing new notice
+2025-05-26 08:18:15,271 - INFO - Processing notice 286 with ID 99435
+2025-05-26 08:18:15,272 - INFO - Processing new notice
+2025-05-26 08:18:16,377 - INFO - Processing notice 287 with ID 99436
+2025-05-26 08:18:16,377 - INFO - Processing new notice
+2025-05-26 08:18:17,581 - INFO - Processing notice 288 with ID 99437
+2025-05-26 08:18:17,582 - INFO - Processing new notice
+2025-05-26 08:18:18,687 - INFO - Processing notice 289 with ID 99438
+2025-05-26 08:18:18,687 - INFO - Processing new notice
+2025-05-26 08:18:20,040 - INFO - Processing notice 290 with ID 99439
+2025-05-26 08:18:20,040 - INFO - Processing new notice
+2025-05-26 08:18:21,117 - INFO - Processing notice 291 with ID 99441
+2025-05-26 08:18:21,117 - INFO - Processing new notice
+2025-05-26 08:18:22,419 - INFO - Processing notice 292 with ID 99447
+2025-05-26 08:18:22,419 - INFO - Processing new notice
+2025-05-26 08:18:23,606 - INFO - Processing notice 293 with ID 99474
+2025-05-26 08:18:23,607 - INFO - Processing new notice
+2025-05-26 08:18:24,928 - INFO - Processing notice 294 with ID 99475
+2025-05-26 08:18:24,928 - INFO - Processing new notice
+2025-05-26 08:18:26,165 - INFO - Processing notice 295 with ID 99476
+2025-05-26 08:18:26,165 - INFO - Processing new notice
+2025-05-26 08:18:27,412 - INFO - Processing notice 296 with ID 99481
+2025-05-26 08:18:27,412 - INFO - Processing new notice
+2025-05-26 08:18:28,619 - INFO - Processing notice 297 with ID 99491
+2025-05-26 08:18:28,619 - INFO - Processing new notice
+2025-05-26 08:18:29,776 - INFO - Processing notice 298 with ID 99501
+2025-05-26 08:18:29,776 - INFO - Processing new notice
+2025-05-26 08:18:31,005 - INFO - Processing notice 299 with ID 99509
+2025-05-26 08:18:31,005 - INFO - Processing new notice
+2025-05-26 08:18:32,378 - INFO - Processing notice 300 with ID 99510
+2025-05-26 08:18:32,378 - INFO - Processing new notice
+2025-05-26 08:18:33,691 - INFO - Processing notice 301 with ID 99511
+2025-05-26 08:18:33,691 - INFO - Processing new notice
+2025-05-26 08:18:34,996 - INFO - Processing notice 302 with ID 99530
+2025-05-26 08:18:34,996 - INFO - Processing new notice
+2025-05-26 08:18:36,262 - INFO - Processing notice 303 with ID 99554
+2025-05-26 08:18:36,262 - INFO - Processing new notice
+2025-05-26 08:18:37,415 - INFO - Processing notice 304 with ID 99589
+2025-05-26 08:18:37,416 - INFO - Processing new notice
+2025-05-26 08:18:38,684 - INFO - Processing notice 305 with ID 99591
+2025-05-26 08:18:38,684 - INFO - Processing new notice
+2025-05-26 08:18:39,921 - INFO - Processing notice 306 with ID 99594
+2025-05-26 08:18:39,922 - INFO - Processing new notice
+2025-05-26 08:18:41,265 - INFO - Processing notice 307 with ID 99596
+2025-05-26 08:18:41,265 - INFO - Processing new notice
+2025-05-26 08:18:42,470 - INFO - Processing notice 308 with ID 99600
+2025-05-26 08:18:42,470 - INFO - Processing new notice
+2025-05-26 08:18:43,719 - INFO - Processing notice 309 with ID 99605
+2025-05-26 08:18:43,719 - INFO - Processing new notice
+2025-05-26 08:18:44,894 - INFO - Processing notice 310 with ID 99627
+2025-05-26 08:18:44,894 - INFO - Processing new notice
+2025-05-26 08:18:46,126 - INFO - Processing notice 311 with ID 99629
+2025-05-26 08:18:46,126 - INFO - Processing new notice
+2025-05-26 08:18:47,565 - INFO - Processing notice 312 with ID 99631
+2025-05-26 08:18:47,565 - INFO - Processing new notice
+2025-05-26 08:18:48,753 - INFO - Processing notice 313 with ID 99632
+2025-05-26 08:18:48,753 - INFO - Processing new notice
+2025-05-26 08:18:49,942 - INFO - Processing notice 314 with ID 99633
+2025-05-26 08:18:49,942 - INFO - Processing new notice
+2025-05-26 08:18:51,078 - INFO - Processing notice 315 with ID 99634
+2025-05-26 08:18:51,078 - INFO - Processing new notice
+2025-05-26 08:18:52,411 - INFO - Processing notice 316 with ID 99636
+2025-05-26 08:18:52,411 - INFO - Processing new notice
+2025-05-26 08:18:53,585 - INFO - Processing notice 317 with ID 99647
+2025-05-26 08:18:53,585 - INFO - Processing new notice
+2025-05-26 08:18:55,020 - INFO - Processing notice 318 with ID 99648
+2025-05-26 08:18:55,020 - INFO - Processing new notice
+2025-05-26 08:18:56,228 - INFO - Processing notice 319 with ID 99649
+2025-05-26 08:18:56,228 - INFO - Processing new notice
+2025-05-26 08:18:57,531 - INFO - Processing notice 320 with ID 99667
+2025-05-26 08:18:57,531 - INFO - Processing new notice
+2025-05-26 08:18:58,746 - INFO - Processing notice 321 with ID 99669
+2025-05-26 08:18:58,746 - INFO - Processing new notice
+2025-05-26 08:19:00,031 - INFO - Processing notice 322 with ID 99674
+2025-05-26 08:19:00,031 - INFO - Processing new notice
+2025-05-26 08:19:01,237 - INFO - Processing notice 323 with ID 99686
+2025-05-26 08:19:01,237 - INFO - Processing new notice
+2025-05-26 08:19:02,477 - ERROR - Error processing notice: 'NoneType' object has no attribute 'replace'
+2025-05-26 08:19:02,477 - INFO - Processing notice 324 with ID 99691
+2025-05-26 08:19:02,477 - INFO - Processing new notice
+2025-05-26 08:19:03,890 - INFO - Processing notice 325 with ID 99706
+2025-05-26 08:19:03,891 - INFO - Processing new notice
+2025-05-26 08:19:05,219 - INFO - Processing notice 326 with ID 99714
+2025-05-26 08:19:05,219 - INFO - Processing new notice
+2025-05-26 08:19:06,424 - INFO - Processing notice 327 with ID 99723
+2025-05-26 08:19:06,424 - INFO - Processing new notice
+2025-05-26 08:19:07,551 - INFO - Processing notice 328 with ID 99724
+2025-05-26 08:19:07,551 - INFO - Processing new notice
+2025-05-26 08:19:08,758 - INFO - Processing notice 329 with ID 99725
+2025-05-26 08:19:08,758 - INFO - Processing new notice
+2025-05-26 08:19:09,898 - INFO - Processing notice 330 with ID 99726
+2025-05-26 08:19:09,899 - INFO - Processing new notice
+2025-05-26 08:19:11,073 - INFO - Processing notice 331 with ID 99727
+2025-05-26 08:19:11,074 - INFO - Processing new notice
+2025-05-26 08:19:12,110 - INFO - Processing notice 332 with ID 99728
+2025-05-26 08:19:12,110 - INFO - Processing new notice
+2025-05-26 08:19:13,428 - INFO - Processing notice 333 with ID 99771
+2025-05-26 08:19:13,429 - INFO - Processing new notice
+2025-05-26 08:19:14,678 - INFO - Processing notice 334 with ID 99807
+2025-05-26 08:19:14,678 - INFO - Processing new notice
+2025-05-26 08:19:15,809 - INFO - Processing notice 335 with ID 99808
+2025-05-26 08:19:15,809 - INFO - Processing new notice
+2025-05-26 08:19:17,074 - INFO - Processing notice 336 with ID 99809
+2025-05-26 08:19:17,074 - INFO - Processing new notice
+2025-05-26 08:19:18,290 - INFO - Processing notice 337 with ID 99811
+2025-05-26 08:19:18,290 - INFO - Processing new notice
+2025-05-26 08:19:19,497 - INFO - Processing notice 338 with ID 99812
+2025-05-26 08:19:19,497 - INFO - Processing new notice
+2025-05-26 08:19:20,783 - INFO - Processing notice 339 with ID 99813
+2025-05-26 08:19:20,783 - INFO - Processing new notice
+2025-05-26 08:19:21,910 - INFO - Processing notice 340 with ID 99824
+2025-05-26 08:19:21,910 - INFO - Processing new notice
+2025-05-26 08:19:23,057 - INFO - Processing notice 341 with ID 99830
+2025-05-26 08:19:23,057 - INFO - Processing new notice
+2025-05-26 08:19:24,268 - INFO - Processing notice 342 with ID 99834
+2025-05-26 08:19:24,268 - INFO - Processing new notice
+2025-05-26 08:19:25,468 - INFO - Successfully saved processed notices to JSON locally
+2025-05-26 08:19:25,504 - INFO - Successfully saved processed notices to CSV locally
+2025-05-26 08:19:25,515 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-05-26 08:19:25,814 - INFO - Successfully uploaded JSON to s3://datainsdr/Processed/processed_notices.json
+2025-05-26 08:19:25,906 - INFO - Successfully uploaded CSV to s3://datainsdr/Processed/processed_notices.csv
+2025-05-26 08:19:25,906 - INFO - Cleaned up local files
