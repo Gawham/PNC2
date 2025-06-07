@@ -1,0 +1,440 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3091 Mill Vista Rd, Unit 1102, Highlands Ranch CO 80129"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3091+Mill+Vista+Rd%2c+Unit+1102%2c+Highlands+Ranch+CO+80129",
+    "totalEstimatedMatches": 416000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Senior Living in Highlands Ranch, CO | Wind Crest",
+        "url": "https://www.ericksonseniorliving.com/wind-crest",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ericksonseniorliving.com/wind-crest",
+        "snippet": "3235 Mill Vista Road, Highlands Ranch, Colorado 80129 303-798-3100 Follow us on Facebook Erickson Living on Instagram Connect with us on LinkedIn Follow us on Pinterest Follow us on Twitter Follow us on YouTube",
+        "deepLinks": [
+          {
+            "name": "Pricing",
+            "url": "https://www.ericksonseniorliving.com/wind-crest/pricing",
+            "snippet": "Pricing - Senior Living in Highlands Ranch, CO | Wind Crest"
+          },
+          {
+            "name": "Apartments",
+            "url": "https://www.ericksonseniorliving.com/wind-crest/apartments",
+            "snippet": "Apartments - Senior Living in Highlands Ranch, CO | Wind Crest"
+          },
+          {
+            "name": "Amenities",
+            "url": "https://www.ericksonseniorliving.com/wind-crest/amenities",
+            "snippet": "3235 Mill Vista Road, Highlands Ranch, Colorado 80129. 303-798-3100. Follow us on Facebook Erickson Living on Instagram Connect with us on LinkedIn Follow us on Pinterest Follow us on Twitter Follow us on YouTube. Careers; About Us; Newsroom; Contact Us; FAQ; Communities; Erickson Senior Living; Site Map;"
+          },
+          {
+            "name": "Dining",
+            "url": "https://www.ericksonseniorliving.com/wind-crest/amenities/dining",
+            "snippet": "Dining - Senior Living in Highlands Ranch, CO | Wind Crest"
+          },
+          {
+            "name": "Health Services",
+            "url": "https://www.ericksonseniorliving.com/wind-crest/health",
+            "snippet": "3235 Mill Vista Road, Highlands Ranch, Colorado 80129. 303-798-3100. Follow us on Facebook Erickson Living on Instagram Connect with us on LinkedIn Follow us on Pinterest Follow us on Twitter Follow us on YouTube. Careers; About Us; Newsroom; Contact Us; FAQ; Communities; Erickson Senior Living; Site Map;"
+          },
+          {
+            "name": "Realty & Moving Services",
+            "url": "https://www.ericksonseniorliving.com/wind-crest/apartments/moving-services",
+            "snippet": "Realty & Moving Services - Senior Living in Highlands Ranch, CO | Wind Crest"
+          }
+        ],
+        "dateLastCrawled": "2025-06-04T04:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3235 Mill Vista Road, Highlands Ranch, 80129, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 798-3100"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Erickson Senior Living"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3091 Mill Vista Rd, Littleton, CO 80129 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3091-Mill-Vista-Rd-Littleton-CO-80129/87810247_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3091-Mill-Vista-Rd-Littleton-CO-80129/87810247_zpid",
+        "snippet": "3091 Mill Vista Rd, Littleton, CO 80129 is currently not for sale. The 263,522 Square Feet single family home is a -- beds, -- baths property. ... Highlands Ranch, CO 80129. Off Market. Skip to the beginning of the carousel. Skip carousel. Nearby schools. GreatSchools rating. 8 /10. Northridge Elementary School ...",
+        "dateLastCrawled": "2025-05-04T04:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Who Lives at 3091 Mill Vista Rd, Unit 1102, Highlands Ranch, CO 80129 ...",
+        "url": "https://www.spokeo.com/CO/Highlands-Ranch/3091-Mill-Vista-Rd/1102",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Highlands-Ranch/3091-Mill-Vista-Rd/1102",
+        "snippet": "Find people by address using reverse address lookup for 3091 Mill Vista Rd, Unit 1102, Highlands Ranch, CO 80129. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-05-23T13:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Erickson Living, 3091 Mill Vista Rd, Littleton, CO 80129, US - MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/erickson-living-357686889",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/erickson-living-357686889",
+        "snippet": "3091 Mill Vista Rd. Littleton, CO 80129 +1 (303) 801-1300. ... Colorado Assisted Living Homes is one of the leading communities of assisted living facilities in Colorado. We provide assisted living services, memory care, and dementia care in a comfortable home-style environment.",
+        "dateLastCrawled": "2025-05-30T01:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Wind Crest Intermissions, Retirement Center, 3091 Mill Vista Rd",
+        "url": "https://wind-crest-intermissions.hub.biz/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://wind-crest-intermissions.hub.biz",
+        "snippet": "Highlands Ranch, CO 80129 - Douglas County (720) 379-7025. Select. FOLLOW ... Wind Crest Intermissions is located at 3091 Mill Vista Rd in Highlands Ranch, CO - Douglas County and is a business listed in the categories Retirement Centers & Apartments Operators, Retirement & Life Care Communities & Homes and Windmills. After you do business with ...",
+        "dateLastCrawled": "2025-03-13T00:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "3091 Mill Vista Rd Littleton, CO 80129 / 2413 - hudwayglass.com",
+        "url": "https://hudwayglass.com/house/3091+MILL+VISTA+RD,+Littleton+CO",
+        "datePublished": "2024-05-18T00:00:00.0000000",
+        "datePublishedDisplayText": "May 18, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hudwayglass.com/house/3091+MILL+VISTA+RD,+Littleton+CO",
+        "snippet": "#1008: Marjorie L Oakman: 80129-2420 #1009: Karen S Fey: 80129-2420 #1011: Dorothy G Dabkowski: 80129-2420 #1013: Leadford F Tull: 80129-2420 #1015: Albert E Hawkins: 80129-2420 #",
+        "dateLastCrawled": "2024-07-17T11:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "3091 Mill Vista Rd, Highlands Ranch, CO 80129 - Movoto - Movoto by OJO",
+        "url": "https://www.movoto.com/highlands-ranch-co/3091-mill-vista-rd-highlands-ranch-co-80129/pid_ulkhmeeps7ab/",
+        "datePublished": "2025-02-08T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 8, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/highlands-ranch-co/3091-mill-vista-rd-highlands-ranch-co-80129/...",
+        "snippet": "3091 Mill Vista Rd is a 55,700 Sqft commercial on a 51 Sqft lot and located in Highlands Ranch. View the property estimate, details, and search for more land and homes nearby on Movoto. ... 3091 Mill Vista Rd, Highlands Ranch, CO 80129.",
+        "dateLastCrawled": "2025-02-08T00:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Who Lives at 3091 Mill Vista Rd, Littleton, CO 80129 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Littleton/3091-Mill-Vista-Rd",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Littleton/3091-Mill-Vista-Rd",
+        "snippet": "Find people by address using reverse address lookup for 3091 Mill Vista Rd, Littleton, CO 80129. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2023-09-30T02:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Aspen Terrace Assisted Living | Residential Care Home | Highlands Ranch ...",
+        "url": "https://www.aplaceformom.com/community/aspen-terrace-assisted-living-1364263",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/aspen-terrace-assisted-living-1364263",
+        "snippet": "3379 Mill Vista Road #4107, Highlands Ranch, CO 80129. For more information about senior living options: (866) 374-4058. Call Now Close . This phone number connects you with a local advisor from A Place For Mom. Call us (866) 374-4058. Be the first to write a review. ... 80129. Highlands Ranch. CO.",
+        "dateLastCrawled": "2025-06-05T02:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "3091 Mill Vista Rd Littleton, CO 80129 - Trulia",
+        "url": "https://www.trulia.com/home/3091-mill-vista-rd-littleton-co-80129-87810247",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/3091-mill-vista-rd-littleton-co-80129-87810247",
+        "snippet": "This single-family home is located at 3091 Mill Vista Rd, Littleton, CO. 3091 Mill Vista Rd is in Littleton, CO and in ZIP code 80129. This property has approximately 263,522 sqft of floor space. This property has a lot size of 47.97 acres and was built in 2007.",
+        "dateLastCrawled": "2025-05-31T14:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "David F Ferguson | 65+ | Mill Vista Rd Unit 1120, Highlands Ranch, CO ...",
+        "url": "https://www.whitepages.com/name/David-F-Ferguson/Highlands-Ranch-CO/Po3jbJLA037",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/name/David-F-Ferguson/Highlands-Ranch-CO/Po3jbJLA037",
+        "snippet": "David F Ferguson, age 86, lives in Highlands Ranch, CO. Find their contact information including current home address, phone number 303-346-0202, background check reports, and property record on Whitepages People Search, the most trusted online directory. ... 3091 Mill Vista Rd Unit 1120, Highlands Ranch, CO 80129. Monitor. Age. 86 years old ...",
+        "dateLastCrawled": "2025-05-24T07:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3091 Mill Vista Rd, Littleton, Colorado - MapQuest - Official MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/littleton/80129-2340/3091-mill-vista-rd-39.56105,-105.03028",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/littleton/80129-2340/3091-mill-vista-rd-39.56105...",
+        "snippet": "Get more information for 3091 Mill Vista Rd in Littleton, Colorado. See reviews, map, get the address, and find directions. ... 3091 Mill Vista Rd. Littleton, Colorado 80129-2340. See a problem? Let us know. Advertisement. Advertisement. Get directions; MapQuest Travel;",
+        "dateLastCrawled": "2025-05-28T10:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Serenity in Leadership Foundation \u00b7 3091 Mill Vista Rd Unit 1612 ...",
+        "url": "https://opengovco.com/business/20238200030",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20238200030",
+        "snippet": "Serenity in Leadership Foundation (Entity #20238200030) is a DNC in Highlands Ranch, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on November 16, 2023 in the jurisdiction of Colorado. The registered office location is at 3091 Mill Vista Rd Unit 1612, Highlands Ranch, CO 80129. The current entity status is good standing.",
+        "dateLastCrawled": "2025-04-12T16:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Who Lives at 3091 Mill Vista Rd, Highlands Ranch, CO 80129 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Highlands-Ranch/3091-Mill-Vista-Rd",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Highlands-Ranch/3091-Mill-Vista-Rd",
+        "snippet": "Find people by address using reverse address lookup for 3091 Mill Vista Rd, Highlands Ranch, CO 80129. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2023-08-17T03:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Frank Henry Besnette | 65+ | Mill Vista Rd Unit 1121, Highlands Ranch ...",
+        "url": "https://www.whitepages.com/name/Frank-Henry-Besnette/Highlands-Ranch-CO/PR35RRL7q8N",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/name/Frank-Henry-Besnette/Highlands-Ranch-CO/PR35RRL7q8N",
+        "snippet": "3091 Mill Vista Rd Unit 1121, Highlands Ranch, CO 80129. Monitor. Age. 86 years old (Jan 6, 1939) Alias. Phone (928) 821-3918 +3 more. Email. ... Highlands Ranch, CO 80129 from 2019 - 2019. Copied to clipboard! Click to copy 110 Rockridge Dr Sedona, AZ 86336 from 2003 - 2003. Copied to clipboard! ...",
+        "dateLastCrawled": "2025-05-26T19:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "755 Maleta Lane LLC \u00b7 3091 Mill Vista Rd Unit 1315, Highlands Ranch, CO ...",
+        "url": "https://opengovco.com/business/20201349012",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20201349012",
+        "snippet": "755 Maleta Lane LLC (Entity #20201349012) is a DLLC in Highlands Ranch, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on April 21, 2020 in the jurisdiction of Colorado. The registered office location is at 3091 Mill Vista Rd Unit 1315, Highlands Ranch, CO 80129. The current entity status is good standing.",
+        "dateLastCrawled": "2024-12-21T21:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Clara L Sitter | 65+ | Mill Vista Rd Unit 1021, Highlands Ranch, CO ...",
+        "url": "https://www.whitepages.com/name/Clara-L-Sitter/Highlands-Ranch-CO/Pl8a0LBBl3b",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/name/Clara-L-Sitter/Highlands-Ranch-CO/Pl8a0LBBl3b",
+        "snippet": "3091 Mill Vista Rd Unit 1021, Highlands Ranch, CO 80129. Monitor. Age. 83 years old (Jun 28, 1941) Alias. Phone (720) 250-7828 +9 more. Email. cl 5jz4 @du.edu ... Highlands Ranch, CO 80129 from 2009 - 2016. Copied to clipboard! Click to copy Po Box 948 Littleton, CO 80160 from 1996 - 2003. Copied to clipboard! ...",
+        "dateLastCrawled": "2025-06-01T13:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Granite Tax and Accounting LLC \u00b7 3091 Mill Vista Rd Unit 1621 ...",
+        "url": "https://opengovco.com/business/20201740114",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20201740114",
+        "snippet": "GRANITE TAX AND ACCOUNTING LLC (Entity #20201740114) is a Limited Liability Company in Highlands Ranch, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on August 25, 2020 in the jurisdiction of Colorado. The registered office location is at 3091 Mill Vista Rd Unit 1621, Highlands Ranch, CO 80129. The current entity status is voluntarily dissolved.",
+        "dateLastCrawled": "2024-06-20T00:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

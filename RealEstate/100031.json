@@ -1,0 +1,504 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3755 Tennyson St, Unit 212, Denver CO 80212"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3755+Tennyson+St%2c+Unit+212%2c+Denver+CO+80212",
+    "totalEstimatedMatches": 787000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Cottage Hill Senior Apartments | Apartments in Denver, CO",
+        "url": "https://www.cottagehillseniorapts.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cottagehillseniorapts.com",
+        "snippet": "Check for available units at Cottage Hill Senior Apartments in Denver, CO. View floor plans, photos, and community amenities. Make Cottage Hill Senior Apartments your new home. Skip Navigation. toggle menu ... 3755 Tennyson Street Denver, CO 80212 (303) 561-0600 * Contact Us. How can we help you? Yes, I'd be happy to receive text messages! ...",
+        "deepLinks": [
+          {
+            "name": "Amenities",
+            "url": "https://www.cottagehillseniorapts.com/amenities.aspx",
+            "snippet": "View unit and community amenities for Cottage Hill Senior Apartments in Denver, CO."
+          },
+          {
+            "name": "Gallery",
+            "url": "https://www.cottagehillseniorapts.com/photogallery.aspx",
+            "snippet": "View high resolution photos and video tours of Cottage Hill Senior Apartments. Check out photos of model units and community features."
+          },
+          {
+            "name": "Neighborhood",
+            "url": "https://www.cottagehillseniorapts.com/mapsanddirections.aspx",
+            "snippet": "Visit us at Cottage Hill Senior Apartments in Denver, CO. View map and get directions."
+          },
+          {
+            "name": "Contact Us",
+            "url": "https://www.cottagehillseniorapts.com/contactus.aspx",
+            "snippet": "Learn more about Cottage Hill Senior Apartments in Denver, CO and schedule a visit. Skip Navigation. toggle menu. Menu. Home; Amenities; Gallery; Neighborhood; Contact Us; Return to Content. Contact Us. Property Address Cottage Hill Senior Apartments 3755 Tennyson Street Denver, CO 80212 (303) 561-0600. Office Hours Monday: 9AM-5PM: Tuesday ..."
+          },
+          {
+            "name": "View Floor Plans",
+            "url": "https://www.cottagehillseniorapts.com/floorplans.aspx",
+            "snippet": "Check out photos, floor plans, amenities, rental rates & availability at Cottage Hill Senior Apartments, Denver, CO and submit your lease application today!"
+          }
+        ],
+        "dateLastCrawled": "2025-06-03T04:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Cottage Hill Senior Apartments, 3755 Tennyson Street, Denver, CO - RentCafe",
+        "url": "https://www.rentcafe.com/apartments/co/denver/cottage-hill-senior-apartments/default.aspx",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 3.5,
+              "bestRating": 5,
+              "reviewCount": 1
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentcafe.com/apartments/co/denver/cottage-hill-senior-apartments/default.aspx",
+        "snippet": "3755 Tennyson Street, Denver, CO 80212. Self storage Coworking Transit Schools Shops Food Health. Points of interest powered by OpenStreetMap. Loading. Calculate commute by driving, cycling or walking, where available. ... View Storage Unit. 40 - 230 Sq.Ft. SmartStop Self Storage - 8920 Federal Blvd. $75 - $186. View Storage Unit. 25 - 300 Sq.Ft.",
+        "dateLastCrawled": "2025-06-05T00:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3755 Tennyson Street, Denver, 80212, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 561-0600"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,350 - $1,510"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "RentCafe"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Cottage Hill - 3755 Tennyson St, Denver, CO 80212 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/Cottage-Hill/apartment/177461562",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/Cottage-Hill/apartment/177461562",
+        "snippet": "See photos, floor plans and more details about Cottage Hill at 3755 Tennyson St, Denver, CO 80212. Cottage Hill - 3755 Tennyson St, Denver, CO 80212 | Redfin Search",
+        "dateLastCrawled": "2025-04-20T06:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Cottage Hill - 3755 Tennyson St - Denver, CO | Rent.",
+        "url": "https://www.rent.com/r/cottage-hill-denver-co-483214",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rent.com/r/cottage-hill-denver-co-483214",
+        "snippet": "3755 Tennyson St, Denver, CO 80212. Close. View Available Properties. Similar Properties. 3 Photos. Close. Photos (3) Total Costs & Fees $--Collapse Total Costs & Fees Section. ... 1233 Ogden St unit 108; 2474 S York St unit 2472B; 1630 N Clarkson St; 2047 S Pennsylvania St; 1150 N Downing St; 910 S Harrison St unit 1;",
+        "dateLastCrawled": "2025-04-30T14:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Cottage Hill Senior Apartments, 3755 Tennyson St, Denver, CO 80212, US ...",
+        "url": "https://www.mapquest.com/us/colorado/cottage-hill-senior-apartments-9973778",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/cottage-hill-senior-apartments-9973778",
+        "snippet": "3755 Tennyson St. Denver, CO 80212 +1 (720) 854-0333. https://www.cottagehillseniorapts.com. ... Our senior income-based studio & 1-bedroom apartments in Denver, Colorado, come in a variety of floor plans so you can choose your ideal living space. Our convenient location in Denver County Denver places you moments away from popular dining ...",
+        "dateLastCrawled": "2025-04-20T19:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Cottage Hill Senior Apartments - apartments for rent in West ... - Point2",
+        "url": "https://www.point2homes.com/US/Apartment-Buildings/CO/Denver/Cottage-Hill-Senior-Apartments.html",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.c4WUXkFu166AD3NDlWs5MAHaEK&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.point2homes.com/US/Apartment-Buildings/CO/Denver/Cottage-Hill-Senior...",
+        "snippet": "3755 Tennyson Street, Denver, CO, 80212. Studio-2 beds 1-2 baths 580-871 sqft. Some units at this property may be income restricted. ... There may be additional unit-specific fees. Pet policy. Pets allowed. Pet limit 2 allowed. Breed Restrictions Apply, Contact Property for Details. Breed Restrictions Apply, Contact Property for Details Pet ...",
+        "dateLastCrawled": "2025-06-02T21:46:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.c4WUXkFu166AD3NDlWs5MAHaEK&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 266,
+          "imageId": "OIP.c4WUXkFu166AD3NDlWs5MAHaEK"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Point2"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Cottage Hill Apartments - Denver, CO 80212",
+        "url": "https://www.apartmentguide.com/apartments/Colorado/Denver/Cottage-Hill/100011315/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentguide.com/apartments/Colorado/Denver/Cottage-Hill/100011315",
+        "snippet": "Cottage Hill is a beautiful apartment property located at 3755 Tennyson St, Denver, CO 80212. Situated on the redeveloped site of Elitch Gardens, this community boasts a maintenance-free living experience in a traditional neighborhood setting. The property offers a range of amenities that make life more convenient and comfortable.",
+        "dateLastCrawled": "2025-01-11T07:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentGuide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "3755 Tennyson St, Denver, CO 80212 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3755-Tennyson-St_Denver_CO_80212_M16465-30692",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/3755-Tennyson-St_Denver_CO_80212_M...",
+        "snippet": "View detailed information about property 3755 Tennyson St, Denver, CO 80212 including listing details, property photos, school and neighborhood data, and much more. ... Property detail for 4630 W ...",
+        "dateLastCrawled": "2025-04-23T06:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Cottage Hill Senior Apartments | Senior Apartments Denver, CO ...",
+        "url": "https://www.seniorresource.com/senior_apartments/cottage-hill-senior-apartments/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorresource.com/senior_apartments/cottage-hill-senior-apartments",
+        "snippet": "The community Senior Apartments in Denver, Colorado. 3755 Tennyson St. Cottage Hill Senior Apartments. Cottage Hill Senior Apartments in Denver, Colorado, provide a vibrant alternative to suburban living for independent, active seniors. ... 3755 Tennyson St, Denver, CO 80212 Phone: 720-854-0351. Website: https://www.cottagehillseniorapts.com ...",
+        "dateLastCrawled": "2025-06-02T13:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorResource.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Contact Cottage Hill Senior Apartments to Schedule a Visit",
+        "url": "https://www.cottagehillseniorapts.com/contactus.aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cottagehillseniorapts.com/contactus.aspx",
+        "snippet": "Learn more about Cottage Hill Senior Apartments in Denver, CO and schedule a visit. Skip Navigation. toggle menu. Menu. Home; Amenities; Gallery; Neighborhood; Contact Us; Return to Content. Contact Us. Property Address Cottage Hill Senior Apartments 3755 Tennyson Street Denver, CO 80212 (303) 561-0600. Office Hours Monday: 9AM-5PM: Tuesday ...",
+        "dateLastCrawled": "2025-05-23T20:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3755 Tennyson Street,, Denver CO Zip Code: 80212.",
+        "url": "http://aptselector.com/lookup/lookup-sng.phtml?bldgnumber=15540&agentnum=15&images=co",
+        "isFamilyFriendly": true,
+        "displayUrl": "aptselector.com/lookup/lookup-sng.phtml?bldgnumber=15540&agentnum=15&images=co",
+        "snippet": "Trocadero Apartments Apartments 3755 Tennyson Street,, Denver CO Zip Code: 80212. -Free Rental Locating Service for Apartments, townhomes and homes for rent in NC ... 3755 Tennyson Street,, Denver CO 80212 . Call: (303) ... Every Unit. Barks & Bubbles on-site pet wash station. Beautiful tile backsplash in kitchen. Bike Repair Station. Boardroom ...",
+        "dateLastCrawled": "2025-05-22T19:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3755 N Tennyson St #F320A52C6, Denver, CO 80212 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3755-N-Tennyson-St-F320A52C6-Denver-CO-80212/449092852_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3755-N-Tennyson-St-F320A52C6-Denver-CO-80212/...",
+        "snippet": "3755 N Tennyson St #F320A52C6, Denver, CO 80212 is currently not for sale. The -- sqft apartment home is a 2 beds, 2 baths property. This home was built in 2002 and last sold on 2025-04-02 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-04T04:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Trocadero Apartments - Denver, CO 80212 - The Real Yellow Pages",
+        "url": "https://www.yellowpages.com/denver-co/mip/trocadero-apartments-5914718",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yellowpages.com/denver-co/mip/trocadero-apartments-5914718",
+        "snippet": "Get reviews, hours, directions, coupons and more for Trocadero Apartments. Search for other Apartment Finder & Rental Service on The Real Yellow Pages\u00ae.",
+        "dateLastCrawled": "2025-02-15T11:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yellow Pages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Trocadero Apartments, 3755 Tennyson St, Denver, CO 80212, US - MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/trocadero-apartments-27127391",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/trocadero-apartments-27127391",
+        "snippet": "Get more information for Trocadero Apartments in Denver, CO. See reviews, map, get the address, and find directions. ... Trocadero Apartments. 5 reviews +1 (303) 561-0600. Website. More. Directions. Advertisement. Advertisement. Photos View gallery. 3755 Tennyson St. Denver, CO 80212 ... I like the apartment itself a lot. There's laundry in ...",
+        "dateLastCrawled": "2025-04-18T10:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Cottage Hill Senior Apartments | Apartment and Community Amenities",
+        "url": "https://www.cottagehillseniorapts.com/amenities.aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cottagehillseniorapts.com/amenities.aspx",
+        "snippet": "View unit and community amenities for Cottage Hill Senior Apartments in Denver, CO.",
+        "dateLastCrawled": "2025-06-04T04:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Apartments in Denver, CO | RENTCafe - Cottage Hill Senior Apartments",
+        "url": "https://www.cottagehillseniorapts.com/floorplans.aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cottagehillseniorapts.com/floorplans.aspx",
+        "snippet": "Check out photos, floor plans, amenities, rental rates & availability at Cottage Hill Senior Apartments, Denver, CO and submit your lease application today!",
+        "dateLastCrawled": "2025-05-31T04:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3755 Tennyson St, Denver, Colorado - MapQuest - Official MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/denver/80212-1972/3755-tennyson-st-39.76812,-105.04461",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/denver/80212-1972/3755-tennyson-st-39.76812,-105...",
+        "snippet": "Get more information for 3755 Tennyson St in Denver, Colorado. See reviews, map, get the address, and find directions.",
+        "dateLastCrawled": "2025-05-20T05:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Photos and Video of Cottage Hill Senior Apartments in Denver, CO",
+        "url": "https://www.cottagehillseniorapts.com/photogallery.aspx",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cottagehillseniorapts.com/photogallery.aspx",
+        "snippet": "View high resolution photos and video tours of Cottage Hill Senior Apartments. Check out photos of model units and community features.",
+        "dateLastCrawled": "2025-05-31T02:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "4144 Tennyson Street #212, Denver, CO 80212 | MLS #5298822 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4144-Tennyson-St-APT-212-Denver-CO-80212/448037150_zpid/",
+        "datePublished": "2025-03-31T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 31, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4144-Tennyson-St-APT-212-Denver-CO-80212/448037150_zpid",
+        "snippet": "Zillow has 23 photos of this $735,000 2 beds, 3 baths, 1,256 Square Feet townhouse home located at 4144 Tennyson Street #212, Denver, CO 80212 built in 2015. MLS #5298822.",
+        "dateLastCrawled": "2025-04-24T07:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "5148 W 44th Avenue, Denver, CO 80212 | MLS #9836056 | Zillow",
+        "url": "https://www.zillow.com/homedetails/5148-W-44th-Ave-Denver-CO-80212/442407562_zpid/",
+        "datePublished": "2024-11-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 7, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/5148-W-44th-Ave-Denver-CO-80212/442407562_zpid",
+        "snippet": "Unit has a fully fenced in private side yard and private front patio! Windows Everywhere with $10k worth of top down bottom up Black Out Shades and a washer and dryer. 1 year builders warranty! Welcome to www.44thtownhomes.com! ... 4144 Tennyson Street #212, Denver, CO 80212. For Sale. MLS ID #5298822, Tripp Howell, Compass - Denver . $600,000 ...",
+        "dateLastCrawled": "2025-06-07T00:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

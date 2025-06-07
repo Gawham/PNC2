@@ -1,0 +1,395 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "28591 Hillside Rd, Pueblo CO 81006"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=28591+Hillside+Rd%2c+Pueblo+CO+81006",
+    "totalEstimatedMatches": 255000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "28591 Hillside Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/28591-Hillside-Rd-Pueblo-CO-81006/14026404_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/28591-Hillside-Rd-Pueblo-CO-81006/14026404_zpid",
+        "snippet": "28591 Hillside Rd, Pueblo CO, is a Mobile / Manufactured home. The Zestimate for this Mobile / Manufactured is $125,100, which has increased by $8,032 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,621/mo, which has increased by $1,621/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-01T09:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "28591 Hillside Rd, Pueblo, CO 81006 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/28591-Hillside-Rd_Pueblo_CO_81006_M20557-53145",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/28591-Hillside-Rd_Pueblo_CO_81006_M...",
+        "snippet": "View detailed information about property 28591 Hillside Rd, Pueblo, CO 81006 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-01-26T17:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "28591 Hillside Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/28591-Hillside-Rd-81006/home/132536337",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/28591-Hillside-Rd-81006/home/132536337",
+        "snippet": "Mobile/manufactured home located at 28591 Hillside Rd, Pueblo, CO 81006. View sales history, tax history, home value estimates, and overhead views. APN 1402018017.",
+        "dateLastCrawled": "2024-08-27T16:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "28591 Hillside Rd, Pueblo, 81006, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "28591 Hillside Rd Pueblo, CO 81006 - Trulia",
+        "url": "https://www.trulia.com/home/28591-hillside-rd-pueblo-co-81006-14026404",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/28591-hillside-rd-pueblo-co-81006-14026404",
+        "snippet": "28591 Hillside Rd, Pueblo, CO 81006 is a Studio home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-12-23T11:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "28591 Hillside Rd, Pueblo, CO 81006 - Movoto - Movoto by OJO",
+        "url": "https://www.movoto.com/pueblo-co/28591-hillside-rd-pueblo-co-81006/pid_qyk5f11c0ycb/",
+        "datePublished": "2024-08-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 14, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/pueblo-co/28591-hillside-rd-pueblo-co-81006/pid_qyk5f11c0ycb",
+        "snippet": "28591 Hillside Rd is a house and located in Pueblo. View the property estimate, details, and search for more land and homes nearby on Movoto. ... Our agents specialize in selling homes in 81006. Name. Email. Mobile Phone. I'm interested in getting a cash offer Back Search. Edit Map Share Save \u2014 Bd \u2014 Ba. 28591 Hillside Rd, Pueblo, CO 81006 ...",
+        "dateLastCrawled": "2024-08-14T07:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Hillside Rd, Pueblo, CO 81006 | Owner & Property Records - NeighborWho",
+        "url": "https://www.neighborwho.com/Hillside-Rd-Pueblo-CO-addresses/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.neighborwho.com/Hillside-Rd-Pueblo-CO-addresses",
+        "snippet": "We found 166 addresses on Hillside Road in Pueblo, CO 81006. Find out who lives and owns property on this street. Get home owner information, property tax, mortgage records and much more. ... 28591 Hillside Rd Pueblo, CO 81006. See Address . POSSIBLE OWNERS & RESIDENTS. Ben Fernandez. Maryann Fernandez. Anthony Fernandez. Judith Hernandez ...",
+        "dateLastCrawled": "2025-05-06T21:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NeighborWho"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 28591 Hillside Rd, Pueblo, CO 81006 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Pueblo/28591-Hillside-Rd",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Pueblo/28591-Hillside-Rd",
+        "snippet": "Find people by address using reverse address lookup for 28591 Hillside Rd, Pueblo, CO 81006. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-06-17T19:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "28591 Hillside Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/28591-Hillside-Rd-Pueblo-CO-81006/14049729_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/28591-Hillside-Rd-Pueblo-CO-81006/14049729_zpid",
+        "snippet": "28591 Hillside Rd, Pueblo, CO 81006 is currently not for sale. The -- sqft manufactured home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-21T05:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "28091 Hillside Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/28091-Hillside-Rd-Pueblo-CO-81006/14026381_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/28091-Hillside-Rd-Pueblo-CO-81006/14026381_zpid",
+        "snippet": "28091 Hillside Rd, Pueblo CO, is a Single Family home that contains 1112 sq ft and was built in 1964.It contains 2 bedrooms and 1 bathroom.This home last sold for $130,000 in February 2018. The Zestimate for this Single Family is $260,600, which has increased by $393 in the last 30 days.The Rent Zestimate for this Single Family is $1,903/mo, which has increased by $1,903/mo in the last 30 days.",
+        "dateLastCrawled": "2024-09-10T05:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "28091 Hillside Rd, Pueblo, CO 81006 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/28091-Hillside-Rd_Pueblo_CO_81006_M27961-57965",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/28091-Hillside-Rd_Pueblo_CO_81006_M...",
+        "snippet": "See sales history and home details for 28091 Hillside Rd, Pueblo, CO 81006, a 2 bed, 1 bath, 1,012 Sq. Ft. single family home built in 1964 that was last sold on 02/27/2018.",
+        "dateLastCrawled": "2024-01-17T02:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "28591 Hillside Rd, Pueblo, CO 81006 - Trulia",
+        "url": "https://www.trulia.com/home/28591-hillside-rd-pueblo-co-81006-14049729",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/28591-hillside-rd-pueblo-co-81006-14049729",
+        "snippet": "28591 Hillside Rd, Pueblo, CO 81006 is a Studio home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-01-11T14:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "28697 Hillside Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/28697-Hillside-Rd-81006/home/132766059",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/28697-Hillside-Rd-81006/home/132766059",
+        "snippet": "3 beds, 1 bath, 811 sq. ft. house located at 28697 Hillside Rd, Pueblo, CO 81006 sold for $85,000 on Mar 10, 2016. MLS# 154950. Longing to live on the Mesa? Here's your chance! Very affordable, ...",
+        "dateLastCrawled": "2025-02-27T15:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "28481 Hillside Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/28481-Hillside-Rd-Pueblo-CO-81006/14026401_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/28481-Hillside-Rd-Pueblo-CO-81006/14026401_zpid",
+        "snippet": "28481 Hillside Rd, Pueblo CO, is a Single Family home that contains 2251 sq ft and was built in 1969.It contains 3 bedrooms and 2 bathrooms.This home last sold for $163,000 in April 2018. The Zestimate for this Single Family is $347,200, which has increased by $2,327 in the last 30 days.The Rent Zestimate for this Single Family is $2,120/mo, which has increased by $2,120/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-10T10:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "28860 Hillside Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/28860-Hillside-Rd-81006/home/133052680",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/28860-Hillside-Rd-81006/home/133052680",
+        "snippet": "4 beds, 3 baths, 3512 sq. ft. house located at 28860 Hillside Rd, Pueblo, CO 81006 sold for $252,000 on May 18, 2012. MLS# 136432. STUNNING 5 BEDROOM, 3 BATH, BRICK RANCHER W/ FINISHED BASEMENT. 2...",
+        "dateLastCrawled": "2025-04-19T07:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "28881 Hillside Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/28881-Hillside-Rd-Pueblo-CO-81006/14026414_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/28881-Hillside-Rd-Pueblo-CO-81006/14026414_zpid",
+        "snippet": "28881 Hillside Rd, Pueblo CO, is a Single Family home that contains 2307 sq ft and was built in 1950.It contains 4 bedrooms and 2 bathrooms.This home last sold for $249,000 in June 2019. The Zestimate for this Single Family is $377,800, which has increased by $2,300 in the last 30 days.The Rent Zestimate for this Single Family is $2,070/mo, which has increased by $2,070/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-09T16:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "28839 Hillside Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/28839-Hillside-Rd-81006/home/132500563",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/28839-Hillside-Rd-81006/home/132500563",
+        "snippet": "0 beds, 1040 sq. ft. house located at 28839 Hillside Rd, Pueblo, CO 81006 sold for $255,000 on Mar 8, 2023. MLS# 5401629. Welcome home to this beautifully remodeled inside and out rancher located i...",
+        "dateLastCrawled": "2025-04-09T01:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "28451 Hillside Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/28451-Hillside-Rd-Pueblo-CO-81006/14026399_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/28451-Hillside-Rd-Pueblo-CO-81006/14026399_zpid",
+        "snippet": "28451 Hillside Rd, Pueblo CO, is a Single Family home that contains 1496 sq ft and was built in 1983.It contains 3 bedrooms and 2 bathrooms.This home last sold for $95,000 in May 2014. The Zestimate for this Single Family is $333,100, which has increased by $3,829 in the last 30 days.The Rent Zestimate for this Single Family is $2,165/mo, which has increased by $2,165/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-09T20:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "27531 Hillside Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/27531-Hillside-Rd-Pueblo-CO-81006/14026358_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/27531-Hillside-Rd-Pueblo-CO-81006/14026358_zpid",
+        "snippet": "27531 Hillside Rd, Pueblo CO, is a Single Family home that contains 1508 sq ft and was built in 2021.It contains 3 bedrooms and 3 bathrooms.This home last sold for $290,035 in October 2021. The Zestimate for this Single Family is $442,100, which has increased by $6,360 in the last 30 days.The Rent Zestimate for this Single Family is $2,296/mo, which has increased by $2,296/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-21T00:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

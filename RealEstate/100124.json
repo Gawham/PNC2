@@ -1,0 +1,479 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "181 Clermont Ave, Unit 304, Brooklyn NY 11205"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=181+Clermont+Ave%2c+Unit+304%2c+Brooklyn+NY+11205",
+    "totalEstimatedMatches": 959000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "181 Clermont Ave APT 304, Brooklyn, NY 11205 | Zillow",
+        "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-304-Brooklyn-NY-11205/94715940_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-304-Brooklyn-NY-11205/94715940...",
+        "snippet": "181 Clermont Ave APT 304, Brooklyn, NY 11205 is currently not for sale. The 752 Square Feet apartment home is a 1 bed, 1 bath property. This home was built in null and last sold on 2024-05-22 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "deepLinks": [
+          {
+            "name": "181 Clermont Ave, Brooklyn, NY 11205 | Zillow",
+            "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-Brooklyn-NY-11205/94717196_zpid/",
+            "snippet": "181 Clermont Ave, Brooklyn NY, is a Condo home that contains 1150 sq ft and was built in 2008.It contains 2 bedrooms and 2 bathrooms.This home last sold for $1,160,000 in December 2017. The Zestimate for this Condo is $1,400,000, which has decreased by $6,750 in the last 30 days.The Rent Zestimate for this Condo is $4,795/mo, which has increased by $4,795/mo in the last 30 days."
+          },
+          {
+            "name": "181 Clermont Ave APT 301, Brooklyn, NY 11205 | Zillow",
+            "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-301-Brooklyn-NY-11205/94716663_zpid/",
+            "snippet": "181 Clermont Ave Apt 301, Brooklyn NY, is a Condo home that contains 1539 sq ft and was built in 2009.It contains 3 bedrooms and 3 bathrooms.This home last sold for $900,000 in October 2009. The Zestimate for this Condo is $2,112,800, which has decreased by $25,035 in the last 30 days.The Rent Zestimate for this Condo is $6,681/mo, which has increased by $6,681/mo in the last 30 days."
+          },
+          {
+            "name": "181 Clermont Ave APT 201, Brooklyn, NY 11205 | Zillow",
+            "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-201-Brooklyn-NY-11205/94716446_zpid/",
+            "snippet": "181 Clermont Ave Apt 201, Brooklyn NY, is a Condo home that contains 1105 sq ft and was built in 2007.It contains 2 bedrooms and 2 bathrooms.This home last sold for $1,090,000 in November 2017. The Zestimate for this Condo is $1,342,900, which has decreased by $8,816 in the last 30 days.The Rent Zestimate for this Condo is $5,279/mo, which has increased by $5,279/mo in the last 30 days."
+          },
+          {
+            "name": "181 Clermont Ave APT 604, Brooklyn, NY 11205 | Zillow",
+            "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-604-Brooklyn-NY-11205/94644240_zpid/",
+            "snippet": "181 Clermont Ave APT 604, Brooklyn, NY 11205 is currently not for sale. The 1,200 Square Feet condo home is a -- beds, -- baths property. This home was built in null and last sold on 2010-01-06 for $751,798. View more property details, sales history, and Zestimate data on Zillow."
+          }
+        ],
+        "dateLastCrawled": "2024-12-06T01:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "181 Clermont Ave #304, Brooklyn, NY 11205 - Redfin",
+        "url": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/unit-304/home/40917283",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/unit-304/home/40917283",
+        "snippet": "751 sq. ft. condo located at 181 Clermont Ave #304, Brooklyn, NY 11205. View sales history, tax history, home value estimates, and overhead views. APN 02075 1068.",
+        "dateLastCrawled": "2024-05-01T21:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "Unit at 181 Clermont Ave, Brooklyn, 11205, NY"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "181 Clermont Avenue #304 in Fort Greene, Brooklyn | StreetEasy",
+        "url": "https://streeteasy.com/building/181-clermont-avenue-brooklyn/304",
+        "datePublished": "2024-05-22T00:00:00.0000000",
+        "datePublishedDisplayText": "May 22, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://streeteasy.com/building/181-clermont-avenue-brooklyn/304",
+        "snippet": "181 Clermont Avenue, Brooklyn, Ny, 11205: Clermont Greene Gorgeous! Welcome to Clermont Greene, one of Fort Greene's best kept Condominium secrets. This boutique...",
+        "dateLastCrawled": "2025-04-18T05:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "StreetEasy"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "181 Clermont Avenue - 181 Clermont Avenue Condominium in Clinton Hill ...",
+        "url": "https://www.181clermont.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.181clermont.com",
+        "snippet": "181 Clermont Avenue, also known as Clermont Greene, is a modern condominium building located in the historic and culturally vibrant neighborhood of Fort Greene, Brooklyn. Built in 2007, this six-story post-war building features 74 residential units and offers a blend of contemporary living and community-focused amenities. Designed by Meltzer/Mandl Architects and developed by Vanderbilt Mansion ...",
+        "dateLastCrawled": "2025-05-24T04:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "181 Clermont Ave Unit 304, Brooklyn, NY 11205 | Homes.com",
+        "url": "https://www.homes.com/property/181-clermont-ave-brooklyn-ny-unit-304/9tqrg9rg3eydr/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/181-clermont-ave-brooklyn-ny-unit-304/9tqrg9rg3eydr",
+        "snippet": "181 Clermont Ave Unit 304, Brooklyn, NY 11205 - 750 sqft home . Browse photos, take a 3D tour & get detailed information about this property. Buy For Sale; Houses; ... Clermont Greene Condominium 181 Clermont Ave Unit 304 Brooklyn, NY 11205 Clinton Hill Neighborhood. Estimated Value: $808,392 - $1,012,000. 1 Bed. 1 Bath. 750 Sq Ft. $ ...",
+        "dateLastCrawled": "2025-05-27T20:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "181 Clermont Ave #304, Brooklyn, NY 11205 - Trulia",
+        "url": "https://www.trulia.com/home/181-clermont-ave-304-brooklyn-ny-11205-2140693443",
+        "datePublished": "2023-12-25T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 25, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/181-clermont-ave-304-brooklyn-ny-11205-2140693443",
+        "snippet": "181 Clermont Ave #304, Brooklyn, NY 11205 is a 750 sqft, 1 bed, 1 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-25T02:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "181 Clermont Ave, Brooklyn, NY 11205 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/181-Clermont-Ave_Brooklyn_NY_11205_B9318738440",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/181-Clermont-Ave_Brooklyn_NY_11205_B...",
+        "snippet": "View detailed information about property 181 Clermont Ave, Brooklyn, NY 11205 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App ...",
+        "dateLastCrawled": "2024-03-28T17:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "181 Clermont Ave, Brooklyn, NY 11205 - Apartments.com",
+        "url": "https://www.apartments.com/181-clermont-ave-brooklyn-ny/dlkzdgl/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/181-clermont-ave-brooklyn-ny/dlkzdgl",
+        "snippet": "See all available apartments for rent at 181 Clermont Ave in Brooklyn, NY. 181 Clermont Ave has rental units . Map. Menu. Add a Property ... About 181 Clermont Ave Brooklyn, NY 11205 ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tour Video Property Site Map Location Map Unit Map ...",
+        "dateLastCrawled": "2025-06-05T07:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "181 Clermont Ave Apt 304, Brooklyn, NY 11205 | HotPads",
+        "url": "https://hotpads.com/181-clermont-ave-brooklyn-ny-11205-snw7gf/304/pad",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hotpads.com/181-clermont-ave-brooklyn-ny-11205-snw7gf/304/pad",
+        "snippet": "Condo at 181 Clermont Ave. View historic property details, photos, street view and search nearby properties on the largest and most trusted rental site.",
+        "dateLastCrawled": "2024-12-15T14:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HotPads"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Clermont Greene | 181 Clermont Avenue, Brooklyn | Corcoran",
+        "url": "https://www.corcoran.com/building/fort-greene/188715",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.corcoran.com/building/fort-greene/188715",
+        "snippet": "181 Clermont Avenue, Fort Greene, Brooklyn, NY 11205. Post-war Condo. 74 units. This is a carousel. Use Next and Previous buttons to navigate. 74 residences. 6 stories. BUILT 2007. The Details About 181 Clermont Avenue. Full-service condo building, complete with: gym, doorman, common landscaped courtyard, indoor parking, Fresh Direct storage ...",
+        "dateLastCrawled": "2025-05-14T08:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Corcoran Group"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "181 Clermont Avenue in Fort Greene - StreetEasy",
+        "url": "https://streeteasy.com/building/181-clermont-avenue-brooklyn",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://streeteasy.com/building/181-clermont-avenue-broo",
+        "snippet": "181 Clermont Avenue: Designed by Meltzer/Mandl Architects, Clermont Greene is the most unique full-service building in Fort Greene. ... 181 Clermont Avenue, Brooklyn, NY 11205. Condo building; Fort Greene; 74 units. 6 stories. 2007 built. Take the next step on a unit in this building. Buy or sell Rent. Save SHARE. ... #304+ $ 575,500Recorded ...",
+        "dateLastCrawled": "2025-06-02T14:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "StreetEasy"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "181 Clermont Ave, Brooklyn, NY 11205 | Zillow",
+        "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-Brooklyn-NY-11205/94717196_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/181-Clermont-Ave-Brooklyn-NY-11205/94717196_zpid",
+        "snippet": "181 Clermont Ave, Brooklyn NY, is a Condo home that contains 1150 sq ft and was built in 2008.It contains 2 bedrooms and 2 bathrooms.This home last sold for $1,160,000 in December 2017. The Zestimate for this Condo is $1,400,000, which has decreased by $6,750 in the last 30 days.The Rent Zestimate for this Condo is $4,795/mo, which has increased by $4,795/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-19T12:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "181 Clermont Ave, Brooklyn, NY 11205 owner and property records",
+        "url": "https://hudwayglass.com/house/181+CLERMONT+AVE,+Brooklyn+NY",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hudwayglass.com/house/181+CLERMONT+AVE,+Brooklyn+NY",
+        "snippet": "Information about property on 181 Clermont Ave, Brooklyn NY, 11205-3356. Find out owner contacts, building history, price, neighborhood | HudwayGlass. Search address For sale For rent. street address or city, state or zip code. ... Apt 214. $1,200,000. sold Jun 2022. 1,126 sqft; 2 beds",
+        "dateLastCrawled": "2024-08-30T14:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "181 Clermont Ave, Brooklyn, NY 11205 | Redfin",
+        "url": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/home/40917251",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/home/40917251",
+        "snippet": "91218 sq. ft. condo located at 181 Clermont Ave, Brooklyn, NY 11205. View sales history, tax history, home value estimates, and overhead views. APN 02075 7501.",
+        "dateLastCrawled": "2025-05-11T07:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "181 Clermont Ave, Brooklyn, NY 11205 | Apartments.com",
+        "url": "https://www.apartments.com/181-clermont-ave-brooklyn-ny/cg185rg/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/181-clermont-ave-brooklyn-ny/cg185rg",
+        "snippet": "See all available condos for rent at 181 Clermont Ave in Brooklyn, NY. 181 Clermont Avehas rental units starting at $4500. Map. Menu. ... Walkability Near 181 Clermont Ave Brooklyn, NY 11205. ... 50 Glenwood Ave Unit 310, Jersey City, NJ 07306. $2,500. 1 Bed, 1 Bath, 1,048 sq ft ...",
+        "dateLastCrawled": "2025-06-02T20:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "181 Clermont Ave APT 201, Brooklyn, NY 11205 | Zillow",
+        "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-201-Brooklyn-NY-11205/94716446_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-201-Brooklyn-NY-11205/94716446...",
+        "snippet": "181 Clermont Ave Apt 201, Brooklyn NY, is a Condo home that contains 1105 sq ft and was built in 2007.It contains 2 bedrooms and 2 bathrooms.This home last sold for $1,090,000 in November 2017. The Zestimate for this Condo is $1,342,900, which has decreased by $8,816 in the last 30 days.The Rent Zestimate for this Condo is $5,279/mo, which has increased by $5,279/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-28T11:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "181 Clermont Ave #405, Brooklyn, NY 11205 | Redfin",
+        "url": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/unit-405/home/40915126",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/unit-405/home/40915126",
+        "snippet": "1034 sq. ft. condo located at 181 Clermont Ave #405, Brooklyn, NY 11205 sold for $1,175,000 on Jun 7, 2021. View sales history, tax history, home value estimates, and overhead views. APN 02075 1081...",
+        "dateLastCrawled": "2025-03-23T06:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "181 Clermont Ave APT 301, Brooklyn, NY 11205 | Zillow",
+        "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-301-Brooklyn-NY-11205/94716663_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-301-Brooklyn-NY-11205/94716663...",
+        "snippet": "181 Clermont Ave Apt 301, Brooklyn NY, is a Condo home that contains 1539 sq ft and was built in 2009.It contains 3 bedrooms and 3 bathrooms.This home last sold for $900,000 in October 2009. The Zestimate for this Condo is $2,112,800, which has decreased by $25,035 in the last 30 days.The Rent Zestimate for this Condo is $6,681/mo, which has increased by $6,681/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-26T12:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "181 Clermont Ave APT 604, Brooklyn, NY 11205 | Zillow",
+        "url": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-604-Brooklyn-NY-11205/94644240_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/181-Clermont-Ave-APT-604-Brooklyn-NY-11205/94644240...",
+        "snippet": "181 Clermont Ave APT 604, Brooklyn, NY 11205 is currently not for sale. The 1,200 Square Feet condo home is a -- beds, -- baths property. This home was built in null and last sold on 2010-01-06 for $751,798. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-15T12:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "324 Clermont Avenue #4 in Fort Greene, Brooklyn - StreetEasy",
+        "url": "https://streeteasy.com/building/324-clermont-avenue-brooklyn/4",
+        "datePublished": "2025-06-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://streeteasy.com/building/324-clermont-avenue-brooklyn/4",
+        "snippet": "Discover Unit 4 at 324 Clermont Ave \u2013 fully renovated 3-bedroom, 1-bathroom apartment nestled in the desirable Fort Greene neighborhood of Brooklyn. Perched on the fourth floor of a classic walk-up brownstone, this sun-drenched unit boasts refinished hardwood floors, central heating and A/C, and a thoughtfully designed layout.",
+        "dateLastCrawled": "2025-06-07T06:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "StreetEasy"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "181 Clermont Ave #106, Brooklyn, NY 11205 | Redfin",
+        "url": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/unit-106/home/40915080",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NY/Brooklyn/181-Clermont-Ave-11205/unit-106/home/40915080",
+        "snippet": "1210 sq. ft. condo located at 181 Clermont Ave #106, Brooklyn, NY 11205 sold for $1,475,000 on Oct 20, 2020. View sales history, tax history, home value estimates, and overhead views. APN 02075 104...",
+        "dateLastCrawled": "2025-05-11T06:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

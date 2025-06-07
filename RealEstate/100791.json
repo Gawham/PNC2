@@ -1,0 +1,439 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3570 Miller St, Wheat Ridge CO 80033"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3570+Miller+St%2c+Wheat+Ridge+CO+80033",
+    "totalEstimatedMatches": 709000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "3570 Miller St, Wheat Ridge, CO 80033 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3570-Miller-St-Wheat-Ridge-CO-80033/13740425_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3570-Miller-St-Wheat-Ridge-CO-80033/13740425_zpid",
+        "snippet": "3570 Miller St, Wheat Ridge CO, is a Single Family home that contains 1939 sq ft and was built in 1963.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $835,200, which has increased by $17,880 in the last 30 days.The Rent Zestimate for this Single Family is $3,231/mo, which has increased by $3,231/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-21T22:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3570 Miller St, Wheat Ridge, CO 80033 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3570-Miller-St_Wheat-Ridge_CO_80033_M10468-21498",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/3570-Miller-St_Wheat-Ridge_CO_80033...",
+        "snippet": "View detailed information about property 3570 Miller St, Wheat Ridge, CO 80033 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-06-13T14:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "3570 Miller St, Wheat Ridge, CO 80033 | Redfin",
+        "url": "https://www.redfin.com/CO/Wheat-Ridge/3570-Miller-St-80033/home/34419672",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Wheat-Ridge/3570-Miller-St-80033/home/34419672",
+        "snippet": "3 beds, 2 baths, 1939 sq. ft. house located at 3570 Miller St, Wheat Ridge, CO 80033. View sales history, tax history, home value estimates, and overhead views. APN 300048962.",
+        "dateLastCrawled": "2024-07-19T18:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3570 Miller St, Wheat Ridge, 80033, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "3570 Miller St, Wheat Ridge, CO 80033 - Homes.com",
+        "url": "https://www.homes.com/property/3570-miller-st-wheat-ridge-co/7392phr4qhs7q/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/3570-miller-st-wheat-ridge-co/7392phr4qhs7q",
+        "snippet": "3570 Miller St, Wheat Ridge, CO 80033 - 1,939 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... CO 80033 and is currently estimated at $806,513, approximately $415 per square foot. 3570 Miller St is a home located in Jefferson County with nearby schools including Prospect Valley Elementary School ...",
+        "dateLastCrawled": "2025-05-16T00:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Who Lives at 3570 Miller St, Wheat Ridge, CO 80033 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Wheat-Ridge/3570-Miller-St",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Wheat-Ridge/3570-Miller-St",
+        "snippet": "Find people by address using reverse address lookup for 3570 Miller St, Wheat Ridge, CO 80033. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-01-25T06:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "3570 Miller St Wheat Ridge, CO 80033 - Trulia",
+        "url": "https://www.trulia.com/home/3570-miller-st-wheat-ridge-co-80033-13740425",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/3570-miller-st-wheat-ridge-co-80033-13740425",
+        "snippet": "3570 Miller St, Wheat Ridge, CO 80033 is a 1,939 sqft, 3 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-05-27T17:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives on Miller St, Wheat Ridge, CO 80033 | Spokeo",
+        "url": "https://www.spokeo.com/Miller+St+Wheat+Ridge+CO+addresses",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/Miller+St+Wheat+Ridge+CO+addresses",
+        "snippet": "Find out who lives on Miller St, Wheat Ridge, CO 80033. Uncover property values, resident history, neighborhood safety score, and more! 98 records found for Miller St, Wheat Ridge, CO 80033. ... 3570 Miller St Wheat Ridge, CO 80033 3 Beds / 2 Baths 1,939 sqft Single Family Residence Built in 1963 3 residents. 3575 Miller St Wheat Ridge, ...",
+        "dateLastCrawled": "2025-03-21T17:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "3575 Miller St, Wheat Ridge, CO 80033 | Redfin",
+        "url": "https://www.redfin.com/CO/Wheat-Ridge/3575-Miller-St-80033/home/34419678",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Wheat-Ridge/3575-Miller-St-80033/home/34419678",
+        "snippet": "Sold: 5 beds, 3 baths, 3394 sq. ft. house located at 3575 Miller St, Wheat Ridge, CO 80033 sold for $1,178,000 on Apr 23, 2025. MLS# 7992177. Modern convenience and timeless style seamlessly blend ...",
+        "dateLastCrawled": "2025-05-19T07:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "3575 Miller Street, Wheat Ridge, CO 80033 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3575-Miller-St-Wheat-Ridge-CO-80033/13740433_zpid/",
+        "datePublished": "2025-04-23T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 23, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3575-Miller-St-Wheat-Ridge-CO-80033/13740433_zpid",
+        "snippet": "3575 Miller Street, Wheat Ridge CO, is a Single Family home that contains 3394 sq ft and was built in 1960.It contains 5 bedrooms and 3 bathrooms.This home last sold for $1,178,000 in April 2025. The Zestimate for this Single Family is $1,178,000, which has increased by $304,273 in the last 30 days.The Rent Zestimate for this Single Family is $4,486/mo, which has increased by $4,486/mo in the ...",
+        "dateLastCrawled": "2025-05-04T14:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "3575 Miller St, Wheat Ridge, CO 80033 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3575-Miller-St_Wheat-Ridge_CO_80033_M17398-78792",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/3575-Miller-St_Wheat-Ridge_CO_80033...",
+        "snippet": "See photos and price history of this 5 bed, 3 bath, 3,394 Sq. Ft. recently sold home located at 3575 Miller St, Wheat Ridge, CO 80033 that was sold on 04/23/2025 for $1178000.",
+        "dateLastCrawled": "2025-04-26T15:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3470 Miller Street, Wheat Ridge, CO 80033 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3470-Miller-St-Wheat-Ridge-CO-80033/13740581_zpid/",
+        "datePublished": "2024-01-19T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 19, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3470-Miller-St-Wheat-Ridge-CO-80033/13740581_zpid",
+        "snippet": "3470 Miller Street, Wheat Ridge, CO 80033 is currently not for sale. The 2,850 Square Feet single family home is a 5 beds, 4 baths property. This home was built in 1962 and last sold on 2024-01-19 for $777,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-02-10T23:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3570 Lewis St, Wheat Ridge, CO 80033 | Redfin",
+        "url": "https://www.redfin.com/CO/Wheat-Ridge/3570-Lewis-St-80033/home/34419699",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Wheat-Ridge/3570-Lewis-St-80033/home/34419699",
+        "snippet": "8 beds, 5 baths, 2423 sq. ft. house located at 3570 Lewis St, Wheat Ridge, CO 80033 sold for $268,000 on Dec 23, 1998. View sales history, tax history, home value estimates, and overhead views. APN...",
+        "dateLastCrawled": "2025-02-21T23:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "3570 Moore Ct, Wheat Ridge, CO 80033 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3570-Moore-Ct_Wheat-Ridge_CO_80033_M28778-35464",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/3570-Moore-Ct_Wheat-Ridge_CO_80033_M...",
+        "snippet": "See sales history and home details for 3570 Moore Ct, Wheat Ridge, CO 80033, a 4 bed, 2 bath, 1,107 Sq. Ft. single family home built in 1956 that was last sold on 11/03/1986.",
+        "dateLastCrawled": "2024-01-27T16:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "3580 Miller St, Wheat Ridge, CO 80033 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3580-Miller-St-Wheat-Ridge-CO-80033/13740426_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3580-Miller-St-Wheat-Ridge-CO-80033/13740426_zpid",
+        "snippet": "3580 Miller St, Wheat Ridge CO, is a Single Family home that contains 2748 sq ft and was built in 1961.It contains 5 bedrooms and 3 bathrooms.This home last sold for $299,000 in April 2011. The Zestimate for this Single Family is $764,500, which has increased by $18,158 in the last 30 days.The Rent Zestimate for this Single Family is $4,095/mo, which has increased by $4,095/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T20:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3590 Miller St, Wheat Ridge, CO 80033 | Redfin",
+        "url": "https://www.redfin.com/CO/Wheat-Ridge/3590-Miller-St-80033/home/34419670",
+        "datePublished": "2007-07-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 20, 2007",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Wheat-Ridge/3590-Miller-St-80033/home/34419670",
+        "snippet": "3590 Miller St is a 1,340 square foot house on a 10,494 square foot lot with 4 bedrooms and 3 bathrooms. - it last sold on July 20, 2007 for $297,000. Based on Redfin's Wheat Ridge data, we estimate the home's value is $768,320.",
+        "dateLastCrawled": "2024-12-27T05:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "3550 Miller St, Wheat Ridge, CO 80033 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3550-Miller-St_Wheat-Ridge_CO_80033_M22473-58358",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/3550-Miller-St_Wheat-Ridge_CO_80033...",
+        "snippet": "See sales history and home details for 3550 Miller St, Wheat Ridge, CO 80033, a 5 bed, 3 bath, 1,360 Sq. Ft. single family home built in 1960 that was last sold on 04/15/2015.",
+        "dateLastCrawled": "2024-01-18T19:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3550 Miller St, Wheat Ridge, CO 80033 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3550-Miller-St-Wheat-Ridge-CO-80033/130428833_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3550-Miller-St-Wheat-Ridge-CO-80033/130428833_zpid",
+        "snippet": "3550 Miller St, Wheat Ridge CO, is a Single Family home that contains 1360 sq ft and was built in 1960.It contains 5 bedrooms and 3 bathrooms.This home last sold for $460,000 in April 2015. The Zestimate for this Single Family is $807,700, which has increased by $3,477 in the last 30 days.The Rent Zestimate for this Single Family is $3,352/mo, which has increased by $3,352/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-20T09:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3585 Miller St, Wheat Ridge, CO 80033 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3585-Miller-St-Wheat-Ridge-CO-80033/13740432_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3585-Miller-St-Wheat-Ridge-CO-80033/13740432_zpid",
+        "snippet": "3585 Miller St, Wheat Ridge CO, is a Single Family home that contains 2314 sq ft and was built in 1961.It contains 4 bedrooms and 3 bathrooms.This home last sold for $280,000 in November 2008. The Zestimate for this Single Family is $723,000, which has increased by $11,073 in the last 30 days.The Rent Zestimate for this Single Family is $3,639/mo, which has increased by $3,639/mo in the last ...",
+        "dateLastCrawled": "2025-04-22T13:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3470 Miller St, Wheat Ridge, CO 80033 | Redfin",
+        "url": "https://www.redfin.com/CO/Wheat-Ridge/3470-Miller-St-80033/home/34419842",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Wheat-Ridge/3470-Miller-St-80033/home/34419842",
+        "snippet": "5 beds, 4 baths, 2850 sq. ft. house located at 3470 Miller St, Wheat Ridge, CO 80033 sold for $777,000 on Jan 19, 2024. MLS# 9751674. Located on a . 27-acre lot in Applewood, this beautifully updat...",
+        "dateLastCrawled": "2025-03-19T05:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3970 Miller Street, Wheat Ridge, CO 80033 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3970-Miller-St-Wheat-Ridge-CO-80033/13733660_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3970-Miller-St-Wheat-Ridge-CO-80033/13733660_zpid",
+        "snippet": "3970 Miller Street, Wheat Ridge CO, is a Single Family home that contains 4088 sq ft and was built in 1997.It contains 4 bedrooms and 4 bathrooms.This home last sold for $726,500 in November 2023. The Zestimate for this Single Family is $747,400, which has increased by $3,484 in the last 30 days.The Rent Zestimate for this Single Family is $5,417/mo, which has increased by $5,417/mo in the ...",
+        "dateLastCrawled": "2025-03-29T10:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

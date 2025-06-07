@@ -1,0 +1,511 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1660 N Ellicott Hwy, Calhan CO 80808"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1660+N+Ellicott+Hwy%2c+Calhan+CO+80808",
+    "totalEstimatedMatches": 207000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1660 N Ellicott Hwy, Calhan, CO 80808 | Redfin",
+        "url": "https://www.redfin.com/CO/Calhan/1660-N-Ellicott-Hwy-80808/home/34289777",
+        "datePublished": "2003-06-02T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 2, 2003",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Calhan/1660-N-Ellicott-Hwy-80808/home/34289777",
+        "snippet": "3 beds, 2 baths, 1662 sq. ft. house located at 1660 N Ellicott Hwy, Calhan, CO 80808 sold for $178,000 on Jun 2, 2003. View sales history, tax history, home value estimates, and overhead views. ... 1660 N Ellicott Hwy is a 1,662 square foot house on a 9.55 acre lot with 3 bedrooms and 2 bathrooms. - it last sold on June 02, 2003 for $178,000.",
+        "dateLastCrawled": "2025-04-23T05:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1660 N Ellicott Hwy, Calhan, CO 80808 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1660-N-Ellicott-Hwy_Calhan_CO_80808_M20568-11999",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1660-N-Ellicott-Hwy_Calhan_CO_80808...",
+        "snippet": "See sales history and home details for 1660 N Ellicott Hwy, Calhan, CO 80808, a 3 bed, 2 bath, 1,662 Sq. Ft. single family home built in 1968 that was last sold on 06/02/2003.",
+        "dateLastCrawled": "2024-08-28T06:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "N Ellicott Hwy, Calhan, CO 80808 | MLS #5279947 | Zillow",
+        "url": "https://www.zillow.com/homedetails/N-Ellicott-Hwy-Calhan-CO-80808/13530836_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.-dK6YxkiISAbVDL2LfPDQQHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/N-Ellicott-Hwy-Calhan-CO-80808/13530836_zpid",
+        "snippet": "Zillow has 28 photos of this $1,750,000 228.71 Acres lot located at N Ellicott Hwy, Calhan, CO 80808 MLS #5279947.",
+        "dateLastCrawled": "2024-08-28T06:08:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.-dK6YxkiISAbVDL2LfPDQQHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.-dK6YxkiISAbVDL2LfPDQQHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1660 N Ellicott Hwy, Calhan, CO 80808 Property Record (FREE)",
+        "url": "https://www.countyoffice.org/property-record-1660-n-ellicott-hwy-calhan-co-80808-7b0/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-1660-n-ellicott-hwy-calhan-co-80808-7b0",
+        "snippet": "1660 N Ellicott Hwy Calhan, CO 80808 Owner Occupied True Property Deeds History (Titles & Sales) Details Type: Quit Claim Deed Document ID: 186478 Recording Date: 21 Nov 2005 Buyer 1960 Ellicott Hwy Calhan, CO 80808 Details Type: Grant Deed Document ID: 119392 Recording Date: 02 Jun 2003 Sale Price: $178,000 Buyer",
+        "dateLastCrawled": "2025-06-04T19:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Address"
+            },
+            "items": [
+              {
+                "text": "1660 North Ellicott HighwayCalhan, CO 80808"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Carrier Code"
+            },
+            "items": [
+              {
+                "text": "R002"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Census Tract"
+            },
+            "items": [
+              {
+                "text": "4601"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "FIPS"
+            },
+            "items": [
+              {
+                "text": "08041"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1660 N Ellicott Hwy, Calhan, CO Public Records - ClustrMaps",
+        "url": "https://clustrmaps.com/a/9rlh5/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://clustrmaps.com/a/9rlh5",
+        "snippet": "The dwelling has a concrete block foundation. Some people write this address as 1660 North Ellicott Hiway, Calhan, CO 80808-8828. The ZIP code for this address is 80808 and the postal code suffix is 8828. Latitude and longitude for the address: 38.855417,-104.388535. The price to rent a two bedroom unit in the ZIP code 80808 is around $1,070.",
+        "dateLastCrawled": "2024-04-19T08:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ClustrMaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1660 N Ellicott Hwy Calhan CO 80808 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/1660-n-ellicott-hwy-calhan-co-80808-180778241",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/1660-n-ellicott-hwy-calhan-co-80808-180778241",
+        "snippet": "1660 N Ellicott Hwy Calhan CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $470,373. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-03-31T11:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 1660 N Ellicott Hwy, Calhan, CO 80808 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Calhan/1660-N-Ellicott-Hwy",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Calhan/1660-N-Ellicott-Hwy",
+        "snippet": "Find people by address using reverse address lookup for 1660 N Ellicott Hwy, Calhan, CO 80808. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-04-20T02:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1660 N ELLICOTT HWY, CALHAN, CO 80808 - RE/MAX",
+        "url": "https://www.remax.com/co/calhan/home-details/1660-n-ellicott-hwy-calhan-co-80808/711174511823127040",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/calhan/home-details/1660-n-ellicott-hwy-calhan-co-80808/...",
+        "snippet": "1660 N ELLICOTT HWY CALHAN, CO 80808. Off Market. SEE THIS HOME'S ESTIMATED VALUE. 3 Beds. N/A Baths. 1,662 Sq Ft. Details for 1660 N ELLICOTT HWY. Built in 1968. $197 / Sq Ft. No Info. 9.55 acres lot. Interior. Basement. Finished. Living Area. 1,662 SqFt.",
+        "dateLastCrawled": "2024-09-14T16:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "N Ellicott Hwy, Calhan, CO 80808 Property Records",
+        "url": "https://www.countyoffice.org/n-ellicott-hwy-calhan-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/n-ellicott-hwy-calhan-co-property-records",
+        "snippet": "View property records for 115 addresses on N Ellicott Highway in Calhan, CO 80808, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 1660 N Ellicott Hwy; 1750 N Ellicott Hwy; 1850 N Ellicott Hwy; 1925 N Ellicott Hwy ...",
+        "dateLastCrawled": "2025-05-19T03:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Who Lives on N Ellicott Hwy, Calhan, CO 80808 | Spokeo",
+        "url": "https://www.spokeo.com/N+Ellicott+Hwy+Calhan+CO+addresses",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/N+Ellicott+Hwy+Calhan+CO+addresses",
+        "snippet": "Find out who lives on N Ellicott Hwy, Calhan, CO 80808. Uncover property values, resident history, neighborhood safety score, and more! 125 records found for N Ellicott Hwy, Calhan, CO 80808. ... 1660 N Ellicott Hwy Calhan, CO 80808 3 Beds / 2 Baths 1,506 sqft Single Family Residence Built in 1968 3 residents. 1750 N Ellicott Hwy Calhan, ...",
+        "dateLastCrawled": "2025-03-17T14:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "N Ellicott Hwy, Calhan, CO 80808 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/N-Ellicott-Hwy_Calhan_CO_80808_M18826-12610",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/N-Ellicott-Hwy_Calhan_CO_80808_M...",
+        "snippet": "See sales history and home details for N Ellicott Hwy, Calhan, CO 80808, a 1 bed, 1 bath, 1,156 Sq. Ft. single family home built in 1977 that was last sold on 04/06/2020.",
+        "dateLastCrawled": "2024-02-18T02:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3560 N Ellicott Hwy, Calhan, CO 80808 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3560-N-Ellicott-Hwy-Calhan-CO-80808/13530652_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3560-N-Ellicott-Hwy-Calhan-CO-80808/13530652_zpid",
+        "snippet": "3560 N Ellicott Hwy, Calhan CO, is a Single Family home that contains 1436 sq ft and was built in 1949.It contains 3 bedrooms and 1 bathroom.This home last sold for $300,000 in July 2008. The Zestimate for this Single Family is $511,100, which has decreased by $2,897 in the last 30 days.The Rent Zestimate for this Single Family is $2,087/mo, which has increased by $2,087/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-08T17:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1580 N Ellicott Hwy, Calhan, CO 80808 | Redfin",
+        "url": "https://www.redfin.com/CO/Calhan/1580-N-Ellicott-Hwy-80808/home/34289778",
+        "datePublished": "2022-06-02T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 2, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Calhan/1580-N-Ellicott-Hwy-80808/home/34289778",
+        "snippet": "3 beds, 1.5 baths, 2256 sq. ft. house located at 1580 N Ellicott Hwy, Calhan, CO 80808 sold for $395,000 on Jun 2, 2022. MLS# 3805480. Country Living at its Finest! You'll love this rural property ...",
+        "dateLastCrawled": "2025-04-12T12:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "9875 N Yoder Road, Calhan, CO 80808 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/calhan/9875-n-yoder-rd/lid-P00800000GstRMaTmJMUhVVADTLgKR3TktVlgbKo",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/calhan/9875-n-yoder-rd/lid-P00800000...",
+        "snippet": "Find Property Information for 9875 N Yoder Road, Calhan, CO 80808. MLS# 7129821. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2025-06-06T13:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2030 N Ellicott Hwy, Calhan, CO 80808 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2030-N-Ellicott-Hwy_Calhan_CO_80808_M94513-47334",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2030-N-Ellicott-Hwy_Calhan_CO_80808...",
+        "snippet": "View detailed information about property 2030 N Ellicott Hwy, Calhan, CO 80808 including listing details, property photos, school and neighborhood data, and much more. ... 1660 N Ellicott Hwy ...",
+        "dateLastCrawled": "2024-03-04T00:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "12660 N Ellicott Hwy, Calhan, CO 80808 | Zillow",
+        "url": "https://www.zillow.com/homedetails/12660-N-Ellicott-Hwy-Calhan-CO-80808/13530442_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12660-N-Ellicott-Hwy-Calhan-CO-80808/13530442_zpid",
+        "snippet": "12660 N Ellicott Hwy, Calhan CO, is a Single Family home that contains 1514 sq ft and was built in 2009.It contains 2 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $595,300, which has decreased by $25,000 in the last 30 days.The Rent Zestimate for this Single Family is $2,315/mo, which has increased by $2,315/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-02T12:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1625 N Ellicott Hwy, Calhan, CO 80808 | Redfin",
+        "url": "https://www.redfin.com/CO/Calhan/1625-N-Ellicott-Hwy-80808/home/34629229",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Calhan/1625-N-Ellicott-Hwy-80808/home/34629229",
+        "snippet": "952 sq. ft. mobile/manufactured home located at 1625 N Ellicott Hwy, Calhan, CO 80808. View sales history, tax history, home value estimates, and overhead views. APN 9300007269.",
+        "dateLastCrawled": "2025-06-05T01:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "4060 S Ellicott Hwy, Calhan, CO 80808 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4060-S-Ellicott-Hwy-Calhan-CO-80808/2056365719_zpid/",
+        "datePublished": "2024-08-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 15, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4060-S-Ellicott-Hwy-Calhan-CO-80808/2056365719_zpid",
+        "snippet": "4060 S Ellicott Hwy, Calhan CO, is a Vacant Land home.This home last sold for $195,000 in August 2024. The Rent Zestimate for this Vacant Land is $1,660/mo, which has increased by $1,660/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-01T22:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "13960 N Ellicott Hwy, Calhan, CO 80808 | Zillow",
+        "url": "https://www.zillow.com/homedetails/13960-N-Ellicott-Hwy-Calhan-CO-80808/181517715_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13960-N-Ellicott-Hwy-Calhan-CO-80808/181517715_zpid",
+        "snippet": "13960 N Ellicott Hwy, Calhan CO, is a Single Family home that contains 3132 sq ft and was built in 1999.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $612,600, which has increased by $8,903 in the last 30 days.The Rent Zestimate for this Single Family is $2,784/mo, which has increased by $2,784/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T13:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "2202 N Ellicott Hwy, Calhan, CO 80808 | Realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2202-N-Ellicott-Hwy_Calhan_CO_80808_M11431-68633",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2202-N-Ellicott-Hwy_Calhan_CO_80808...",
+        "snippet": "View 50 photos for 2202 N Ellicott Hwy, Calhan, CO 80808, a 5 bed, 3 bath, 3,475 Sq. Ft. single family home built in 1980 that was last sold on 06/06/2013.",
+        "dateLastCrawled": "2025-06-04T15:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "2690 S Ellicott Hwy, Calhan, CO 80808 | MLS #7571271 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2690-S-Ellicott-Hwy-Calhan-CO-80808/447922312_zpid/",
+        "datePublished": "2025-02-28T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 28, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2690-S-Ellicott-Hwy-Calhan-CO-80808/447922312_zpid",
+        "snippet": "Zillow has 26 photos of this $545,000 3 beds, 2 baths, 1,670 Square Feet manufactured home located at 2690 S Ellicott Hwy, Calhan, CO 80808 built in 2025. MLS #7571271.",
+        "dateLastCrawled": "2025-04-06T06:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3455 S Corona St, Unit 713, Englewood CO 80113"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3455+S+Corona+St%2c+Unit+713%2c+Englewood+CO+80113",
+    "totalEstimatedMatches": 1380000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Brookdale Meridian Englewood | Independent and Assisted Living Colorado",
+        "url": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood.html",
+        "snippet": "3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Our Services. Skilled Nursing Independent Living Assisted Living At Home Service. Pricing Floor Plans Gallery. ... as of the date listed for a single occupancy unit in the listed community excluding any care costs or other fees, unless otherwise stated. Prices will vary based on living ...",
+        "deepLinks": [
+          {
+            "name": "Independent Living",
+            "url": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/independent-living.html",
+            "snippet": "3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Our Services. Home Skilled Nursing Independent Living Assisted Living At Home Service. Pricing Floor Plans Gallery. Brookdale Meridian Englewood. 3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Back to Community Overview Back to Community Overview ."
+          }
+        ],
+        "dateLastCrawled": "2025-06-03T13:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Brookdale Meridian Englewood - 37 Reviews - Englewood, CO - Caring.com",
+        "url": "https://www.caring.com/senior-living/colorado/englewood/brookdale-meridian-englewood",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.7GFbqRZGF9dHtYP7IneFxQHaE8&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5,
+              "reviewCount": 37
+            }
+          }
+        ],
+        "datePublished": "2022-06-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 11, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.caring.com/senior-living/colorado/englewood/brookdale-meridian-englewood",
+        "snippet": "3455 South Corona Street, Englewood, CO 80113 (800) 558-0653 Verified Partner. 4.1 (37 reviews) Starting Price. $2,995. ... Brookdale Living's Englewood, CO community delivers Inspired Independent Living, with the promise of Exceptional Experiences Everyday. ... Cable/Satellite In Unit; Kitchen Appliances In Unit; Transportation & Shopping.",
+        "dateLastCrawled": "2025-06-04T10:46:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.7GFbqRZGF9dHtYP7IneFxQHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.7GFbqRZGF9dHtYP7IneFxQHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3455 South Corona Street, Englewood, 80113, Colorado"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Caring.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Brookdale Meridian Englewood | Assisted Living | Englewood, CO 80113 ...",
+        "url": "https://www.aplaceformom.com/community/brookdale-meridian-englewood-93290",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.dCWNFe7M-3aAtac0eKZqwAHaE8&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.3,
+              "bestRating": 5,
+              "reviewCount": 55
+            }
+          }
+        ],
+        "datePublished": "2025-06-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/brookdale-meridian-englewood-93290",
+        "snippet": "Read 57 reviews, see photos, get pricing, and compare Brookdale Meridian Englewood with other senior living facilities near Englewood.",
+        "dateLastCrawled": "2025-06-05T02:07:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.dCWNFe7M-3aAtac0eKZqwAHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.dCWNFe7M-3aAtac0eKZqwAHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3455 South Corona Street, Englewood, 80113"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-16T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          },
+          {
+            "label": {
+              "text": "Start Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-15T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:STARTDATE"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Brookdale Meridian Englewood | Senior Housing in Englewood, Colorado",
+        "url": "https://seniorsbluebook.com/senior-housing/brookdale-meridian-englewood",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://seniorsbluebook.com/senior-housing/brookdale-meridian-englewood",
+        "snippet": "Unit Sizes 1 BR, 2 BR; Add'l Property Features Kitchenette; Additional Levels of Care Offered. Brookdale Meridian Englewood Skilled Nursing 3455 S Corona St, Arapahoe, Englewood, Colorado, 80113. ... Independent Living 3455 S Corona St, Arapahoe, Englewood, Colorado, 80113.",
+        "dateLastCrawled": "2025-04-22T22:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "12228 South 1840 East, Draper, 84020"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniors Blue Book"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Brookdale Meridian Englewood - Starting at 2,995/mo - Englewood, Colorado",
+        "url": "https://www.seniorhomes.com/colorado/englewood/brookdale-meridian-englewood",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4,
+              "bestRating": 5,
+              "reviewCount": 1
+            }
+          }
+        ],
+        "datePublished": "2019-06-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 14, 2019",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhomes.com/colorado/englewood/brookdale-meridian-englewood",
+        "snippet": "3455 South Corona Street, Englewood, CO 80113 (833) 816-0049 to call a Family Advisor. Independent Living. Memory Care. ... Cable/Satellite In Unit; Kitchen Appliances In Unit; Transportation & Shopping. ... 3455 South Corona Street, Englewood, Colorado 80113. 4.0 (1 review)",
+        "dateLastCrawled": "2025-05-27T23:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3455 South Corona Street, Englewood, 80113, Colorado"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniorhomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Brookdale Meridian Englewood - Nursing Home",
+        "url": "https://www.nursinghomes.com/co/englewood/brookdale-meridian-englewood/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.6XrMt92HzwaCHtHj-NAFPAHaEr&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.nursinghomes.com/co/englewood/brookdale-meridian-englewood",
+        "snippet": "Explore Brookdale Meridian Englewood skilled nursing facility. Get pricing, view senior care services, images, or schedule a tour. ... 3455 S Corona St, Englewood, CO 80113. Save. Saved to My Shortlist. View My Shortlist ... View on Map Street View. Enter your location to see the travel time to Brookdale Meridian Englewood. by car; bicycle;",
+        "dateLastCrawled": "2025-04-21T04:49:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.6XrMt92HzwaCHtHj-NAFPAHaEr&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 299,
+          "imageId": "OIP.6XrMt92HzwaCHtHj-NAFPAHaEr"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NursingHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Englewood Colorado CCRC | Brookdale Meridian Englewood",
+        "url": "https://www.seniorlivingguide.com/communities/brookdale-meridian-englewood-3455-s-corona-st-englewood-co-80113/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.fpvsI6wbZkDd8ZPRRL_H6QHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorlivingguide.com/communities/brookdale-meridian-englewood-3455-s...",
+        "snippet": "Englewood Colorado CCRC/Senior Community at Brookdale Meridian Englewood pictures, floor plans, amenities, services and contact info ... 3455 S. Corona St., Englewood, CO 80113 $$ Check Availability Get Pricing . Maybe it\u2019s time to let someone else do the dishes. ... Unit Amenities. Emergency Call System; Fully Equipped Kitchens; Kitchenettes ...",
+        "dateLastCrawled": "2025-05-26T21:41:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.fpvsI6wbZkDd8ZPRRL_H6QHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.fpvsI6wbZkDd8ZPRRL_H6QHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Senior Living Guide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Brookdale Meridian Englewood - 2025 Pricing, Photos, 28 Reviews in ...",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/englewood/brookdale-meridian-englewood-80113/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.VQ3fK--71cjrdCnBltwlbAHaEI&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2020-07-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 1, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/.../co/englewood/brookdale-meridian-englewood-80113",
+        "snippet": "3455 S Corona St, Englewood, CO 80113. 4.4 / 5.0 34 Reviews . Pricing & Availability (800) 755-1458 . Contact Resident (303)-761-0300 ... The cost of independent living at Brookdale Meridian Englewood depends on the size and layout of the unit. Pricing for memory care and nursing care is determined by the level of medical care needed. Services ...",
+        "dateLastCrawled": "2025-05-31T19:30:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.VQ3fK--71cjrdCnBltwlbAHaEI&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 264,
+          "imageId": "OIP.VQ3fK--71cjrdCnBltwlbAHaEI"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "BROOKDALE MERIDIAN ENGLEWOOD - NPI 1609564293 - Skilled Nursing ...",
+        "url": "https://npiprofile.com/npi/1609564293",
+        "datePublished": "2023-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1609564293",
+        "snippet": "3455 S CORONA ST ENGLEWOOD MERIDIAN RETIREMENT COMMUNITY ENGLEWOOD, CO 80113 (303) 761-0300: 1265746770: MRS. MELISSA JO HONEYFIELD M.A., CCC-SLP Individual: Speech-Language Pathologist: 3455 S CORONA ST ENGLEWOOD, CO 80113 (303) 761-0300: 1073889507: MS. JODY ANN SHERPA PT Individual: Physical Therapist: 3455 S CORONA ST ENGLEWOOD, CO 80113 ...",
+        "dateLastCrawled": "2025-06-01T18:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Brookdale Meridian Englewood",
+        "url": "https://www.seniorly.com/assisted-living/colorado/englewood/brookdale-meridian-englewood",
+        "datePublished": "2025-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/assisted-living/colorado/englewood/brookdale-meridian-englewood",
+        "snippet": "Brookdale Meridian Englewood is an Assisted Living community located at 3455 South Corona Street in Englewood, CO. See pricing, photos & reviews on Seniorly.com! Talk with a local advisor for ... 3455 South Corona Street, Englewood, CO 80113 Calculate travel time. Assisted Living \u00b7 Independent Living \u00b7 Nursing Home. 9.9. Community score ...",
+        "dateLastCrawled": "2025-05-29T16:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Meridian Englewood Health Center Skilled Nursing - Brookdale Senior Living",
+        "url": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/skilled-nursing.html",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.SAAHlDPGJSgepkGTLOxOTgHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/skilled-nursing.html",
+        "snippet": "Brookdale Meridian Englewood is an exceptional skilled nursing community in Englewood, Colorado, offering short-term rehabilitation, long-term skilled care. Brookdale Senior Living. Menu. 303-761-0300 ... 3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Brookdale Meridian Englewood community overview Brookdale Meridian Englewood ...",
+        "dateLastCrawled": "2025-06-02T09:24:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.SAAHlDPGJSgepkGTLOxOTgHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.SAAHlDPGJSgepkGTLOxOTgHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Brookdale Meridian Englewood \u2013 Englewood, CO \u2013 SeniorHousingNet.com",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/brookdale-meridian-englewood_3455-s-corona-st_englewood_co_80113-625158",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/brookdale-meridian-englewood_3455...",
+        "snippet": "Brookdale Meridian Englewood - facility located at 3455 South Corona Street, Englewood, CO, 80113, seniorhousingnet.com . 800-304-7152. Talk to a local advisor for free. Assisted Living; Alzheimer\u2019s Care; More Senior Living Options; ... 3455 South Corona Street, Englewood, CO 80113. Overview.",
+        "dateLastCrawled": "2025-03-05T08:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Brookdale Meridian Englewood, 3455 S Corona St, Englewood, CO 80113, US ...",
+        "url": "https://www.mapquest.com/us/colorado/brookdale-meridian-englewood-9941239",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/brookdale-meridian-englewood-9941239",
+        "snippet": "3455 S Corona St. Englewood, CO 80113 +1 (303) 761-0300. https://www.brookdale.com. Imagine your life enhanced with interesting people, a place where wellness is a reality, not a dream. A life full of wisdom to understand the power of a redefined independence at all stages of life with family and friends. A place where you choose not to just ...",
+        "dateLastCrawled": "2025-06-01T23:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Independent Living at Brookdale Meridian Englewood",
+        "url": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/independent-living.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/independent...",
+        "snippet": "3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Our Services. Home Skilled Nursing Independent Living Assisted Living At Home Service. Pricing Floor Plans Gallery. Brookdale Meridian Englewood. 3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Back to Community Overview Back to Community Overview .",
+        "dateLastCrawled": "2025-05-31T16:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Assisted Living at Brookdale Meridian Englewood - Brookdale Senior Living",
+        "url": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/assisted-living.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/assisted-living.html",
+        "snippet": "At Brookdale Meridian Englewood our exclusive personalized service system allows us to provide individually customized plans for you or your family member. Main Menu. ... 3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Our Services. Home Skilled Nursing Independent Living Assisted Living At Home Service. Pricing Floor Plans Gallery.",
+        "dateLastCrawled": "2025-05-31T10:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "3455 S Corona St, Englewood, CO 80113 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3455-S-Corona-St-Englewood-CO-80113/295020211_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3455-S-Corona-St-Englewood-CO-80113/295020211_zpid",
+        "snippet": "3455 S Corona St, Englewood, CO 80113 is currently not for sale. The -- sqft single family home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow. ... 3450 S Corona St UNIT E, Englewood, CO 80113. Off Market. $586,100. 2 bd | 3 ba | 1 ...",
+        "dateLastCrawled": "2025-04-04T02:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "MERIDIAN ENGLEWOOD NPI 1346654886 Skilled Nursing Facility in Englewood, CO",
+        "url": "https://npiprofile.com/npi/1346654886",
+        "datePublished": "2014-06-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 12, 2014",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1346654886",
+        "snippet": "3455 S CORONA ST ENGLEWOOD MERIDIAN RETIREMENT COMMUNITY ENGLEWOOD, CO 80113 (303) 761-0300: 1265746770: MRS. MELISSA JO HONEYFIELD M.A., CCC-SLP Individual: Speech-Language Pathologist: 3455 S CORONA ST ENGLEWOOD, CO 80113 (303) 761-0300: 1073889507: MS. JODY ANN SHERPA PT Individual: Physical Therapist: 3455 S CORONA ST ENGLEWOOD, CO 80113 ...",
+        "dateLastCrawled": "2025-05-31T13:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3455 S Corona St, Englewood, CO 80113 | Redfin",
+        "url": "https://www.redfin.com/CO/Englewood/3455-S-Corona-St-80113/home/56266264",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Englewood/3455-S-Corona-St-80113/home/56266264",
+        "snippet": "210.75 baths, 356452 sq. ft. house located at 3455 S Corona St, Englewood, CO 80113 sold for $8,480,000 on Nov 29, 1990. View sales history, tax history, home value estimates, and overhead views. A...",
+        "dateLastCrawled": "2025-03-01T23:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3455 S Corona St, Englewood, CO 80113 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3455-S-Corona-St-Englewood-CO-80113/122254729_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3455-S-Corona-St-Englewood-CO-80113/122254729_zpid",
+        "snippet": "3455 S Corona St, Englewood, CO 80113 is currently not for sale. The 249,424 Square Feet single family home is a -- beds, 210.75 baths property. This home was built in 1986 and last sold on 2018-04-03 for $84,103,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-11-20T04:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Lifestyle at Brookdale Meridian Englewood - Brookdale Senior Living",
+        "url": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/lifestyle.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-meridian-englewood/lifestyle.html",
+        "snippet": "3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Our Services. Home Skilled Nursing Independent Living Assisted Living At Home Service. Pricing Floor Plans Gallery. Brookdale Meridian Englewood. 3455 S. Corona Street, Englewood, CO 80113. 303-761-0300. Back to Community Overview Back to Community Overview .",
+        "dateLastCrawled": "2025-06-05T14:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1244 Bowwood Dr, Unit L, Loveland CO 80538"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1244+Bowwood+Dr%2c+Unit+L%2c+Loveland+CO+80538",
+    "totalEstimatedMatches": 730000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1244 Bowwood Dr, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1244-Bowwood-Dr-Loveland-CO-80538/13879306_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1244-Bowwood-Dr-Loveland-CO-80538/13879306_zpid",
+        "snippet": "1244 Bowwood Dr, Loveland CO, is a Single Family home that contains 1684 sq ft and was built in 1979.It contains 3 bedrooms and 2.25 bathrooms.This home last sold for $79,000 in June 1981. The Zestimate for this Single Family is $450,900, which has increased by $2,800 in the last 30 days.The Rent Zestimate for this Single Family is $1,793/mo, which has increased by $1,793/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-06T02:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1244 Bowwood Dr, Loveland, CO 80538 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1244-Bowwood-Dr_Loveland_CO_80538_M20464-97373",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1244-Bowwood-Dr_Loveland_CO_80538_M...",
+        "snippet": "See sales history and home details for 1244 Bowwood Dr, Loveland, CO 80538, a 3 bed, 3 bath, 1,684 Sq. Ft. single family home built in 1979 that was last sold on 06/01/1981.",
+        "dateLastCrawled": "2024-01-07T22:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1244 Bowwood Dr, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/1244-Bowwood-Dr-80538/home/34932632",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/1244-Bowwood-Dr-80538/home/34932632",
+        "snippet": "1244 Bowwood Dr is a 1,684 square foot house on a 8,079 square foot lot with 3 bedrooms and 2.5 bathrooms. - it last sold on June 01, 1981 for $79,000. Based on Redfin's Loveland data, we estimate the home's value is $458,458.",
+        "dateLastCrawled": "2025-03-08T20:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1244 Bowwood Dr Loveland, CO 80538 - Trulia",
+        "url": "https://www.trulia.com/home/1244-bowwood-dr-loveland-co-80538-13879306",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1244-bowwood-dr-loveland-co-80538-13879306",
+        "snippet": "1244 Bowwood Dr, Loveland, CO 80538 is a 1,684 sqft, 3 bed, 2.3 bath home sold in 1981. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-02-23T09:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Who lives at 1244 Bowwood Dr, Loveland, CO - ClustrMaps",
+        "url": "https://clustrmaps.com/a/97d9m/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://clustrmaps.com/a/97d9m",
+        "snippet": "The house has a concrete foundation. This address can be written as 1244 Bowwood Driv, Loveland, CO 80538-2123. The ZIP code for this address is 80538 and the postal code suffix is 2123. The address has the following coordinates: 40.432719,-105.094596. Monthly rental prices for a two-bedroom unit in the ZIP code 80538 is around $1,430.",
+        "dateLastCrawled": "2025-01-06T20:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ClustrMaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1244 Bowwood Dr Loveland CO 80538 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/1244-bowwood-dr-loveland-co-80538-25129353",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/1244-bowwood-dr-loveland-co-80538-25129353",
+        "snippet": "1244 Bowwood Dr Loveland CO with 3 bedroom and 3 bath is currently not for sale. Xome's estimated value is $481,170. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-04-03T07:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 1244 Bowwood Dr, Loveland, CO 80538 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Loveland/1244-Bowwood-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Loveland/1244-Bowwood-Dr",
+        "snippet": "Find people by address using reverse address lookup for 1244 Bowwood Dr, Loveland, CO 80538. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-02-16T21:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1244 Boxelder Dr, Loveland, CO 80538 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1244-Boxelder-Dr-Loveland-CO-80538/13878911_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1244-Boxelder-Dr-Loveland-CO-80538/13878911_zpid",
+        "snippet": "1244 Boxelder Dr, Loveland CO, is a Single Family home that contains 1584 sq ft and was built in 1975.It contains 3 bedrooms and 2 bathrooms.This home last sold for $250,000 in April 2016. The Zestimate for this Single Family is $430,200, which has increased by $6,220 in the last 30 days.The Rent Zestimate for this Single Family is $1,963/mo, which has increased by $1,963/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-21T16:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "People who live on Bowwood Dr in Loveland, Colorado",
+        "url": "https://voterrecords.com/street/bowwood%20dr-loveland-co/2",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/bowwood dr-loveland-co/2",
+        "snippet": "There are 18 people who live on Bowwood Dr in Loveland, Colorado that are registered to vote. Toggle navigation VoterRecords.com. ... 1232 Bowwood Dr Loveland, CO 80538: View Details : Ila Johnson: Colorado Republican Party: 1244 Bowwood Dr Loveland, CO 80538: View Details : Marina Garrison: Democratic Party: 1256 Bowwood Dr Loveland, ...",
+        "dateLastCrawled": "2024-07-03T08:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1256 Bowwood Dr, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/1256-Bowwood-Dr-80538/home/34932631",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/1256-Bowwood-Dr-80538/home/34932631",
+        "snippet": "3 beds, 1 bath, 1101 sq. ft. house located at 1256 Bowwood Dr, Loveland, CO 80538 sold for $432,000 on Apr 15, 2022. MLS# 960613. Absolute charming ranch home in the heart of Loveland with so much ...",
+        "dateLastCrawled": "2025-03-27T03:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1268 Bowwood Dr, Loveland, CO 80538 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1268-Bowwood-Dr-Loveland-CO-80538/13879308_zpid/",
+        "datePublished": "2024-10-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 7, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1268-Bowwood-Dr-Loveland-CO-80538/13879308_zpid",
+        "snippet": "1268 Bowwood Dr, Loveland CO, is a Single Family home that contains 1856 sq ft.It contains 4 bedrooms and 2 bathrooms.This home last sold for $440,000 in June 2021. The Zestimate for this Single Family is $511,100, which has increased by $3,887 in the last 30 days.The Rent Zestimate for this Single Family is $1,997/mo, which has increased by $1,997/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-27T22:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1268 Bowwood Dr, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/1268-Bowwood-Dr-80538/home/34932630",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/1268-Bowwood-Dr-80538/home/34932630",
+        "snippet": "4 beds, 4 baths, 1856 sq. ft. house located at 1268 Bowwood Dr, Loveland, CO 80538 sold for $440,000 on Jun 23, 2021. MLS# 940777. This beautifully maintained, Loveland home has a HUGE backyard, NO...",
+        "dateLastCrawled": "2025-03-09T02:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1244 Ulmus Dr, Loveland, CO 80538 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1244-Ulmus-Dr-Loveland-CO-80538/13884051_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1244-Ulmus-Dr-Loveland-CO-80538/13884051_zpid",
+        "snippet": "1244 Ulmus Dr, Loveland CO, is a Single Family home that contains 1808 sq ft and was built in 1977.It contains 3 bedrooms and 2.25 bathrooms.This home last sold for $7,100 in December 1976. The Zestimate for this Single Family is $493,400, which has increased by $8,580 in the last 30 days.The Rent Zestimate for this Single Family is $2,295/mo, which has increased by $2,295/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-16T20:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1303 Bowwood Ct, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/1303-Bowwood-Ct-80538/home/34932554",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/1303-Bowwood-Ct-80538/home/34932554",
+        "snippet": "Welcome to 1303 Bowwood Ct, Loveland, CO 80538 - a charming and meticulously updated tri-level home nestled in a serene cul-de-sac setting. ... 1084 Scarborough Dr, Loveland, CO 80538. View more recently sold homes. Home values near 1303 Bowwood Ct. Data from public records. ... 1244 Bowwood Drive, Loveland, CO. 3 Beds | 2.5 Baths | 1684 Sq. Ft ...",
+        "dateLastCrawled": "2025-03-28T07:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1256 Bowwood Dr, Loveland, CO 80538 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1256-Bowwood-Dr-Loveland-CO-80538/13879307_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1256-Bowwood-Dr-Loveland-CO-80538/13879307_zpid",
+        "snippet": "1256 Bowwood Dr, Loveland CO, is a Single Family home that contains 1101 sq ft and was built in 1979.It contains 3 bedrooms and 1 bathroom.This home last sold for $432,000 in April 2022. The Zestimate for this Single Family is $445,800, which has increased by $365 in the last 30 days.The Rent Zestimate for this Single Family is $2,078/mo, which has increased by $2,078/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-09T15:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1244 Tupelo Dr, Loveland, CO 80538 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1244-Tupelo-Dr-Loveland-CO-80538/13884118_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1244-Tupelo-Dr-Loveland-CO-80538/13884118_zpid",
+        "snippet": "1244 Tupelo Dr, Loveland CO, is a Single Family home that contains 1218 sq ft and was built in 1978.It contains 3 bedrooms and 1.75 bathrooms. The Zestimate for this Single Family is $434,800, which has increased by $8,781 in the last 30 days.The Rent Zestimate for this Single Family is $2,140/mo, which has increased by $2,140/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-30T03:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1232 Bowwood Dr, Loveland, CO 80538 | MLS# 510448 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/1232-Bowwood-Dr-80538/home/34932633",
+        "datePublished": "2006-11-28T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 28, 2006",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/1232-Bowwood-Dr-80538/home/34932633",
+        "snippet": "4 beds, 2.5 baths, 1682 sq. ft. house located at 1232 Bowwood Dr, Loveland, CO 80538 sold for $198,000 on Nov 27, 2006. MLS# 510448. Welcome Home to this 4 bdrm, 2 1/2 ba home w/ almost everything ...",
+        "dateLastCrawled": "2024-09-06T19:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1208 Bowwood Dr, Loveland, CO 80538 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1208-Bowwood-Dr-Loveland-CO-80538/13879303_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1208-Bowwood-Dr-Loveland-CO-80538/13879303_zpid",
+        "snippet": "1208 Bowwood Dr, Loveland CO, is a Single Family home that contains 1640 sq ft and was built in 1979.It contains 3 bedrooms and 2 bathrooms.This home last sold for $124,500 in February 1997. The Zestimate for this Single Family is $457,900, which has increased by $9,019 in the last 30 days.The Rent Zestimate for this Single Family is $2,130/mo, which has increased by $2,130/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-26T01:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1142 Bowwood Dr, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/1142-Bowwood-Dr-80538/home/34932629",
+        "datePublished": "2004-10-04T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 4, 2004",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/1142-Bowwood-Dr-80538/home/34932629",
+        "snippet": "3 beds, 2 baths, 2132 sq. ft. house located at 1142 Bowwood Dr, Loveland, CO 80538 sold for $178,000 on Sep 30, 2004. MLS# 424691. Attractive NW, 3 bdrm, 2 bath, ranch style home with bsmt. Cozy li...",
+        "dateLastCrawled": "2025-03-09T22:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1220 Bowwood Dr, Loveland, CO 80538 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1220-Bowwood-Dr-Loveland-CO-80538/13879304_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1220-Bowwood-Dr-Loveland-CO-80538/13879304_zpid",
+        "snippet": "1220 Bowwood Dr, Loveland CO, is a Single Family home that contains 1446 sq ft and was built in 1980.It contains 2 bedrooms and 1 bathroom.This home last sold for $163,000 in June 2003. The Zestimate for this Single Family is $408,900, which has increased by $5,900 in the last 30 days.The Rent Zestimate for this Single Family is $1,717/mo, which has increased by $1,717/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-10T07:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

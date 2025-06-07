@@ -1,0 +1,422 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "10769 Roseanna Dr, Northglenn CO 80234"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=10769+Roseanna+Dr%2c+Northglenn+CO+80234",
+    "totalEstimatedMatches": 125000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "10769 Roseanna Dr, Northglenn, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10769-Roseanna-Dr-Northglenn-CO-80234/12967951_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10769-Roseanna-Dr-Northglenn-CO-80234/12967951_zpid",
+        "snippet": "10769 Roseanna Dr, Northglenn CO, is a Single Family home that contains 2132 sq ft and was built in 1963.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $478,900, which has decreased by $7,206 in the last 30 days.The Rent Zestimate for this Single Family is $2,982/mo, which has increased by $2,982/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-09T08:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "10769 Roseanna Dr, Northglenn, CO 80234 | Redfin",
+        "url": "https://www.redfin.com/CO/Northglenn/10769-Roseanna-Dr-80234/home/34886865",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Northglenn/10769-Roseanna-Dr-80234/home/34886865",
+        "snippet": "3 beds, 2 baths, 2132 sq. ft. house located at 10769 Roseanna Dr, Northglenn, CO 80234. View sales history, tax history, home value estimates, and overhead views. APN ...",
+        "dateLastCrawled": "2025-04-19T22:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "10769 Roseanna Dr, Northglenn, CO 80234 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/10769-Roseanna-Dr_Northglenn_CO_80234_M28727-61365",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../10769-Roseanna-Dr_Northglenn_CO_80234_M28727-61365",
+        "snippet": "View detailed information about property 10769 Roseanna Dr, Northglenn, CO 80234 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-08-25T15:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "10769 Roseanna Dr, Northglenn, CO 80234 - Homes.com",
+        "url": "https://www.homes.com/property/10769-roseanna-dr-northglenn-co/w89c4yzvendl2/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/10769-roseanna-dr-northglenn-co/w89c4yzvendl2",
+        "snippet": "This home is located at 10769 Roseanna Dr, Northglenn, CO 80234 and is currently estimated at $527,746, approximately $247 per square foot. 10769 Roseanna Dr is a home located in Adams County with nearby schools including Westview Elementary School, Silver Hills Middle School, and Northglenn High School.",
+        "dateLastCrawled": "2025-02-11T06:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "10769 Roseanna Dr, Northglenn, CO 80234 - Trulia",
+        "url": "https://www.trulia.com/home/10769-roseanna-dr-northglenn-co-80234-12967951",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/10769-roseanna-dr-northglenn-co-80234-12967951",
+        "snippet": "10769 Roseanna Dr, Northglenn, CO 80234 is a 2,132 sqft, 3 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-22T20:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "10769 ROSEANNA DR, NORTHGLENN, CO 80234 - RE/MAX",
+        "url": "https://www.remax.com/co/northglenn/home-details/10769-roseanna-dr-northglenn-co-80234/12785487872148669580",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/northglenn/home-details/10769-roseanna-dr-northglenn-co-80234/...",
+        "snippet": "10769 ROSEANNA DR NORTHGLENN, CO 80234. Off Market. SEE THIS HOME'S ESTIMATED VALUE. 3 Beds. 2 Baths. 2,132 Sq Ft. Details for 10769 ROSEANNA DR. Built in 1963. No Info. 0.2152 acres lot. Interior. Bathrooms Full. 2.",
+        "dateLastCrawled": "2025-05-18T15:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "10769 Roseanna Dr Northglenn CO 80234 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/10769-roseanna-dr-northglenn-co-80234-29608092",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/10769-roseanna-dr-northglenn-co-80234-29608092",
+        "snippet": "10769 Roseanna Dr Northglenn CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $530,399. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-04-01T03:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "10969 Roseanna Dr, Northglenn, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10969-Roseanna-Dr-Northglenn-CO-80234/12967027_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10969-Roseanna-Dr-Northglenn-CO-80234/12967027_zpid",
+        "snippet": "10969 Roseanna Dr, Northglenn CO, is a Single Family home that contains 2730 sq ft and was built in 1972.It contains 4 bedrooms and 3 bathrooms.This home last sold for $580,000 in August 2021. The Zestimate for this Single Family is $633,100, which has increased by $12,345 in the last 30 days.The Rent Zestimate for this Single Family is $3,266/mo, which has increased by $3,266/mo in the last ...",
+        "dateLastCrawled": "2025-03-15T09:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "10728 Roseanna Dr, Northglenn, CO 80234 | MLS# 974398 - Redfin",
+        "url": "https://www.redfin.com/CO/Northglenn/10728-Roseanna-Dr-80234/home/34886513",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Northglenn/10728-Roseanna-Dr-80234/home/34886513",
+        "snippet": "3 beds, 2.5 baths, 1868 sq. ft. house located at 10728 Roseanna Dr, Northglenn, CO 80234 sold for $509,000 on Oct 4, 2022. MLS# 974398. Super cute split level home on a 1/4 acre with mature trees, ...",
+        "dateLastCrawled": "2025-01-10T03:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "10759 Roseanna Dr, Northglenn, CO 80234 | Redfin",
+        "url": "https://www.redfin.com/CO/Northglenn/10759-Roseanna-Dr-80234/home/34886858",
+        "datePublished": "2002-06-03T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 3, 2002",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Northglenn/10759-Roseanna-Dr-80234/home/34886858",
+        "snippet": "3 beds, 2 baths, 2377 sq. ft. house located at 10759 Roseanna Dr, Northglenn, CO 80234 sold for $243,900 on Jun 3, 2002. View sales history, tax history, home value estimates, and overhead views. A...",
+        "dateLastCrawled": "2025-06-04T22:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1569 Roseanna Drive, Northglenn, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1569-Roseanna-Dr-Northglenn-CO-80234/63241730_zpid/",
+        "datePublished": "2024-07-02T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 2, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1569-Roseanna-Dr-Northglenn-CO-80234/63241730_zpid",
+        "snippet": "1569 Roseanna Drive, Northglenn, CO 80234 is currently not for sale. The 1,917 Square Feet townhouse home is a 3 beds, 3 baths property. This home was built in 2003 and last sold on 2024-07-02 for $429,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-07-20T23:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1569 Roseanna Dr, Northglenn, CO 80234 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1569-Roseanna-Dr_Northglenn_CO_80234_M17214-31264",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1569-Roseanna-Dr_Northglenn_CO_80234...",
+        "snippet": "See photos and price history of this 3 bed, 2.5 bath, 1,917 Sq. Ft. recently sold home located at 1569 Roseanna Dr, Northglenn, CO 80234 that was sold on 07/02/2024 for $429000.",
+        "dateLastCrawled": "2024-09-30T08:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "10969 Roseanna Dr, Northglenn, CO 80234 | Redfin",
+        "url": "https://www.redfin.com/CO/Northglenn/10969-Roseanna-Dr-80234/home/34883653",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Northglenn/10969-Roseanna-Dr-80234/home/34883653",
+        "snippet": "4 beds, 2.5 baths, 2730 sq. ft. house located at 10969 Roseanna Dr, Northglenn, CO 80234 sold for $580,000 on Aug 25, 2021. MLS# 7793904. Directly out of the pages of a home magazine you'll enjoy s...",
+        "dateLastCrawled": "2025-05-09T11:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "10759 Roseanna Dr, Northglenn, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10759-Roseanna-Dr-Northglenn-CO-80234/12967950_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10759-Roseanna-Dr-Northglenn-CO-80234/12967950_zpid",
+        "snippet": "10759 Roseanna Dr, Northglenn CO, is a Single Family home that contains 1757 sq ft and was built in 1963.It contains 3 bedrooms and 2 bathrooms.This home last sold for $243,900 in June 2002. The Zestimate for this Single Family is $518,200, which has increased by $2,140 in the last 30 days.The Rent Zestimate for this Single Family is $2,641/mo, which has increased by $2,641/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-14T23:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "10809 Roseanna Dr, Northglenn, CO 80234 | MLS# 8600894 - Redfin",
+        "url": "https://www.redfin.com/CO/Northglenn/10809-Roseanna-Dr-80234/home/34883579",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Northglenn/10809-Roseanna-Dr-80234/home/34883579",
+        "snippet": "4 beds, 2 baths, 1983 sq. ft. house located at 10809 Roseanna Dr, Northglenn, CO 80234 sold for $512,000 on Jan 7, 2022. MLS# 8600894. This established north suburban home is a rare find. The lot i...",
+        "dateLastCrawled": "2024-12-02T02:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "10779 Roseanna Dr, Northglenn, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10779-Roseanna-Dr-Northglenn-CO-80234/12967952_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10779-Roseanna-Dr-Northglenn-CO-80234/12967952_zpid",
+        "snippet": "10779 Roseanna Dr, Northglenn, CO 80234 is currently not for sale. The 1,983 Square Feet single family home is a 4 beds, 2 baths property. This home was built in 1963 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-20T00:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1569 Roseanna Dr, Northglenn, CO 80234 | Redfin",
+        "url": "https://www.redfin.com/CO/Northglenn/1569-Roseanna-Dr-80234/home/34725723",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Northglenn/1569-Roseanna-Dr-80234/home/34725723",
+        "snippet": "(REColorado as Distributed by MLS Grid) Sold: 3 beds, 3 baths, 1917 sq. ft. townhouse located at 1569 Roseanna Dr, Northglenn, CO 80234 sold for $429,000 on Jul 2, 2024. MLS# 1924404. Don't miss out on this amazing opportunity to own a t...",
+        "dateLastCrawled": "2025-04-18T11:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "10799 Roseanna Dr, Northglenn, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10799-Roseanna-Dr-Northglenn-CO-80234/12967954_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10799-Roseanna-Dr-Northglenn-CO-80234/12967954_zpid",
+        "snippet": "10799 Roseanna Dr, Northglenn CO, is a Single Family home that contains 1868 sq ft and was built in 1963.It contains 4 bedrooms and 3 bathrooms.This home last sold for $435,000 in March 2020. The Zestimate for this Single Family is $524,100, which has decreased by $1,703 in the last 30 days.The Rent Zestimate for this Single Family is $2,824/mo, which has increased by $2,824/mo in the last 30 ...",
+        "dateLastCrawled": "2024-10-28T23:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "10779 Roseanna Dr, Northglenn, CO 80234 | Redfin",
+        "url": "https://www.redfin.com/CO/Northglenn/10779-Roseanna-Dr-80234/home/34886864",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Northglenn/10779-Roseanna-Dr-80234/home/34886864",
+        "snippet": "4 beds, 2 baths, 1983 sq. ft. house located at 10779 Roseanna Dr, Northglenn, CO 80234. View sales history, tax history, home value estimates, and overhead views. APN ...",
+        "dateLastCrawled": "2024-11-07T03:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "10789 Roseanna Dr, Northglenn, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10789-Roseanna-Dr-Northglenn-CO-80234/12967953_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10789-Roseanna-Dr-Northglenn-CO-80234/12967953_zpid",
+        "snippet": "10789 Roseanna Dr, Northglenn CO, is a Single Family home that contains 2173 sq ft and was built in 1963.It contains 4 bedrooms and 2 bathrooms.This home last sold for $170,000 in February 2009. The Zestimate for this Single Family is $506,900, which has increased by $9,245 in the last 30 days.The Rent Zestimate for this Single Family is $2,982/mo, which has increased by $2,982/mo in the last ...",
+        "dateLastCrawled": "2025-03-30T00:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

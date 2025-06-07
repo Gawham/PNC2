@@ -1,0 +1,466 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "6431 Royal Hunt Dr, Unit 104, Tampa FL 33625"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=6431+Royal+Hunt+Dr%2c+Unit+104%2c+Tampa+FL+33625",
+    "totalEstimatedMatches": 566000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "CHIQUI CLEANING SERVICES, INC. - Tampa - flcompanydb.com",
+        "url": "https://flcompanydb.com/company/P04000047790/chiqui-cleaning-services-inc.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://flcompanydb.com/company/P04000047790/chiqui-cleaning-services-inc.html",
+        "snippet": "CHIQUI CLEANING SERVICES, INC. register office address is 6431 ROYAL HUNT DR #104, TAMPA, FL 33625. Company mailing address is the same as principal address. You can find this business by geo coordinates: 28\u00b0 3' 37.9\" N , 82\u00b0 33' 7\" W.",
+        "dateLastCrawled": "2025-05-27T12:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Apartments in Tampa, FL | Hunters Run Apartments | Concord Rents ...",
+        "url": "https://www.myhuntersrunapts.com/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.CiGRGOs1Vue8sL24jTHamAHaEI&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.myhuntersrunapts.com",
+        "snippet": "Check for available units at Hunters Run Property List in Tampa, FL. View floor plans, photos, rental rates, and community amenities. ... 6402 Royal Hunt Dr. Tampa, FL 33625. Opens in a new tab. Phone Number (877) 333-1193. OFFICE HOURS. Monday to ...",
+        "dateLastCrawled": "2025-06-02T18:10:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.CiGRGOs1Vue8sL24jTHamAHaEI&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 264,
+          "imageId": "OIP.CiGRGOs1Vue8sL24jTHamAHaEI"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "6431 Royal Hunt Dr, Tampa, FL 33625 owner and property records - HUDWAY",
+        "url": "https://hudwayglass.com/house/6431+ROYAL+HUNT+DR,+Tampa+FL",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hudwayglass.com/house/6431+ROYAL+HUNT+DR,+Tampa+FL",
+        "snippet": "Information about property on 6431 Royal Hunt Dr, Tampa FL, 33625-2497. Find out owner contacts, building history, price, neighborhood | HudwayGlass ... Select apt / unit. Property Details ... Flor Gonzalez Apt # 104: Residential status: Renter. Gladys Agudelo, 70: 813-962-**** Helen Astocondor:",
+        "dateLastCrawled": "2024-07-17T04:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Flor A Gonzalez, 6431 Royal Hunt Dr, Tampa, FL | Nuwber",
+        "url": "https://nuwber.com/person/563a1ea2e0cd4806cb36da56",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nuwber.com/person/563a1ea2e0cd4806cb36da56",
+        "snippet": "Multiple Family Dwelling Unit. Residence Since. 2016. GET ADDRESS HISTORY. Relatives ... Miguel Gonzalez. Age 77 \u00b7 Tampa, FL . Address history . Previous address 2014-2015. 6431 Royal Hunt Dr, Apt 104, Tampa, FL, 33625-2498 . Associated with ... People Search States FL Tampa 6431 Royal Hunt Dr Flor A Gonzalez. Find. People ; Phone ; Address ...",
+        "dateLastCrawled": "2025-05-13T06:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "6431 Royal Hunt Dr, Tampa, 33625-2498, FL"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Home Country"
+            },
+            "items": [
+              {
+                "text": "Tampa, 33625-2498, FL"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Nuwber"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Chiqui Cleaning Services Inc in Tampa, FL 33625 - (813) 9...",
+        "url": "https://www.chamberofcommerce.com/united-states/florida/tampa/property-management-company/43268967-chiqui-cleaning-services-inc",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chamberofcommerce.com/united-states/florida/tampa/property-management...",
+        "snippet": "Chiqui Cleaning Services Inc located at 6431 Royal Hunt Dr, Tampa, FL 33625 - reviews, ratings, hours, phone number, directions, and more.",
+        "dateLastCrawled": "2024-03-26T18:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Chamber of Commerce"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "CHIQUI CLEANING SERVICES, INC. :: Florida (US) - OpenCorporates",
+        "url": "https://opencorporates.com/companies/us_fl/P04000047790",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opencorporates.com/companies/us_fl/P04000047790",
+        "snippet": "6431 ROYAL HUNT DR #104, TAMPA, FL, 33625 Latest Events. 2004-03-10 - 2018-12-31 Addition of officer MARCO AGUDELO, agent. 2004-03-10 - 2018-12-31 Addition of officer MARCO AGUDELO, director. 2004-03-10 - 2018-12-31 Addition of officer MARCO AGUDELO, president. See all events.",
+        "dateLastCrawled": "2022-11-24T10:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenCorporates"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "CHIQUI CLEANING SERVICES, INC. in Tampa, FL - Bizapedia",
+        "url": "https://www.bizapedia.com/fl/chiqui-cleaning-services-inc.html",
+        "datePublished": "2024-08-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 12, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/fl/chiqui-cleaning-services-inc.html",
+        "snippet": "CHIQUI CLEANING SERVICES, INC. is a Florida Domestic Profit Corporation filed on March 10, 2004. The company's filing status is listed as Inactive and its File Number is P04000047790. The Registered Agent on file for this company is Agudelo Marco and is located at 6431 Royal Hunt Dr #104, Tampa, FL 33625.",
+        "dateLastCrawled": "2024-12-09T08:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "FL"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Who Lives at 6431 Royal Hunt Dr, Tampa, FL 33625 | Spokeo",
+        "url": "https://www.spokeo.com/FL/Tampa/6431-Royal-Hunt-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/FL/Tampa/6431-Royal-Hunt-Dr",
+        "snippet": "Find people by address using reverse address lookup for 6431 Royal Hunt Dr, Tampa, FL 33625. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-04-20T13:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "JBM LOGISTICS EXPRESS LLC Tampa FL, 33625 - Company Profile - Cortera",
+        "url": "https://start.cortera.com/company/research/m2p6lur5q/jbm-logistics-express-llc/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://start.cortera.com/company/research/m2p6lur5q/jbm-logistics-express-llc",
+        "snippet": "Free Business profile for JBM LOGISTICS EXPRESS LLC at 6431 Royal Hunt Dr, Tampa, FL, 33625-2498, US.",
+        "dateLastCrawled": "2025-01-24T23:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Cortera"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Susana Lin, Tampa \u2014 Public Records Instantly - ClustrMaps",
+        "url": "https://clustrmaps.com/person/Lin-bimul6",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://clustrmaps.com/person/Lin-bimul6",
+        "snippet": "Quick Facts Susana celebrated 66th birthday on July 11. 6431 Royal Hunt Drv, Tampa, FL 33625 is the current address for Susana. We know that Tanya Baxley, Marion Carattini, and twelve other persons also lived at this address, perhaps within a different time frame.Residents of 33625 pay approximately $1,580 a month for a 2-bedroom unit.",
+        "dateLastCrawled": "2023-11-12T11:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ClustrMaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "DBPR - REYNALDO PUPO, IRINA, Real Estate Broker or Sales",
+        "url": "https://www.myfloridalicense.com/LicenseDetail.asp?id=D7DC82A222FA59D0D34E761B3E50BA8B",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.myfloridalicense.com/LicenseDetail.asp?id=D7DC82A222FA59D0D34E761B3E50BA8B",
+        "snippet": "6431 ROYAL HUNT DR APARTMENT 101 TAMPA Florida 33625 : County: HILLSBOROUGH : License Mailing: 11277 TIMBERCREST RD SPRING HILL SPRING HILL FL 34608 ... 2601 Blair Stone Road, Tallahassee FL 32399:: Email: Customer Contact Center:: Customer Contact Center: 850.487.1395",
+        "dateLastCrawled": "2025-06-01T20:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "MyFloridaLicense.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Mervin's Piping LLC Company Profile | Tampa, FL | Competitors ...",
+        "url": "https://www.dnb.com/business-directory/company-profiles.mervins_piping_llc.daad3e4ad1b7c93b873050ed3daff776.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.dnb.com/business-directory/company-profiles.mervins_piping_llc.daad3e4ad1b...",
+        "snippet": "Address: 6431 Royal Hunt Dr APT 203 Tampa, FL, 33625-2498 United States Phone: ...",
+        "dateLastCrawled": "2023-09-27T02:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Dun & Bradstreet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Hunters Run Apartments | Four Bedroom Three Bath | Available Units",
+        "url": "https://www.myhuntersrunapts.com/floorplans/four-bedroom-three-bath",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.myhuntersrunapts.com/floorplans/four-bedroom-three-bath",
+        "snippet": "View our available 4 - 3 apartments at Hunters Run Apartments in Tampa, FL. Schedule a tour today!",
+        "dateLastCrawled": "2025-05-18T05:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Affordable Housing in Tampa, FL: HUNTERS RUN I - Section 8 Search",
+        "url": "https://section8search.org/florida/tampa/hunters-run-i/lxbvaryr74trfzn10dsb6tm1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://section8search.org/florida/tampa/hunters-run-i/lxbvaryr74trfzn10dsb6tm1",
+        "snippet": "Explore HUNTERS RUN I, an affordable housing option in Tampa, FL. Welcome to Hunters Run I, a charming low-income tax credit community nestled in the heart of Tampa, Florida. This inviting property, established in 2003, offers 216 units designed with families in mind, creating a warm and supportive living environment. Hunters Run I blends comfort and convenience, making it an ideal choice for ...",
+        "dateLastCrawled": "2025-03-23T04:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "People who live on Royal Hunt Dr in Tampa, Florida",
+        "url": "https://voterrecords.com/street/royal+hunt+dr-tampa-fl/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/royal+hunt+dr-tampa-fl",
+        "snippet": "There are 149 people who live on Royal Hunt Dr in Tampa, Florida that are registered to vote. Toggle navigation VoterRecords.com. Share 21.8K. Search; Address Search; Reverse Phone; Charts; FAQ; ... 6302 Royal Hunt Dr Apt 104 Tampa, FL 33625-2530: View Details : Adabel Baldwin (42) Democratic Party: 6302 Royal Hunt Dr Apt 203 Tampa, FL 33625 ...",
+        "dateLastCrawled": "2025-04-25T23:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "YI COMMERCIAL CLEANING, INC. :: Florida (US) - OpenCorporates",
+        "url": "https://opencorporates.com/companies/us_fl/P06000013284",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opencorporates.com/companies/us_fl/P06000013284",
+        "snippet": "6431 ROYAL HUNT DRIVE, #104, TAMPA, FL, 33625 Mailing Address. 6431 ROYAL HUNT DRIVE, #104, TAMPA, FL, 33625 Latest Events. 2006-01-27 - 2018-12-31 Addition of officer SEUNH BAE YI, director. 2006-01-27 - 2018-12-31 Addition of officer SEUNH BAE YI, president. 2006-01-27 - 2018-12-31",
+        "dateLastCrawled": "2022-11-06T21:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenCorporates"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Hunters Run - Tampa, FL 33625 | ApartmentGuide.com",
+        "url": "https://www.apartmentguide.com/rent/Hunters-Run-Tampa-FL-29530/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentguide.com/rent/Hunters-Run-Tampa-FL-29530",
+        "snippet": "6402 Royal Hunt Dr, Tampa, FL 33625. Close. 1\u20134 Beds 1\u20133 Baths 816-1,455 Sqft See Floorplans. Dogs OK. Cats OK. ... 1221 E Columbus Dr unit A; Baywater; 2717 W Beach Street Unit A; 10408 N Woodmere Rd #1; ... 14003 San Casa Pl unit # 104; Seazen Rocky Point; 6802 Thomas Cir; Canopy at Citrus Park; 2305 W Texas Ave #3;",
+        "dateLastCrawled": "2025-04-24T01:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentGuide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Hunters Run, Phase I Tampa - Low Income Housing",
+        "url": "https://www.lowincomehousing.us/det/hunters_run_phase_i-33625",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.lowincomehousing.us/det/hunters_run_phase_i-33625",
+        "snippet": "6402 Royal Hunt Dr Tampa, FL - 33625 (813) 269-2900. Go to website. Hunters Run, Phase I Tampa Apartment Details. Hunters Run, Phase I Tampa is a Low-Income Housing Tax Credit apartment located in Tampa, FL.",
+        "dateLastCrawled": "2025-04-30T05:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Low Income Housing and Apartments"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Hunters Run Apartments | Tampa FL Affordable Housing Apartments",
+        "url": "https://housingapartments.org/rental_detail/53075",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://housingapartments.org/rental_detail/53075",
+        "snippet": "6402 Royal Hunt Dr. TAMPA FL, 33625 Contact Name: Contact Phone: (877) 333-1193 Details: Step out of the ordinary and into comfort! Hunters Run Apartment Homes is located in the Citrus Park area of Tampa, Florida just off Henderson Road with easy access to SR-589/Veterans Expy and Gunn Highway. Situated in the heart of Tampa, Florida, this ...",
+        "dateLastCrawled": "2025-03-21T05:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Low Income Housing"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Hunters Run Apartments | Two Bedroom Two Bath | Available Units",
+        "url": "https://www.myhuntersrunapts.com/floorplans/two-bedroom-two-bath",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.myhuntersrunapts.com/floorplans/two-bedroom-two-bath",
+        "snippet": "Tampa, FL 33625. Opens in a new tab. Phone Number (877) 333-1193. OFFICE HOURS. Monday to - Friday: 9:00 AM to - 1:00 PM; Saturday: Closed; Sunday: Closed; Tue and Thu: By Appointment Only Please contact us to schedule an appointment. ... 6402 Royal Hunt Dr. Tampa, FL 33625. Opens in a new tab ...",
+        "dateLastCrawled": "2025-05-27T09:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

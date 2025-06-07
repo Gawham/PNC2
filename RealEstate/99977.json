@@ -1,0 +1,424 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "219 E Dale St, Unit 2, Colorado Springs CO 80903"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=219+E+Dale+St%2c+Unit+2%2c+Colorado+Springs+CO+80903",
+    "totalEstimatedMatches": 7540000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "219 E Dale St #2, Colorado Springs, CO 80903 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/219-E-Dale-St-80903/unit-2/home/34449042",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/219-E-Dale-St-80903/unit-2/home/34449042",
+        "snippet": "2182 sq. ft. property located at 219 E Dale St #2, Colorado Springs, CO 80903 sold for $209,000 on Apr 19, 2002. View sales history, tax history, home value estimates, and overhead views. APN 64074...",
+        "deepLinks": [
+          {
+            "name": "219 E Dale St #4, Colorado Springs, CO 80903 | Redfin",
+            "url": "https://www.redfin.com/CO/Colorado-Springs/219-E-Dale-St-80903/unit-4/home/34449042",
+            "snippet": "2182 sq. ft. property located at 219 E Dale St #4, Colorado Springs, CO 80903 sold for \u00a4209,000 on Apr 19, 2002. View sales history, tax history, home value estimates, and overhead views. APN 64074..."
+          }
+        ],
+        "dateLastCrawled": "2024-01-05T11:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "219 E Dale St #2, Colorado Springs, 80903"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "219 E Dale St Apt 2, Colorado Springs, CO 80903 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/219-E-Dale-St-Apt-2_Colorado-Springs_CO_80903_M28720-10605",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../219-E-Dale-St-Apt-2_Colorado-Springs_CO_80903_M28720-10605",
+        "snippet": "View detailed information about property 219 E Dale St Apt 2, Colorado Springs, CO 80903 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2023-12-30T05:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "219 E Dale St, Colorado Springs, CO 80903 | Zillow",
+        "url": "https://www.zillow.com/homedetails/219-E-Dale-St-Colorado-Springs-CO-80903/181642427_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/219-E-Dale-St-Colorado-Springs-CO-80903/181642427_zpid",
+        "snippet": "219 E Dale St, Colorado Springs CO, is a Apartment home that contains 2182 sq ft and was built in 1909.This home last sold for $209,000 in April 2002. The Rent Zestimate for this Apartment is $2,465/mo, which has increased by $2,465/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-11T22:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "219 E Dale St, Colorado Springs, CO 80903 Property Record (FREE)",
+        "url": "https://www.countyoffice.org/property-record-219-e-dale-st-colorado-springs-co-80903-30f/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-219-e-dale-st-colorado-springs-co-80903-30f",
+        "snippet": "View 219 E Dale St, Colorado Springs, CO 80903 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... E Dale Street. 219 E Dale Street, Colorado Springs, CO 80903 80903 Property Records.",
+        "dateLastCrawled": "2024-12-03T23:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "219 E Dale St, Colorado Springs, CO 80903 - Homes.com",
+        "url": "https://www.homes.com/property/219-e-dale-st-colorado-springs-co/8fzl728fdgypd/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/219-e-dale-st-colorado-springs-co/8fzl728fdgypd",
+        "snippet": "This home is located at 219 E Dale St, Colorado Springs, CO 80903 and is currently estimated at $630,860, approximately $289 per square foot. 219 E Dale St is a home located in El Paso County with nearby schools including Taylor Elementary School, North Middle School, and William J. Palmer High School.",
+        "dateLastCrawled": "2024-01-08T20:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Who Lives at 219 E Dale St, Unit 2, Colorado Springs, CO 80903 - Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/219-E-Dale-St/2",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/219-E-Dale-St/2",
+        "snippet": "Find people by address using reverse address lookup for 219 E Dale St, Unit 2, Colorado Springs, CO 80903. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-08-19T04:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "219 E Dale St Colorado Springs, CO 80903 - Trulia",
+        "url": "https://www.trulia.com/home/219-e-dale-st-colorado-springs-co-80903-181642427",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/219-e-dale-st-colorado-springs-co-80903-181642427",
+        "snippet": "219 E Dale St, Colorado Springs, CO 80903 is a 2,182 sqft, Studio home sold in 2002. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-11-24T15:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Apartments for Rent in 80903, Colorado Springs, CO ...",
+        "url": "https://www.apartmenthomeliving.com/colorado-springs/zip-code/80903-apartments",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmenthomeliving.com/colorado-springs/zip-code/80903-apartments",
+        "snippet": "Apartments For Rent in the 80903 ZIP Code of Colorado Springs, CO - See official floorplans, pictures, prices and details for available Colorado Springs apartments in 80903 ZIP Code area at ApartmentHomeLiving.com. ... 304 E Uintah St, Unit 304 1-2 E. Uintah. 304 E Uintah St Colorado Springs, CO 80903. Affordability. check availability; close ...",
+        "dateLastCrawled": "2025-06-05T10:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentHomeLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "219 E Dale St #4, Colorado Springs, CO 80903 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/219-E-Dale-St-80903/unit-4/home/34449042",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/219-E-Dale-St-80903/unit-4/home/34449042",
+        "snippet": "2182 sq. ft. property located at 219 E Dale St #4, Colorado Springs, CO 80903 sold for \u00a4209,000 on Apr 19, 2002. View sales history, tax history, home value estimates, and overhead views. APN 64074...",
+        "dateLastCrawled": "2024-08-15T21:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Who Lives at 219 E Dale St, Colorado Springs, CO 80903 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/219-E-Dale-St",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/219-E-Dale-St",
+        "snippet": "Find people by address using reverse address lookup for 219 E Dale St, Colorado Springs, CO 80903. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-11-07T20:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "428 E Dale St UNIT 2, Colorado Springs, CO 80903 | Zillow",
+        "url": "https://www.zillow.com/homedetails/428-E-Dale-St-UNIT-2-Colorado-Springs-CO-80903/2080519184_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/428-E-Dale-St-UNIT-2-Colorado-Springs-CO-80903/...",
+        "snippet": "428 E Dale St UNIT 2, Colorado Springs, CO 80903 is currently not for sale. The 512 Square Feet condo home is a -- beds, -- baths property. This home was built in 1889 and last sold on 2020-04-13 for $1,150. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-02-25T12:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "329 E Dale St Unit 2, Colorado Springs, CO 80903 - Apartments.com",
+        "url": "https://www.apartments.com/329-e-dale-st-colorado-springs-co-unit-2/bn2rx19/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/329-e-dale-st-colorado-springs-co-unit-2/bn2rx19",
+        "snippet": "329 E Dale St Unit 2 is within 3 minutes or 1.1 miles from Colorado College. It is also near Pikes Peak C.C., Downtown and UC Colorado Springs. ... 655 S Sierra Madre St, Colorado Springs, CO 80903. 1 / 71. 3D Tours. Videos; Matterport 3D Tours; $2,175 - $3,940. 2 Beds. Pets Allowed Fitness Center Pool Dishwasher Kitchen In Unit Washer & Dryer ...",
+        "dateLastCrawled": "2025-05-03T05:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "9 E Dale St APT 2, Colorado Springs, CO 80903 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9-E-Dale-St-APT-2-Colorado-Springs-CO-80903/2099772738_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9-E-Dale-St-APT-2-Colorado-Springs-CO-80903/...",
+        "snippet": "9 E Dale St Apt 2, Colorado Springs CO, is a Multiple Occupancy home that contains 500 sq ft.It contains 1 bedroom and 1 bathroom. The Zestimate for this Multiple Occupancy is $603,000, which has increased by $603,000 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $1,320/mo, which has increased by $1,320/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-19T05:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2 E Dale St, Colorado Springs, CO 80903 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2-E-Dale-St_Colorado-Springs_CO_80903_M91760-72663",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2-E-Dale-St_Colorado-Springs_CO_80903_M91760-72663",
+        "snippet": "View detailed information about property 2 E Dale St, Colorado Springs, CO 80903 including listing details, property photos, school and neighborhood data, and much more. ... 417 E Kiowa St Unit ...",
+        "dateLastCrawled": "2024-03-29T03:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Blue Star Group \u00b7 219 E Colorado Ave, Colorado Springs, CO 80903",
+        "url": "https://opengovco.com/trade-name/20211158063",
+        "datePublished": "2021-02-18T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 18, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/trade-name/20211158063",
+        "snippet": "The Blue Star \u00b7 St. Louis Lighting Co., Inc. 219 E Colorado Ave, Colorado Springs, CO 80903: 2007-05-10: Blue Star Motorcycle Garage \u00b7 Blue Star Enterprises, LLC: 330 Windmill Dr, Durango, CO 81301: 2011-05-12: Blue Star Auto Group LLC: 7800 Miller Dr Unit E, Frederick, CO 80504: 2015-03-24",
+        "dateLastCrawled": "2025-04-24T07:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "219 E San Miguel St Unit A, Colorado Springs, CO 80903 - 219 E San ...",
+        "url": "https://www.apartments.com/219-e-san-miguel-st-colorado-springs-co/kcphbpc/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/219-e-san-miguel-st-colorado-springs-co/kcphbpc",
+        "snippet": "See Apartment A for rent at 219 E San Miguel St in Colorado Springs, CO from $3000 plus find other available Colorado Springs apartments. Apartments.com has 3D tours, HD videos, reviews and more researched data than all other rental sites. ... 627 Maple St, Colorado Springs, CO 80903. $2,600. 4 Beds, 2 Baths, 1,265 sq ft ... 2220 E La Salle St ...",
+        "dateLastCrawled": "2025-06-01T13:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "219 E Monument St, Colorado Springs, CO 80903 | Zillow",
+        "url": "https://www.zillow.com/homedetails/219-E-Monument-St-Colorado-Springs-CO-80903/13606968_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/219-E-Monument-St-Colorado-Springs-CO-80903/...",
+        "snippet": "219 E Monument St, Colorado Springs CO, is a Single Family home that contains 1332 sq ft and was built in 1908.It contains 3 bedrooms and 2 bathrooms.This home last sold for $180,400 in February 2012. The Zestimate for this Single Family is $470,200, which has increased by $5,074 in the last 30 days.The Rent Zestimate for this Single Family is $2,042/mo, which has increased by $2,042/mo in the ...",
+        "dateLastCrawled": "2025-03-16T21:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "219 Custer Ave, Colorado Springs, CO 80903 | Zillow",
+        "url": "https://www.zillow.com/homedetails/219-Custer-Ave-Colorado-Springs-CO-80903/59739356_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/219-Custer-Ave-Colorado-Springs-CO-80903/59739356_zpid",
+        "snippet": "219 Custer Ave, Colorado Springs CO, is a Single Family home that contains 936 sq ft and was built in 1904.It contains 2 bedrooms and 1 bathroom.This home last sold for $275,000 in May 2020. The Zestimate for this Single Family is $363,400, which has decreased by $7,581 in the last 30 days.The Rent Zestimate for this Single Family is $1,646/mo, which has increased by $1,646/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-18T12:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "219 E San Miguel St #B, Colorado Springs, CO 80903 | Zillow",
+        "url": "https://www.zillow.com/homedetails/219-E-San-Miguel-St-B-Colorado-Springs-CO-80903/2069742462_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/219-E-San-Miguel-St-B-Colorado-Springs-CO-80903/...",
+        "snippet": "219 E San Miguel St #B, Colorado Springs, CO 80903 is currently not for sale. The 365 Square Feet apartment home is a -- beds, 1 bath property. This home was built in null and last sold on 2024-04-08 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-15T15:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

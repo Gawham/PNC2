@@ -1,0 +1,423 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "13281 Antelope Pasture Pt, Kiowa CO 80117"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=13281+Antelope+Pasture+Pt%2c+Kiowa+CO+80117",
+    "totalEstimatedMatches": 73500,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "13281 Antelope Pasture Point, Kiowa, CO 80117 | Zillow",
+        "url": "https://www.zillow.com/homedetails/13281-Antelope-Pasture-Point-Kiowa-CO-80117/338231757_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13281-Antelope-Pasture-Point-Kiowa-CO-80117/...",
+        "snippet": "13281 Antelope Pasture Point, Kiowa CO, is a Single Family home that contains 4000 sq ft and was built in 2021.It contains 4 bedrooms and 3 bathrooms.This home last sold for $175,000 in January 2021. The Zestimate for this Single Family is $1,097,800, which has increased by $22,010 in the last 30 days.The Rent Zestimate for this Single Family is $4,760/mo, which has increased by $4,760/mo in ...",
+        "dateLastCrawled": "2025-06-03T02:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "13281 Antelope Pasture Pt, Kiowa, CO 80117 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/13281-Antelope-Pasture-Pt_Kiowa_CO_80117_M93588-08204",
+        "datePublished": "2020-03-26T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 26, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../13281-Antelope-Pasture-Pt_Kiowa_CO_80117_M93588-08204",
+        "snippet": "View detailed information about property 13281 Antelope Pasture Pt, Kiowa, CO 80117 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2023-12-08T23:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "13281 Antelope Pasture Pt Kiowa CO 80117 | Closed",
+        "url": "https://thegroupinc.com/properties/13281-antelope-pasture-pt-kiowa-co-80117/566083699/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://thegroupinc.com/properties/13281-antelope-pasture-pt-kiowa-co-80117/566083699",
+        "snippet": "The Antelope Run development offers wide open ranchette home sites located within a small commute of just 25 minutes east of Aurora, and 15 minutes no 970.229.0700 Login Account",
+        "dateLastCrawled": "2025-02-19T08:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Fort Collins Real Estate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "13281 Antelope Pasture Point | Hayden Outdoors",
+        "url": "https://www.haydenoutdoors.com/land-for-sale/13281-antelope-pasture-point/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.haydenoutdoors.com/land-for-sale/13281-antelope-pasture-point",
+        "snippet": "13281 Antelope Pasture Point presented by Hayden Outdoors. For inquiries, please call 866-741-8323 or contact the agent on this listed property.",
+        "dateLastCrawled": "2024-06-25T18:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Hayden Outdoors"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "13281 Antelope Pasture Pt, Kiowa, CO 80117 | 13 Photos - Movoto",
+        "url": "https://www.movoto.com/kiowa-co/13281-antelope-pasture-pt-kiowa-co-80117-523_7032371/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/kiowa-co/13281-antelope-pasture-pt-kiowa-co-80117-523_7032371",
+        "snippet": "Off-market: $175,000 $4,664/Acre - 13281 Antelope Pasture Pt, Kiowa, CO 80117 38 Acre land, with an estimated value of $511,582",
+        "dateLastCrawled": "2024-02-05T07:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "13281 Antelope Pasture Point Kiowa CO 80117 Weichert.com - Sold or ...",
+        "url": "https://www.weichert.com/89920147/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.weichert.com/89920147",
+        "snippet": "13281 Antelope Pasture Point Kiowa CO 80117 Weichert.com. Skip page header and navigation. Colorado Springs - WEICHERT, REALTORS\u00ae - Pikes Peak Group (719) 634-0500. 1-800-401-0486. Looking for an Associate? ... 13281 Antelope Pasture Point Kiowa, CO $ 173,000 $ 173,000 Get more info.",
+        "dateLastCrawled": "2024-06-06T17:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Weichert Realtors"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "13281 Antelope Pasture Poin Kiowa, CO 80117 - Trulia",
+        "url": "https://www.trulia.com/home/13281-Antelope-Pasture-Poin-Kiowa-CO-80117-2080332222",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/13281-Antelope-Pasture-Poin-Kiowa-CO-80117-2080332222",
+        "snippet": "13281 Antelope Pasture Poin, Kiowa, CO 80117 is a 0 bath home sold in 2021. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-02-07T14:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "13281 Antelope Pasture Poin, Kiowa, CO 80117 - Zillow",
+        "url": "https://www.zillow.com/homedetails/13281-Antelope-Pasture-Poin-Kiowa-CO-80117/2080332222_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13281-Antelope-Pasture-Poin-Kiowa-CO-80117/...",
+        "snippet": "13281 Antelope Pasture Poin, Kiowa, CO 80117 is currently not for sale. The vacant lot last sold on 2021-01-07 for $--, with a recorded lot size of 37.52 acres (1634371 sq. ft.). View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-20T14:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "13281 Antelope Pasture Point, Kiowa, CO 80117 - Zillow",
+        "url": "https://www.zillow.com/homedetails/13281-Antelope-Pasture-Point-Kiowa-CO-80117/345615884_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13281-Antelope-Pasture-Point-Kiowa-CO-80117/...",
+        "snippet": "13281 Antelope Pasture Point, Kiowa, CO 80117 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-07T15:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "People who live on Antelope Pasture Pt in Kiowa, Colorado",
+        "url": "https://voterrecords.com/street/antelope+pasture+pt-kiowa-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/antelope+pasture+pt-kiowa-co",
+        "snippet": "There are 9 people who live on Antelope Pasture Pt in Kiowa, Colorado that are registered to vote. Toggle navigation VoterRecords.com. ... 13041 Antelope Pasture Pt Kiowa, CO 80117: ... 13281 Antelope Pasture Pt Kiowa, CO 80107: View Details : Jennifer Zenker: Colorado Republican Party: 13281 Antelope Pasture Pt Kiowa, CO 80107: View Details :",
+        "dateLastCrawled": "2025-06-01T08:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "13281 Antelope Pasture Point Kiowa CO 80117 Weichert.com - Sold or ...",
+        "url": "https://www.weichert.com/89963251/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.weichert.com/89963251",
+        "snippet": "13281 Antelope Pasture Point Kiowa CO 80117 Weichert.com. Skip page header and navigation. 1-800-401-0486. Looking for an Associate? ... 13281 Antelope Pasture Point Kiowa, CO $ 173,000 $ 173,000 Get more info. 13281 Antelope Pasture Point $ 173,000. Back to search.",
+        "dateLastCrawled": "2025-04-05T02:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Weichert Realtors"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "13281 Antelope Pasture Point Kiowa, CO 80117 - Trulia",
+        "url": "https://www.trulia.com/home/13281-antelope-pasture-point-kiowa-co-80117-338231757",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/13281-antelope-pasture-point-kiowa-co-80117-338231757",
+        "snippet": "13281 Antelope Pasture Point, Kiowa, CO 80117 is a 2,928 sqft, 2 bed, 2.8 bath home sold in 2021. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-06-24T14:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "13431 Antelope Pasture Pt, Kiowa, CO 80117 | MLS# 2398178 - Redfin",
+        "url": "https://www.redfin.com/CO/Kiowa/13431-Antelope-Pasture-Pt-80117/home/171196101",
+        "datePublished": "2020-03-26T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 26, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Kiowa/13431-Antelope-Pasture-Pt-80117/home/171196101",
+        "snippet": "Vacant land located at 13431 Antelope Pasture Pt, Kiowa, CO 80117 sold for $170,000 on Feb 11, 2021. MLS# 2398178. The Antelope Run development offers wide open ranchette home sites located within ...",
+        "dateLastCrawled": "2024-08-28T21:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "13041 Antelope Pasture Pt, Kiowa, CO 80117 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/13041-Antelope-Pasture-Pt_Kiowa_CO_80117_M93106-57419",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../13041-Antelope-Pasture-Pt_Kiowa_CO_80117_M93106-57419",
+        "snippet": "View 42 photos for 13041 Antelope Pasture Pt, Kiowa, CO 80117, a 5 bed, 3 bath, 4,148 Sq. Ft. single family home built in 2024 that was last sold on 07/16/2024.",
+        "dateLastCrawled": "2025-03-20T01:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "13041 Antelope Pasture Pt, Kiowa, CO 80117 | Redfin",
+        "url": "https://www.redfin.com/CO/Kiowa/13041-Antelope-Pasture-Pt-80117/home/181435777",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Kiowa/13041-Antelope-Pasture-Pt-80117/home/181435777",
+        "snippet": "Sold: 5 beds, 3 baths, 4148 sq. ft. house located at 13041 Antelope Pasture Pt, Kiowa, CO 80117 sold for $970,000 on Jul 16, 2024. MLS# 3091424. 13051 Antelope Pasture Point in Kiowa, Colorado, off...",
+        "dateLastCrawled": "2025-04-09T03:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "13041 Antelope Pasture Point, Kiowa, CO 80117 - Zillow",
+        "url": "https://www.zillow.com/homedetails/13041-Antelope-Pasture-Point-Kiowa-CO-80117/338231758_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13041-Antelope-Pasture-Point-Kiowa-CO-80117/...",
+        "snippet": "13041 Antelope Pasture Point, Kiowa CO, is a Single Family home that contains 4148 sq ft and was built in 2024.It contains 5 bedrooms and 3 bathrooms.This home last sold for $970,000 in July 2024. The Zestimate for this Single Family is $995,300, which has increased by $10,161 in the last 30 days.The Rent Zestimate for this Single Family is $4,870/mo, which has increased by $4,870/mo in the ...",
+        "dateLastCrawled": "2025-02-10T15:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "13041 Antelope Pasture Point, Kiowa, CO 80117 - Zillow",
+        "url": "https://www.zillow.com/homedetails/13041-Antelope-Pasture-Point-Kiowa-CO-80117/347773674_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13041-Antelope-Pasture-Point-Kiowa-CO-80117/...",
+        "snippet": "13041 Antelope Pasture Point, Kiowa, CO 80117 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. ... 13281 Antelope Pasture Point, Kiowa, CO 80117. Off Market. $172,500. 13.37 Acres. 44153 Iron Ranch Rd #3, Bennett, CO 80102. Sold. $585,439.",
+        "dateLastCrawled": "2025-04-14T07:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "13382 Antelope Pasture Pt, Kiowa, CO 80117 | MLS# 8711690 - Redfin",
+        "url": "https://www.redfin.com/CO/Kiowa/13382-Antelope-Pasture-Pt-80117/home/181465115",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Kiowa/13382-Antelope-Pasture-Pt-80117/home/181465115",
+        "snippet": "Vacant land located at 13382 Antelope Pasture Pt, Kiowa, CO 80117 sold for $165,000 on Nov 5, 2020. MLS# 8711690. The Antelope Run development offers wide open ranchette home sites located within a...",
+        "dateLastCrawled": "2024-11-15T21:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "13382 Antelope Pasture Point, Kiowa, CO 80117 - Zillow",
+        "url": "https://www.zillow.com/homedetails/13382-Antelope-Pasture-Point-Kiowa-CO-80117/338231764_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13382-Antelope-Pasture-Point-Kiowa-CO-80117/...",
+        "snippet": "13382 Antelope Pasture Point, Kiowa, CO 80117 is currently not for sale. The vacant lot last sold on 2020-11-09 for $165,000, with a recorded lot size of 36.01 acres (1568595 sq. ft.). View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-08T09:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "13431 Antelope Pasture Point, Kiowa, CO 80117 - Zillow",
+        "url": "https://www.zillow.com/homedetails/13431-Antelope-Pasture-Point-Kiowa-CO-80117/338231756_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13431-Antelope-Pasture-Point-Kiowa-CO-80117/...",
+        "snippet": "13431 Antelope Pasture Point, Kiowa CO, is a Single Family home that contains 2211 sq ft and was built in 2021.It contains 3 bedrooms and 2 bathrooms.This home last sold for $170,000 in February 2021. The Zestimate for this Single Family is $649,700, which has decreased by $23,700 in the last 30 days.The Rent Zestimate for this Single Family is $3,406/mo, which has increased by $3,406/mo in ...",
+        "dateLastCrawled": "2025-04-06T04:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

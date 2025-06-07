@@ -1,0 +1,434 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "431 10th St, Greeley CO 80631"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=431+10th+St%2c+Greeley+CO+80631",
+    "totalEstimatedMatches": 677000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "431 10th St, Greeley, CO 80631 - Zillow",
+        "url": "https://www.zillow.com/homedetails/431-10th-St-Greeley-CO-80631/14071140_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/431-10th-St-Greeley-CO-80631/14071140_zpid",
+        "snippet": "431 10th St, Greeley, CO 80631 is currently not for sale. The 1,033 Square Feet single family home is a 2 beds, 1 bath property. This home was built in 1912 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "deepLinks": [
+          {
+            "name": "427 10th St, Greeley, CO 80631",
+            "url": "https://www.zillow.com/homedetails/427-10th-St-Greeley-CO-80631/14071141_zpid/",
+            "snippet": "427 10th St, Greeley CO, is a Single Family home that contains 1056 sq ft and was built in 1949.It contains 2 bedrooms and 1 bathroom.This home last sold for $160,000 in June 2017. The Zestimate for this Single Family is $283,400, which has decreased by $1,032 in the last 30 days.The Rent Zestimate for this Single Family is $1,828/mo, which has increased by $1,828/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2025-03-27T05:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "431 10th St, Greeley, CO 80631 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/431-10th-St_Greeley_CO_80631_M27189-24559",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/431-10th-St_Greeley_CO_80631_M27189...",
+        "snippet": "See sales history and home details for 431 10th St, Greeley, CO 80631, a 2 bed, 1 bath, 1,033 Sq. Ft. single family home built in 1912 that was last sold on 03/23/1994.",
+        "dateLastCrawled": "2024-03-05T18:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "431 10th St, Greeley, CO 80631 | Redfin",
+        "url": "https://www.redfin.com/CO/Greeley/431-10th-St-80631/home/35422729",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Greeley/431-10th-St-80631/home/35422729",
+        "snippet": "2 beds, 1 bath, 1033 sq. ft. house located at 431 10th St, Greeley, CO 80631 sold for $55,000 on Mar 23, 1994. View sales history, tax history, home value estimates, and overhead views. APN R284978...",
+        "dateLastCrawled": "2025-03-17T20:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "431 10th St, Greeley, 80631, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "431 10th St, Greeley, CO 80631 - Homes.com",
+        "url": "https://www.homes.com/property/431-10th-st-greeley-co/enprrqtryc30p/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/431-10th-st-greeley-co/enprrqtryc30p",
+        "snippet": "This home is located at 431 10th St, Greeley, CO 80631 and is currently estimated at $282,241, approximately $273 per square foot. 431 10th St is a home located in Weld County with nearby schools including Maplewood Elementary School, Heath Middle School, and Northridge High School.",
+        "dateLastCrawled": "2025-05-01T21:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "431 10th St, Greeley, CO 80631 - Trulia",
+        "url": "https://www.trulia.com/home/431-10th-st-greeley-co-80631-14071140",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/431-10th-st-greeley-co-80631-14071140",
+        "snippet": "431 10th St, Greeley, CO 80631 is a 1,033 sqft, 2 bed, 1 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-08-02T02:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "431 10Th St, Greeley, CO - HOKE DARRIN EUGENE",
+        "url": "https://parcellookup.com/p/431-10th-st-greeley-co-80631_1680538",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://parcellookup.com/p/431-10th-st-greeley-co-80631_1680538",
+        "snippet": "Detailed information on 431 10Th St owned by HOKE DARRIN EUGENE. ParcelLookup Toggle navigation. Search. Search. Home; Colorado; Weld County; Greeley; 431 10Th St; 431 10Th St ... 601 10Th St, Greeley, CO 80631 (N/A) GLOBAL PROPERTIES AND MANAGEMENT LLC: View Parcel Details: 725 10Th St, Greeley, CO 80631 (N/A) KGB HOLDINGS LLC:",
+        "dateLastCrawled": "2025-05-19T04:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "427 10th St, Greeley, CO 80631 - Zillow",
+        "url": "https://www.zillow.com/homedetails/427-10th-St-Greeley-CO-80631/14071141_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.duwVQQ85fjdQJQKnHMaubwHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/427-10th-St-Greeley-CO-80631/14071141_zpid",
+        "snippet": "427 10th St, Greeley CO, is a Single Family home that contains 1056 sq ft and was built in 1949.It contains 2 bedrooms and 1 bathroom.This home last sold for $160,000 in June 2017. The Zestimate for this Single Family is $283,400, which has decreased by $1,032 in the last 30 days.The Rent Zestimate for this Single Family is $1,828/mo, which has increased by $1,828/mo in the last 30 days.",
+        "dateLastCrawled": "2025-06-01T03:36:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.duwVQQ85fjdQJQKnHMaubwHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.duwVQQ85fjdQJQKnHMaubwHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "431 13th Ave, Greeley, CO 80631 | Redfin",
+        "url": "https://www.redfin.com/CO/Greeley/431-13th-Ave-80631/home/35423702",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Greeley/431-13th-Ave-80631/home/35423702",
+        "snippet": "4 beds, 2 baths, 1584 sq. ft. house located at 431 13th Ave, Greeley, CO 80631 sold for $44,500 on Jun 2, 2008. MLS# 558525. Fixer-upper needs lost of work. Sold in as-is condition, buyer to verify...",
+        "dateLastCrawled": "2025-04-03T05:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "431 8th St, Greeley, CO 80631 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/431-8th-St_Greeley_CO_80631_M19982-98508",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/431-8th-St_Greeley_CO_80631_M19982-98508",
+        "snippet": "View detailed information about property 431 8th St, Greeley, CO 80631 including listing details, property photos, school and neighborhood data, and much more. ... 1410 10th Ave. Greeley, CO 80631 ...",
+        "dateLastCrawled": "2024-02-21T14:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "431 13th Ave, Greeley, CO 80631 - Zillow",
+        "url": "https://www.zillow.com/homedetails/431-13th-Ave-Greeley-CO-80631/14071409_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/431-13th-Ave-Greeley-CO-80631/14071409_zpid",
+        "snippet": "431 13th Ave, Greeley CO, is a Single Family home that contains 1584 sq ft and was built in 1930.It contains 4 bedrooms and 2 bathrooms.This home last sold for $44,500 in June 2008. The Zestimate for this Single Family is $315,400, which has increased by $123 in the last 30 days.The Rent Zestimate for this Single Family is $2,171/mo, which has increased by $2,171/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-27T22:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "415 10th St, Greeley, CO 80631 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/415-10th-St_Greeley_CO_80631_M10829-14343",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/415-10th-St_Greeley_CO_80631_M10829...",
+        "snippet": "View 26 photos for 415 10th St, Greeley, CO 80631, a 3 bed, 1 bath, 1,333 Sq. Ft. single family home built in 1924 that was last sold on 01/06/2023.",
+        "dateLastCrawled": "2023-12-14T16:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "415 10th St, Greeley, CO 80631 | Redfin",
+        "url": "https://www.redfin.com/CO/Greeley/415-10th-St-80631/home/35422733",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Greeley/415-10th-St-80631/home/35422733",
+        "snippet": "3 beds, 2 baths, 1333 sq. ft. house located at 415 10th St, Greeley, CO 80631 sold for $345,000 on Jan 6, 2023. MLS# 978463. Brand new remodeled 3 bed 2 bath home; thoroughly inspected by the city....",
+        "dateLastCrawled": "2025-04-10T07:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1440 10th St, Greeley, CO 80631 | MLS #1028447 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1440-10th-St-Greeley-CO-80631/14072409_zpid/",
+        "datePublished": "2025-05-09T00:00:00.0000000",
+        "datePublishedDisplayText": "May 9, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1440-10th-St-Greeley-CO-80631/14072409_zpid",
+        "snippet": "Zillow has 33 photos of this $450,000 7 beds, 3 baths, 2,160 Square Feet multi family home located at 1440 10th St, Greeley, CO 80631 built in 1895. MLS #1028447.",
+        "dateLastCrawled": "2025-06-04T09:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "601 10th St, Greeley, CO 80631 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/601-10th-St_Greeley_CO_80631_M99099-04329",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/601-10th-St_Greeley_CO_80631_M99099...",
+        "snippet": "View detailed information about property 601 10th St, Greeley, CO 80631 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2025-04-04T07:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "427 10th St, Greeley, CO 80631 | MLS# 819437 | Redfin",
+        "url": "https://www.redfin.com/CO/Greeley/427-10th-St-80631/home/35422732",
+        "datePublished": "2017-06-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 22, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Greeley/427-10th-St-80631/home/35422732",
+        "snippet": "2 beds, 1 bath, 1056 sq. ft. house located at 427 10th St, Greeley, CO 80631 sold for $160,000 on Jun 22, 2017. MLS# 819437. Great Investment! Cute 2 bedroom, 1 bathroom ranch style home that sits ...",
+        "dateLastCrawled": "2025-01-03T02:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "503 10th St, Greeley, CO 80631 - Zillow",
+        "url": "https://www.zillow.com/homedetails/503-10th-St-Greeley-CO-80631/14071157_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/503-10th-St-Greeley-CO-80631/14071157_zpid",
+        "snippet": "503 10th St, Greeley CO, is a Single Family home that contains 1116 sq ft and was built in 1920.It contains 3 bedrooms and 1 bathroom. The Zestimate for this Single Family is $267,300, which has decreased by $6,229 in the last 30 days.The Rent Zestimate for this Single Family is $1,706/mo, which has increased by $1,706/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-31T08:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1201 10th Street, Greeley, CO 80631 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1201-10th-St-Greeley-CO-80631/14072315_zpid/",
+        "datePublished": "2025-05-15T00:00:00.0000000",
+        "datePublishedDisplayText": "May 15, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1201-10th-St-Greeley-CO-80631/14072315_zpid",
+        "snippet": "1201 10th Street, Greeley CO, is a Single Family home that contains 3100 sq ft and was built in 1900.It contains 7 bedrooms and 4 bathrooms.This home last sold for $438,500 in May 2025. The Zestimate for this Single Family is $438,500, which has decreased by $11,516 in the last 30 days.The Rent Zestimate for this Single Family is $2,669/mo, which has increased by $2,669/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-20T07:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1412 10th St, Greeley, CO 80631 - Redfin",
+        "url": "https://www.redfin.com/CO/Greeley/1412-10th-St-80631/home/35425465",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Greeley/1412-10th-St-80631/home/35425465",
+        "snippet": "For Sale: 30 beds, 20 baths \u2219 13281 sq. ft. \u2219 1412 10th St, Greeley, CO 80631 \u2219 $1,900,000 \u2219 MLS# 1030086 \u2219 The Maple Apartments offer an outstanding investment opportunity in the heart of Greeley....",
+        "dateLastCrawled": "2025-06-06T12:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1331 10th St, Greeley, CO 80631 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1331-10th-St-Greeley-CO-80631/14072323_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1331-10th-St-Greeley-CO-80631/14072323_zpid",
+        "snippet": "1331 10th St, Greeley CO, is a Single Family home that contains 2528 sq ft and was built in 1900.It contains 3 bedrooms and 3 bathrooms.This home last sold for $200,000 in September 1996. The Zestimate for this Single Family is $363,100, which has increased by $2,775 in the last 30 days.The Rent Zestimate for this Single Family is $2,504/mo, which has increased by $2,504/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-05T16:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

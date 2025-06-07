@@ -1,0 +1,507 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 41, Cascade CO 80809"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+41%2c+Cascade+CO+80809",
+    "totalEstimatedMatches": 2160000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Post Office in Cascade, CO - Hours and Location - Postal Locations",
+        "url": "https://www.postallocations.com/co/cascade/cascade",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postallocations.com/co/cascade/cascade",
+        "snippet": "Post Office in Cascade, Colorado on Ute Pass Ave. Operating hours ... Search; Links; Contact; Postal Locations. Colorado Cascade. Cascade Post Office. 8006 Ute Pass Ave, Cascade, CO 80809. Contact Numbers Phone: 719-684-2146 Fax: 719-684-7742 TTY: 877-889-2457 Toll-Free: 1-800-Ask-USPS\u00ae (275-8777) ... PO Box Online; Lot Parking; Visit our ...",
+        "dateLastCrawled": "2025-06-02T01:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "PostalLocations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Cascade Post Office, CO 80809 - Hours Phone Service and Location",
+        "url": "https://us-postoffice.com/co/cascade/cascade-post-office",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://us-postoffice.com/co/cascade/cascade-post-office",
+        "snippet": "Cascade Post Office in Colorado, CO 80809. Operating hours, phone number, services information, and other locations near you. ... Search. Colorado (CO) Cascade; Cascade Post Office; Cascade Post Office 8006 Ute Pass Ave, Cascade CO 80809. About. Address: 8006 Ute Pass Ave, Cascade CO 80809 Large Map & Directions ; ... PO Box Online; Sure Money ...",
+        "dateLastCrawled": "2025-06-02T04:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Postoffice of US"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "5050 Pikes Peak Hwy Cascade CO 80809 | Post Office Location",
+        "url": "https://www.postofficelocations.net/details/5050-Pikes-Peak-Hwy-Cascade-CO-80809/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficelocations.net/details/5050-Pikes-Peak-Hwy-Cascade-CO-80809",
+        "snippet": "View this post office location located at 5050 Pikes Peak Hwy Cascade CO 80809. Find the hours of operation and all contact information to get your mail done today. Home; Post Offices By State ... Below are the open and close hours for the Cascade Post Office along with the holiday closure dates. Monday: 10:00AM-6:00PM. Tuesday: 10 :00AM-6:00PM ...",
+        "dateLastCrawled": "2025-06-03T21:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "5050 Pikes Peak Hwy, Cascade, 80809, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(719) 684-9432"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Post Office Locations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Post Office Cascade (CO) - Opening Hours of USPS Post Offices",
+        "url": "https://www.hourspostoffice.com/USPS%20Post%20Office%20Cascade%20%28CO%29/80809/Cascade/12700",
+        "datePublished": "2025-05-19T00:00:00.0000000",
+        "datePublishedDisplayText": "May 19, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hourspostoffice.com/USPS Post Office Cascade (CO)/80809/Cascade/12700",
+        "snippet": "Post Office Cascade (CO) ... Cascade: State: CO: ZIP : 80809-9998: Phone: 719-684-2146: The Post Office is open Monday to Friday from 8:00 am to 1:00 pm and from 2:00 pm to 4:00 pm and on Saturday from 9:00 am to 12:30 pm. It is closed on Sunday. Bulk Mail Acceptance ... PO Box Online; Sure Money; Parking: Lot Parking Available",
+        "dateLastCrawled": "2025-05-21T14:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "07196 842146"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Post office address"
+            },
+            "items": [
+              {
+                "text": "8006 Ute Pass Ave"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "State"
+            },
+            "items": [
+              {
+                "text": "CO"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Town/City"
+            },
+            "items": [
+              {
+                "text": "Cascade"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "ZIP"
+            },
+            "items": [
+              {
+                "text": "80809 -9998"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Opening Hours of USPS Post Offices"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "CASCADE Post Office, Cascade, CO - PostOfficeFinder.org",
+        "url": "https://postofficefinder.org/co/el-paso/cascade/80809/cascade/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficefinder.org/co/el-paso/cascade/80809/cascade",
+        "snippet": "8006 UTE PASS AVE CASCADE, CO 80809 - 9998. Lot Parking Available",
+        "dateLastCrawled": "2024-10-27T20:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PostOfficeFinder.org"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Cascade Post Office, 8006 Ute Pass Ave , CO 80809 | Post Office Location",
+        "url": "https://postofficepage.com/unitedstates/colorado/cascade-post-office",
+        "datePublished": "2025-02-23T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 23, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficepage.com/unitedstates/colorado/cascade-post-office",
+        "snippet": "A comprehensive contact information for the Cascade Post Office in Colorado, United States with phone number, address, email, services and working hours. ... Address: 8006 Ute Pass Ave , CO 80809; State: Colorado; District: Cascade; Pincode: 80809; Phone: 719-684-2146; Fax: 719-684-7742; TTY: 877-889-2457; ... PO Box Online Sure Money Lot ...",
+        "dateLastCrawled": "2025-02-23T09:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Postofficepage.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Cascade Post Office 8006 Ute Pass Ave Cascade, CO",
+        "url": "https://postallocationsnearme.com/colorado/cascade/cascade-post-office-8006-ute-pass-ave-cascade-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postallocationsnearme.com/.../cascade-post-office-8006-ute-pass-ave-cascade-co",
+        "snippet": "Cascade, CO Post Office. Table of Contents. Cascade, CO Post Office. Cascade USPS Services; ... Cascade Post Office P.O. Box Access Hours; ... Cascade, CO 80809. Phone Number: 719-684-2146 800 Phone Number: 800-ASK-USPS\u00ae TTY Phone Number: 877-889-2457",
+        "dateLastCrawled": "2024-10-12T19:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Post Office Near Me"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Cascade Post Office 8006 Ute Pass Ave Cascade Colorado 80809",
+        "url": "https://www.postofficelocations.com/cascade-post-office-colorado-pl53013",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficelocations.com/cascade-post-office-colorado-pl53013",
+        "snippet": "Cascade post office location at 8006 Ute Pass Ave Cascade Colorado 80809. View hours of operations, phone number, services provides including money orders, stamps, passports and PO boxes. ... PO Box Hours: Mon-Sun: 12:01am - 11:59pm: Except on Federal Holidays. Nearby Post Offices. Cpu North Pole Post Office. 5050 Pikes Peak Hwy Cascade, CO ...",
+        "dateLastCrawled": "2025-02-21T13:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Post Office Locations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Cascade Post Office - Mailbox Locate",
+        "url": "https://mailboxlocate.com/offices/1357189-cascade",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mailboxlocate.com/offices/1357189-cascade",
+        "snippet": "8006 Ute Pass Ave Cascade, CO 80809 Phone: 719-684-2146. Parking: Parking Lot Available. Post Office Lobby Hours; Monday: 12:01am - 11:59pm: Tuesday: 12:01am - 11:59pm: Wednesday: 12:01am - 11:59pm: Thursday: ... Cascade Post Office is a United States Postal Service (USPS) facility in Cascade, CO. This post office offers a full array of ...",
+        "dateLastCrawled": "2024-06-17T16:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Mailbox Locate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "USPS - Post Office - Cascade, Colorado - Location & Store Hours",
+        "url": "https://www.mystore411.com/store/view/240327/USPS-Postal-Service-Cascade",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mystore411.com/store/view/240327/USPS-Postal-Service-Cascade",
+        "snippet": "USPS - Post Office - Cascade at 8006 Ute Pass Ave in Colorado 80809-9998: store location & hours, services, holiday hours, map, driving directions and more",
+        "dateLastCrawled": "2024-04-05T14:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MyStore411"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Post Office Cpu North Pole in Cascade, CO - Location and Opening Hours",
+        "url": "https://www.hourspostoffice.com/USPS%20Post%20Office%20Cpu%20North%20Pole/80809/Cascade/41420",
+        "datePublished": "2025-04-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 14, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hourspostoffice.com/USPS Post Office Cpu North Pole/80809/Cascade/41420",
+        "snippet": "Opening Hours of Post Office Cpu North Pole in Cascade, CO on 5050 Pikes Peak Hwy. Location, phone number, operating hours, services available and other post offices near you. ... 5050 Pikes Peak Hwy: Town/City: Cascade: State: CO: ZIP : 80809-9998: Phone: 719-684-9432: The Post Office is open on Monday from 10:00 am to 6:00 pm. It is closed ...",
+        "dateLastCrawled": "2025-04-17T19:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Opening Hours of USPS Post Offices"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "8006 Ute Pass Ave Cascade CO 80809 | Post Office Location",
+        "url": "https://www.postofficelocations.net/details/8006-Ute-Pass-Ave-Cascade-CO-80809/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficelocations.net/details/8006-Ute-Pass-Ave-Cascade-CO-80809",
+        "snippet": "Cascade, CO 80809: Phone: (719) 684-2146: This is the post office location for the Cascade Post Office in El Paso County. View all post offices in and around Cascade, CO for the closest office near you. Get your mail done today by finding out the information you need right here before you head out the door. ...",
+        "dateLastCrawled": "2023-12-30T23:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Post Office Locations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "ZIP Code 5: 80809 - CASCADE, CO | Colorado United States ZIP Code 5 ...",
+        "url": "https://co.postcodebase.com/zipcode5/80809",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/zipcode5/80809",
+        "snippet": "ZIP Code 80809 is the postal code in CASCADE, CO. Besides the basic information, it also lists the full ZIP code and the address of ZIP code 80809. Whatsmore, there is more information related to ZIP Code 80809.",
+        "dateLastCrawled": "2025-05-29T22:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "US Post Office in Ute Pass Ave, Cascade, Store Hours - Localmint",
+        "url": "https://www.localmint.com/us/usps-ute-pass-ave-hours-170526",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.localmint.com/us/usps-ute-pass-ave-hours-170526",
+        "snippet": "US Post Office in Ute Pass Ave, 8006 Ute Pass Ave, Cascade, CO 80809, Store Hours, Phone number, Map, Latenight, Sunday hours, Address, Post Office, Shipping Centers. Categories Popular Categories. Supermarkets Coffee Shops Fastfood Department Stores Pharmacy Gas Stations Electronics DIY Stores Banks Fashion & Clothing. Groups ...",
+        "dateLastCrawled": "2025-05-11T19:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Localmint"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "80809 ZIP Code Profile, Map, Data & Demographics",
+        "url": "https://colorado.hometownlocator.com/zip-codes/data,zipcode,80809.cfm",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://colorado.hometownlocator.com/zip-codes/data,zipcode,80809.cfm",
+        "snippet": "PO Box Addresses: 178; Residential Addresses: 635; Multi ... Maps updated: May 1, 2024. Advertisement. Cascade, CO 80809 Data & Demographics (As of July 1, 2024) POPULATION; Total Population: 1,517 (100%) Population in Households ... $119,794: Average Household Income: $179,700 % of Income for Mortgage 4: 41%: Per Capita Income: $83,523: Wealth ...",
+        "dateLastCrawled": "2025-04-03T00:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Colorado Gazetteer"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "PO BOX 303 CASCADE, CO 80809 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-303-cascade-co-80809.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-303-cascade-co-80809.html",
+        "snippet": "There are 4 companies that have an address matching Po Box 303 Cascade, CO 80809. The companies are Baccos LLC, Ripper Baker LLC, Motion Studies LLC, and Pacific Rim Investments LLP. BACCOS, LLC: COLORADO LIMITED-LIABILITY COMPANY: WRITE REVIEW: Address: Po Box 303 Cascade, CO 80809 : Address Types: Mailing:",
+        "dateLastCrawled": "2025-05-19T00:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "City: CASCADE, CO - ZIP Code | Colorado United States ZIP Code 5 Plus 4 \ufe0f",
+        "url": "https://co.postcodebase.com/city/CASCADE",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/city/CASCADE",
+        "snippet": "po box 1 (from 1 to 8), cascade, co: 80809-0009: po box 37, cascade, co: 80809-0010: po box 10 (from 10 to 36), cascade, co: 80809-0037: po box 9, cascade, co: 80809-0038: po box 38 (from 38 to 118), cascade, co: 80809-0121: po box 121 (from 121 to 240), cascade, co: 80809-0241: po box 241 (from 241 to 360), cascade, co:",
+        "dateLastCrawled": "2025-05-23T22:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "PO BOX 633 CASCADE, CO 80809 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-633-cascade-co-80809.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-633-cascade-co-80809.html",
+        "snippet": "There are 11 companies that have an address matching Po Box 633 Cascade, CO 80809. The companies are Sad Gap LLC, 4285 Northpark LLC, Timpa LLC, 66 North Dynamics LLC, 78 N Silicon Dr LLC, 4325 Northpark LLC, 90 N Dynamics LLC, Colorado Springs Reload And Distribution Center LLC, Cascade Equipment Leasing LLC, Building Materials Discount Outlet ...",
+        "dateLastCrawled": "2025-05-31T08:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "PO BOX 447 CASCADE, CO 80809 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-447-cascade-co-80809.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-447-cascade-co-80809.html",
+        "snippet": "Po Box 447 Cascade, CO 80809 : Address Types: Mailing: Registered Agent: Glen E. Engle Sr. Filed: August 10, 2006: File Number: 20061327774: Contact Us About The Company Profile For Pikes Peak Rock Shop, LLC: SOUTHWEST SILVER COMPANY, LLC: COLORADO LIMITED-LIABILITY COMPANY: WRITE REVIEW: Address: Po Box 447",
+        "dateLastCrawled": "2025-05-19T08:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

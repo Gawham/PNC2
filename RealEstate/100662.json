@@ -1,0 +1,490 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3767 Broadview Pl, Castle Rock CO 80109"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3767+Broadview+Pl%2c+Castle+Rock+CO+80109",
+    "totalEstimatedMatches": 427000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "3767 Broadview Pl, Castle Rock, CO 80109 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3767-Broadview-Pl-Castle-Rock-CO-80109/52460350_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3767-Broadview-Pl-Castle-Rock-CO-80109/52460350_zpid",
+        "snippet": "3767 Broadview Pl, Castle Rock CO, is a Single Family home that contains 2228 sq ft and was built in 2003.It contains 3 bedrooms and 2 bathrooms.This home last sold for $307,600 in June 2003. The Zestimate for this Single Family is $681,200, which has increased by $5,732 in the last 30 days.The Rent Zestimate for this Single Family is $3,125/mo, which has increased by $3,125/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-14T21:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3767 Broadview Pl, Castle Rock, CO 80109 | Redfin",
+        "url": "https://www.redfin.com/CO/Castle-Rock/3767-Broadview-Pl-80109/home/35269146",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Castle-Rock/3767-Broadview-Pl-80109/home/35269146",
+        "snippet": "3 beds, 2 baths, 2228 sq. ft. house located at 3767 Broadview Pl, Castle Rock, CO 80109. View sales history, tax history, home value estimates, and overhead views. APN R0421278.",
+        "dateLastCrawled": "2025-03-16T15:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3767 Broadview Pl, Castle Rock, 80109, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "3767 Broadview Pl, Castle Rock, CO 80109 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3767-Broadview-Pl_Castle-Rock_CO_80109_M14265-70715",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3767-Broadview-Pl_Castle-Rock_CO_80109_M14265-70715",
+        "snippet": "See sales history and home details for 3767 Broadview Pl, Castle Rock, CO 80109, a 3 bed, 2 bath, 2,228 Sq. Ft. single family home built in 2003 that was last sold on 06/12/2003.",
+        "dateLastCrawled": "2024-01-01T05:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Colorado Secretary of State - Summary - sos.state.co.us",
+        "url": "https://sos.state.co.us/biz/BusinessEntityDetail.do?masterFileId=20241648458",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://sos.state.co.us/biz/BusinessEntityDetail.do?masterFileId=20241648458",
+        "snippet": "3767 Broadview Pl, Castle Rock, CO 80109, US: Registered Agent: Name: Mark Nathan Knutson: Street address 3767 Broadview Pl, Castle Rock, CO 80109, US: Mailing address 3767 Broadview Pl, Castle Rock, CO 80109, US: Filing history and documents; Get a certificate of good standing;",
+        "dateLastCrawled": "2025-05-12T19:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Colorado Secretary of State"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Mark N Knutson, (303) 663-1665, 3767 Broadview Pl, Castle Rock, CO - Nuwber",
+        "url": "https://nuwber.com/person/563a92ef7686b0176b8ba226",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nuwber.com/person/563a92ef7686b0176b8ba226",
+        "snippet": "3767 Broadview Pl, Castle Rock, CO, 80109-7977. Property Info . Home Type. Single Family Dwelling Unit. Home Ownership. Home Owner. Property Value. 307 000 USD. Year Build. 2003. Residence Since. 2003. GET ADDRESS HISTORY. Landline phone numbers for Mark N Knutson in castle rock, co (303) 663-1665.",
+        "dateLastCrawled": "2025-05-18T08:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Gender"
+            },
+            "items": [
+              {
+                "text": "Male"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENDER"
+            }
+          },
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3767 Broadview Pl, Castle Rock, 80109-7977, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Home Country"
+            },
+            "items": [
+              {
+                "text": "Castle Rock, 80109-7977, CO"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Birth Date"
+            },
+            "items": [
+              {
+                "text": "1956-08-05T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:DATEOFBIRTH"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Nuwber"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "MNK Publishing LLC \u00b7 3767 Broadview Pl, Castle Rock, CO 80109 - OpenGovCO",
+        "url": "https://opengovco.com/business/20241648458",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20241648458",
+        "snippet": "MNK Publishing LLC (Entity #20241648458) is a DLLC in Castle Rock, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on June 19, 2024 in the jurisdiction of Colorado. The registered office location is at 3767 Broadview Pl, Castle Rock, CO 80109. The current entity status is good standing. The registered agent of the entity is Mark Nathan Knutson .",
+        "dateLastCrawled": "2025-06-03T22:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "3767 Broadview Pl Castle Rock CO 80109 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/3767-broadview-pl-castle-rock-co-80109-123497996",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/3767-broadview-pl-castle-rock-co-80109-123497996",
+        "snippet": "3767 Broadview Pl Castle Rock CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is 626038. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-05-25T03:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "3767 Broadview Pl, Castle Rock, CO 80109 - Trulia",
+        "url": "https://www.trulia.com/home/3767-broadview-pl-castle-rock-co-80109-52460350",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/3767-broadview-pl-castle-rock-co-80109-52460350",
+        "snippet": "3767 Broadview Pl, Castle Rock, CO 80109 is a 2,228 sqft, 3 bed, 2 bath home sold in 2003. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-04-16T08:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "3767 Broadview Pl, Castle Rock, CO - Mark N Knutson Public Records",
+        "url": "https://clustrmaps.com/a/ls6im/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://clustrmaps.com/a/ls6im",
+        "snippet": "3767 Broadview Pl. Castle Rock. Known Residents. Robert Goldstein. Details. Age ~54. Mark N Knutson. Details. Age 67 (303) 663-1665. ... Jennifer L Dalton. Details. Age 55 (303) 792-0704. Lived here in 2009. Now lives at 13031 Mercury Dr, Lone Tree, CO 80124. Michael Craig Smith. Details. Age 52 (716) 553-4425. Lived here in 2013. Now lives at ...",
+        "dateLastCrawled": "2024-03-19T02:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ClustrMaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Broadview Pl, Castle Rock, CO 80109 Property Records",
+        "url": "https://www.countyoffice.org/broadview-pl-castle-rock-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/broadview-pl-castle-rock-co-property-records",
+        "snippet": "View property records for 24 addresses on Broadview Place in Castle Rock, CO 80109, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2025-03-09T22:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3767 Broadview Pl Castle Rock, CO 80109 - Xome",
+        "url": "https://www.xome.com/realestate/3767-broadview-pl-castle-rock-co-80109-169027457",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/3767-broadview-pl-castle-rock-co-80109-169027457",
+        "snippet": "View photos, property record valuation and tax data for 3767 Broadview Pl Castle Rock CO 80109. Type: Single Family Residential, Sq. Ft: 2,228, Bedrooms: 3, Baths: 2.",
+        "dateLastCrawled": "2023-05-14T15:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3767 Broadview Place, Castle Rock, CO 80109 - OpenCorpData",
+        "url": "https://opencorpdata.com/us-co/20241652471",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opencorpdata.com/us-co/20241652471",
+        "snippet": "AdelaideEnergy LLC (Entity #20241652471) is a Limited Liability Company in Castle Rock, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on June 20, 2024 in the jurisdiction of Colorado. The registered office location is at 3767 Broadview Place, Castle Rock, CO 80109. The current entity status is good standing.",
+        "dateLastCrawled": "2024-06-27T12:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenCorpData"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "3767 BROADVIEW PLACE CASTLE ROCK, CO 80109 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/3767-broadview-place-castle-rock-co-80109.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/3767-broadview-place-castle-rock-co-80109.html",
+        "snippet": "There are 3 companies that have an address matching 3767 Broadview Place Castle Rock, CO 80109. The companies are Fightjobscom LLC, Techdesign LLC, and Adelaideenergy LLC. FIGHTJOBS.COM \"L.L.C.\" FLORIDA DOMESTIC LIMITED-LIABILITY COMPANY: WRITE REVIEW: Address: 3767 Broadview Place Castle Rock, CO 80109 :",
+        "dateLastCrawled": "2025-01-24T08:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "AdelaideEnergy LLC \u00b7 3767 Broadview Place, Castle Rock, CO 80109",
+        "url": "https://opengovco.com/business/20241652471",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20241652471",
+        "snippet": "AdelaideEnergy LLC (Entity #20241652471) is a Limited Liability Company in Castle Rock, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on June 20, 2024 in the jurisdiction of Colorado. The registered office location is at 3767 Broadview Place, Castle Rock, CO 80109. The current entity status is good standing.",
+        "dateLastCrawled": "2024-06-30T18:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3772 Broadview Pl, Castle Rock, CO 80109 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3772-Broadview-Pl-Castle-Rock-CO-80109/52460368_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3772-Broadview-Pl-Castle-Rock-CO-80109/52460368_zpid",
+        "snippet": "3772 Broadview Pl, Castle Rock CO, is a Single Family home that contains 2228 sq ft and was built in 2003.It contains 3 bedrooms and 2 bathrooms.This home last sold for $230,000 in March 2010. The Zestimate for this Single Family is $649,100, which has increased by $9,477 in the last 30 days.The Rent Zestimate for this Single Family is $3,003/mo, which has increased by $3,003/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-27T14:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "3754 Broadview Place, Castle Rock, CO 80109 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3754-Broadview-Pl-Castle-Rock-CO-80109/52460369_zpid/",
+        "datePublished": "2025-05-29T00:00:00.0000000",
+        "datePublishedDisplayText": "May 29, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3754-Broadview-Pl-Castle-Rock-CO-80109/52460369_zpid",
+        "snippet": "3754 Broadview Place, Castle Rock CO, is a Single Family home that contains 4020 sq ft and was built in 2003.It contains 3 bedrooms and 3 bathrooms.This home last sold for $700,000 in May 2025. The Zestimate for this Single Family is $700,000, which has increased by $29,900 in the last 30 days.The Rent Zestimate for this Single Family is $3,487/mo, which has increased by $3,487/mo in the last ...",
+        "dateLastCrawled": "2025-06-04T11:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3867 Broadview Pl, Castle Rock, CO 80109 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3867-Broadview-Pl-Castle-Rock-CO-80109/52460354_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3867-Broadview-Pl-Castle-Rock-CO-80109/52460354_zpid",
+        "snippet": "3867 Broadview Pl, Castle Rock CO, is a Single Family home that contains 2993 sq ft and was built in 2002.It contains 4 bedrooms and 2.5 bathrooms.This home last sold for $369,000 in May 2013. The Zestimate for this Single Family is $712,600, which has increased by $7,000 in the last 30 days.The Rent Zestimate for this Single Family is $3,445/mo, which has increased by $3,445/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-11T01:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3785 Broadview Pl, Castle Rock, CO 80109 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3785-Broadview-Pl-Castle-Rock-CO-80109/52460351_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3785-Broadview-Pl-Castle-Rock-CO-80109/52460351_zpid",
+        "snippet": "3785 Broadview Pl, Castle Rock CO, is a Single Family home that contains 2650 sq ft and was built in 2002.It contains 4 bedrooms and 2.75 bathrooms.This home last sold for $429,900 in July 2015. The Zestimate for this Single Family is $746,800, which has increased by $12,958 in the last 30 days.The Rent Zestimate for this Single Family is $3,392/mo, which has increased by $3,392/mo in the last ...",
+        "dateLastCrawled": "2025-04-07T02:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3745 Broadview Pl, Castle Rock, CO 80109 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3745-Broadview-Pl-Castle-Rock-CO-80109/52460349_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3745-Broadview-Pl-Castle-Rock-CO-80109/52460349_zpid",
+        "snippet": "3745 Broadview Pl, Castle Rock CO, is a Single Family home that contains 2993 sq ft and was built in 2003.It contains 4 bedrooms and 3 bathrooms.This home last sold for $380,800 in May 2003. The Zestimate for this Single Family is $752,700, which has increased by $12,171 in the last 30 days.The Rent Zestimate for this Single Family is $3,601/mo, which has increased by $3,601/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-19T02:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3723 Broadview Pl, Castle Rock, CO 80109 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3723-Broadview-Pl-Castle-Rock-CO-80109/52460348_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3723-Broadview-Pl-Castle-Rock-CO-80109/52460348_zpid",
+        "snippet": "3723 Broadview Pl, Castle Rock CO, is a Single Family home that contains 3900 sq ft and was built in 2003.It contains 4 bedrooms and 3 bathrooms.This home last sold for $380,000 in July 2006. The Zestimate for this Single Family is $786,200, which has increased by $6,600 in the last 30 days.The Rent Zestimate for this Single Family is $3,649/mo, which has increased by $3,649/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-23T07:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

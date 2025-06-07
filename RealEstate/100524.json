@@ -1,0 +1,382 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1687 S Kingston St, Aurora CO 80012"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1687+S+Kingston+St%2c+Aurora+CO+80012",
+    "totalEstimatedMatches": 2030000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1687 S Kingston St, Aurora, CO 80012 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1687-S-Kingston-St-Aurora-CO-80012/13047906_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1687-S-Kingston-St-Aurora-CO-80012/13047906_zpid",
+        "snippet": "1687 S Kingston St, Aurora CO, is a Single Family home that contains 4055 sq ft and was built in 1972.It contains 3 bathrooms. The Zestimate for this Single Family is $566,600, which has increased by $1,067 in the last 30 days.The Rent Zestimate for this Single Family is $3,386/mo, which has increased by $3,386/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-15T04:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1687 S Kingston St, Aurora, CO 80012 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1687-S-Kingston-St_Aurora_CO_80012_M25005-01716",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1687-S-Kingston-St_Aurora_CO_80012_M...",
+        "snippet": "See 1687 S Kingston St, Aurora, CO 80012, a single family home located in the Village East neighborhood. View property details, similar homes, and the nearby school and neighborhood information.",
+        "dateLastCrawled": "2024-01-15T23:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1687 S Kingston St, Aurora, CO 80012 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/1687-S-Kingston-St-80012/home/34683978",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/1687-S-Kingston-St-80012/home/34683978",
+        "snippet": "3 baths, 2421 sq. ft. house located at 1687 S Kingston St, Aurora, CO 80012. View sales history, tax history, home value estimates, and overhead views. APN 1973-23-3-20-012.",
+        "dateLastCrawled": "2024-12-06T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1687 S Kingston St, Aurora, 80012, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1687 S Kingston St Aurora, CO 80012 - Trulia",
+        "url": "https://www.trulia.com/home/1687-s-kingston-st-aurora-co-80012-13047906",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1687-s-kingston-st-aurora-co-80012-13047906",
+        "snippet": "1687 S Kingston St, Aurora, CO 80012 is a 4,055 sqft, Studio, 3 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-05-19T09:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1697 S Kingston Street, Aurora, CO 80012 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1697-S-Kingston-St-Aurora-CO-80012/13047904_zpid/",
+        "datePublished": "2025-04-30T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1697-S-Kingston-St-Aurora-CO-80012/13047904_zpid",
+        "snippet": "1697 S Kingston Street, Aurora CO, is a Single Family home that contains 3298 sq ft and was built in 1971.It contains 4 bedrooms and 3 bathrooms.This home last sold for $606,000 in April 2025. The Zestimate for this Single Family is $606,000, which has increased by $21,100 in the last 30 days.The Rent Zestimate for this Single Family is $3,310/mo, which has increased by $3,310/mo in the last ...",
+        "dateLastCrawled": "2025-05-05T21:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1687 S Wheeling Cir, Aurora, CO 80012 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/1687-S-Wheeling-Cir-80012/home/34688868",
+        "datePublished": "2007-06-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 29, 2007",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/1687-S-Wheeling-Cir-80012/home/34688868",
+        "snippet": "3 beds, 3 baths, 2432 sq. ft. house located at 1687 S Wheeling Cir, Aurora, CO 80012 sold for $222,500 on Jun 29, 2007. View sales history, tax history, home value estimates, and overhead views. ... 1486 S Kingston St, Aurora, CO 80012. Listing provided by REColorado as Distributed by MLS Grid. COMING SOON 3D WALKTHROUGH. $499,900. 3 beds 2 ...",
+        "dateLastCrawled": "2025-05-22T04:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1687 S Ironton St, Aurora, CO 80012 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1687-S-Ironton-St_Aurora_CO_80012_M29918-77136",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1687-S-Ironton-St_Aurora_CO_80012_M...",
+        "snippet": "See sales history and home details for 1687 S Ironton St, Aurora, CO 80012, a 4 bed, 2 bath, 1,872 Sq. Ft. single family home built in 1965 that was last sold on 02/13/2017.",
+        "dateLastCrawled": "2024-01-10T03:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1687 S Ironton St, Aurora, CO 80012 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1687-S-Ironton-St-Aurora-CO-80012/13047781_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1687-S-Ironton-St-Aurora-CO-80012/13047781_zpid",
+        "snippet": "1687 S Ironton St, Aurora CO, is a Single Family home that contains 1872 sq ft and was built in 1965.It contains 4 bedrooms and 1 bathroom.This home last sold for $280,000 in February 2017. The Zestimate for this Single Family is $501,200, which has increased by $3,000 in the last 30 days.The Rent Zestimate for this Single Family is $2,444/mo, which has increased by $2,444/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-05T18:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1687 S Kenton St, Aurora, CO 80012 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/1687-S-Kenton-St-80012/home/34683868",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/1687-S-Kenton-St-80012/home/34683868",
+        "snippet": "2 baths, 1484 sq. ft. house located at 1687 S Kenton St, Aurora, CO 80012. View sales history, tax history, home value estimates, and overhead views. APN 1973-23-3-14-005.",
+        "dateLastCrawled": "2024-07-21T07:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1687 S Ironton St, Aurora, CO 80012 | MLS# 7116487 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/1687-S-Ironton-St-80012/home/34684046",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/1687-S-Ironton-St-80012/home/34684046",
+        "snippet": "4 beds, 2 baths, 1872 sq. ft. house located at 1687 S Ironton St, Aurora, CO 80012 sold for $149,900 on Apr 26, 1999. View sales history, tax history, home value estimates, and overhead views. APN ...",
+        "dateLastCrawled": "2025-01-14T03:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1687 S Ursula Ct, Aurora, CO 80012 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1687-S-Ursula-Ct-Aurora-CO-80012/13049669_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1687-S-Ursula-Ct-Aurora-CO-80012/13049669_zpid",
+        "snippet": "1687 S Ursula Ct, Aurora CO, is a Single Family home that contains 2530 sq ft and was built in 1973.It contains 2 bedrooms and 2 bathrooms.This home last sold for $177,000 in June 2006. The Zestimate for this Single Family is $431,900, which has increased by $5,068 in the last 30 days.The Rent Zestimate for this Single Family is $2,070/mo, which has increased by $2,070/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-30T21:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1697 S Kingston St, Aurora, CO 80012 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1697-S-Kingston-St_Aurora_CO_80012_M23771-56522",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1697-S-Kingston-St_Aurora_CO_80012_M...",
+        "snippet": "See photos and price history of this 4 bed, 2.5 bath, 3,298 Sq. Ft. recently sold home located at 1697 S Kingston St, Aurora, CO 80012 that was sold on 04/30/2025 for $606000.",
+        "dateLastCrawled": "2025-06-03T14:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1697 S Kingston St, Aurora, CO 80012 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/1697-S-Kingston-St-80012/home/34683976",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/1697-S-Kingston-St-80012/home/34683976",
+        "snippet": "Sold: 4 beds, 3 baths, 3298 sq. ft. house located at 1697 S Kingston St, Aurora, CO 80012 sold for $606,000 on Apr 30, 2025. MLS# 3503939. Welcome to 1697 S Kingston St, a beautifully maintained si...",
+        "dateLastCrawled": "2025-05-27T03:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1687 S Oakland St, Aurora, CO 80012 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1687-S-Oakland-St-Aurora-CO-80012/13048140_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1687-S-Oakland-St-Aurora-CO-80012/13048140_zpid",
+        "snippet": "1687 S Oakland St, Aurora CO, is a Single Family home that contains 1736 sq ft and was built in 1971.It contains 3 bathrooms.This home last sold for $51,000 in February 1976. The Zestimate for this Single Family is $509,000, which has increased by $6,167 in the last 30 days.The Rent Zestimate for this Single Family is $2,895/mo, which has increased by $2,895/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-07T02:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1698 S Kingston Street, Aurora, CO 80012 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1698-S-Kingston-St-Aurora-CO-80012/13048488_zpid/",
+        "datePublished": "2016-02-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 27, 2016",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1698-S-Kingston-St-Aurora-CO-80012/13048488_zpid",
+        "snippet": "1698 S Kingston Street, Aurora CO, is a Single Family home that contains 3298 sq ft and was built in 1972.It contains 4 bedrooms and 3 bathrooms.This home last sold for $563,000 in March 2025. The Zestimate for this Single Family is $561,800, which has increased by $32,784 in the last 30 days.The Rent Zestimate for this Single Family is $3,280/mo, which has increased by $3,280/mo in the last ...",
+        "dateLastCrawled": "2025-04-12T01:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1687 S Oakland St, Aurora, CO 80012 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/1687-S-Oakland-St-80012/home/34685145",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/1687-S-Oakland-St-80012/home/34685145",
+        "snippet": "3 baths, 1736 sq. ft. house located at 1687 S Oakland St, Aurora, CO 80012. View sales history, tax history, home value estimates, and overhead views. APN 1973-23-4-10-021.",
+        "dateLastCrawled": "2025-05-09T05:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1307 S Kingston St, Aurora, CO 80012 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/1307-S-Kingston-St-80012/home/34545350",
+        "datePublished": "2006-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2006",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/1307-S-Kingston-St-80012/home/34545350",
+        "snippet": "3 beds, 4 baths, 1758 sq. ft. condo located at 1307 S Kingston St, Aurora, CO 80012 sold for $260,000 on May 1, 2006. View sales history, tax history, home value estimates, and overhead views. APN ...",
+        "dateLastCrawled": "2025-05-24T05:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        }
+      ]
+    }
+  }
+}

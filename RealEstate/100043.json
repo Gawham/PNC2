@@ -1,0 +1,393 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1626 Wynkoop Dr, Colorado Springs CO 80909"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1626+Wynkoop+Dr%2c+Colorado+Springs+CO+80909",
+    "totalEstimatedMatches": 1130000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1626 Wynkoop Dr, Colorado Springs, CO 80909 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1626-Wynkoop-Dr-Colorado-Springs-CO-80909/13602134_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1626-Wynkoop-Dr-Colorado-Springs-CO-80909/13602134_zpid",
+        "snippet": "1626 Wynkoop Dr, Colorado Springs CO, is a Single Family home that contains 863 sq ft and was built in 1959.It contains 3 bedrooms and 1.5 bathrooms.This home last sold for $160,000 in May 2005. The Zestimate for this Single Family is $350,800, which has increased by $7,790 in the last 30 days.The Rent Zestimate for this Single Family is $1,741/mo, which has increased by $1,741/mo in the last ...",
+        "dateLastCrawled": "2025-04-01T00:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1626 Wynkoop Dr, Colorado Springs, CO 80909 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1626-Wynkoop-Dr-80909/home/34440204",
+        "datePublished": "2005-05-26T00:00:00.0000000",
+        "datePublishedDisplayText": "May 26, 2005",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1626-Wynkoop-Dr-80909/home/34440204",
+        "snippet": "3 beds, 2 baths, 1568 sq. ft. house located at 1626 Wynkoop Dr, Colorado Springs, CO 80909 sold for $160,000 on May 26, 2005. View sales history, tax history, home value estimates, and overhead vie...",
+        "dateLastCrawled": "2025-01-18T07:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1626 Wynkoop Dr, Colorado Springs, CO 80909 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1626-Wynkoop-Dr_Colorado-Springs_CO_80909_M15586-09728",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1626-Wynkoop-Dr_Colorado-Springs_CO_80909_M15586-09728",
+        "snippet": "See sales history and home details for 1626 Wynkoop Dr, Colorado Springs, CO 80909, a 3 bed, 2 bath, 1,568 Sq. Ft. single family home built in 1959 that was last sold on 05/26/2005.",
+        "dateLastCrawled": "2024-03-01T23:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1626 Wynkoop Dr, Colorado Springs, CO 80909 | Homes.com",
+        "url": "https://www.homes.com/property/1626-wynkoop-dr-colorado-springs-co/ccz9b35vn7k0k/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1626-wynkoop-dr-colorado-springs-co/ccz9b35vn7k0k",
+        "snippet": "This home is located at 1626 Wynkoop Dr, Colorado Springs, CO 80909 and is currently estimated at $346,783, approximately $401 per square foot. 1626 Wynkoop Dr is a home located in El Paso County with nearby schools including Twain Elementary School, Galileo School Of Math And Science, and Mitchell High School. ...",
+        "dateLastCrawled": "2025-03-06T22:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1626 Wynkoop Dr Colorado Springs, CO 80909 - Xome",
+        "url": "https://www.xome.com/realestate/1626-wynkoop-dr-colorado-springs-co-80909-30505430",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/1626-wynkoop-dr-colorado-springs-co-80909-30505430",
+        "snippet": "1626 Wynkoop Dr Colorado Springs CO with 3 bedroom and 1 bath is currently not for sale. Xome's estimated value is $341,542. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-05-09T17:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Wine Coop LLc. \u00b7 1626 Wynkoop Dr, Colorado Springs, CO 80909 - OpenGovCO",
+        "url": "https://opengovco.com/trade-name/20161856118",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/trade-name/20161856118",
+        "snippet": "The business address is 1626 Wynkoop Dr, Colorado Springs, CO 80909. The effective date is December 21, 2016. Trade Name Information. Trade Name ID: 20161856118 : Trade Name: Wine Coop LLc. Registrant Organization: Wine Coop LLc : Address: 1626 Wynkoop Dr Colorado Springs CO 80909: Mailing Address: PO Box 19531 9048 S Interstate 25",
+        "dateLastCrawled": "2024-05-10T00:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1626 Tesla Dr, Colorado Springs, CO 80909 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1626-Tesla-Dr-Colorado-Springs-CO-80909/13602092_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1626-Tesla-Dr-Colorado-Springs-CO-80909/13602092_zpid",
+        "snippet": "1626 Tesla Dr, Colorado Springs CO, is a Single Family home that contains 2208 sq ft and was built in 1961.It contains 4 bedrooms and 3 bathrooms.This home last sold for $355,000 in February 2024. The Zestimate for this Single Family is $358,600, which has decreased by $439 in the last 30 days.The Rent Zestimate for this Single Family is $2,235/mo, which has increased by $2,235/mo in the last ...",
+        "dateLastCrawled": "2025-04-03T14:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1606 Wynkoop Dr, Colorado Springs, CO 80909 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1606-Wynkoop-Dr_Colorado-Springs_CO_80909_M22906-82933",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1606-Wynkoop-Dr_Colorado-Springs_CO_80909_M22906-82933",
+        "snippet": "View detailed information about property 1606 Wynkoop Dr, Colorado Springs, CO 80909 including listing details, property photos, school and neighborhood data, and much more. ... 1626: 7475: 1618 ...",
+        "dateLastCrawled": "2024-01-23T01:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1626 Tesla Dr, Colorado Springs, CO 80909 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1626-Tesla-Dr-80909/home/34440283",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.45tCl9nUo-FJE9ba4EU8wgHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1626-Tesla-Dr-80909/home/34440283",
+        "snippet": "4 beds, 3 baths, 2208 sq. ft. house located at 1626 Tesla Dr, Colorado Springs, CO 80909 sold for $355,000 on Feb 7, 2024. MLS# 2365927. Nestled in the picturesque Treasure Hills area of Colorado S...",
+        "dateLastCrawled": "2025-03-12T02:08:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.45tCl9nUo-FJE9ba4EU8wgHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.45tCl9nUo-FJE9ba4EU8wgHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1607 Wynkoop Dr, Colorado Springs, CO 80909 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1607-Wynkoop-Dr-Colorado-Springs-CO-80909/13602102_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1607-Wynkoop-Dr-Colorado-Springs-CO-80909/13602102_zpid",
+        "snippet": "1607 Wynkoop Dr, Colorado Springs CO, is a Single Family home that contains 1626 sq ft and was built in 1961.It contains 3 bedrooms and 1.5 bathrooms.This home last sold for $155,000 in May 2004. The Zestimate for this Single Family is $355,900, which has increased by $1,900 in the last 30 days.The Rent Zestimate for this Single Family is $1,801/mo, which has increased by $1,801/mo in the last ...",
+        "dateLastCrawled": "2025-04-22T19:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1446 Wynkoop Dr, Colorado Springs, CO 80909 - OpenGovCO",
+        "url": "https://opengovco.com/business/20251574908",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251574908",
+        "snippet": "Wanderlust Bazaar INC (Entity #20251574908) is a DPC in Colorado Springs, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on May 23, 2025 in the jurisdiction of Colorado. The registered office location is at 1446 Wynkoop Dr, Colorado Springs, CO 80909. The current entity status is good standing. The registered agent of the entity is TIEHONG XIAO .",
+        "dateLastCrawled": "2025-05-28T03:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1607 Wynkoop Dr, Colorado Springs, CO 80909 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1607-Wynkoop-Dr-80909/home/34440302",
+        "datePublished": "2004-05-18T00:00:00.0000000",
+        "datePublishedDisplayText": "May 18, 2004",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1607-Wynkoop-Dr-80909/home/34440302",
+        "snippet": "3 beds, 2 baths, 1626 sq. ft. house located at 1607 Wynkoop Dr, Colorado Springs, CO 80909 sold for $155,000 on May 18, 2004. View sales history, tax history, home value estimates, and overhead vie...",
+        "dateLastCrawled": "2025-03-10T08:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1607 Wynkoop Dr, Colorado Springs, CO 80909 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1607-Wynkoop-Dr_Colorado-Springs_CO_80909_M13461-50995",
+        "datePublished": "2017-09-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 21, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1607-Wynkoop-Dr_Colorado-Springs_CO_80909_M13461-50995",
+        "snippet": "See sales history and home details for 1607 Wynkoop Dr, Colorado Springs, CO 80909, a 3 bed, 2 bath, 1,626 Sq. Ft. single family home built in 1961 that was last sold on 05/18/2004.",
+        "dateLastCrawled": "2024-06-07T18:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1726 Wynkoop Dr, Colorado Springs, CO 80909 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1726-Wynkoop-Dr-Colorado-Springs-CO-80909/13602121_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1726-Wynkoop-Dr-Colorado-Springs-CO-80909/13602121_zpid",
+        "snippet": "1726 Wynkoop Dr, Colorado Springs CO, is a Single Family home that contains 1445 sq ft and was built in 1959.It contains 3 bedrooms and 1 bathroom.This home last sold for $322,000 in September 2021. The Zestimate for this Single Family is $365,800, which has increased by $1,467 in the last 30 days.The Rent Zestimate for this Single Family is $1,959/mo, which has increased by $1,959/mo in the ...",
+        "dateLastCrawled": "2025-04-17T06:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1326 Wynkoop Dr, Colorado Springs, CO 80909 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1326-Wynkoop-Dr_Colorado-Springs_CO_80909_M27254-07793",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1326-Wynkoop-Dr_Colorado-Springs_CO_80909_M27254-07793",
+        "snippet": "View 33 photos for 1326 Wynkoop Dr, Colorado Springs, CO 80909, a 4 bed, 2 bath, 3,129 Sq. Ft. single family home built in 1967 that was last sold on 04/29/2022.",
+        "dateLastCrawled": "2024-02-15T02:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1426 Wynkoop Dr, Colorado Springs, CO 80909 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1426-Wynkoop-Dr-Colorado-Springs-CO-80909/13610839_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1426-Wynkoop-Dr-Colorado-Springs-CO-80909/13610839_zpid",
+        "snippet": "1426 Wynkoop Dr, Colorado Springs CO, is a Single Family home that contains 1998 sq ft and was built in 1968.It contains 3 bedrooms and 3 bathrooms.This home last sold for $385,000 in May 2023. The Zestimate for this Single Family is $392,800, which has increased by $2,914 in the last 30 days.The Rent Zestimate for this Single Family is $2,065/mo, which has increased by $2,065/mo in the last ...",
+        "dateLastCrawled": "2025-03-08T06:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1326 Wynkoop Dr, Colorado Springs, CO 80909 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1326-Wynkoop-Dr-Colorado-Springs-CO-80909/13611061_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1326-Wynkoop-Dr-Colorado-Springs-CO-80909/13611061_zpid",
+        "snippet": "1326 Wynkoop Dr, Colorado Springs CO, is a Single Family home that contains 3129 sq ft and was built in 1967.It contains 4 bedrooms and 3 bathrooms.This home last sold for $390,000 in April 2022. The Zestimate for this Single Family is $443,000, which has increased by $3,757 in the last 30 days.The Rent Zestimate for this Single Family is $2,270/mo, which has increased by $2,270/mo in the last ...",
+        "dateLastCrawled": "2025-02-25T13:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1706 Wynkoop Dr, Colorado Springs, CO 80909 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1706-Wynkoop-Dr-Colorado-Springs-CO-80909/13602130_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1706-Wynkoop-Dr-Colorado-Springs-CO-80909/13602130_zpid",
+        "snippet": "1706 Wynkoop Dr, Colorado Springs CO, is a Single Family home that contains 847 sq ft and was built in 1960.It contains 2 bedrooms and 1.5 bathrooms. The Zestimate for this Single Family is $309,800, which has increased by $1,567 in the last 30 days.The Rent Zestimate for this Single Family is $1,607/mo, which has increased by $1,607/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-19T12:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

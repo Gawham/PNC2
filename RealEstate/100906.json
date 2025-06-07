@@ -1,0 +1,423 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2428 Garmisch Dr, Unit 7, Vail CO 81657"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2428+Garmisch+Dr%2c+Unit+7%2c+Vail+CO+81657",
+    "totalEstimatedMatches": 965000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "2428 Garmisch Dr, Vail, CO 81657 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2428-Garmisch-Dr_Vail_CO_81657_M18683-26791",
+        "datePublished": "2017-11-06T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 6, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2428-Garmisch-Dr_Vail_CO_81657_M...",
+        "snippet": "View detailed information about property 2428 Garmisch Dr, Vail, CO 81657 including listing details, property photos, school and neighborhood data, and much more. ... Property detail for 1020 Vail ...",
+        "deepLinks": [
+          {
+            "name": "2428 Garmisch Dr Apt 4, Vail, CO 81657 | realtor.com\u00ae",
+            "url": "https://www.realtor.com/realestateandhomes-detail/2428-Garmisch-Dr-Apt-4_Vail_CO_81657_M12651-24686",
+            "snippet": "See sales history and home details for 2428 Garmisch Dr Apt 4, Vail, CO 81657, a 5 bed, 3 bath, 2,250 Sq. Ft. condo home built in 1969 that was last sold on 11/07/1997."
+          }
+        ],
+        "dateLastCrawled": "2025-05-13T01:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "2428 Garmisch Dr APT 3, Vail, CO 81657 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-3-Vail-CO-81657/13505855_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-3-Vail-CO-81657/13505855_zpid",
+        "snippet": "2428 Garmisch Dr APT 3, Vail, CO 81657 is pending. Zillow has 33 photos of this 5 beds, 3 baths, 2,250 Square Feet townhouse home with a list price of $1,319,000. ... 4524 Meadow Dr UNIT 905, Vail, CO 81657. For Sale. MLS ID #1011180, Danielle Huidekoper, LIV Sotheby's Int Realty Beaver Creek Village. Skip to the beginning of the carousel ...",
+        "dateLastCrawled": "2025-06-06T02:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "2428 Garmisch, Vail, CO 81657 | Redfin",
+        "url": "https://www.redfin.com/CO/Vail/2428-Garmisch-Dr-81657/home/179638472",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Vail/2428-Garmisch-Dr-81657/home/179638472",
+        "snippet": "5 beds, 2.5 baths condo located at 2428 Garmisch, Vail, CO 81657 sold for $275,000 on Sep 7, 1995. MLS# 108857. Terrific Local Housing - 3 Bedroom/1 1/2 Bath On Two Levels. 2 Bedrooms/1 Bath On 1st...",
+        "dateLastCrawled": "2025-05-30T07:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2428 Garmisch, Vail, 81657, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "2428 Garmisch Dr, Vail, CO 81657 | Homes.com",
+        "url": "https://www.homes.com/property/2428-garmisch-dr-vail-co/cvk81gz09r49y/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/2428-garmisch-dr-vail-co/cvk81gz09r49y",
+        "snippet": "This home is located at 2428 Garmisch Dr, Vail, CO 81657. 2428 Garmisch Dr is a home located in Eagle County with nearby schools including Red Sandstone Elementary School and Battle Mountain High School.",
+        "dateLastCrawled": "2025-05-07T21:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "2428 Garmisch Drive, Vail, CO 81657 - Corcoran Perry & Co.",
+        "url": "https://www.corcoranperry.com/listing/1011710/2428-garmisch-drive-vail-co-81657/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.corcoranperry.com/listing/1011710/2428-garmisch-drive-vail-co-81657",
+        "snippet": "View the listing at 2428 Garmisch Drive, Vail, CO 81657 and contact Corcoran Perry & Co. to learn more!",
+        "dateLastCrawled": "2025-05-31T09:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "2428 Garmisch Dr Vail, CO 81657 - Trulia",
+        "url": "https://www.trulia.com/building/2428-garmisch-dr-vail-co-81657-2074459495",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/building/2428-garmisch-dr-vail-co-81657-2074459495",
+        "snippet": "This rental community offers 5 bedroom rentals. See floorplans, review amenities, and request a tour of the building today.",
+        "dateLastCrawled": "2024-10-07T02:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "2428 Garmisch Drive 3, Vail, CO 81657, MLS# 1011710 - covbr - Realty.com",
+        "url": "https://www.realty.com/home-listings/1020696996/2428-Garmisch-Drive-3-Vail-CO-81657",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realty.com/home-listings/1020696996/2428-Garmisch-Drive-3-Vail-CO-81657",
+        "snippet": "2428 Garmisch Drive 3, Vail, CO 81657 is a 2,250 sq. ft. Townhouse listed for sale with 5 bedrooms and 3 bathrooms. Realty.com has 33 photos of this Townhome, listed at $1,399,000. View sales and tax history of town homes, use our mortgage calculator and more on Realty.com",
+        "dateLastCrawled": "2025-05-09T00:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realty.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "2428 Garmisch Dr Vail CO - Zillow",
+        "url": "https://www.zillow.com/b/2428-garmisch-dr-vail-co-9Lrc85/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/b/2428-garmisch-dr-vail-co-9Lrc85",
+        "snippet": "View 6 units for 2428 Garmisch Dr Vail CO | Zillow, as well as Zestimates and nearby comps. Find the perfect place to live.",
+        "dateLastCrawled": "2024-08-13T17:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "2428 Garmisch Dr Apt 4, Vail, CO 81657 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2428-Garmisch-Dr-Apt-4_Vail_CO_81657_M12651-24686",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2428-Garmisch-Dr-Apt-4_Vail_CO_81657...",
+        "snippet": "See sales history and home details for 2428 Garmisch Dr Apt 4, Vail, CO 81657, a 5 bed, 3 bath, 2,250 Sq. Ft. condo home built in 1969 that was last sold on 11/07/1997.",
+        "dateLastCrawled": "2024-01-11T20:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "2428 Garmisch Dr #3, Vail, CO 81657 | Redfin",
+        "url": "https://www.redfin.com/CO/Vail/2428-Garmisch-Dr-81657/unit-3/home/35403328",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Vail/2428-Garmisch-Dr-81657/unit-3/home/35403328",
+        "snippet": "5 beds, 3 baths, 2250 sq. ft. condo located at 2428 Garmisch Dr #3, Vail, CO 81657. View sales history, tax history, home value estimates, and overhead views. ... 2428 Garmisch Dr #3 is a 2,250 square foot condo with 5 ... VAIL DAS SCHONE FIL 2 BLOCK: G LOT: 6 PART OF (AKA ALPEN CHALETS TOWNHOUSE UNIT 3) BK-0495 PG-0261 DC 11-18-88 BK-0495 PG ...",
+        "dateLastCrawled": "2025-06-06T02:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "2428 Garmisch Dr, Vail, CO 81657 - Trulia",
+        "url": "https://www.trulia.com/home/2428-garmisch-dr-vail-co-81657-2060377235",
+        "datePublished": "2022-12-28T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 28, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/2428-garmisch-dr-vail-co-81657-2060377235",
+        "snippet": "2428 Garmisch Dr, Vail, CO 81657 was sold in 2428 Garmisch Dr, Vail, CO 81657. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-06T05:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "2428 Garmisch Dr APT 4, Vail, CO 81657 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-4-Vail-CO-81657/13505856_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-4-Vail-CO-81657/13505856_zpid",
+        "snippet": "2428 Garmisch Dr Apt 4, Vail CO, is a Single Family home that contains 2250 sq ft and was built in 1969.It contains 5 bedrooms and 2.5 bathrooms.This home last sold for $318,000 in November 1997. The Zestimate for this Single Family is $1,235,500, which has increased by $15,961 in the last 30 days.The Rent Zestimate for this Single Family is $7,178/mo, which has increased by $7,178/mo in the ...",
+        "dateLastCrawled": "2025-05-13T01:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "2428 Garmisch Dr #2, Vail, CO 81657 | MLS# 912247 | Redfin",
+        "url": "https://www.redfin.com/CO/Vail/2428-Garmisch-Dr-81657/unit-2/home/35403329",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Vail/2428-Garmisch-Dr-81657/unit-2/home/35403329",
+        "snippet": "5 beds, 2.5 baths, 2250 sq. ft. townhouse located at 2428 Garmisch Dr #2, Vail, CO 81657 sold for $485,000 on Sep 7, 2011. MLS# 912247. Screaming Opportunity! This townhome is situation high above ...",
+        "dateLastCrawled": "2024-12-05T03:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2428 Garmisch Dr APT 3, Vail, CO 81657 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-3-Vail-CO-81657/333175278_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-3-Vail-CO-81657/333175278_zpid",
+        "snippet": "2428 Garmisch Dr Apt 3, Vail CO, is a Single Family home that contains 2250 sq ft and was built in 1969.It contains 5 bedrooms and 2.5 bathrooms. The Zestimate for this Single Family is $1,224,600, which has increased by $12,516 in the last 30 days.The Rent Zestimate for this Single Family is $7,536/mo, which has increased by $7,536/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-28T04:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2428 Garmisch Dr Units 3 & 4, Vail, CO 81657 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2428-Garmisch-Dr-Apt-3_Vail_CO_81657_M18682-52627",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2428-Garmisch-Dr-Apt-3_Vail_CO_81657...",
+        "snippet": "View detailed information about property 2428 Garmisch Dr Units 3 & 4, Vail, CO 81657 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-08-17T17:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "2428 Garmisch Dr APT 1, Vail, CO 81657 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-1-Vail-CO-81657/13505853_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-1-Vail-CO-81657/13505853_zpid",
+        "snippet": "2428 Garmisch Dr Apt 1, Vail CO, is a Single Family home that contains 2250 sq ft and was built in 1969.It contains 5 bedrooms and 2.5 bathrooms.This home last sold for $480,000 in November 2010. The Zestimate for this Single Family is $1,281,200, which has increased by $22,600 in the last 30 days.The Rent Zestimate for this Single Family is $8,212/mo, which has increased by $8,212/mo in the ...",
+        "dateLastCrawled": "2025-04-04T02:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "2428 Garmisch Dr APT 2, Vail, CO 81657 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-2-Vail-CO-81657/13505854_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2428-Garmisch-Dr-APT-2-Vail-CO-81657/13505854_zpid",
+        "snippet": "2428 Garmisch Dr Apt 2, Vail CO, is a Townhouse home that contains 2250 sq ft and was built in 1969.It contains 5 bedrooms and 2.5 bathrooms.This home last sold for $485,000 in September 2011. The Zestimate for this Townhouse is $1,233,400, which has decreased by $9,733 in the last 30 days.The Rent Zestimate for this Townhouse is $8,469/mo, which has increased by $8,469/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-09T03:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "2448 Garmisch Dr #7, Vail, CO 81657 | Redfin",
+        "url": "https://www.redfin.com/CO/Vail/2448-Garmisch-Dr-81657/unit-7/home/35403521",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Vail/2448-Garmisch-Dr-81657/unit-7/home/35403521",
+        "snippet": "1 bed, 1 bath, 705 sq. ft. condo located at 2448 Garmisch Dr #7, Vail, CO 81657 sold for $555,000 on Aug 12, 2022. MLS# 5015242. Short Term Rentals Allowed! Enjoy captivating views of the beautiful...",
+        "dateLastCrawled": "2025-06-03T15:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "2427 Garmisch Dr UNIT B, Vail, CO 81657 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2427-Garmisch-Dr-UNIT-B-Vail-CO-81657/13505884_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2427-Garmisch-Dr-UNIT-B-Vail-CO-81657/13505884_zpid",
+        "snippet": "2427 Garmisch Dr Unit B, Vail CO, is a Multiple Occupancy home that contains 2039 sq ft and was built in 1993.It contains 3 bedrooms and 3 bathrooms.This home last sold for $1,200,000 in September 2020. The Zestimate for this Multiple Occupancy is $2,099,400, which has increased by $60,774 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $7,176/mo, which has increased by ...",
+        "dateLastCrawled": "2025-03-29T10:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

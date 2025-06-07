@@ -1,0 +1,435 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "12286 W Exposition Dr, Lakewood CO 80228"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=12286+W+Exposition+Dr%2c+Lakewood+CO+80228",
+    "totalEstimatedMatches": 633000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "12286 W Exposition Dr, Lakewood, CO 80228 | Zillow",
+        "url": "https://www.zillow.com/homedetails/12286-W-Exposition-Dr-Lakewood-CO-80228/13776759_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12286-W-Exposition-Dr-Lakewood-CO-80228/13776759_zpid",
+        "snippet": "12286 W Exposition Dr, Lakewood, CO 80228 is currently not for sale. The 1,154 Square Feet single family home is a 5 beds, 3 baths property. This home was built in 1961 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "deepLinks": [
+          {
+            "name": "12286 W Tennessee Avenue, Lakewood, CO 80228 - Zillow",
+            "url": "https://www.zillow.com/homedetails/12286-W-Tennessee-Ave-Lakewood-CO-80228/13776851_zpid/",
+            "snippet": "Zillow has 34 photos of this $674,900 5 beds, 3 baths, 2,394 Square Feet single family home located at 12286 W Tennessee Avenue, Lakewood, CO 80228 built in 1962. MLS #6032378. 3D Home Tour Available!"
+          }
+        ],
+        "dateLastCrawled": "2025-04-16T10:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "12286 W Exposition Dr, Lakewood, CO 80228 | Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/12286-W-Exposition-Dr-80228/home/34496849",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/12286-W-Exposition-Dr-80228/home/34496849",
+        "snippet": "5 beds, 3 baths, 1154 sq. ft. house located at 12286 W Exposition Dr, Lakewood, CO 80228. View sales history, tax history, home value estimates, and overhead views. APN 300018314.",
+        "dateLastCrawled": "2025-05-22T15:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "12286 W Exposition Dr, Lakewood, 80228, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "12286 W Exposition Dr, Lakewood, CO 80228 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/12286-W-Exposition-Dr_Lakewood_CO_80228_M20921-19110",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../12286-W-Exposition-Dr_Lakewood_CO_80228_M20921-19110",
+        "snippet": "View detailed information about property 12286 W Exposition Dr, Lakewood, CO 80228 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-02-03T23:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "12286 W Exposition Dr, Lakewood, CO 80228 | Homes.com",
+        "url": "https://www.homes.com/property/12286-w-exposition-dr-lakewood-co/cldwsykjt12vk/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/12286-w-exposition-dr-lakewood-co/cldwsykjt12vk",
+        "snippet": "This home is located at 12286 W Exposition Dr, Lakewood, CO 80228 and is currently estimated at $599,000, approximately $213 per square foot. 12286 W Exposition Dr is a home located in Jefferson County with nearby schools including Dunstan Middle School, Green Mountain High School, and Augustine Classical Academy. ...",
+        "dateLastCrawled": "2024-05-02T13:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "12286 W EXPOSITION DR, LAKEWOOD, CO 80228 - RE/MAX",
+        "url": "https://www.remax.com/co/lakewood/home-details/12286-w-exposition-dr-lakewood-co-80228/3102812252623031091",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/lakewood/home-details/12286-w-exposition-dr-lakewood-co-80228/...",
+        "snippet": "Take a closer look at this 5 bed, 5 bath, 1,154 SqFt, Single Family Residence / Townhouse for sale, located at 12286 W EXPOSITION DR in LAKEWOOD, CO 80228. Search; Account; Menu Contact An Agent Share Facebook X Email Print Favorite. 12286 W EXPOSITION DR LAKEWOOD, CO 80228 $578,220 (Estimated) ...",
+        "dateLastCrawled": "2024-05-05T01:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Who Lives at 12286 W Exposition Dr, Lakewood, CO 80228 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Lakewood/12286-W-Exposition-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Lakewood/12286-W-Exposition-Dr",
+        "snippet": "Find people by address using reverse address lookup for 12286 W Exposition Dr, Lakewood, CO 80228. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-03-11T11:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "12286 W Exposition Dr, Lakewood, CO 80228 - Trulia",
+        "url": "https://www.trulia.com/home/12286-w-exposition-dr-lakewood-co-80228-13776759",
+        "datePublished": "2024-10-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 14, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/12286-w-exposition-dr-lakewood-co-80228-13776759",
+        "snippet": "12286 W Exposition Dr, Lakewood, CO 80228 is a 1,154 sqft, 5 bed, 3 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-10-14T05:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "12281 W Exposition Drive, Lakewood, CO 80228 | Zillow",
+        "url": "https://www.zillow.com/homedetails/12281-W-Exposition-Dr-Lakewood-CO-80228/13776762_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12281-W-Exposition-Dr-Lakewood-CO-80228/13776762_zpid",
+        "snippet": "12281 W Exposition Drive, Lakewood CO, is a Single Family home that contains 2308 sq ft and was built in 1961.It contains 5 bedrooms and 3 bathrooms.This home last sold for $680,718 in May 2024. The Zestimate for this Single Family is $685,800, which has decreased by $893 in the last 30 days.The Rent Zestimate for this Single Family is $3,643/mo, which has increased by $3,643/mo in the last 30 ...",
+        "dateLastCrawled": "2025-02-24T14:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "12287 W Exposition Dr, Lakewood, CO 80228 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/12287-W-Exposition-Dr_Lakewood_CO_80228_M20995-35033",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../12287-W-Exposition-Dr_Lakewood_CO_80228_M20995-35033",
+        "snippet": "See sales history and home details for 12287 W Exposition Dr, Lakewood, CO 80228, a 3 bed, 4 bath, 1,154 Sq. Ft. single family home built in 1961 that was last sold on 10/31/1995.",
+        "dateLastCrawled": "2024-02-20T22:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "12281 W Exposition Dr, Lakewood, CO 80228 | Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/12281-W-Exposition-Dr-80228/home/34496846",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.Kt_MycmI_SDK--UH9yVOFAHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/12281-W-Exposition-Dr-80228/home/34496846",
+        "snippet": "Sold: 5 beds, 3 baths, 2308 sq. ft. house located at 12281 W Exposition Dr, Lakewood, CO 80228 sold for $680,718 on May 8, 2024. MLS# 8671691. Welcome to your GREEN MOUNTAIN home with an open conce...",
+        "dateLastCrawled": "2025-03-28T22:53:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.Kt_MycmI_SDK--UH9yVOFAHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.Kt_MycmI_SDK--UH9yVOFAHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "12286 W Tennessee Avenue, Lakewood, CO 80228 - Zillow",
+        "url": "https://www.zillow.com/homedetails/12286-W-Tennessee-Ave-Lakewood-CO-80228/13776851_zpid/",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12286-W-Tennessee-Ave-Lakewood-CO-80228/13776851_zpid",
+        "snippet": "Zillow has 34 photos of this $674,900 5 beds, 3 baths, 2,394 Square Feet single family home located at 12286 W Tennessee Avenue, Lakewood, CO 80228 built in 1962. MLS #6032378. 3D Home Tour Available!",
+        "dateLastCrawled": "2025-05-05T17:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "12286 W Tennessee Pl, Lakewood, CO 80228 | Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/12286-W-Tennessee-Pl-80228/home/34496774",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/12286-W-Tennessee-Pl-80228/home/34496774",
+        "snippet": "5 beds, 3 baths, 1154 sq. ft. house located at 12286 W Tennessee Pl, Lakewood, CO 80228. View sales history, tax history, home value estimates, and overhead views. APN 300017455.",
+        "dateLastCrawled": "2024-07-17T06:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "12287 W Exposition Dr, Lakewood, CO 80228 | Zillow",
+        "url": "https://www.zillow.com/homedetails/12287-W-Exposition-Dr-Lakewood-CO-80228/13776765_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12287-W-Exposition-Dr-Lakewood-CO-80228/13776765_zpid",
+        "snippet": "12287 W Exposition Dr, Lakewood CO, is a Single Family home that contains 1154 sq ft and was built in 1961.It contains 3 bedrooms and 4 bathrooms.This home last sold for $141,000 in October 1995. The Zestimate for this Single Family is $586,600, which has increased by $6,927 in the last 30 days.The Rent Zestimate for this Single Family is $2,806/mo, which has increased by $2,806/mo in the last ...",
+        "dateLastCrawled": "2025-04-26T08:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "12284 W Exposition Dr, Lakewood, CO 80228 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/12284-W-Exposition-Dr_Lakewood_CO_80228_M18916-47232",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../12284-W-Exposition-Dr_Lakewood_CO_80228_M18916-47232",
+        "snippet": "View detailed information about property 12284 W Exposition Dr, Lakewood, CO 80228 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2023-12-18T16:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "12288 W Exposition Dr, Lakewood, CO 80228 | Zillow",
+        "url": "https://www.zillow.com/homedetails/12288-W-Exposition-Dr-Lakewood-CO-80228/13776760_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12288-W-Exposition-Dr-Lakewood-CO-80228/13776760_zpid",
+        "snippet": "12288 W Exposition Dr, Lakewood CO, is a Single Family home that contains 1242 sq ft and was built in 1961.It contains 4 bedrooms and 3 bathrooms.This home last sold for $310,000 in April 2022. The Zestimate for this Single Family is $622,500, which has decreased by $11,787 in the last 30 days.The Rent Zestimate for this Single Family is $2,724/mo, which has increased by $2,724/mo in the last ...",
+        "dateLastCrawled": "2025-04-14T06:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "12281 W Exposition Dr, Lakewood, CO 80228 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/12281-W-Exposition-Dr_Lakewood_CO_80228_M15599-94345",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../12281-W-Exposition-Dr_Lakewood_CO_80228_M15599-94345",
+        "snippet": "12281 W Exposition Dr, Lakewood, CO 80228 is pending. View 50 photos of this 5 bed, 1 bath, 2308 sqft. single family home with a list price of $625000.",
+        "dateLastCrawled": "2024-04-15T04:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "12284 W Exposition Dr, Lakewood, CO 80228 | Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/12284-W-Exposition-Dr-80228/home/34496850",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/12284-W-Exposition-Dr-80228/home/34496850",
+        "snippet": "4 beds, 2.5 baths, 1154 sq. ft. house located at 12284 W Exposition Dr, Lakewood, CO 80228. View sales history, tax history, home value estimates, and overhead views. APN 300017872.",
+        "dateLastCrawled": "2024-09-27T07:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "14326 W Exposition Drive, Lakewood, CO 80228 | Zillow",
+        "url": "https://www.zillow.com/homedetails/14326-W-Exposition-Dr-Lakewood-CO-80228/13777404_zpid/",
+        "datePublished": "2025-01-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 7, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/14326-W-Exposition-Dr-Lakewood-CO-80228/13777404_zpid",
+        "snippet": "14326 W Exposition Drive, Lakewood CO, is a Single Family home that contains 4480 sq ft and was built in 1984.It contains 4 bedrooms and 3 bathrooms.This home last sold for $950,000 in January 2025. The Zestimate for this Single Family is $948,100, which has decreased by $2,013 in the last 30 days.The Rent Zestimate for this Single Family is $4,521/mo, which has increased by $4,521/mo in the ...",
+        "dateLastCrawled": "2025-05-06T11:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "12288 W Exposition Dr, Lakewood, CO 80228 | Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/12288-W-Exposition-Dr-80228/home/34496848",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/12288-W-Exposition-Dr-80228/home/34496848",
+        "snippet": "4 beds, 2.5 baths, 1242 sq. ft. house located at 12288 W Exposition Dr, Lakewood, CO 80228 sold for $310,000 on Apr 18, 2022. View sales history, tax history, home value estimates, and overhead vie...",
+        "dateLastCrawled": "2024-07-11T08:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

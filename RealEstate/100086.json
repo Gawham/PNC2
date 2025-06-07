@@ -1,0 +1,530 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "111 N Emerson St, Unit 862, Denver CO 80218"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=111+N+Emerson+St%2c+Unit+862%2c+Denver+CO+80218",
+    "totalEstimatedMatches": 1490000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Brookdale Parkplace | Independent Living in Denver, Colorado",
+        "url": "https://www.brookdale.com/en/communities/brookdale-parkplace.html",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.KNsCkAH44m4aSpm9P71LUAAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-parkplace.html",
+        "snippet": "111 Emerson St., Denver, CO 80218. 303-744-0400. Our Services. Independent Living Assisted Living Memory Care At Home Service. Pricing Floor Plans Gallery. ... as applicable, as of the date listed for a single occupancy unit in the listed community excluding any care costs or other fees, unless otherwise stated. Prices will vary based on living ...",
+        "dateLastCrawled": "2025-06-04T11:20:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.KNsCkAH44m4aSpm9P71LUAAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 400,
+          "sourceHeight": 300,
+          "imageId": "OIP.KNsCkAH44m4aSpm9P71LUAAAAA"
+        },
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Brookdale Parkplace (UPDATED) - Get Pricing, See 17 Photos ... - Seniorly",
+        "url": "https://www.seniorly.com/assisted-living/colorado/denver/brookdale-parkplace",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.RpeyoKbaswsAdtHUh5bs9gHaHa&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 9.8,
+              "bestRating": 10,
+              "reviewCount": 86
+            }
+          }
+        ],
+        "datePublished": "2025-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/assisted-living/colorado/denver/brookdale-parkplace",
+        "snippet": "Brookdale Parkplace is an Assisted Living community located at 111 Emerson Street in Denver, CO. See pricing, photos & reviews on Seniorly.com! Talk with a local advisor for free855-866 ... 111 Emerson Street, Denver, CO 80218 Calculate travel time. Assisted Living \u00b7 Memory Care \u00b7 Independent Living. 9.8. Community score. Write a review.",
+        "dateLastCrawled": "2025-06-04T11:22:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.RpeyoKbaswsAdtHUh5bs9gHaHa&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 474,
+          "imageId": "OIP.RpeyoKbaswsAdtHUh5bs9gHaHa"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "111 Emerson Street, Denver, 80218, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 744-0400"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Brookdale Parkplace - May 2025 Pricing (UPDATED) - Family Assets",
+        "url": "https://www.familyassets.com/assisted-living/colorado/denver/brookdale-parkplace",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 8.8,
+              "bestRating": 10,
+              "reviewCount": 41
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/assisted-living/colorado/denver/brookdale-parkplace",
+        "snippet": "111 Emerson St, Denver CO, 80218. Resident Review Score. 8.8 | Most Loved. Starting price. $3,400. For this area $$ $ Get Personalized Pricing. Brookdale Parkplace. ... Colorado. This community offers a memory care unit for residents with dementia and provides an independent living option. Hospice services are available on-site for residents ...",
+        "dateLastCrawled": "2025-05-31T10:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "111 Emerson St, Denver, 80218, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Brookdale Parkplace - 2025 Pricing, Photos, 23 Reviews in Denver, CO",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/denver/brookdale-parkplace-80218/",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5,
+              "reviewCount": 38
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/facilities/co/denver/brookdale-parkplace-80218",
+        "snippet": "111 N Emerson St, Denver, CO 80218. 4.6 / 5.0 38 Reviews . Pricing & Availability (800) 755-1458 . Contact Resident (303) 744-0400 . About Location FAQs Reviews; Jobs; Get Pricing Today! * Required Fields ... The memory care unit staff are amazing, as is the assisted living staff. The turnover is pretty low, as many of the staff were there for ...",
+        "dateLastCrawled": "2025-05-13T03:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Brookdale Parkplace - Colorado Health Care Association",
+        "url": "https://www.cohca.org/consumers/find-care/brookdale-parkplace/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cohca.org/consumers/find-care/brookdale-parkplace",
+        "snippet": "111 N Emerson St. Denver, CO 80218. Page Malmstrom Administrator 303-744-0400 303-744-2118 (fax) https://www.brookdale.com/en/communities/brookdale-parkplace.html",
+        "dateLastCrawled": "2025-03-29T03:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Brookdale Parkplace - 26 Reviews - Denver, CO - Caring.com",
+        "url": "https://www.caring.com/senior-living/colorado/denver/brookdale-parkplace",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.a0xos8_LwbVklvIIXwh1yAHaFj&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2017-01-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 11, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.caring.com/senior-living/colorado/denver/brookdale-parkplace",
+        "snippet": "Reviews plus photos and pricing for Brookdale Parkplace in Denver, Colorado. Find and compare nearby senior living communities at Caring.com. ... 111 Emerson St., Denver, CO 80218 (800) 558-0653 Verified Partner. 4.3 (26 reviews ... People there seemed very happy; they were well taken care of. I saw the memory care unit, and I was impressed ...",
+        "dateLastCrawled": "2025-06-04T02:26:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.a0xos8_LwbVklvIIXwh1yAHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.a0xos8_LwbVklvIIXwh1yAHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Caring.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Brookdale Parkplace | Assisted Living & Memory Care | Denver, CO 80218 ...",
+        "url": "https://www.aplaceformom.com/community/brookdale-parkplace-93397",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.EHQ_pQRCfFijAKDpd-taFgHaE8&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/brookdale-parkplace-93397",
+        "snippet": "111 Emerson Street, Denver, CO 80218. For pricing & availability: (866) 374-4058. Call Now Close . This phone number connects you with a local advisor from A Place For Mom. Call us (866) 374-4058. 9.6. Review score. 93 reviews. Add review. 9.6. Review score. 93 reviews. 5 star. 60%. 4 star. 27%. 3 star. 8%. 2 star. 1%. 1 star. 4%. See all reviews .",
+        "dateLastCrawled": "2025-05-28T14:02:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.EHQ_pQRCfFijAKDpd-taFgHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.EHQ_pQRCfFijAKDpd-taFgHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Brookdale Parkplace \u2013 Denver, CO \u2013 SeniorHousingNet.com",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/brookdale-parkplace_111-n-emerson-st_denver_co_80218-630698",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/brookdale-parkplace_111-n-emerson...",
+        "snippet": "Brookdale Parkplace - Assisted Living facility located at 111 Emerson St., Denver, CO, 80218, seniorhousingnet.com . 800-304-7152. Talk to a local advisor for free. Assisted Living; Alzheimer\u2019s Care; ... Search SeniorHousingNet.com for additional senior housing options near 111 N Emerson St.",
+        "dateLastCrawled": "2025-03-06T06:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Assisted Living Parkplace Denver - Brookdale Senior Living",
+        "url": "https://www.brookdale.com/en/communities/brookdale-parkplace/assisted-living.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-parkplace/assisted-living.html",
+        "snippet": "111 Emerson St., Denver, CO 80218. 303-744-0400. Our Services. Home Independent Living Assisted Living Memory Care At Home Service. Pricing Floor Plans Gallery. Brookdale Parkplace. 111 Emerson St., Denver, CO 80218. 303-744-0400. Back to Community Overview Back to Community Overview . Care Levels Offered.",
+        "dateLastCrawled": "2025-05-31T11:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "111 N Emerson St, Denver, CO 80218 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/111-Emerson-St_Denver_CO_80218_M10991-73330",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/111-Emerson-St_Denver_CO_80218_M...",
+        "snippet": "View detailed information about property 111 N Emerson St, Denver, CO 80218 including listing details, property photos, school and neighborhood data, and much more. ... 120 N Washington St Apt 3 ...",
+        "dateLastCrawled": "2024-03-12T07:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Brookdale Parkplace, 111 N Emerson St, Denver, CO 80218, US - MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/brookdale-parkplace-303639239",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/brookdale-parkplace-303639239",
+        "snippet": "111 N Emerson St. Denver, CO 80218 +1 (303) 744-0400. https://www.brookdale.com. Imagine your life enhanced with interesting people, a place where wellness is a reality, not a dream. A life full of wisdom to understand the power of a redefined independence at all stages of life with family and friends. A place where you choose not to just age ...",
+        "dateLastCrawled": "2025-05-20T10:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Independent Living at Parkplace in Denver - Brookdale Senior Living",
+        "url": "https://www.brookdale.com/en/communities/brookdale-parkplace/independent-living.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.brookdale.com/en/communities/brookdale-parkplace/independent-living.html",
+        "snippet": "111 Emerson St., Denver, CO 80218. 303-744-0400. Our Services. Home Independent Living Assisted Living Memory Care At Home Service. Pricing Floor Plans Gallery. Brookdale Parkplace. 111 Emerson St., Denver, CO 80218. 303-744-0400. Back to Community Overview Back to Community Overview . Care Levels Offered.",
+        "dateLastCrawled": "2025-06-01T23:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "111 N Emerson St, Denver, CO 80218 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/111-N-Emerson-St-80218/home/34115923",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/111-N-Emerson-St-80218/home/34115923",
+        "snippet": "160522 sq. ft. condo located at 111 N Emerson St, Denver, CO 80218. View sales history, tax history, home value estimates, and overhead views. APN 05101-27-041-000. ... 1301 N Ogden St Unit 1A, Denver, CO 80218. Rebekah Robinson \u2022 West and Main Homes Inc. $299,000. 1 bed 1 bath 644 sq ft. 100 S Clarkson St #303, Denver, CO 80209.",
+        "dateLastCrawled": "2025-05-04T07:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "111 N Emerson St Apt 862, Denver, CO 80218 - OpenGovCO",
+        "url": "https://opengovco.com/business/20241529423",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20241529423",
+        "snippet": "Susan B. Designs LLC (Entity #20241529423) is a Limited Liability Company in Denver, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on May 13, 2024 in the jurisdiction of Colorado. The registered office location is at 111 N Emerson St Apt 862, Denver, CO 80218. The current entity status is good standing.",
+        "dateLastCrawled": "2024-08-15T03:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Parkplace | Denver, Colorado Assisted Living",
+        "url": "https://seniorhomes.net/communities/parkplace-denver-co-468",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://seniorhomes.net/communities/parkplace-denver-co-468",
+        "snippet": "Parkplace, located at 111 Emerson Street, Denver, CO 80218, is a senior living community specializing in Alzheimer's, Assisted Living, Independent Living. ... 1835 Franklin St, Denver, CO 80218 (1 miles) 303-837-7111 Denver Health Medical Center 777 Bannock St, Denver, CO 80204 (1 miles) 303-436-6000 ...",
+        "dateLastCrawled": "2025-05-10T12:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHomes.net"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Who Lives at 111 N Emerson St, Unit 862, Denver, CO 80218 - Spokeo",
+        "url": "https://www.spokeo.com/CO/Denver/111-N-Emerson-St/862",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Denver/111-N-Emerson-St/862",
+        "snippet": "Find people by address using reverse address lookup for 111 N Emerson St, Unit 862, Denver, CO 80218. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-02-05T09:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "111 N Emerson St #F320A52C6, Denver, CO 80218 | Zillow",
+        "url": "https://www.zillow.com/homedetails/111-N-Emerson-St-F320A52C6-Denver-CO-80218/449093760_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/111-N-Emerson-St-F320A52C6-Denver-CO-80218/...",
+        "snippet": "111 N Emerson St #F320A52C6, Denver, CO 80218 is currently not for sale. The -- sqft apartment home is a 2 beds, 2 baths property. This home was built in 1988 and last sold on 2025-04-02 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-04T04:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "PEAKS HOME HEALTH, LLC NPI 1003532573 Home Health in Denver, CO",
+        "url": "https://npiprofile.com/npi/1003532573",
+        "datePublished": "2022-10-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 17, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1003532573",
+        "snippet": "NPI Profile for Peaks Home Health, Llc in 111 N Emerson St Apt 562 Denver, Co 80218. Phone: (303) 777-0463 . Taxonomy 251E00000X",
+        "dateLastCrawled": "2025-05-18T20:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "111 N Emerson St, Denver, CO 80218 - Owner, Sales, Taxes",
+        "url": "https://www.propertyshark.com/mason/Property/121370378/111-Emerson-St-Denver-CO-80203/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.propertyshark.com/mason/Property/121370378/111-Emerson-St-Denver-CO-80203",
+        "snippet": "Brookdale Parkplace - 111 North Emerson Street, Denver, CO 80218. Find Comps; Build List; General Contacts Documents Tax Neighborhood Find Comps; Build List; Unlock this property report with a free account. Access up-to-date information from property owner names to sales, mortgages, development maps, permits and more. ...",
+        "dateLastCrawled": "2023-09-20T22:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1631 N Emerson St APT 111, Denver, CO 80218 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1631-N-Emerson-St-APT-111-Denver-CO-80218/61433509_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1631-N-Emerson-St-APT-111-Denver-CO-80218/61433509_zpid",
+        "snippet": "1631 N Emerson St Apt 111, Denver CO, is a Apartment home that contains 1062 sq ft and was built in 2001.It contains 1 bedroom and 2 bathrooms.This home last sold for $480,000 in September 2018. The Zestimate for this Apartment is $513,200, which has decreased by $4,367 in the last 30 days.The Rent Zestimate for this Apartment is $2,454/mo, which has increased by $2,454/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-17T10:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "46 Danielle Cir, Durango CO 81301"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=46+Danielle+Cir%2c+Durango+CO+81301",
+    "totalEstimatedMatches": 162000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "46 Danielle Cir, Durango, CO 81301 - Zillow",
+        "url": "https://www.zillow.com/homedetails/46-Danielle-Cir-Durango-CO-81301/50943887_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/46-Danielle-Cir-Durango-CO-81301/50943887_zpid",
+        "snippet": "46 Danielle Cir, Durango CO, is a Single Family home that contains 3041 sq ft and was built in 1991.It contains 5 bedrooms and 3 bathrooms.This home last sold for $395,000 in May 2023. The Zestimate for this Single Family is $896,300, which has increased by $23,813 in the last 30 days.The Rent Zestimate for this Single Family is $3,804/mo, which has increased by $3,804/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "46 Danielle Ct, Durango, CO 81301",
+            "url": "https://www.zillow.com/homedetails/46-Danielle-Ct-Durango-CO-81301/445801772_zpid/",
+            "snippet": "46 Danielle Ct, Durango, CO 81301 is currently not for sale. The 3,041 Square Feet single family home is a 5 beds, 3 baths property. This home was built in 1991 and last sold on 2023-05-30 for $790,000. View more property details, sales history, and Zestimate data on Zillow. ... 38 Danielle Cir, Durango, CO 81301. Off Market."
+          }
+        ],
+        "dateLastCrawled": "2025-03-21T01:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "46 Danielle Ct, Durango, CO 81301 | Redfin",
+        "url": "https://www.redfin.com/CO/Durango/46-Danielle-Cir-81301/home/130668585",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Durango/46-Danielle-Cir-81301/home/130668585",
+        "snippet": "5 beds, 3 baths, 3041 sq. ft. house located at 46 Danielle Ct, Durango, CO 81301 sold for $790,000 on May 30, 2023. MLS# 801665. Located in Durango West II at the end of a cul-de-sac, this is a lar...",
+        "dateLastCrawled": "2025-06-05T19:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "46 Danielle Ct, Durango, CO 81301 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/46-Danielle-Cir_Durango_CO_81301_M13167-09922",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/46-Danielle-Cir_Durango_CO_81301_M...",
+        "snippet": "View detailed information about property 46 Danielle Ct, Durango, CO 81301 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App ...",
+        "dateLastCrawled": "2025-03-21T01:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "46 Danielle, Durango, CO 81301 - SOLD LISTING | MLS # 801665",
+        "url": "https://www.wellsgroupdurango.com/real-estate/46-danielle-durango-co-81301/801665/134325340",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.wellsgroupdurango.com/real-estate/46-danielle-durango-co-81301/801665/...",
+        "snippet": "Schedule a showing for 46 Danielle in Durango, CO.. MLS ID 801665. Search Real Estate. Featured Projects Advanced Search Homes & Residential New Listings Land & Ranch Commercial Luxury Property Mountain Resort Listings. Sell . ... 46 Danielle Durango, CO 81301. $790,000 Est. Mortgage --/mo.",
+        "dateLastCrawled": "2025-04-17T01:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Email"
+            },
+            "items": [
+              {
+                "text": "zane@wellsgroupdurango.com"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Asking Price"
+            },
+            "items": [
+              {
+                "text": "$825,000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "46 Danielle Cir, Durango, CO 81301 | Homes.com",
+        "url": "https://www.homes.com/property/46-danielle-cir-durango-co/df059dmchb5nd/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/46-danielle-cir-durango-co/df059dmchb5nd",
+        "snippet": "This home is located at 46 Danielle Cir, Durango, CO 81301 since 17 March 2023 and is currently estimated at $862,236, approximately $283 per square foot. This property was built in 1991. 46 Danielle Cir is a home located in La Plata County with nearby schools including Park Elementary School, Escalante Middle School, and Durango High School. ...",
+        "dateLastCrawled": "2025-04-28T16:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Who Lives at 46 Danielle Cir, Durango, CO 81301 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Durango/46-Danielle-Cir",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Durango/46-Danielle-Cir",
+        "snippet": "Find people by address using reverse address lookup for 46 Danielle Cir, Durango, CO 81301. Find contact info for current and past residents, property value, and more. ... This property is located at 46 Danielle Cir in Durango, CO. It features 5 bedrooms and 3 bathrooms. Built in 1991, the home has a total of 3,041 square feet of living space. All.",
+        "dateLastCrawled": "2025-04-30T08:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Owns 46 Danielle Cir, Durango, CO and Lives at This Home ...",
+        "url": "https://www.whitepages.com/address/46-Danielle-Cir/Durango-CO/AnjbL0XDZ3K",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/address/46-Danielle-Cir/Durango-CO/AnjbL0XDZ3K",
+        "snippet": "Find out who owns 46 Danielle Cir, Durango, CO and who lives at this home, including owners William Barton,Patricia Barton. Look up sale history, residents' phone numbers & property values with Whitepages Property Records Search.",
+        "dateLastCrawled": "2025-06-05T08:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "46 DANIELLE CIR, Durango, CO 81301 | Property records - Rehold",
+        "url": "https://rehold.com/Durango+CO/DANIELLE+CIR/46",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rehold.com/Durango+CO/DANIELLE+CIR/46",
+        "snippet": "46 DANIELLE CIR, Durango, CO 81301 is a 3,041 sqft house. View more property details, see the estimate, sales history and search for homes nearby on Rehold. Login; ... 46 Danielle Cir, Durango CO On the map. Map of real estate properties. Assessment history. Year Tax Assessment Market; 2013: $1,042: $30,660:",
+        "dateLastCrawled": "2025-02-14T17:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rehold"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "46 Danielle Ct, Durango, CO 81301 - See Est. Value, Schools & More - Trulia",
+        "url": "https://www.trulia.com/home/46-danielle-ct-durango-co-81301-445801772",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/46-danielle-ct-durango-co-81301-445801772",
+        "snippet": "46 Danielle Ct, Durango, CO 81301 is a 3,041 sqft, 5 bed, 3 bath home sold in 2023. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-02-14T04:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "46 DANIELLE CIR, DURANGO, CO 81301 - RE/MAX",
+        "url": "https://www.remax.com/co/durango/home-details/46-danielle-cir-durango-co-81301/5978139453374543400",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/durango/home-details/46-danielle-cir-durango-co-81301/...",
+        "snippet": "View 46 DANIELLE CIR, DURANGO, CO 81301 property and neighbourhood details. Find out how much this listing is worth with RE/MAX's Home Value Estimator and view similar real estate listings. ... Details for 46 DANIELLE CIR. Built in 1991. No Info. 0.82 acres lot. Interior. Bathrooms Full. 3. Bathrooms Total. 3.",
+        "dateLastCrawled": "2024-09-19T16:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "46 Danielle Ct, Durango, CO 81301 - Zillow",
+        "url": "https://www.zillow.com/homedetails/46-Danielle-Ct-Durango-CO-81301/445801772_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/46-Danielle-Ct-Durango-CO-81301/445801772_zpid",
+        "snippet": "46 Danielle Ct, Durango, CO 81301 is currently not for sale. The 3,041 Square Feet single family home is a 5 beds, 3 baths property. This home was built in 1991 and last sold on 2023-05-30 for $790,000. View more property details, sales history, and Zestimate data on Zillow. ... 38 Danielle Cir, Durango, CO 81301. Off Market.",
+        "dateLastCrawled": "2025-02-02T22:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "46 Danielle Cir, Durango, CO 81301 owner and property records",
+        "url": "https://hudwayglass.com/house/46+DANIELLE+CIR,+Durango+CO",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hudwayglass.com/house/46+DANIELLE+CIR,+Durango+CO",
+        "snippet": "Information about property on 46 Danielle Cir, Durango CO, 81301-7229. Find out owner contacts, building history, price, neighborhood at Homemetry Address Directory. Property Details. At 46 Danielle Cir, Durango, CO based a single-family property. Facts. Built in 1991; Lot size 0,82 acres; Style Conventional; Misc.",
+        "dateLastCrawled": "2024-08-31T16:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Danielle Cir, Durango, CO 81301 Property Records",
+        "url": "https://www.countyoffice.org/danielle-cir-durango-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/danielle-cir-durango-co-property-records",
+        "snippet": "Danielle Cir in Durango, CO 81301 has 4 properties These homes, built between 1991 and 2002, typically offer 3 and 5 bedrooms and 2-4 bathrooms. ... 46 Danielle Cir, Durango, CO 81301: $629,700: 5: $395k (May 2023) 3,041 sq ft: 50 Danielle Cir, Durango, CO 81301: $586,200: 3: $5.15m (March 2008)",
+        "dateLastCrawled": "2024-09-25T11:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "46 Danielle Cir Durango, CO 81301 - property.whitepages.com",
+        "url": "https://property.whitepages.com/property/70726f2d526f7a5844794472797a34",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://property.whitepages.com/property/70726f2d526f7a5844794472797a34",
+        "snippet": "Find out how much 46 Danielle Cir Durango, CO is worth, including rental income and investment insights. Compare property values, appreciation trends, & look up owners for free with Property Intel by Whitepages.",
+        "dateLastCrawled": "2025-02-26T15:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "46 Danielle Cir Durango CO 81301 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/46-danielle-cir-durango-co-81301-145332679",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/46-danielle-cir-durango-co-81301-145332679",
+        "snippet": "46 Danielle Cir Durango CO with 5 bedroom and 3 bath is currently not for sale. Xome's estimated value is $408,983. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-05-28T09:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "46 Danielle Cir Durango, CO 81301 - Trulia",
+        "url": "https://www.trulia.com/home/46-danielle-cir-durango-co-81301-50943887",
+        "datePublished": "2022-09-23T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 23, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/46-danielle-cir-durango-co-81301-50943887",
+        "snippet": "46 Danielle Cir, Durango, CO 81301 is a 5 bedroom, 3 bathroom, 3,041 sqft single-family home built in 1991. This property is not currently available for sale. 46 Danielle Cir was last sold on May 30, 2023 for $395,000.",
+        "dateLastCrawled": "2025-05-28T07:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "46 Danielle Cir, Durango, CO 81301 - RealtyTrac",
+        "url": "https://www.realtytrac.com/p/danielle-cir-durango-co-81301-184563572/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtytrac.com/p/danielle-cir-durango-co-81301-184563572",
+        "snippet": "5 Bedrooms, 3 Bathrooms, Single Family Home - Off Market Property in Durango, Colorado. This home was built in 1991, is 3041 square feet, and its expected value is $535,580.769. For Sale. Foreclosure; Recently Sold. ... 46 Danielle Cir, Durango, CO 81301. Register to see full address. Member Features. Find Real Estate Bargain! Full foreclosure ...",
+        "dateLastCrawled": "2024-01-04T07:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RealtyTrac"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "50 Danielle Cir, Durango, CO 81301 - Zillow",
+        "url": "https://www.zillow.com/homedetails/50-Danielle-Cir-Durango-CO-81301/50943886_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/50-Danielle-Cir-Durango-CO-81301/50943886_zpid",
+        "snippet": "50 Danielle Cir, Durango CO, is a Single Family home that contains 2701 sq ft and was built in 1993.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $5,150,000 in March 2008. The Zestimate for this Single Family is $1,024,200, which has increased by $53,910 in the last 30 days.The Rent Zestimate for this Single Family is $2,901/mo, which has increased by $2,901/mo in the last ...",
+        "dateLastCrawled": "2025-04-03T12:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "41 Danielle Cir, Durango, CO 81301 - Zillow",
+        "url": "https://www.zillow.com/homedetails/41-Danielle-Cir-Durango-CO-81301/50943885_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/41-Danielle-Cir-Durango-CO-81301/50943885_zpid",
+        "snippet": "41 Danielle Cir, Durango CO, is a Single Family home that contains 2723 sq ft and was built in 1999.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $400,000 in November 2002. The Zestimate for this Single Family is $838,000, which has decreased by $1,027 in the last 30 days.The Rent Zestimate for this Single Family is $2,728/mo, which has increased by $2,728/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-18T23:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "38 Danielle Cir, Durango, CO 81301 - Zillow",
+        "url": "https://www.zillow.com/homedetails/38-Danielle-Cir-Durango-CO-81301/13930440_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/38-Danielle-Cir-Durango-CO-81301/13930440_zpid",
+        "snippet": "38 Danielle Cir, Durango CO, is a Single Family home that contains 4571 sq ft and was built in 2002.It contains 5 bedrooms and 4 bathrooms.This home last sold for $449,900 in August 2006. The Zestimate for this Single Family is $1,108,500, which has increased by $30,620 in the last 30 days.The Rent Zestimate for this Single Family is $4,315/mo, which has increased by $4,315/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-23T08:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

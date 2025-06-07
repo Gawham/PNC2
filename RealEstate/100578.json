@@ -1,0 +1,434 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2575 S Logan St, Denver CO 80210"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2575+S+Logan+St%2c+Denver+CO+80210",
+    "totalEstimatedMatches": 2640000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "2575 S Logan St, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2575-S-Logan-St-Denver-CO-80210/13379306_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2575-S-Logan-St-Denver-CO-80210/13379306_zpid",
+        "snippet": "2575 S Logan St, Denver, CO 80210 is currently not for sale. The 1,102 Square Feet single family home is a 3 beds, 2 baths property. This home was built in 1961 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-08T12:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "2575 S Logan St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/2575-S-Logan-St-80210/home/34158569",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/2575-S-Logan-St-80210/home/34158569",
+        "snippet": "3 beds, 2 baths, 1102 sq. ft. house located at 2575 S Logan St, Denver, CO 80210. View sales history, tax history, home value estimates, and overhead views. APN 05276-07-014-000.",
+        "dateLastCrawled": "2024-06-26T08:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "2575 S Logan St, Denver, CO 80210 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2575-S-Logan-St_Denver_CO_80210_M18208-57349",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2575-S-Logan-St_Denver_CO_80210_M...",
+        "snippet": "View detailed information about property 2575 S Logan St, Denver, CO 80210 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-01-05T22:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "2575 S Logan St, Denver, CO 80210 - Trulia",
+        "url": "https://www.trulia.com/home/2575-s-logan-st-denver-co-80210-13379306",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/2575-s-logan-st-denver-co-80210-13379306",
+        "snippet": "2575 S Logan St, Denver, CO 80210 is a 1,102 sqft, 3 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-10-07T15:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "2585 S Logan St, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2585-S-Logan-St-Denver-CO-80210/13379305_zpid/",
+        "datePublished": "2024-09-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 15, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2585-S-Logan-St-Denver-CO-80210/13379305_zpid",
+        "snippet": "2585 S Logan St, Denver CO, is a Single Family home that contains 2056 sq ft.It contains 3 bedrooms and 1 bathroom.This home last sold for $124,900 in February 1996. The Zestimate for this Single Family is $563,900, which has decreased by $8,013 in the last 30 days.The Rent Zestimate for this Single Family is $3,109/mo, which has increased by $3,109/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-22T14:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "2575 S Broadway St, Denver, CO 80210 - Flex for Sale | LoopNet",
+        "url": "https://www.loopnet.com/Listing/2575-S-Broadway-St-Denver-CO/33773030/",
+        "datePublished": "2024-11-06T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 6, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/2575-S-Broadway-St-Denver-CO/33773030",
+        "snippet": "More public record information on 2575 S Broadway St, Denver, CO 80210 The Overland Flex Property at 2575 S Broadway St, Denver , CO 80210 is currently available. Contact Unique Properties, Inc. for more information.",
+        "dateLastCrawled": "2025-05-27T06:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "2575 S Lincoln St, Denver, CO 80210 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2575-S-Lincoln-St_Denver_CO_80210_M26749-26443",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2575-S-Lincoln-St_Denver_CO_80210_M...",
+        "snippet": "See photos and price history of this 3 bed, 1 bath, 1,660 Sq. Ft. recently sold home located at 2575 S Lincoln St, Denver, CO 80210 that was sold on 02/04/2025 for $618000.",
+        "dateLastCrawled": "2025-02-18T01:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "2537 S Logan St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/2537-S-Logan-St-80210/home/34158594",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/2537-S-Logan-St-80210/home/34158594",
+        "snippet": "1 bed, 1 bath, 672 sq. ft. house located at 2537 S Logan St, Denver, CO 80210 sold for $505,000 on Aug 15, 2022. MLS# 2508032. Wonderful south Denver location for this gem, just off lush Harvard Gu...",
+        "dateLastCrawled": "2025-03-25T06:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "2575 S Lincoln Street, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2575-S-Lincoln-St-Denver-CO-80210/13379357_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.UpXFALFwBngw9jhtokxQtgHaFI&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-02-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 5, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2575-S-Lincoln-St-Denver-CO-80210/13379357_zpid",
+        "snippet": "2575 S Lincoln Street, Denver CO, is a Single Family home that contains 1660 sq ft and was built in 1922.It contains 3 bedrooms and 1 bathroom.This home last sold for $618,000 in February 2025. The Zestimate for this Single Family is $617,900, which has decreased by $3,671 in the last 30 days.The Rent Zestimate for this Single Family is $2,772/mo, which has increased by $2,772/mo in the last ...",
+        "dateLastCrawled": "2025-02-24T09:38:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.UpXFALFwBngw9jhtokxQtgHaFI&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 328,
+          "imageId": "OIP.UpXFALFwBngw9jhtokxQtgHaFI"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "2575 S Broadway St, Denver, CO 80210 | LoopNet",
+        "url": "https://www.loopnet.com/Listing/2575-S-Broadway-St-Denver-CO/17569183/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.VzaAKZsIrt43SFS_co0ShQHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/2575-S-Broadway-St-Denver-CO/17569183",
+        "snippet": "2575 S Broadway St, Denver, CO 80210. This Flex property can be viewed on LoopNet. In demand retail/office space available For Sale on South Br",
+        "dateLastCrawled": "2024-04-05T17:22:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.VzaAKZsIrt43SFS_co0ShQHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.VzaAKZsIrt43SFS_co0ShQHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "2575 S Milwaukee Street, Denver, CO 80210 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2575-S-Milwaukee-St-Denver-CO-80210/13374947_zpid/",
+        "datePublished": "2024-11-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 21, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2575-S-Milwaukee-St-Denver-CO-80210/13374947_zpid",
+        "snippet": "2575 S Milwaukee Street, Denver CO, is a Single Family home that contains 6500 sq ft and was built in 1999.It contains 5 bedrooms and 5 bathrooms.This home last sold for $2,123,150 in November 2024. The Zestimate for this Single Family is $2,119,500, which has decreased by $14,500 in the last 30 days.The Rent Zestimate for this Single Family is $6,591/mo, which has increased by $6,591/mo in ...",
+        "dateLastCrawled": "2025-05-04T07:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "2575 S Franklin St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/2575-S-Franklin-St-80210/home/34156220",
+        "datePublished": "2012-09-04T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 4, 2012",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/2575-S-Franklin-St-80210/home/34156220",
+        "snippet": "2 beds, 1.5 baths, 1430 sq. ft. house located at 2575 S Franklin St, Denver, CO 80210 sold for $265,000 on Sep 4, 2012. View sales history, tax history, home value estimates, and overhead views. AP...",
+        "dateLastCrawled": "2025-02-24T04:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "2571 S Logan St, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2571-S-Logan-St-Denver-CO-80210/2095158053_zpid/",
+        "datePublished": "2025-04-08T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 8, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2571-S-Logan-St-Denver-CO-80210/2095158053_zpid",
+        "snippet": "2571 S Logan St, Denver, CO 80210 is currently not for sale. The 660 Square Feet townhouse home is a 1 bed, 1 bath property. This home was built in null and last sold on 2025-04-22 for $1,650.",
+        "dateLastCrawled": "2025-06-03T09:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2580 S Logan St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/2580-S-Logan-St-80210/home/34158542",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/2580-S-Logan-St-80210/home/34158542",
+        "snippet": "Sold: 2 beds, 1 bath, 1809 sq. ft. house located at 2580 S Logan St, Denver, CO 80210 sold for $564,000 on Sep 16, 2024. MLS# 7822839. This great home on a 9370 sq ft lot offers so much to a reside...",
+        "dateLastCrawled": "2025-03-29T22:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1276 S Logan Street, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1276-S-Logan-St-Denver-CO-80210/318396774_zpid/",
+        "datePublished": "2025-04-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 11, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1276-S-Logan-St-Denver-CO-80210/318396774_zpid",
+        "snippet": "1276 S Logan Street, Denver CO, is a Single Family home that contains 3378 sq ft and was built in 2019.It contains 5 bedrooms and 5 bathrooms.This home last sold for $1,425,000 in April 2025. The Zestimate for this Single Family is $1,425,000, which has decreased by $24,167 in the last 30 days.The Rent Zestimate for this Single Family is $6,739/mo, which has increased by $6,739/mo in the last ...",
+        "dateLastCrawled": "2025-05-14T02:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "2349 S Logan St, Denver, CO 80210 - APN/Parcel ID: 5275-00-002 - LoopNet",
+        "url": "https://www.loopnet.com/property/2349-s-logan-st-denver-co-80210/08031-0527500002000/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/property/2349-s-logan-st-denver-co-80210/08031-0527500002000",
+        "snippet": "View information about 2349 S Logan St, Denver, CO 80210, APN/Parcel ID: 5275-00-002. See if the property is available for sale or lease. View photos, public assessor data, maps and county tax information. Find properties near 2349 S Logan St.",
+        "dateLastCrawled": "2025-05-30T09:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "2585 S Logan St, Denver, CO 80210 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/2585-S-Logan-St-80210/home/34158570",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/2585-S-Logan-St-80210/home/34158570",
+        "snippet": "Sold: 995 sq. ft. house located at 2585 S Logan St, Denver, CO 80210 sold for $576,000 on Aug 23, 2024. View sales history, tax history, home value estimates, and overhead views. APN 05276-07-013-0...",
+        "dateLastCrawled": "2025-03-28T07:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "2684 S Logan Street, Denver, CO 80210 | MLS #3248465 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2684-S-Logan-St-Denver-CO-80210/13379467_zpid/",
+        "datePublished": "2025-05-29T00:00:00.0000000",
+        "datePublishedDisplayText": "May 29, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2684-S-Logan-St-Denver-CO-80210/13379467_zpid",
+        "snippet": "Zillow has 36 photos of this $475,000 2 beds, 1 bath, 983 Square Feet single family home located at 2684 S Logan Street, Denver, CO 80210 built in 1947. MLS #3248465.",
+        "dateLastCrawled": "2025-05-29T23:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "2552 S Logan Street, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2552-S-Logan-St-Denver-CO-80210/54891983_zpid/",
+        "datePublished": "2024-02-09T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 9, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2552-S-Logan-St-Denver-CO-80210/54891983_zpid",
+        "snippet": "2552 S Logan Street, Denver CO, is a Single Family home that contains 1500 sq ft and was built in 1953.It contains 3 bedrooms and 1 bathroom.This home last sold for $410,000 in February 2024. The Zestimate for this Single Family is $402,200, which has increased by $1,426 in the last 30 days.The Rent Zestimate for this Single Family is $2,889/mo, which has increased by $2,889/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-11T12:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "206 N 4th St, Victor CO 80860"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=206+N+4th+St%2c+Victor+CO+80860",
+    "totalEstimatedMatches": 1370000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "206 N 4th St, Victor, CO 80860 | MLS #5344832 | Zillow",
+        "url": "https://www.zillow.com/homedetails/206-N-4th-St-Victor-CO-80860/62718822_zpid/",
+        "datePublished": "2025-05-27T00:00:00.0000000",
+        "datePublishedDisplayText": "May 27, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/206-N-4th-St-Victor-CO-80860/62718822_zpid",
+        "snippet": "Zillow has 24 photos of this $275,000 2 beds, 2 baths, 1,836 Square Feet single family home located at 206 N 4th St, Victor, CO 80860 built in 1936. MLS #5344832.",
+        "dateLastCrawled": "2025-05-28T13:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "206 N 4th St, Victor, CO 80860 | For Sale ($275,000) | MLS ... - Redfin",
+        "url": "https://www.redfin.com/CO/Victor/206-N-4th-St-80860/home/67362628",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Victor/206-N-4th-St-80860/home/67362628",
+        "snippet": "For Sale: 2 beds, 2 baths \u2219 1836 sq. ft. \u2219 206 N 4th St, Victor, CO 80860 \u2219 $275,000 \u2219 MLS# 5344832 \u2219 Step back in time with this charming 1936 gem in the heart of historic Victor! This 2 bed, 2 ba...",
+        "dateLastCrawled": "2025-06-04T18:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "206 N 4th St, Victor, CO 80860 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/206-N-4th-St_Victor_CO_80860_M28287-40290",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/206-N-4th-St_Victor_CO_80860_M28287...",
+        "snippet": "View 11 photos for 206 N 4th St, Victor, CO 80860, a 2 bed, 2 bath, 1,740 Sq. Ft. single family home built in 1936 that was last sold on 08/21/2020.",
+        "dateLastCrawled": "2024-01-18T21:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "206 N 4th St Victor, CO 80860 - ColdwellBankerHomes.com",
+        "url": "https://www.coldwellbankerhomes.com/co/victor/206-n-4th-st/pid_65493871/",
+        "datePublished": "2025-05-25T00:00:00.0000000",
+        "datePublishedDisplayText": "May 25, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbankerhomes.com/co/victor/206-n-4th-st/pid_65493871",
+        "snippet": "206 N 4th Street, Victor, CO 80860 (MLS# 5344832) is a Single Family property with 2 bedrooms, 1 full bathroom and 1 partial bathroom. 206 N 4th Street is currently listed for $275,000 and was received on May 25, 2025.",
+        "dateLastCrawled": "2025-05-26T18:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ColdwellBankerHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "206 N 4th Street, Victor, CO 80860 - MLS# 5344832 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/victor/206-n-4th-st/lid-P00800000GscKNX5UFoe4fAv25S5hINacYFFRDre",
+        "datePublished": "2025-05-28T00:00:00.0000000",
+        "datePublishedDisplayText": "May 28, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/victor/206-n-4th-st/lid-P00800000GscKNX5UFoe4fAv25S5...",
+        "snippet": "Find Property Information for 206 N 4th Street, Victor, CO 80860. MLS# 5344832. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2025-05-30T01:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "206 4th St, Victor, CO 80860 | MLS #5344832 | Compass",
+        "url": "https://www.compass.com/listing/206-4th-street-victor-co-80860/1848605511074505249/",
+        "datePublished": "2025-05-25T00:00:00.0000000",
+        "datePublishedDisplayText": "May 25, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.compass.com/listing/206-4th-street-victor-co-80860/1848605511074505249",
+        "snippet": "206 4th St, Victor, CO 80860 is a single family home listed for sale at $275,000. This is a 2-bed, 2-bath, 1,836 sqft property.",
+        "dateLastCrawled": "2025-05-27T23:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Compass"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "206 N 4th Street, Victor, CO 80860 for Sale MLS# 5344832 - Xome",
+        "url": "https://www.xome.com/homes-for-sale/206-N-4th-Street-Victor-CO-80860-406863843",
+        "datePublished": "2025-05-25T00:00:00.0000000",
+        "datePublishedDisplayText": "May 25, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/homes-for-sale/206-N-4th-Street-Victor-CO-80860-406863843",
+        "snippet": "206 N 4th Street, Victor, CO with 1468 sqft, 2 bedroom and 2.0 bath is for sale, listed at $275,000. Discover more property details and get prequalified at Xome.com ... 206 N 4th Street Victor, CO 80860. Single Family Residence. 2 Beds. 2 Baths. 1,468 Sq. Ft. 0.14 Acre Lot Save Share Email This Home ...",
+        "dateLastCrawled": "2025-05-25T15:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "206 N 4th Street, Victor, CO 80860 - MLS# 5344832 - CENTURY 21",
+        "url": "https://www.century21.com/property/206-n-4th-street-victor-co-80860-REN033575182",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.century21.com/property/206-n-4th-street-victor-co-80860-REN033575182",
+        "snippet": "Home for Sale: 1,836 sq. ft., 2 bed, 2 full bath house located at 206 N 4th Street, Victor, CO 80860 on sale for \u00a4275,000. MLS# 5344832. Step back in time with",
+        "dateLastCrawled": "2025-05-27T17:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "CENTURY 21"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "206 N 4th Street, Victor, CO 80860 | MLS: 5344832 | LandWatch",
+        "url": "https://www.landwatch.com/teller-county-colorado-homes-for-sale/pid/423056843",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.landwatch.com/teller-county-colorado-homes-for-sale/pid/423056843",
+        "snippet": "View 0.14 acres priced at $275,000 in Victor, Teller County, CO. Browse photos, see details, and contact the seller. ... 206 N 4th Street , Victor, CO 80860 (Teller County) Size: 0.14 Acres. Type: House. Home: 2 beds - 2 full baths - 1,836 Sq Ft. Single Family Residence - Victor, CO.",
+        "dateLastCrawled": "2025-05-26T16:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LandWatch"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "206 N 4th Street, Victor, CO 80860 - realestate.com.au",
+        "url": "https://www.realestate.com.au/international/us/206-n-4th-street-victor-co-110099727418/",
+        "datePublished": "2025-05-26T00:00:00.0000000",
+        "datePublishedDisplayText": "May 26, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realestate.com.au/international/us/206-n-4th-street-victor-co-110099727418",
+        "snippet": "206 N 4th Street, Victor, CO 80860. Step back in time with this charming 1936 gem in the heart of historic Victor! This 2 bed, 2 bath home is full of character, mountain views, and cozy vibes. Just a short stroll to downtown, you'll love the mix of small-town living and rich mining history. A perfect getaway or full-time retreat!",
+        "dateLastCrawled": "2025-05-27T03:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "realestate.com.au"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "206 4th St, Victor, CO 80860 - Zillow",
+        "url": "https://www.zillow.com/homedetails/206-4th-St-Victor-CO-80860/448297687_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/206-4th-St-Victor-CO-80860/448297687_zpid",
+        "snippet": "206 4th St, Victor, CO 80860 is currently not for sale. The 642 Square Feet single family home is a 2 beds, 1 bath property. This home was built in 1936 and last sold on 2015-05-14 for $26,900. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-24T04:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "206 N Fourth ST, Victor, CO 80860 - Redfin",
+        "url": "https://www.redfin.com/CO/Victor/206-N-Fourth-ST-80860/home/177932896",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Victor/206-N-Fourth-ST-80860/home/177932896",
+        "snippet": "House located at 206 N Fourth ST, Victor, CO 80860. View sales history, tax history, home value estimates, and overhead views.",
+        "dateLastCrawled": "2025-01-17T15:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "206 N 4th Street Victor, CO 80860 | Ashford Realty Group",
+        "url": "https://www.ashfordrealtygroup.com/property-search/detail/61/5344832/206-n-4th-street-victor-co-80860/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ashfordrealtygroup.com/.../detail/61/5344832/206-n-4th-street-victor-co-80860",
+        "snippet": "UPDATED: home for sale for sale at 206 N 4th Street in Victor. Step back in time with this charming 1936 gem in the heart of historic Victor! This 2 bed, 2 bath...",
+        "dateLastCrawled": "2025-05-28T13:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "206 N 4th St, Victor, CO, 80860 | MLS #5344832 | Rocket",
+        "url": "https://rocket.com/homes/listings/206-n-4th-st-victor-co-80860",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rocket.com/homes/listings/206-n-4th-st-victor-co-80860",
+        "snippet": "206 N 4th St, Victor, CO, 80860 is a 1,836 sq. foot 2 bed, 2 bath house for sale. Price: $275,000. View property details, photos, and neighborhood info.",
+        "dateLastCrawled": "2025-05-25T14:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rocket"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "206 N 4th St, Victor, CO 80860 - See Est. Value, Schools & More - Trulia",
+        "url": "https://www.trulia.com/home/206-n-4th-st-victor-co-80860-62718822",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/206-n-4th-st-victor-co-80860-62718822",
+        "snippet": "206 N 4th St, Victor, CO 80860 is a 1,836 sqft, 2 bed, 2 bath home sold in 2022. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-01-19T03:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "206 N 4th Street, Victor, CO 80860 - ERA",
+        "url": "https://www.era.com/property/detail/co/victor/206-n-4th-st/lid-P00800000GscKNX5UFoe4fAv25S5hINacYFFRDre",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.era.com/property/detail/co/victor/206-n-4th-st/lid-P00800000GscKNX5UFoe4...",
+        "snippet": "Find Property Information for 206 N 4th Street, Victor, CO 80860. View Photos, Pricing, Listing Status and More.",
+        "dateLastCrawled": "2025-05-30T12:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ERA"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "N 4th St, Victor, CO 80860 - Zillow",
+        "url": "https://www.zillow.com/homedetails/N-4th-St-Victor-CO-80860/223918618_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/N-4th-St-Victor-CO-80860/223918618_zpid",
+        "snippet": "N 4th St, Victor, CO 80860 is currently not for sale. The vacant lot last sold on -- for $--, with a recorded lot size of 0.22 acres (9583 sq. ft.). View more property details, sales history, and Zestimate data on Zillow. ... 206 4th St, Victor, CO 80860. Off Market. $271,900.",
+        "dateLastCrawled": "2025-03-26T06:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "206 N 4th Street, Victor, CO 80860 \u00b7 $275,000 \u00b7 1468 Sq.ft \u00b7 2 Bedrooms ...",
+        "url": "https://www.propertypanorama.com/instaview/ppar/5344832",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.propertypanorama.com/instaview/ppar/5344832",
+        "snippet": "MLS #: 5344832. Step back in time with this charming 1936 gem in the heart of historic Victor! This 2 bed, 2 bath home is full of character, mountain views, and cozy vibes. ... 206 N 4th Street, Victor, CO 80860. 1468 Sq.ft \u00b7 2 Bedrooms \u00b7 Baths: 1 Full / 1 Three-Quarter $275,000. Enter Your Information to Receive Updates on This Property Name ...",
+        "dateLastCrawled": "2025-05-25T19:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Property Panorama"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Victor, CO 80860 | Redfin",
+        "url": "https://www.redfin.com/CO/Victor/Undisclosed-address-80860/home/67362168",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Victor/Undisclosed-address-80860/home/67362168",
+        "snippet": "3 beds, 2 baths, 1680 sq. ft. house located in Victor, CO 80860 sold for $325,000 on Dec 7, 2021. MLS# 3802908. ... Once in the town of Victor, stay straight past 3rd ST as Hwy 67 turns into Diamond Ave. House will be on left. Unparsed Address: 504 Diamond Ave Victor CO 80860; Street Number: ... 206 N 4th St, Victor, CO 80860.",
+        "dateLastCrawled": "2025-06-06T15:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "206 N 4TH ST VICTOR, CO 80860 - RE/MAX",
+        "url": "https://www.remax.com/co/victor/home-details/206-n-4th-st-victor-co-80860/7016338614454266588/M00000111/5344832",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/victor/home-details/206-n-4th-st-victor-co-80860/...",
+        "snippet": "Take a closer look at this $275,000, 2 bed, 2 bath, 1,468 Sq Ft, Single Family for sale, located at 206 N 4TH ST in VICTOR, CO 80860.",
+        "dateLastCrawled": "2025-05-25T15:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

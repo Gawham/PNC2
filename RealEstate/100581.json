@@ -1,0 +1,475 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "7505 W Yale Ave, Unit 2204, Denver CO 80227"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=7505+W+Yale+Ave%2c+Unit+2204%2c+Denver+CO+80227",
+    "totalEstimatedMatches": 764000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "7505 W Yale Ave UNIT 2204, Denver, CO 80227 | Zillow",
+        "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2204-Denver-CO-80227/13323063_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2204-Denver-CO-80227/13323063_zpid",
+        "snippet": "7505 W Yale Ave Unit 2204, Denver CO, is a Single Family home that contains 1364 sq ft and was built in 1978.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $86,500 in June 1992. The Zestimate for this Single Family is $428,000, which has increased by $3,920 in the last 30 days.The Rent Zestimate for this Single Family is $2,467/mo, which has increased by $2,467/mo in the last ...",
+        "deepLinks": [
+          {
+            "name": "7505 W Yale Ave, Denver, CO 80227 - Zillow",
+            "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-Denver-CO-80227/2103403314_zpid/",
+            "snippet": "7505 W Yale Ave, Denver CO, is a Townhouse home that contains 2291 sq ft and was built in 1978.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $355,700 in June 2020. The Zestimate for this Townhouse is $448,100, which has decreased by $161 in the last 30 days.The Rent Zestimate for this Townhouse is $2,872/mo, which has increased by $2,872/mo in the last 30 days."
+          },
+          {
+            "name": "7505 W Yale Ave UNIT 2205, Denver, CO 80227 | Zillow",
+            "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2205-Denver-CO-80227/13323064_zpid/",
+            "snippet": "7505 W Yale Ave Unit 2205, Denver CO, is a Townhouse home that contains 1936 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $331,750 in July 2018. The Zestimate for this Townhouse is $454,600, which has increased by $3,852 in the last 30 days.The Rent Zestimate for this Townhouse is $2,873/mo, which has increased by $2,873/mo in the last 30 days."
+          },
+          {
+            "name": "7505 W Yale Ave UNIT 2704, Denver, CO 80227 | Zillow",
+            "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2704-Denver-CO-80227/13323087_zpid/",
+            "snippet": "7505 W Yale Ave Unit 2704, Denver CO, is a Townhouse home that contains 1584 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $472,000 in July 2021. The Zestimate for this Townhouse is $484,000, which has increased by $7,768 in the last 30 days.The Rent Zestimate for this Townhouse is $2,486/mo, which has increased by $2,486/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2025-04-10T02:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "7505 W Yale Ave Unit 2204, Denver, CO 80227 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/7505-W-Yale-Ave-Unit-2204_Denver_CO_80227_M14555-61356",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../7505-W-Yale-Ave-Unit-2204_Denver_CO_80227_M14555-61356",
+        "snippet": "See sales history and home details for 7505 W Yale Ave Unit 2204, Denver, CO 80227, a 3 bed, 3 bath, 1,747 Sq. Ft. townhomes home built in 1978 that was last sold on 06/29/1992.",
+        "dateLastCrawled": "2023-12-10T17:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "7505 W Yale Ave #2204, Denver, CO 80227 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-2204/home/34092002",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-2204/home/34092002",
+        "snippet": "3 beds, 2.5 baths, 1747 sq. ft. townhouse located at 7505 W Yale Ave #2204, Denver, CO 80227 sold for $88,000 on Jun 29, 1992. View sales history, tax history, home value estimates, and overhead vi...",
+        "dateLastCrawled": "2024-10-27T00:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "7505 W Yale Ave, Denver, CO 80227 - Townhome Rentals in Denver CO ...",
+        "url": "https://www.apartments.com/7505-w-yale-ave-denver-co/6yd4kyr/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.hBULPqz8gHV-vMX4mw7ggwHaEL&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/7505-w-yale-ave-denver-co/6yd4kyr",
+        "snippet": "See all available townhome rentals at 7505 W Yale Ave in Denver, CO. 7505 W Yale Avehas rental units starting at $2500. Map. Menu. ... Walkability Near 7505 W Yale Ave Denver, CO 80227. ... Details Pricing Details Photos Floor Plans Property Map Virtual Tour Videos Unit Map View From Unit Tour Floor Plan ...",
+        "dateLastCrawled": "2025-02-27T09:59:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.hBULPqz8gHV-vMX4mw7ggwHaEL&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 267,
+          "imageId": "OIP.hBULPqz8gHV-vMX4mw7ggwHaEL"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "7505 W YALE AVE APT 2204 DENVER, CO 80227 - RE/MAX",
+        "url": "https://www.remax.com/co/denver/home-details/7505-w-yale-ave-apt-2204-denver-co-80227/3125867981499560801",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/denver/home-details/7505-w-yale-ave-apt-2204-denver-co-80227/...",
+        "snippet": "Take a closer look at this 3 bed, 3 bath, 1,747 SqFt, Single Family Residence / Townhouse, located at 7505 W YALE AVE APT 2204 in DENVER, CO 80227. Search; Account; Menu Contact An Agent Share Facebook Twitter Email Print Favorite. 7505 W YALE AVE APT 2204 DENVER, CO 80227 $506,600 (Estimated) 3 Bedrooms 3 Total Baths 2 Full Baths ...",
+        "dateLastCrawled": "2023-08-21T00:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "7505 W Yale Ave, Denver, CO 80227 - Zillow",
+        "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-Denver-CO-80227/2103403314_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.5A533n-JFcr_9btrTu-eqAHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-Denver-CO-80227/2103403314_zpid",
+        "snippet": "7505 W Yale Ave, Denver CO, is a Townhouse home that contains 2291 sq ft and was built in 1978.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $355,700 in June 2020. The Zestimate for this Townhouse is $448,100, which has decreased by $161 in the last 30 days.The Rent Zestimate for this Townhouse is $2,872/mo, which has increased by $2,872/mo in the last 30 days.",
+        "dateLastCrawled": "2025-06-03T05:15:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.5A533n-JFcr_9btrTu-eqAHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.5A533n-JFcr_9btrTu-eqAHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "7505 W Yale Ave, Denver, CO 80227 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/7505-W-Yale-Ave_Denver_CO_80227_M20323-53922",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/7505-W-Yale-Ave_Denver_CO_80227_M...",
+        "snippet": "View detailed information about property 7505 W Yale Ave, Denver, CO 80227 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App ...",
+        "dateLastCrawled": "2024-03-09T22:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "7505 W Yale Ave #2102, Denver, CO 80227 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-2102/home/34091993",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.lVptUploa1pRQYVJk7aY6QHaE6&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2008-08-18T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 18, 2008",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-2102/home/34091993",
+        "snippet": "Sold: 3 beds, 3 baths, 2002 sq. ft. townhouse located at 7505 W Yale Ave #2102, Denver, CO 80227 sold for $425,000 on Apr 10, 2025. MLS# 7844161.",
+        "dateLastCrawled": "2025-05-30T14:05:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.lVptUploa1pRQYVJk7aY6QHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.lVptUploa1pRQYVJk7aY6QHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "7505 W Yale Avenue Unit 2201, Denver, CO 80227 | Zillow",
+        "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2201-Denver-CO-80227/13323060_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.2iuT4MIPS4uxVKm42NJbqwHaE8&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-02-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 12, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2201-Denver-CO-80227/13323060_zpid",
+        "snippet": "7505 W Yale Avenue Unit 2201, Denver CO, is a Townhouse home that contains 2343 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $485,000 in February 2025. The Zestimate for this Townhouse is $485,000, which has increased by $9,414 in the last 30 days.The Rent Zestimate for this Townhouse is $2,643/mo, which has increased by $2,643/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-24T16:05:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.2iuT4MIPS4uxVKm42NJbqwHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.2iuT4MIPS4uxVKm42NJbqwHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "7505 W Yale Ave Unit 2201, Denver, CO 80227 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/7505-W-Yale-Ave-Unit-2201_Denver_CO_80227_M19434-86971",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../7505-W-Yale-Ave-Unit-2201_Denver_CO_80227_M19434-86971",
+        "snippet": "7505 W Yale Ave Unit 2201, Denver, CO 80227 is for sale. View 32 photos of this 3 bed, 1 bath, 2343 sqft. townhome with a list price of $529900.",
+        "dateLastCrawled": "2024-07-03T15:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "7505 W Yale Ave, Denver, CO 80227 - Townhome Rentals in Denver CO ...",
+        "url": "https://www.apartments.com/7505-w-yale-ave-denver-co/8cn8010/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/7505-w-yale-ave-denver-co/8cn8010",
+        "snippet": "See all available townhome rentals at 7505 W Yale Ave in Denver, CO. 7505 W Yale Avehas rental units starting at $2695. Map. Menu. ... 7505 W Yale Ave Unit 1602, Denver, CO 80227. 2 Weeks Ago. Share Listing ... Walkability Near 7505 W Yale Ave Denver, CO 80227.",
+        "dateLastCrawled": "2025-05-17T01:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "7505 W Yale Ave #2201, Denver, CO 80227 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-2201/home/34091999",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-2201/home/34091999",
+        "snippet": "Sold: 3 beds, 3 baths, 2343 sq. ft. townhouse located at 7505 W Yale Ave #2201, Denver, CO 80227 sold for $485,000 on Feb 12, 2025. MLS# 2993438. Fantastic Price Reduction! Gorgeous End Unit Ranch ...",
+        "dateLastCrawled": "2025-04-30T10:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "7505 W Yale Ave UNIT 2205, Denver, CO 80227 | Zillow",
+        "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2205-Denver-CO-80227/13323064_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2205-Denver-CO-80227/13323064_zpid",
+        "snippet": "7505 W Yale Ave Unit 2205, Denver CO, is a Townhouse home that contains 1936 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $331,750 in July 2018. The Zestimate for this Townhouse is $454,600, which has increased by $3,852 in the last 30 days.The Rent Zestimate for this Townhouse is $2,873/mo, which has increased by $2,873/mo in the last 30 days.",
+        "dateLastCrawled": "2024-11-05T01:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "7505 W Yale Ave Unit 2205, Denver, CO 80227 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/7505-W-Yale-Ave-Unit-2205_Denver_CO_80227_M10778-79956",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../7505-W-Yale-Ave-Unit-2205_Denver_CO_80227_M10778-79956",
+        "snippet": "View 19 photos for 7505 W Yale Ave Unit 2205, Denver, CO 80227, a 4 bed, 2 bath, 1,936 Sq. Ft. townhomes home built in 1978 that was last sold on 07/30/2018.",
+        "dateLastCrawled": "2024-02-21T17:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "7505 W Yale Ave, Denver, CO 80227 - Townhome Rentals in Denver CO ...",
+        "url": "https://www.apartments.com/7505-w-yale-ave-denver-co/fzgtbbt/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/7505-w-yale-ave-denver-co/fzgtbbt",
+        "snippet": "See all available townhome rentals at 7505 W Yale Ave in Denver, CO. 7505 W Yale Avehas rental units starting at $3400. Map. Menu. ... 7505 W Yale Ave Unit 2704, Denver, CO 80227. 2 Weeks Ago. Share Listing ... Walkability Near 7505 W Yale Ave Denver, CO 80227--",
+        "dateLastCrawled": "2025-05-15T05:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "7505 W Yale Avenue Unit 3104, Denver, CO 80227 | Zillow",
+        "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-3104-Denver-CO-80227/13323106_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-3104-Denver-CO-80227/13323106_zpid",
+        "snippet": "7505 W Yale Avenue Unit 3104, Denver CO, is a Townhouse home that contains 2002 sq ft and was built in 1978.It contains 3 bedrooms and 4 bathrooms.This home last sold for $529,000 in May 2023. The Zestimate for this Townhouse is $503,100, which has increased by $7,100 in the last 30 days.The Rent Zestimate for this Townhouse is $2,770/mo, which has increased by $2,770/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-06T13:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "7505 W Yale Ave Unit 2106, Denver, CO 80227 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/7505-W-Yale-Ave-Unit-2106_Denver_CO_80227_M29726-48888",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../7505-W-Yale-Ave-Unit-2106_Denver_CO_80227_M29726-48888",
+        "snippet": "See photos and price history of this 3 bed, 3 bath, 2,328 Sq. Ft. recently sold home located at 7505 W Yale Ave Unit 2106, Denver, CO 80227 that was sold on 12/13/2024 for $515000.",
+        "dateLastCrawled": "2024-12-23T14:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "7505 W Yale Ave UNIT 2704, Denver, CO 80227 | Zillow",
+        "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2704-Denver-CO-80227/13323087_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2704-Denver-CO-80227/13323087_zpid",
+        "snippet": "7505 W Yale Ave Unit 2704, Denver CO, is a Townhouse home that contains 1584 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $472,000 in July 2021. The Zestimate for this Townhouse is $484,000, which has increased by $7,768 in the last 30 days.The Rent Zestimate for this Townhouse is $2,486/mo, which has increased by $2,486/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T05:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "7505 W Yale Ave #1602, Denver, CO 80227 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-1602/home/34092203",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/7505-W-Yale-Ave-80227/unit-1602/home/34092203",
+        "snippet": "1364 sq. ft. townhouse located at 7505 W Yale Ave #1602, Denver, CO 80227 sold for $330,000 on Jul 9, 2018. View sales history, tax history, home value estimates, and overhead views. APN 04264-02-2...",
+        "dateLastCrawled": "2025-05-05T05:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "7505 W Yale Ave UNIT 2304, Denver, CO 80227 | Zillow",
+        "url": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2304-Denver-CO-80227/13323069_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7505-W-Yale-Ave-UNIT-2304-Denver-CO-80227/13323069_zpid",
+        "snippet": "7505 W Yale Ave Unit 2304, Denver CO, is a Townhouse home that contains 2002 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $379,900 in June 2019. The Zestimate for this Townhouse is $450,300, which has increased by $4,887 in the last 30 days.The Rent Zestimate for this Townhouse is $2,742/mo, which has increased by $2,742/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-09T08:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

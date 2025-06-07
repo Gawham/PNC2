@@ -1,0 +1,441 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "8742 E Amherst Dr, Unit A, Denver CO 80231"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=8742+E+Amherst+Dr%2c+Unit+A%2c+Denver+CO+80231",
+    "totalEstimatedMatches": 1600000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "8742 E Amherst Dr APT A, Denver, CO 80231 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-A-Denver-CO-80231/13420824_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-A-Denver-CO-80231/13420824_zpid",
+        "snippet": "8742 E Amherst Dr Apt A, Denver CO, is a Single Family home that contains 1299 sq ft and was built in 1980.It contains 3 bedrooms and 2 bathrooms.This home last sold for $104,900 in April 1985. The Zestimate for this Single Family is $473,300, which has increased by $12,852 in the last 30 days.The Rent Zestimate for this Single Family is $2,867/mo, which has increased by $2,867/mo in the last ...",
+        "deepLinks": [
+          {
+            "name": "8742 E Amherst Dr APT D, Denver, CO 80231 - Zillow",
+            "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-D-Denver-CO-80231/13420821_zpid/",
+            "snippet": "8742 E Amherst Dr APT D, Denver, CO 80231 is currently not for sale. The 1,364 Square Feet single family home is a 3 beds, 1.5 baths property. This home was built in 1980 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow."
+          },
+          {
+            "name": "8742 E Amherst Dr Denver CO - Zillow",
+            "url": "https://www.zillow.com/b/8742-e-amherst-dr-denver-co-9TCkh3/",
+            "snippet": "View 6 units for 8742 E Amherst Dr Denver CO | Zillow, as well as Zestimates and nearby comps. Find the perfect place to live."
+          },
+          {
+            "name": "8742 E Amherst Dr APT C, Denver, CO 80231 - Zillow",
+            "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-C-Denver-CO-80231/13420822_zpid/",
+            "snippet": "8742 E Amherst Dr Apt C, Denver CO, is a Condo home that contains 1958 sq ft and was built in 1980.It contains 3 bedrooms and 2 bathrooms.This home last sold for $173,900 in December 2011. The Zestimate for this Condo is $424,200, which has decreased by $4,765 in the last 30 days.The Rent Zestimate for this Condo is $2,810/mo, which has decreased by $187/mo in the last 30 days."
+          },
+          {
+            "name": "8742 E Amherst Dr APT B, Denver, CO 80231 - Zillow",
+            "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-B-Denver-CO-80231/13420823_zpid/",
+            "snippet": "8742 E Amherst Dr Apt B, Denver CO, is a Single Family home that contains 1364 sq ft and was built in 1980.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $139,900 in January 1998. The Zestimate for this Single Family is $437,900, which has decreased by $11,277 in the last 30 days.The Rent Zestimate for this Single Family is $2,695/mo, which has increased by $88/mo in the last ..."
+          }
+        ],
+        "dateLastCrawled": "2025-03-15T08:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "8742 E Amherst Dr Unit A, Denver, CO 80231 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-A/home/34204731",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-A/home/34204731",
+        "snippet": "3 beds, 2 baths, 1479 sq. ft. townhouse located at 8742 E Amherst Dr Unit A, Denver, CO 80231 sold for $104,900 on Apr 22, 1985. View sales history, tax history, home value estimates, and overhead ...",
+        "dateLastCrawled": "2024-04-06T02:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "8742 E Amherst Dr Apt A, Denver, CO 80231 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/8742-E-Amherst-Dr-Apt-A_Denver_CO_80231_M11377-53027",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../8742-E-Amherst-Dr-Apt-A_Denver_CO_80231_M11377-53027",
+        "snippet": "View detailed information about property 8742 E Amherst Dr Apt A, Denver, CO 80231 including listing details, property photos, school and neighborhood data, and much more. ... Property detail for ...",
+        "dateLastCrawled": "2025-03-29T14:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "8742 E Amherst Dr Unit A, Denver, CO 80231 - Homes.com",
+        "url": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-a/vx4gyfrmrgmpp/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-a/vx4gyfrmrgmpp",
+        "snippet": "This home is located at 8742 E Amherst Dr Unit A, Denver, CO 80231. 8742 E Amherst Dr Unit A is a home located in Denver County with nearby schools including Holm Elementary School, Samuels Elementary School, and Joe Shoemaker School.",
+        "dateLastCrawled": "2024-09-11T02:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "8742 E AMHERST DR A | 0634601133000 - denvergov.org",
+        "url": "https://denvergov.org/property/realproperty/summary/0634601133000/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://denvergov.org/property/realproperty/summary/0634601133000",
+        "snippet": "8742 E AMHERST DR A. Owner Schedule Number Legal Description Property Type Tax District; Owner Schedule Number Legal Description Property Type Tax District; FRASER,JOAN K. 8742 E AMHERST DR APTA. DENVER, CO 80231-4063 06346-01-133-000 CHERRY CREEK MEADOWS B1 L36 ... END UNIT: Building Sqr. Foot: 1299: Bedrooms: 3: Baths Full/Half: 2/0 ...",
+        "dateLastCrawled": "2024-07-07T10:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "8742 E Amherst Dr #A, Denver, CO 80231 - Trulia",
+        "url": "https://www.trulia.com/home/8742-e-amherst-dr-a-denver-co-80231-13420824",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/8742-e-amherst-dr-a-denver-co-80231-13420824",
+        "snippet": "8742 E Amherst Dr #A, Denver, CO 80231 is a 1,299 sqft, 3 bed, 2 bath home sold in 1985. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-08-06T21:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "8742 E Amherst Dr Denver CO - Zillow",
+        "url": "https://www.zillow.com/b/8742-e-amherst-dr-denver-co-9TCkh3/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/b/8742-e-amherst-dr-denver-co-9TCkh3",
+        "snippet": "View 6 units for 8742 E Amherst Dr Denver CO | Zillow, as well as Zestimates and nearby comps. Find the perfect place to live.",
+        "dateLastCrawled": "2025-04-16T14:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "8742 E Amherst Dr, Denver, CO 80231 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/home/34204734",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/home/34204734",
+        "snippet": "Townhouse located at 8742 E Amherst Dr, Denver, CO 80231. View sales history, tax history, home value estimates, and overhead views. APN 0634601031999. ... 1475 S Quebec Way Unit F30, Denver, CO 80231. Randy Leiker \u2022 HomeSmart Realty. SOLD FEB 6, 2025. ABOUT THIS HOME.",
+        "dateLastCrawled": "2025-02-27T16:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "8742 E Amherst Dr Unit D, Denver, CO 80231 | Homes.com",
+        "url": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-d/xxvrvdb7byv1w/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-d/xxvrvdb7byv1w",
+        "snippet": "This home is located at 8742 E Amherst Dr Unit D, Denver, CO 80231 and is currently estimated at $458,925, approximately $229 per square foot. 8742 E Amherst Dr Unit D is a home located in Denver County with nearby schools including Holm Elementary School, Samuels Elementary School, and Joe Shoemaker School.",
+        "dateLastCrawled": "2025-03-23T05:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "8742 E Amherst Dr APT F, Denver, CO 80231 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-F-Denver-CO-80231/13420818_zpid/",
+        "datePublished": "2023-04-10T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 10, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-F-Denver-CO-80231/13420818_zpid",
+        "snippet": "8742 E Amherst Dr Apt F, Denver CO, is a Condo home that contains 1284 sq ft and was built in 1980.It contains 3 bedrooms and 3 bathrooms.This home last sold for $500,000 in April 2023. The Zestimate for this Condo is $498,200, which has decreased by $1,677 in the last 30 days.The Rent Zestimate for this Condo is $2,369/mo, which has increased by $2,369/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-09T08:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "8742 E Amherst Dr Unit B, Denver, CO 80231 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-B/home/34204730",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-B/home/34204730",
+        "snippet": "1364 sq. ft. townhouse located at 8742 E Amherst Dr Unit B, Denver, CO 80231 sold for $139,900 on Jan 14, 1998. View sales history, tax history, home value estimates, and overhead views. APN 06346-...",
+        "dateLastCrawled": "2025-04-03T02:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "8742 E Amherst Dr APT D, Denver, CO 80231 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-D-Denver-CO-80231/13420821_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-D-Denver-CO-80231/13420821_zpid",
+        "snippet": "8742 E Amherst Dr APT D, Denver, CO 80231 is currently not for sale. The 1,364 Square Feet single family home is a 3 beds, 1.5 baths property. This home was built in 1980 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-09-21T05:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "8742 E Amherst Dr Unit E, Denver, CO 80231 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-E/home/34204735",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-E/home/34204735",
+        "snippet": "3 beds, 2 baths, 1298 sq. ft. townhouse located at 8742 E Amherst Dr Unit E, Denver, CO 80231 sold for $188,000 on Nov 30, 2001. View sales history, tax history, home value estimates, and overhead ...",
+        "dateLastCrawled": "2024-09-01T01:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "8742 E Amherst Dr APT B, Denver, CO 80231 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-B-Denver-CO-80231/13420823_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-B-Denver-CO-80231/13420823_zpid",
+        "snippet": "8742 E Amherst Dr Apt B, Denver CO, is a Single Family home that contains 1364 sq ft and was built in 1980.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $139,900 in January 1998. The Zestimate for this Single Family is $437,900, which has decreased by $11,277 in the last 30 days.The Rent Zestimate for this Single Family is $2,695/mo, which has increased by $88/mo in the last ...",
+        "dateLastCrawled": "2024-07-29T16:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "8742 E Amherst Dr Unit B, Denver, CO 80231 - Homes.com",
+        "url": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-b/qlxmdnxfbgtfz/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-b/qlxmdnxfbgtfz",
+        "snippet": "This home is located at 8742 E Amherst Dr Unit B, Denver, CO 80231. 8742 E Amherst Dr Unit B is a home located in Denver County with nearby schools including Holm Elementary School, Samuels Elementary School, and Joe Shoemaker School.",
+        "dateLastCrawled": "2024-09-01T06:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "8742 E Amherst Dr Unit D, Denver, CO 80231 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-D/home/34204732",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-D/home/34204732",
+        "snippet": "3 beds, 1.5 baths, 1364 sq. ft. townhouse located at 8742 E Amherst Dr Unit D, Denver, CO 80231. View sales history, tax history, home value estimates, and overhead views. APN 06346-01-130-000.",
+        "dateLastCrawled": "2024-09-25T08:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "8742 E Amherst Dr APT C, Denver, CO 80231 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-C-Denver-CO-80231/13420822_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-APT-C-Denver-CO-80231/13420822_zpid",
+        "snippet": "8742 E Amherst Dr Apt C, Denver CO, is a Condo home that contains 1958 sq ft and was built in 1980.It contains 3 bedrooms and 2 bathrooms.This home last sold for $173,900 in December 2011. The Zestimate for this Condo is $424,200, which has decreased by $4,765 in the last 30 days.The Rent Zestimate for this Condo is $2,810/mo, which has decreased by $187/mo in the last 30 days.",
+        "dateLastCrawled": "2024-07-30T03:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "8742 E Amherst Dr Unit C, Denver, CO 80231 | MLS# 1048358 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-C/home/34204733",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8742-E-Amherst-Dr-80231/unit-C/home/34204733",
+        "snippet": "3 beds, 1.5 baths, 1320 sq. ft. townhouse located at 8742 E Amherst Dr Unit C, Denver, CO 80231 sold for $173,900 on Dec 19, 2011. View sales history, tax history, home value estimates, and overhea...",
+        "dateLastCrawled": "2023-11-12T02:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "8742 E Amherst Dr Unit F, Denver, CO 80231 - Homes.com",
+        "url": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-f/0cdf6jjqf0414/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/8742-e-amherst-dr-denver-co-unit-f/0cdf6jjqf0414",
+        "snippet": "8742 E Amherst Dr Unit F, Denver, CO 80231 - 2,002 sqft home . Browse photos, take a 3D tour & ... CO 80231 and is currently estimated at $484,130, approximately $241 per square foot. 8742 E Amherst Dr Unit F is a home located in Denver County with nearby schools including Holm Elementary School, Samuels Elementary School, and Joe Shoemaker School.",
+        "dateLastCrawled": "2023-10-31T01:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "8742 E Amherst Dr, Denver, CO 80231 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-Denver-CO-80231/2054554240_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8742-E-Amherst-Dr-Denver-CO-80231/2054554240_zpid",
+        "snippet": "8742 E Amherst Dr, Denver, CO 80231 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2023-12-14T03:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

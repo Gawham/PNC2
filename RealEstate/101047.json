@@ -1,0 +1,437 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1455 Brush Oak Dr, Colorado Springs CO 80906"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1455+Brush+Oak+Dr%2c+Colorado+Springs+CO+80906",
+    "totalEstimatedMatches": 1320000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1455 Brush Oak Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1455-Brush-Oak-Dr-Colorado-Springs-CO-80906/13636870_zpid/",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1455-Brush-Oak-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "1455 Brush Oak Dr, Colorado Springs, CO 80906 is pending. Zillow has 34 photos of this 4 beds, 3 baths, 2,622 Square Feet single family home with a list price of $485,000.",
+        "dateLastCrawled": "2025-06-04T05:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1455 Brush Oak Dr, Colorado Springs, CO 80906 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1455-Brush-Oak-Dr_Colorado-Springs_CO_80906_M18875-40458",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1455-Brush-Oak-Dr_Colorado-Springs_CO_80906_M18875-40458",
+        "snippet": "See sales history and home details for 1455 Brush Oak Dr, Colorado Springs, CO 80906, a 4 bed, 3 bath, 1,914 Sq. Ft. single family home built in 1999 that was last sold on 03/26/1999.",
+        "dateLastCrawled": "2025-01-11T04:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1455 Brush Oak Dr, Colorado Springs, CO 80906 - Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1455-Brush-Oak-Dr-80906/home/34513581",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1455-Brush-Oak-Dr-80906/home/34513581",
+        "snippet": "For Sale: 4 beds, 3 baths \u2219 2622 sq. ft. \u2219 1455 Brush Oak Dr, Colorado Springs, CO 80906 \u2219 $485,000 \u2219 MLS# 2741944 \u2219 There\u2019s a certain ease about this home\u2014like it knows it doesn\u2019...",
+        "dateLastCrawled": "2025-06-02T19:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1455 Brush Oak Dr, Colorado Springs, 80906"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1455 Brush Oak Dr, Colorado Springs, CO 80906 | MLS# 4664154 | 34 ...",
+        "url": "https://www.movoto.com/colorado-springs-co/1455-brush-oak-dr-colorado-springs-co-80906/pid_2lomqggt9g/",
+        "datePublished": "2025-05-30T00:00:00.0000000",
+        "datePublishedDisplayText": "May 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/colorado-springs-co/1455-brush-oak-dr-colorado-springs-co-80906/...",
+        "snippet": "For Sale: $485,000 $185/Sqft - 1455 Brush Oak Dr, Colorado Springs, CO 80906 in Stratmoor Hills is a 4 bed, 3 bath, 2,622 Sqft, 6,911 sqft lot, House built in 1999, with an estimated value of $615,038",
+        "dateLastCrawled": "2025-05-31T15:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1455 Brush Oak Drive, Colorado Springs, CO 80906 - MLS# 2741944 ...",
+        "url": "https://www.coldwellbanker.com/co/colorado-springs/1455-brush-oak-dr/lid-P00800000Gst27ujpyN7MfzHPAhTP1EpWIDM8MKe",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/colorado-springs/1455-brush-oak-dr/lid-P00800000Gst...",
+        "snippet": "1455 Brush Oak Drive, Colorado Springs, CO 80906. $485,000. 4. Beds. 3. Baths. 2,622. Sq Ft. Single Family. Active. Listed by. Derek Wagner. Keller Williams Premier Realty, LLC. MLS# 2741944. Source: ML. Street View. About This Home. 1455 Brush Oak Drive. There\u2019s a certain ease about this home\u2014like it knows it doesn\u2019t need to try too hard ...",
+        "dateLastCrawled": "2025-05-31T20:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1455 Brush Oak Drive, Colorado Springs, CO 80906 - solidrockre.com",
+        "url": "https://www.solidrockre.com/property/4664154/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.solidrockre.com/property/4664154",
+        "snippet": "Property 1455 Brush Oak Drive, Colorado Springs, 80906 has 4 bedrooms, 3 bathrooms with 1905 square feet. Home; Buying; Selling; Property Management; Rentals & Residents; Blog; About; Login. 719-359-4558 ... 1455 Brush Oak Drive, Colorado Springs, CO 80906. $485,000 4 BD 3 BA 1,905 SqFt.",
+        "dateLastCrawled": "2025-05-30T21:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1455 Brush Oak Drive Colorado Springs, CO 80906",
+        "url": "https://harrisgrouprealtyinc.com/listings/1455-brush-oak-drive-colorado-springs-co-80906-2",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://harrisgrouprealtyinc.com/listings/1455-brush-oak-drive-colorado-springs-co-80906-2",
+        "snippet": "Barbara Harris has 34 photos of this 4 bed, 3 bath, 2622 sqft property that was listed on 05-30-2025 for $485000, and is located at 1455 Brush Oak Drive Colorado Springs, CO 80906.",
+        "dateLastCrawled": "2025-06-02T21:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1455 Brush Oak Drive, Colorado Springs, CO 80906 - Realty.com",
+        "url": "https://www.realty.com/home-listings/1045064498/1455-Brush-Oak-Drive-Colorado-Springs-CO-80906",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realty.com/.../1045064498/1455-Brush-Oak-Drive-Colorado-Springs-CO-80906",
+        "snippet": "1455 Brush Oak Drive, Colorado Springs, CO 80906 is a Single Family 1,914 sq. ft. home listed for sale. Realty.com has 34 photos available of this 4 bed, 3 bath house, listed at $485,000. View sales and tax history, use our mortgage calculator and more on Realty.com",
+        "dateLastCrawled": "2025-06-01T01:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realty.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1455 Brush Oak Dr, Colorado Springs, CO 80906 | MLS 4664154",
+        "url": "https://greatcoloradohomes.com/listing/4664154-1455-brush-oak-drive-colorado-springs-co-80906/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://greatcoloradohomes.com/.../4664154-1455-brush-oak-drive-colorado-springs-co-80906",
+        "snippet": "1455 Brush Oak Drive, Colorado Springs, CO 80906 is located in El Paso County, in Cheyenne Meadows South. It has 4 bedrooms, 3 bathrooms, and is 2,622 square feet. 1455 Brush Oak Drive, Colorado Springs, CO 80906 is zoned to Harrison-2 School Disctrict.",
+        "dateLastCrawled": "2025-05-30T20:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Great Colorado Homes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1455 Brush Oak Dr, Colorado Springs, CO 80906 - Compass",
+        "url": "https://www.compass.com/listing/1455-brush-oak-drive-colorado-springs-co-80906/1852418088331066449/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.compass.com/listing/1455-brush-oak-drive-colorado-springs-co-80906/...",
+        "snippet": "1455 Brush Oak Dr, Colorado Springs, CO 80906 is a single family home listed for sale at $485,000. This is a 4-bed, 3-bath, 2,622 sqft property.",
+        "dateLastCrawled": "2025-06-01T17:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Compass"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1455 Brush Oak Dr, Colorado Springs, CO 80906 - Homes.com",
+        "url": "https://www.homes.com/property/1455-brush-oak-dr-colorado-springs-co/07f9fttr066p8/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1455-brush-oak-dr-colorado-springs-co/07f9fttr066p8",
+        "snippet": "This home is located at 1455 Brush Oak Dr, Colorado Springs, CO 80906 and is currently estimated at $424,207, approximately $140 per square foot. 1455 Brush Oak Dr is a home located in El Paso County with nearby schools including Otero Elementary School, Fox Meadow Middle School, and Harrison High School. ...",
+        "dateLastCrawled": "2024-04-02T23:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1455 Brush Oak Dr Colorado Springs, CO 80906 - ColdwellBankerHomes.com",
+        "url": "https://www.coldwellbankerhomes.com/co/colorado-springs/1455-brush-oak-dr/pid_65593087/",
+        "datePublished": "2025-05-30T00:00:00.0000000",
+        "datePublishedDisplayText": "May 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbankerhomes.com/co/colorado-springs/1455-brush-oak-dr/pid_65593087",
+        "snippet": "1455 Brush Oak Drive, Colorado Springs, CO 80906 (MLS# 4664154) is a Single Family property with 4 bedrooms and 3 full bathrooms. 1455 Brush Oak Drive is currently listed for $485,000 and was received on May 30, 2025.",
+        "dateLastCrawled": "2025-06-01T04:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ColdwellBankerHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1455 Brush Oak Drive, Colorado Springs, CO 80906 - ibexrealtygroup.com",
+        "url": "https://www.ibexrealtygroup.com/property/4664154/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ibexrealtygroup.com/property/4664154",
+        "snippet": "Property 1455 Brush Oak Drive, Colorado Springs, 80906 has 4 bedrooms, 3 bathrooms with 1905 square feet. Home; Testimonials; Meet the Team; Blog; Advanced Search; Featured Properties; ... 1455 Brush Oak Drive, Colorado Springs, CO 80906. $485,000 4 BD 3 BA 1,905 SqFt. Add to Favorites Request Information Schedule Showing New Search.",
+        "dateLastCrawled": "2025-05-30T21:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1455 Brush Oak Dr Colorado Springs, CO 80906 - Trulia",
+        "url": "https://www.trulia.com/home/1455-brush-oak-dr-colorado-springs-co-80906-13636870",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1455-brush-oak-dr-colorado-springs-co-80906-13636870",
+        "snippet": "This single-family home is located at 1455 Brush Oak Dr, Colorado Springs, CO. 1455 Brush Oak Dr is in the Southwest Colorado Springs neighborhood in Colorado Springs, CO and in ZIP code 80906. This property has 4 bedrooms, 3 bathrooms and approximately 2,640 sqft of floor space. This property has a lot size of 6926 sqft and was built in 1999.",
+        "dateLastCrawled": "2025-05-27T21:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1455 Brush Oak Dr Colorado Springs, CO 80906 - ColdwellBankerHomes.com",
+        "url": "https://www.coldwellbankerhomes.com/co/colorado-springs/1455-brush-oak-dr/pid_65594952/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbankerhomes.com/co/colorado-springs/1455-brush-oak-dr/pid_65594952",
+        "snippet": "1455 Brush Oak Drive, Colorado Springs, CO 80906 (MLS# 2741944) is a Single Family property with 4 bedrooms and 3 full bathrooms. 1455 Brush Oak Drive is currently listed for $485,000 and was received on May 30, 2025.",
+        "dateLastCrawled": "2025-06-03T16:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ColdwellBankerHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1450 Brush Oak Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1450-Brush-Oak-Dr-Colorado-Springs-CO-80906/13636860_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1450-Brush-Oak-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "1450 Brush Oak Dr, Colorado Springs CO, is a Single Family home that contains 2527 sq ft and was built in 1997.It contains 4 bedrooms and 3.5 bathrooms.This home last sold for $255,000 in February 2015. The Zestimate for this Single Family is $480,200, which has increased by $4,753 in the last 30 days.The Rent Zestimate for this Single Family is $2,389/mo, which has increased by $2,389/mo in ...",
+        "dateLastCrawled": "2025-04-08T01:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1455 Brush Oak Drive, Colorado Springs, CO 80906",
+        "url": "https://www.propertypanorama.com/instaview/ppar/4664154",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.propertypanorama.com/instaview/ppar/4664154",
+        "snippet": "Pikes Pikes REALTOR\u00ae Services Corp. Listing Number: 4664154 1455 Brush Oak Drive, Colorado Springs, CO 80906. 1905 Sq.ft \u00b7 4 Bedrooms \u00b7 3 Full Bathrooms $485,000",
+        "dateLastCrawled": "2025-05-31T08:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Property Panorama"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1455 Brush Oak Dr Colorado Springs, CO 80906 - Xome",
+        "url": "https://www.xome.com/realestate/1455-brush-oak-dr-colorado-springs-co-80906-180975740",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/1455-brush-oak-dr-colorado-springs-co-80906-180975740",
+        "snippet": "1455 Brush Oak Dr Colorado Springs CO with 4 bedroom and 3 bath is currently not for sale. Xome's estimated value is $452,145. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-01-30T12:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1445 Brush Oak Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1445-Brush-Oak-Dr-Colorado-Springs-CO-80906/13636869_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1445-Brush-Oak-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "1445 Brush Oak Dr, Colorado Springs CO, is a Single Family home that contains 1604 sq ft and was built in 1999.It contains 4 bedrooms and 3.5 bathrooms.This home last sold for $210,000 in June 2004. The Zestimate for this Single Family is $453,600, which has increased by $3,833 in the last 30 days.The Rent Zestimate for this Single Family is $2,271/mo, which has increased by $2,271/mo in the ...",
+        "dateLastCrawled": "2025-04-13T04:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1455 Brush Oak Dr Colorado Springs, CO 80906 - rocket.com",
+        "url": "https://rocket.com/homes/listings/1455-brush-oak-dr-colorado-springs-co-80906",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rocket.com/homes/listings/1455-brush-oak-dr-colorado-springs-co-80906",
+        "snippet": "1455 Brush Oak Dr, Colorado Springs, CO, 80906 is a 1,914 sq. foot 4 bed, 3 bath house for sale. Price: $485,000. View property details, photos, and neighborhood info.",
+        "dateLastCrawled": "2025-05-30T20:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rocket"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

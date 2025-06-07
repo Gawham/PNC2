@@ -1,0 +1,454 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "33 Frontier Ln, Nederland CO 80466"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=33+Frontier+Ln%2c+Nederland+CO+80466",
+    "totalEstimatedMatches": 162000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "33 Frontier Ln, Nederland, CO 80466 - Zillow",
+        "url": "https://www.zillow.com/homedetails/33-Frontier-Ln-Nederland-CO-80466/13193056_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/33-Frontier-Ln-Nederland-CO-80466/13193056_zpid",
+        "snippet": "33 Frontier Ln, Nederland CO, is a Single Family home that contains 1599 sq ft and was built in 1967.It contains 2 bedrooms and 1 bathroom.This home last sold for $47,800 in February 1978. The Zestimate for this Single Family is $551,000, which has increased by $10,740 in the last 30 days.The Rent Zestimate for this Single Family is $2,131/mo, which has increased by $2,131/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-17T06:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "33 Frontier Ln, Nederland, CO 80466 | Redfin",
+        "url": "https://www.redfin.com/CO/Nederland/33-Frontier-Ln-80466/home/35201111",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Nederland/33-Frontier-Ln-80466/home/35201111",
+        "snippet": "2 beds, 1 bath, 1599 sq. ft. house located at 33 Frontier Ln, Nederland, CO 80466 sold for $47,800 on Feb 10, 1978. View sales history, tax history, home value estimates, and overhead views. ... 33 Frontier Ln is a 1,599 square foot house on a 1.33 acre lot with 2 bedrooms and 1 bathroom. - it last sold on February 10, 1978 for $47,800.",
+        "dateLastCrawled": "2024-12-06T06:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "33 Frontier Ln, Nederland, CO 80466 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/33-Frontier-Ln_Nederland_CO_80466_M23244-57924",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/33-Frontier-Ln_Nederland_CO_80466_M...",
+        "snippet": "See sales history and home details for 33 Frontier Ln, Nederland, CO 80466, a 2 bed, 1 bath, 1,599 Sq. Ft. single family home built in 1967 that was last sold on 02/10/1978.",
+        "dateLastCrawled": "2024-01-12T16:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "33 Frontier Ln, Nederland, CO 80466 - Homes.com",
+        "url": "https://www.homes.com/property/33-frontier-ln-nederland-co/9t6sw9lc1hpsr/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/33-frontier-ln-nederland-co/9t6sw9lc1hpsr",
+        "snippet": "This home is located at 33 Frontier Ln, Nederland, CO 80466 and is currently estimated at $730,416, approximately $456 per square foot. 33 Frontier Ln is a home located in Boulder County with nearby schools including Nederland Elementary School and Nederland Middle-Senior High School.",
+        "dateLastCrawled": "2025-02-22T03:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "33 Frontier Ln Nederland CO 80466 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/33-frontier-ln-nederland-co-80466-35261323",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/33-frontier-ln-nederland-co-80466-35261323",
+        "snippet": "33 Frontier Ln Nederland CO with 2 bedroom and 1 bath is currently not for sale. Xome's estimated value is $523,270. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-09-13T15:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Nederland, CO 80466 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/Nederland_CO_80466_M91551-07008",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.DJ8346JwARn-o1J8APsAagHaFj&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2018-05-23T00:00:00.0000000",
+        "datePublishedDisplayText": "May 23, 2018",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/Nederland_CO_80466_M91551-07008",
+        "snippet": "View 35 photos for Nederland, CO 80466, a 3 bed, 1 bath, 2,759 Sq. Ft. single family home built in 1972 that was last sold on 06/01/2022.",
+        "dateLastCrawled": "2024-01-15T02:05:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.DJ8346JwARn-o1J8APsAagHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.DJ8346JwARn-o1J8APsAagHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "People who live on Frontier Ln in Nederland, Colorado",
+        "url": "https://voterrecords.com/street/frontier%20ln-nederland-co/1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/frontier ln-nederland-co/1",
+        "snippet": "There are 18 people who live on Frontier Ln in Nederland, Colorado that are registered to vote. Toggle navigation VoterRecords.com. Share 21.8K. Search; Address Search; Reverse Phone; Charts; FAQ; ... 33 Frontier Ln Nederland, CO 80466: View Details : William Otto: Democratic Party: 33 Frontier Ln Nederland, CO 80466: View Details : Norah Otto:",
+        "dateLastCrawled": "2024-11-10T12:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "33 Frontier Ln, Nederland, CO 80466 - Trulia",
+        "url": "https://www.trulia.com/home/33-frontier-ln-nederland-co-80466-13193056",
+        "datePublished": "2023-12-09T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 9, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/33-frontier-ln-nederland-co-80466-13193056",
+        "snippet": "33 Frontier Ln, Nederland, CO 80466 is a 1,599 sqft, 2 bed, 1 bath home sold in 1978. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-09T16:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "203 Frontier Ln, Nederland, CO 80466 - Zillow",
+        "url": "https://www.zillow.com/homedetails/203-Frontier-Ln-Nederland-CO-80466/13192728_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.jHYH-_cUwuTRRmBnyLbTaAHaFj&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2024-03-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 5, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/203-Frontier-Ln-Nederland-CO-80466/13192728_zpid",
+        "snippet": "203 Frontier Ln, Nederland CO, is a Single Family home that contains 2037 sq ft and was built in 1978.It contains 3 bedrooms and 4 bathrooms.This home last sold for $916,000 in March 2024. The Zestimate for this Single Family is $912,400, which has decreased by $3,100 in the last 30 days.The Rent Zestimate for this Single Family is $3,603/mo, which has increased by $3,603/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-21T06:18:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.jHYH-_cUwuTRRmBnyLbTaAHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.jHYH-_cUwuTRRmBnyLbTaAHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "203 Frontier Ln, Nederland, CO 80466 | Redfin",
+        "url": "https://www.redfin.com/CO/Nederland/203-Frontier-Ln-80466/home/35199917",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.v_KSo1Q5JTcTtZCyfYg6swHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Nederland/203-Frontier-Ln-80466/home/35199917",
+        "snippet": "(IRES) 3 beds, 3.5 baths, 2037 sq. ft. house located at 203 Frontier Ln, Nederland, CO 80466 sold for $916,000 on Mar 5, 2024. MLS# 1001385. ... 33 L Rd, Golden, CO 80403. Margaret Kehr \u2022 Kehrs Realty. ABOUT THIS HOME. Come home to South Peak and take in majestic views from this 4 bedroom mountain, contemporary home. Located minutes from ...",
+        "dateLastCrawled": "2025-03-24T06:38:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.v_KSo1Q5JTcTtZCyfYg6swHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.v_KSo1Q5JTcTtZCyfYg6swHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "179 Frontier Ln, Nederland, CO 80466 - Zillow",
+        "url": "https://www.zillow.com/homedetails/179-Frontier-Ln-Nederland-CO-80466/67148183_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/179-Frontier-Ln-Nederland-CO-80466/67148183_zpid",
+        "snippet": "179 Frontier Ln, Nederland CO, is a Single Family home that contains 1696 sq ft and was built in 2003.It contains 2 bedrooms and 2.25 bathrooms. The Zestimate for this Single Family is $984,500, which has increased by $26,735 in the last 30 days.The Rent Zestimate for this Single Family is $2,812/mo, which has increased by $2,812/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-06T20:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "28 Frontier Ln, Nederland, CO 80466 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/28-Frontier-Ln_Nederland_CO_80466_M26622-14628",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/28-Frontier-Ln_Nederland_CO_80466_M...",
+        "snippet": "See sales history and home details for 28 Frontier Ln, Nederland, CO 80466, a 3 bed, 1 bath, 1,120 Sq. Ft. single family home built in 1967 that was last sold on 03/16/1984.",
+        "dateLastCrawled": "2024-02-20T20:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "198 Frontier Ln, Nederland, CO 80466 | Redfin",
+        "url": "https://www.redfin.com/CO/Nederland/198-Frontier-Ln-80466/home/35201054",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Nederland/198-Frontier-Ln-80466/home/35201054",
+        "snippet": "3 beds, 3 baths, 2759 sq. ft. house located at 198 Frontier Ln, Nederland, CO 80466 sold for $807,500 on Jun 1, 2022. MLS# 3066949. Beautiful and spacious, this light filled mountain home is surrou...",
+        "dateLastCrawled": "2025-04-18T20:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "82 Frontier Ln, Nederland, CO 80466 - Zillow",
+        "url": "https://www.zillow.com/homedetails/82-Frontier-Ln-Nederland-CO-80466/13193079_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/82-Frontier-Ln-Nederland-CO-80466/13193079_zpid",
+        "snippet": "82 Frontier Ln, Nederland CO, is a Single Family home that contains 2352 sq ft and was built in 1970.It contains 3 bedrooms and 2 bathrooms.This home last sold for $620,000 in December 2020. The Zestimate for this Single Family is $849,000, which has increased by $14,260 in the last 30 days.The Rent Zestimate for this Single Family is $2,673/mo, which has increased by $2,673/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-13T06:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "203 Frontier Ln, Nederland, CO 80466 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/203-Frontier-Ln_Nederland_CO_80466_M29613-96743",
+        "datePublished": "2017-09-18T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 18, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/203-Frontier-Ln_Nederland_CO_80466_M...",
+        "snippet": "View 38 photos for 203 Frontier Ln, Nederland, CO 80466, a 3 bed, 2 bath, 2,037 Sq. Ft. single family home built in 1978 that was last sold on 05/11/2020.",
+        "dateLastCrawled": "2024-03-18T10:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "179 Frontier Ln, Nederland, CO 80466 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/179-Frontier-Ln_Nederland_CO_80466_M26629-22680",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/179-Frontier-Ln_Nederland_CO_80466_M...",
+        "snippet": "View detailed information about property 179 Frontier Ln, Nederland, CO 80466 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App ...",
+        "dateLastCrawled": "2024-09-26T17:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "28 Frontier Ln, Nederland, CO 80466 | Redfin",
+        "url": "https://www.redfin.com/CO/Nederland/28-Frontier-Ln-80466/home/35198732",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Nederland/28-Frontier-Ln-80466/home/35198732",
+        "snippet": "3 beds, 1 bath, 1120 sq. ft. house located at 28 Frontier Ln, Nederland, CO 80466 sold for $79,000 on Mar 16, 1984. View sales history, tax history, home value estimates, and overhead views. APN R0...",
+        "dateLastCrawled": "2024-05-02T17:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "28 Frontier Ln, Nederland, CO 80466 - Zillow",
+        "url": "https://www.zillow.com/homedetails/28-Frontier-Ln-Nederland-CO-80466/13192262_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/28-Frontier-Ln-Nederland-CO-80466/13192262_zpid",
+        "snippet": "28 Frontier Ln, Nederland CO, is a Single Family home that contains 1120 sq ft and was built in 1967.It contains 3 bedrooms and 1 bathroom.This home last sold for $79,000 in March 1984. The Zestimate for this Single Family is $567,100, which has increased by $10,503 in the last 30 days.The Rent Zestimate for this Single Family is $2,869/mo, which has increased by $2,869/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-14T11:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "179 Frontier Ln, Nederland, CO 80466 | Redfin",
+        "url": "https://www.redfin.com/CO/Nederland/179-Frontier-Ln-80466/home/35198513",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Nederland/179-Frontier-Ln-80466/home/35198513",
+        "snippet": "2 beds, 2.5 baths, 2618 sq. ft. house located at 179 Frontier Ln, Nederland, CO 80466. View sales history, tax history, home value estimates, and overhead views. APN ...",
+        "dateLastCrawled": "2025-06-05T23:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "186 Frontier Ln, Nederland, CO 80466 | Redfin",
+        "url": "https://www.redfin.com/CO/Nederland/186-Frontier-Ln-80466/home/35199568",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Nederland/186-Frontier-Ln-80466/home/35199568",
+        "snippet": "4 beds, 2 baths, 2393 sq. ft. house located at 186 Frontier Ln, Nederland, CO 80466 sold for $690,000 on Sep 20, 2022. MLS# 8606511. \u2018Million Dollar\u2019 views!!!!",
+        "dateLastCrawled": "2025-06-04T00:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

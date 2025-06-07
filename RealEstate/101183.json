@@ -1,0 +1,417 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "727 Bennett Ave, Glenwood Springs CO 81601"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=727+Bennett+Ave%2c+Glenwood+Springs+CO+81601",
+    "totalEstimatedMatches": 649000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "727 Bennett Ave, Glenwood Springs, CO 81601 | Zillow",
+        "url": "https://www.zillow.com/homedetails/727-Bennett-Ave-Glenwood-Springs-CO-81601/62914748_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/727-Bennett-Ave-Glenwood-Springs-CO-81601/62914748_zpid",
+        "snippet": "727 Bennett Ave, Glenwood Springs CO, is a Single Family home that contains 773 sq ft and was built in 1883.It contains 2 bedrooms and 1 bathroom.This home last sold for $399,000 in September 2008. The Zestimate for this Single Family is $641,400, which has increased by $14,087 in the last 30 days.The Rent Zestimate for this Single Family is $2,506/mo, which has increased by $2,506/mo in the ...",
+        "dateLastCrawled": "2025-06-03T06:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "727 Bennett Ave, Glenwood Springs, CO 81601 | Redfin",
+        "url": "https://www.redfin.com/CO/Glenwood-Springs/727-Bennett-Ave-81601/home/129602925",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Glenwood-Springs/727-Bennett-Ave-81601/home/129602925",
+        "snippet": "2 beds, 1 bath, 773 sq. ft. house located at 727 Bennett Ave, Glenwood Springs, CO 81601 sold for $399,000 on Aug 28, 2008. MLS# 105712. Cute, cute, cute! This downtown Victorian is in the perfect ...",
+        "dateLastCrawled": "2025-05-10T02:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "727 Bennett Ave, Glenwood Springs, 81601, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "727 Bennett Ave, Glenwood Springs, CO 81601 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/727-Bennett-Ave_Glenwood-Springs_CO_81601_M15141-12786",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../727-Bennett-Ave_Glenwood-Springs_CO_81601_M15141-12786",
+        "snippet": "See sales history and home details for 727 Bennett Ave, Glenwood Springs, CO 81601, a 2 bed, 1 bath, 726 Sq. Ft. single family home built in 1883 that was last sold on 09/04/2008.",
+        "dateLastCrawled": "2025-05-10T00:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "727 Bennett Ave, Glenwood Springs, CO 81601 | Homes.com",
+        "url": "https://www.homes.com/property/727-bennett-ave-glenwood-springs-co/lcd7leket7rrv/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/727-bennett-ave-glenwood-springs-co/lcd7leket7rrv",
+        "snippet": "This home is located at 727 Bennett Ave, Glenwood Springs, CO 81601 and is currently estimated at $653,288, approximately $845 per square foot. 727 Bennett Ave is a home located in Garfield County with nearby schools including St. Stephen's Catholic School and Columbine Christian School.",
+        "dateLastCrawled": "2025-06-02T12:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Haiti School Project, 727 Bennett Ave, Glenwood Springs, CO",
+        "url": "https://www.mapquest.com/us/colorado/haiti-school-project-422951437",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/haiti-school-project-422951437",
+        "snippet": "727 Bennett Ave Glenwood Springs, CO 81601 Hours (720) 900-9336 The Haiti School Project in Glenwood Springs, CO is a non-profit organization dedicated to supporting education initiatives in Haiti. Through various fundraising efforts and partnerships, the organization aims to improve access to education and resources for children in Haiti. ...",
+        "dateLastCrawled": "2024-08-17T15:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "727 BENNETT AVE, GLENWOOD SPRINGS, CO 81601 - RE/MAX",
+        "url": "https://www.remax.com/co/glenwood-springs/home-details/727-bennett-ave-glenwood-springs-co-81601/1181597033632667335",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/.../727-bennett-ave-glenwood-springs-co-81601/1181597033632667335",
+        "snippet": "View 727 BENNETT AVE, GLENWOOD SPRINGS, CO 81601 property and neighbourhood details. Find out how much this listing is worth with RE/MAX's Home Value Estimator and view similar real estate listings. ... Details for 727 BENNETT AVE. Built in 1883. No Info. 0.0574 acres lot. Interior. Bathrooms Full. 1.",
+        "dateLastCrawled": "2024-10-31T22:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 727 Bennett Ave, Glenwood Springs, CO 81601 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Glenwood-Springs/727-Bennett-Ave",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Glenwood-Springs/727-Bennett-Ave",
+        "snippet": "Find people by address using reverse address lookup for 727 Bennett Ave, Glenwood Springs, CO 81601. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2023-10-02T06:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "727 Bennett Ave, Glenwood Springs, CO 81601 - Trulia",
+        "url": "https://www.trulia.com/home/727-bennett-ave-glenwood-springs-co-81601-62914748",
+        "datePublished": "2024-02-10T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 10, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/727-bennett-ave-glenwood-springs-co-81601-62914748",
+        "snippet": "727 Bennett Ave, Glenwood Springs, CO 81601 is a 773 sqft, 2 bed, 1 bath home sold in 2008. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-02-10T14:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "724 Bennett Ave, Glenwood Springs, CO 81601 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/724-Bennett-Ave_Glenwood-Springs_CO_81601_M12825-36441",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../724-Bennett-Ave_Glenwood-Springs_CO_81601_M12825-36441",
+        "snippet": "View detailed information about property 724 Bennett Ave, Glenwood Springs, CO 81601 including listing details, property photos, school and neighborhood data, and much more. ... 727 Bennett Ave ...",
+        "dateLastCrawled": "2024-02-10T02:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "713 Bennett Ave, Glenwood Springs, CO 81601 | Zillow",
+        "url": "https://www.zillow.com/homedetails/713-Bennett-Ave-Glenwood-Springs-CO-81601/2059735627_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/713-Bennett-Ave-Glenwood-Springs-CO-81601/...",
+        "snippet": "713 Bennett Ave, Glenwood Springs, CO 81601 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. ... 727 Bennett Ave, Glenwood Springs, CO 81601. Off Market. $750,000. 3 bd | 1 ba | 1.2k ...",
+        "dateLastCrawled": "2025-05-22T22:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "723 Bennett Ave, Glenwood Springs, CO 81601 | MLS# 162847 | Redfin",
+        "url": "https://www.redfin.com/CO/Glenwood-Springs/723-Bennett-Ave-81601/home/129530715",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Glenwood-Springs/723-Bennett-Ave-81601/home/129530715",
+        "snippet": "2 beds, 1 bath, 824 sq. ft. house located at 723 Bennett Ave, Glenwood Springs, CO 81601 sold for $250,000 on May 11, 2020. MLS# 162847. This historic home was built in 1883 the same year that Glen...",
+        "dateLastCrawled": "2024-09-30T02:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "702 Bennett Ave, Glenwood Springs, CO 81601 | Zillow",
+        "url": "https://www.zillow.com/homedetails/702-Bennett-Ave-Glenwood-Springs-CO-81601/62915435_zpid/",
+        "datePublished": "2025-01-08T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 8, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/702-Bennett-Ave-Glenwood-Springs-CO-81601/62915435_zpid",
+        "snippet": "702 Bennett Ave, Glenwood Springs CO, is a Multiple Occupancy home that contains 3084 sq ft and was built in 1918.It contains 5 bedrooms and 4 bathrooms.This home last sold for $1,050,000 in January 2025. The Zestimate for this Multiple Occupancy is $1,086,300, which has increased by $6,855 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $1,958/mo, which has increased by ...",
+        "dateLastCrawled": "2025-06-07T05:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "728 Bennett Ave, Glenwood Springs, CO 81601 | Redfin",
+        "url": "https://www.redfin.com/CO/Glenwood-Springs/728-Bennett-Ave-81601/home/129544587",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Glenwood-Springs/728-Bennett-Ave-81601/home/129544587",
+        "snippet": "728 Bennett Ave is a 828 square foot house on a 2,500 square foot lot with 1 bedroom and 1 bathroom. - it last sold on July 30, 1996 for $138,000. Based on Redfin's Glenwood Springs data, we estimate the home's value is $575,242.",
+        "dateLastCrawled": "2025-05-14T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "723 Bennett Ave, Glenwood Springs, CO 81601 | Zillow",
+        "url": "https://www.zillow.com/homedetails/723-Bennett-Ave-Glenwood-Springs-CO-81601/62914919_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/723-Bennett-Ave-Glenwood-Springs-CO-81601/62914919_zpid",
+        "snippet": "723 Bennett Ave, Glenwood Springs CO, is a Single Family home that contains 850 sq ft and was built in 1883.It contains 2 bedrooms and 2 bathrooms.This home last sold for $470,000 in July 2021. The Zestimate for this Single Family is $612,200, which has increased by $10,103 in the last 30 days.The Rent Zestimate for this Single Family is $2,795/mo, which has increased by $2,795/mo in the last ...",
+        "dateLastCrawled": "2025-03-29T16:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "827 Bennett Ave, Glenwood Springs, CO 81601 | Zillow",
+        "url": "https://www.zillow.com/homedetails/827-Bennett-Ave-Glenwood-Springs-CO-81601/62911896_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/827-Bennett-Ave-Glenwood-Springs-CO-81601/62911896_zpid",
+        "snippet": "827 Bennett Ave, Glenwood Springs CO, is a Multiple Occupancy home that contains 2630 sq ft and was built in 1883.It contains 4 bedrooms and 1.75 bathrooms.This home last sold for $370,000 in September 2006. The Zestimate for this Multiple Occupancy is $805,200, which has increased by $4,200 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $2,629/mo, which has increased by ...",
+        "dateLastCrawled": "2025-04-25T07:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "827 Bennett Ave, Glenwood Springs, CO 81601 | Redfin",
+        "url": "https://www.redfin.com/CO/Glenwood-Springs/827-Bennett-Ave-81601/home/129498337",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Glenwood-Springs/827-Bennett-Ave-81601/home/129498337",
+        "snippet": "4 beds, 2 baths, 2630 sq. ft. house located at 827 Bennett Ave, Glenwood Springs, CO 81601 sold for $370,000 on Aug 30, 2006. MLS# 93931. Great potential, charming features, no warranties for roof,...",
+        "dateLastCrawled": "2025-02-24T05:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "712 Bennett Ave, Glenwood Springs, CO 81601 | Redfin",
+        "url": "https://www.redfin.com/CO/Glenwood-Springs/712-Bennett-Ave-81601/home/129621067",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Glenwood-Springs/712-Bennett-Ave-81601/home/129621067",
+        "snippet": "3 beds, 2 baths, 1409 sq. ft. house located at 712 Bennett Ave, Glenwood Springs, CO 81601 sold for $715,000 on Jul 13, 2022. MLS# 174767. Incredible Opportunity! Live in one, rent the other. Remod...",
+        "dateLastCrawled": "2025-04-13T20:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "728 Bennett Ave, Glenwood Springs, CO 81601 | Zillow",
+        "url": "https://www.zillow.com/homedetails/728-Bennett-Ave-Glenwood-Springs-CO-81601/62911512_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/728-Bennett-Ave-Glenwood-Springs-CO-81601/62911512_zpid",
+        "snippet": "728 Bennett Ave, Glenwood Springs CO, is a Single Family home that contains 828 sq ft and was built in 1883.It contains 1 bedroom and 1 bathroom. The Zestimate for this Single Family is $532,100, which has increased by $5,584 in the last 30 days.The Rent Zestimate for this Single Family is $2,969/mo, which has increased by $389/mo in the last 30 days.",
+        "dateLastCrawled": "2024-05-27T02:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1527 Bennett Ave, Glenwood Springs, CO 81601 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1527-Bennett-Ave-Glenwood-Springs-CO-81601/126039693_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1527-Bennett-Ave-Glenwood-Springs-CO-81601/...",
+        "snippet": "1527 Bennett Ave, Glenwood Springs CO, is a Townhouse home that contains 1984 sq ft and was built in 1989.It contains 3 bedrooms and 2 bathrooms.This home last sold for $360,000 in October 2017. The Zestimate for this Townhouse is $708,100, which has increased by $12,613 in the last 30 days.The Rent Zestimate for this Townhouse is $3,280/mo, which has increased by $3,280/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-21T07:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

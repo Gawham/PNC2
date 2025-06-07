@@ -1,0 +1,492 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "4385 S Balsam St, Unit 3-104, Denver CO 80123"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=4385+S+Balsam+St%2c+Unit+3-104%2c+Denver+CO+80123",
+    "totalEstimatedMatches": 4510000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "4385 S Balsam St UNIT 3-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-3-104-Denver-CO-80123/58687397_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-3-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St UNIT 3-104, Denver, CO 80123 is currently not for sale. The 1,036 Square Feet condo home is a 2 beds, 2 baths property. This home was built in 2001 and last sold on 2016-01-28 for $212,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "deepLinks": [
+          {
+            "name": "4385 S Balsam St, Denver, CO 80123 - Zillow",
+            "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-Denver-CO-80123/247388407_zpid/",
+            "snippet": "4385 S Balsam St, Denver CO, is a Apartment home that contains 1028 sq ft.It contains 2 bedrooms and 2 bathrooms.This home last sold for $363,900 in March 2025. The Zestimate for this Apartment is $364,000, which has decreased by $15,065 in the last 30 days.The Rent Zestimate for this Apartment is $1,969/mo, which has increased by $1,969/mo in the last 30 days."
+          },
+          {
+            "name": "4385 S Balsam St UNIT 10-104, Denver, CO 80123 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-10-104-Denver-CO-80123/58687434_zpid/",
+            "snippet": "4385 S Balsam St Unit 10-104, Denver CO, is a Condo home that contains 1028 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $313,000 in June 2020. The Zestimate for this Condo is $360,600, which has decreased by $4,677 in the last 30 days.The Rent Zestimate for this Condo is $1,969/mo, which has increased by $1,969/mo in the last 30 days."
+          },
+          {
+            "name": "4385 S Balsam St UNIT 8-104, Denver, CO 80123 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-8-104-Denver-CO-80123/58687405_zpid/",
+            "snippet": "4385 S Balsam St Unit 8-104, Denver CO, is a Condo home that contains 1028 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $114,000 in June 2011. The Zestimate for this Condo is $342,500, which has decreased by $2,887 in the last 30 days.The Rent Zestimate for this Condo is $1,949/mo, which has increased by $1,949/mo in the last 30 days."
+          },
+          {
+            "name": "4385 S Balsam St UNIT 13-104, Denver, CO 80123 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-13-104-Denver-CO-80123/67451224_zpid/",
+            "snippet": "4385 S Balsam St Unit 13-104, Denver CO, is a Condo home that contains 1070 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $230,000 in March 2016. The Zestimate for this Condo is $367,200, which has decreased by $384 in the last 30 days.The Rent Zestimate for this Condo is $2,055/mo, which has increased by $2,055/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2024-09-30T09:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "4385 S Balsam St #104, Littleton, CO 80123 | Redfin",
+        "url": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/unit-104/home/45523958",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/unit-104/home/45523958",
+        "snippet": "2 beds, 2 baths, 1036 sq. ft. townhouse located at 4385 S Balsam St #104, Littleton, CO 80123 sold for $350,000 on Mar 16, 2021. MLS# 4798960. Wonderful Lakeshore Village condo, rare high ceiling g...",
+        "dateLastCrawled": "2025-04-09T05:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "4385 S Balsam St Unit 103, Littleton, CO 80123 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4385-S-Balsam-St-103_Littleton_CO_80123_M10311-89580",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4385-S-Balsam-St-103_Littleton_CO_80123_M10311-89580",
+        "snippet": "See photos and price history of this 2 bed, 2 bath, 1,036 Sq. Ft. recently sold home located at 4385 S Balsam St Unit 103, Littleton, CO 80123 that was sold on 03/05/2025 for $363000.",
+        "dateLastCrawled": "2025-05-07T11:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "4385 S Balsam St Unit 103, Littleton, 80123, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Posted on"
+            },
+            "items": [
+              {
+                "text": "July 11, 2024"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "4385 S Balsam St, Denver, CO 80123 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-Denver-CO-80123/247388407_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.qgxQFmHe5FVhTUYRzqZENwHaFj&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-02T00:00:00.0000000",
+        "datePublishedDisplayText": "May 2, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-Denver-CO-80123/247388407_zpid",
+        "snippet": "4385 S Balsam St, Denver CO, is a Apartment home that contains 1028 sq ft.It contains 2 bedrooms and 2 bathrooms.This home last sold for $363,900 in March 2025. The Zestimate for this Apartment is $364,000, which has decreased by $15,065 in the last 30 days.The Rent Zestimate for this Apartment is $1,969/mo, which has increased by $1,969/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-05T11:25:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.qgxQFmHe5FVhTUYRzqZENwHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.qgxQFmHe5FVhTUYRzqZENwHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "4385 S Balsam St, Denver, CO 80123 in Denver, CO | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/4385-S-Balsam-St-Denver-CO-80123/building/116050",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/4385-S-Balsam-St-Denver-CO-80123/building/116050",
+        "snippet": "View 2 available units for 4385 S Balsam St, Denver, CO 80123 located at 4385 S Balsam St in Denver, CO along with 15 photos of the property. This building has in total. Sign in. SEARCH; For Sale. For Rent. Find an Agent. ... Photo via 4385 S Balsam St Unit 8-104. Photo via 4385 S Balsam St Unit 4-101. Photo via 4385 S Balsam St Unit 15-201.",
+        "dateLastCrawled": "2025-02-02T05:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "4385 S Balsam St Unit 4-204, Denver, CO 80123 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4385-S-Balsam-St-Unit-4-204_Littleton_CO_80123_M23801-44399",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4385-S-Balsam-St-Unit-4-204_Littleton_CO_80123_M23801-44399",
+        "snippet": "View 40 photos for 4385 S Balsam St Unit 4-204, Denver, CO 80123, a 2 bed, 2 bath, 1,070 Sq. Ft. condo home built in 2001 that was last sold on 12/28/2020.",
+        "dateLastCrawled": "2024-03-10T14:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "4385 S Balsam St UNIT 10-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-10-104-Denver-CO-80123/58687434_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-10-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 10-104, Denver CO, is a Condo home that contains 1028 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $313,000 in June 2020. The Zestimate for this Condo is $360,600, which has decreased by $4,677 in the last 30 days.The Rent Zestimate for this Condo is $1,969/mo, which has increased by $1,969/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-01T09:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "4385 S Balsam St, Littleton, CO 80123 | Redfin",
+        "url": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/home/39507228",
+        "datePublished": "2024-08-02T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 2, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/home/39507228",
+        "snippet": "Townhouse located at 4385 S Balsam St, Littleton, CO 80123. View sales history, tax history, home value estimates, and overhead views. ... end-unit townhome nestled in one of Denver&rsquo;s best-kept secrets. ... 4385 South Balsam St Apartment 3-104, Littleton, CO-Beds | -Baths | 1036 Sq. Ft.",
+        "dateLastCrawled": "2025-04-16T14:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "4385 S Balsam St Unit 11-104, Denver, CO 80123 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4385-S-Balsam-St-11-10_Littleton_CO_80123_M17619-23659",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4385-S-Balsam-St-11-10_Littleton_CO_80123_M17619-23659",
+        "snippet": "See sales history and home details for 4385 S Balsam St Unit 11-104, Denver, CO 80123, a 2 bed, 2 bath, 1,028 Sq. Ft. condo home built in 2001 that was last sold on 07/11/2001.",
+        "dateLastCrawled": "2024-06-08T15:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "4385 S Balsam St Unit 4-104, Littleton, CO 80123 | Redfin",
+        "url": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/unit-4-104/home/34234497",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/unit-4-104/home/34234497",
+        "snippet": "2 beds, 2 baths, 1070 sq. ft. townhouse located at 4385 S Balsam St Unit 4-104, Littleton, CO 80123 sold for $305,000 on Mar 30, 2020. MLS# 8447634. Welcome home! This is the one you've been lookin...",
+        "dateLastCrawled": "2025-04-24T03:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "4385 S Balsam St UNIT 8-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-8-104-Denver-CO-80123/58687405_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.qTb6aBZ0uiemuj45rpncPAHaFI&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-8-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 8-104, Denver CO, is a Condo home that contains 1028 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $114,000 in June 2011. The Zestimate for this Condo is $342,500, which has decreased by $2,887 in the last 30 days.The Rent Zestimate for this Condo is $1,949/mo, which has increased by $1,949/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-07T02:40:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.qTb6aBZ0uiemuj45rpncPAHaFI&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 328,
+          "imageId": "OIP.qTb6aBZ0uiemuj45rpncPAHaFI"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "4385 S Balsam St Unit 203, Littleton, CO 80123 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4385-S-Balsam-St-203_Denver_CO_80123_M27740-23246",
+        "datePublished": "2015-04-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 17, 2015",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/4385-S-Balsam-St-203_Denver_CO_80123...",
+        "snippet": "View 35 photos for 4385 S Balsam St Unit 203, Littleton, CO 80123, a 2 bed, 2 bath, 1,028 Sq. Ft. condos home built in 2001 that was last sold on 09/29/2023.",
+        "dateLastCrawled": "2024-06-10T07:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "4385 S Balsam St UNIT 13-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-13-104-Denver-CO-80123/67451224_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-13-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 13-104, Denver CO, is a Condo home that contains 1070 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $230,000 in March 2016. The Zestimate for this Condo is $367,200, which has decreased by $384 in the last 30 days.The Rent Zestimate for this Condo is $2,055/mo, which has increased by $2,055/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-21T01:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "4385 S Balsam St Unit 10-201, Denver, CO 80123 - Redfin",
+        "url": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/unit-10-201/home/34234478",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Littleton/4385-S-Balsam-St-80123/unit-10-201/home/34234478",
+        "snippet": "2 beds, 2 baths, 1070 sq. ft. townhouse located at 4385 S Balsam St Unit 10-201, Denver, CO 80123 sold for $365,000 on Dec 3, 2021. MLS# 1523106. Welcome home to this wonderful condo located conven...",
+        "dateLastCrawled": "2025-01-31T17:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "4385 S Balsam St UNIT 5-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-5-104-Denver-CO-80123/58687419_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-5-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 5-104, Denver CO, is a Condo home that contains 1070 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $325,000 in April 2021. The Zestimate for this Condo is $364,700, which has decreased by $2,300 in the last 30 days.The Rent Zestimate for this Condo is $1,976/mo, which has increased by $1,976/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-06T04:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "4385 S Balsam St UNIT 14-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-14-104-Denver-CO-80123/58687427_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-14-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 14-104, Denver CO, is a Condo home that contains 1028 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $112,000 in August 2009. The Zestimate for this Condo is $358,000, which has decreased by $3,200 in the last 30 days.The Rent Zestimate for this Condo is $1,978/mo, which has increased by $1,978/mo in the last 30 days.",
+        "dateLastCrawled": "2024-09-10T03:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "4385 S Balsam St UNIT 6-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-6-104-Denver-CO-80123/58687358_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-6-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 6-104, Denver CO, is a Condo home that contains 1070 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $158,000 in October 2004. The Zestimate for this Condo is $362,900, which has decreased by $1,377 in the last 30 days.The Rent Zestimate for this Condo is $1,976/mo, which has increased by $1,976/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-09T05:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "4385 S Balsam St UNIT 1-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-1-104-Denver-CO-80123/58687351_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-1-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 1-104, Denver CO, is a Apartment home that contains 1036 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $270,000 in March 2017. The Zestimate for this Apartment is $380,500, which has decreased by $1,200 in the last 30 days.The Rent Zestimate for this Apartment is $2,323/mo, which has increased by $2,323/mo in the last 30 days.",
+        "dateLastCrawled": "2025-06-04T00:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "4385 S Balsam St UNIT 7-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-7-104-Denver-CO-80123/58687374_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-7-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 7-104, Denver CO, is a Apartment home that contains 1036 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $350,000 in March 2021. The Zestimate for this Apartment is $385,900, which has increased by $2,532 in the last 30 days.The Rent Zestimate for this Apartment is $1,989/mo, which has increased by $1,989/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T16:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "4385 S Balsam St UNIT 4-104, Denver, CO 80123 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-4-104-Denver-CO-80123/58687413_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4385-S-Balsam-St-UNIT-4-104-Denver-CO-80123/...",
+        "snippet": "4385 S Balsam St Unit 4-104, Denver CO, is a Condo home that contains 1070 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $305,000 in April 2020. The Zestimate for this Condo is $379,100, which has increased by $640 in the last 30 days.The Rent Zestimate for this Condo is $2,006/mo, which has increased by $2,006/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-22T13:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

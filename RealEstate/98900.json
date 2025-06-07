@@ -1,0 +1,543 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "6800 Leetsdale Dr, Unit 307, Denver CO 80224"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=6800+Leetsdale+Dr%2c+Unit+307%2c+Denver+CO+80224",
+    "totalEstimatedMatches": 696000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Quality, Affordable Senior Living Community in Central Denver",
+        "url": "https://www.springbrookeretirement.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.springbrookeretirement.com",
+        "snippet": "Denver\u2019s best senior independent living, assisted senior living, memory care and respite care community. Accepting new residents. Meet the Team Life at Springbrooke. Overview Why Springbrooke ... 6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 marketing.springbrooke@elkco.net.",
+        "deepLinks": [
+          {
+            "name": "Overview",
+            "url": "https://www.springbrookeretirement.com/life-at-springbrooke/overview",
+            "snippet": "Live every day to the fullest at Denver\u2019s best luxury senior living community. Friendly Springbrooke feels like home. Accepting new residents. ... 6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 marketing.springbrooke@elkco.net. Write Us a Review ..."
+          },
+          {
+            "name": "Why Springbrooke",
+            "url": "https://www.springbrookeretirement.com/life-at-springbrooke/why-springbrooke",
+            "snippet": "Expect excellence in Denver luxury living at Springbrooke Senior Living. Your life can comfortable, stimulating, safe, secure and worry-free. ... 6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 marketing.springbrooke@elkco.net. Write Us a Review ..."
+          },
+          {
+            "name": "Meet the Team",
+            "url": "https://www.springbrookeretirement.com/life-at-springbrooke/meet-the-team",
+            "snippet": "An LPN and 15-year senior living professional, Autumn delivered private in-home care as well as served in Denver-area senior living communities before joining Springbrooke. Most recently, she was a memory care director. ... 6800 Leetsdale Drive | Denver, CO 80224 303.331.9963"
+          },
+          {
+            "name": "FAQs",
+            "url": "https://www.springbrookeretirement.com/life-at-springbrooke/faqs",
+            "snippet": "FAQs - Quality, Affordable Senior Living Community in Central Denver"
+          },
+          {
+            "name": "Reviews",
+            "url": "https://www.springbrookeretirement.com/life-at-springbrooke/reviews",
+            "snippet": "Reviews - Quality, Affordable Senior Living Community in Central Denver"
+          },
+          {
+            "name": "Independent Living",
+            "url": "https://www.springbrookeretirement.com/living-options/independent-living",
+            "snippet": "A Value in Denver Senior Living Communities . Springbrooke Senior Living Community brings you a unique combination of high quality without the high cost associated with most Denver retirement communities. We believe everyone should enjoy a comfortable, vibrant, safe and secure retirement. ... 6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 ..."
+          }
+        ],
+        "dateLastCrawled": "2025-06-06T14:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Springbrooke Retirement And Assisted Living - Seniorly",
+        "url": "https://www.seniorly.com/assisted-living/colorado/denver/springbrooke-retirement-and-assisted-living",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.9YwFUTa9_YgRJ5tn47ZlCwHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/assisted-living/colorado/denver/springbrooke-retirement-and...",
+        "snippet": "Springbrooke Retirement And Assisted Living is an Assisted Living community located at 6800 Leetsdale Drive in Denver, CO. See pricing, photos & reviews on Seniorly.com! ... 6800 Leetsdale Drive, Denver, CO 80224 Calculate travel time. Assisted Living \u00b7 Memory Care. 6.4. Community score. Write a review. For residents and staff",
+        "dateLastCrawled": "2025-06-04T09:27:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.9YwFUTa9_YgRJ5tn47ZlCwHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.9YwFUTa9_YgRJ5tn47ZlCwHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "6800 Leetsdale Drive, Denver, 80224, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 331-9963"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Springbrooke - 2025 Pricing, Photos, 23 Reviews in Denver, CO",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/denver/springbrooke-senior-living-80224/",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5,
+              "reviewCount": 33
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/facilities/co/denver/springbrooke-senior-living-80224",
+        "snippet": "6800 Leetsdale Dr, Denver, CO 80224. 4.8 / 5.0 33 Reviews . Pricing & Availability (800) 755-1458 . Contact Resident (303) 331-9963 . About Location ... My wife was a resident in Springbrookes memory care unit for just over a year. I am so thankful I found Springbrooke. This place is exceptional when it comes to care for those suffering from ...",
+        "dateLastCrawled": "2025-05-31T08:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Springbrooke Retirement & Assisted Living \u2013 Denver, CO ...",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/springbrooke-retirement-and-assisted-living_6800-leetsdale-dr_denver_co_80224-626872",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.3bU6O7qjgyHs9zi6yeHypQHaEK&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/springbrooke-retirement-and...",
+        "snippet": "Springbrooke Retirement & Assisted Living - Assisted Living facility located at 6800 Leetsdale Drive, Denver, CO, 80224, seniorhousingnet.com . 800-304-7152. Talk to a local advisor for free. Assisted Living; Alzheimer\u2019s Care; More Senior Living Options; Advice & Planning;",
+        "dateLastCrawled": "2025-05-02T23:29:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.3bU6O7qjgyHs9zi6yeHypQHaEK&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 266,
+          "imageId": "OIP.3bU6O7qjgyHs9zi6yeHypQHaEK"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "6800 Leetsdale Drive, Denver, 80224, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Locally owned Denver Springbrooke Retirement Community",
+        "url": "https://www.springbrookeretirement.com/about/overview",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.5zhmoZX55PZi8Ft8_JDuRgHaFU&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.springbrookeretirement.com/about/overview",
+        "snippet": "Denver\u2019s best retirement living with local hands-on ownership. Affordable, high-quality retirement living for everyone. ... 6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 marketing.springbrooke@elkco.net. Write Us a Review ...",
+        "dateLastCrawled": "2025-05-31T01:37:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.5zhmoZX55PZi8Ft8_JDuRgHaFU&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 340,
+          "imageId": "OIP.5zhmoZX55PZi8Ft8_JDuRgHaFU"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Contact Us - Springbrooke Retirement Senior Living",
+        "url": "https://www.springbrookeretirement.com/contact-us/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.springbrookeretirement.com/contact-us",
+        "snippet": "6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 marketing.springbrooke@elkco.net. Write Us a Review ...",
+        "dateLastCrawled": "2025-06-02T22:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Assisted Living Denver at Springbrooke",
+        "url": "https://www.springbrookeretirement.com/living-options/assisted-living",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.GaJ-ZsFqs_I9fMh7_nxt4gHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.springbrookeretirement.com/living-options/assisted-living",
+        "snippet": "Affordable, high-quality and personalized assisted living in Denver from compassionate, experienced caregivers. Open to new residents. Meet the Team Life at Springbrooke. Overview ... 6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 marketing.springbrooke@elkco.net.",
+        "dateLastCrawled": "2025-06-03T08:39:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.GaJ-ZsFqs_I9fMh7_nxt4gHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.GaJ-ZsFqs_I9fMh7_nxt4gHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "6800 Leetsdale Dr, Denver, CO 80224 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6800-Leetsdale-Dr-Denver-CO-80224/130320849_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6800-Leetsdale-Dr-Denver-CO-80224/130320849_zpid",
+        "snippet": "6800 Leetsdale Dr, Denver CO, is a Vacant Land home that contains 9830 sq ft. The Rent Zestimate for this Vacant Land is $2,545/mo, which has increased by $2,545/mo in the last 30 days.",
+        "dateLastCrawled": "2024-07-26T02:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Springbrooke Senior Living | Assisted Living & Memory Care | Denver, CO ...",
+        "url": "https://www.aplaceformom.com/community/springbrooke-senior-living-141640",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.-ATDIXkU6p7O68K2v0veEgHaEK&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/springbrooke-senior-living-141640",
+        "snippet": "6800 Leetsdale Drive, Denver, CO 80224. For pricing & availability: (866) 374-4058. Call Now Close . This phone number connects you with a local advisor from A Place For Mom. ... Not enough staff for memory care unit. My husband was vegetarian and meals were limited. Helpful . Cleanliness. 5. Friendliness. 4. Care Services. 4. Staff. 4. Meals ...",
+        "dateLastCrawled": "2025-06-04T10:15:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.-ATDIXkU6p7O68K2v0veEgHaEK&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 266,
+          "imageId": "OIP.-ATDIXkU6p7O68K2v0veEgHaEK"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Springbrooke Retirement & Assisted Living, 6800 Leetsdale Dr, Denver ...",
+        "url": "https://www.mapquest.com/us/colorado/springbrooke-retirement-assisted-living-267445557",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/springbrooke-retirement-assisted-living-267445557",
+        "snippet": "6800 Leetsdale Dr. Denver, CO 80224 +1 (303) 331-9963. https://www.springbrookeretirement.com. Springbrooke Retirement & Assisted Living Provides Home Health Care, Caretaking Services, Exercising Programs, Housekeeping, Personal Assistance, Wellness Programs, Grocery Shopping, Temporary Care, Long Term Care, Memory Care Services to The Denver ...",
+        "dateLastCrawled": "2025-05-19T06:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Springbrooke Retirement And Assisted Living in Denver, CO - SeniorCare.com",
+        "url": "https://www.seniorcare.com/assisted-living/co/denver/springbrooke-retirement-and-assisted-living/11368/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorcare.com/assisted-living/co/denver/springbrooke-retirement-and...",
+        "snippet": "6800 Leetsdale Dr Denver, CO 80224 Price & Availability: (855) 344-4048 General Info: (303) 331-9963 Fax: (303) 331-9413 County: Denver County. Call 866.333.6002. To talk to a care advisor for free. Detailed Facility Reports | Get Pricing Information | Payment Options | Update This Listing. Full Name",
+        "dateLastCrawled": "2025-06-04T02:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorCare.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Springbrooke Senior Living | Senior Housing in Denver, Colorado",
+        "url": "https://seniorsbluebook.com/senior-housing/springbrooke-retirement-assisted-living-denver-co",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://seniorsbluebook.com/.../springbrooke-retirement-assisted-living-denver-co",
+        "snippet": "6800 Leetsdale Drive, Denver, Colorado, 80224. Independent Living. Pricing starts from ... Unit Sizes 1 BR, 2 BR; Add'l Services Luxury Day Trips; Find Us On. ... Memory Care 6800 Leetsdale Drive, Denver, Denver, Colorado, 80224. Welcome to affordable, high-quality memory support in central Denver. Limited to 15 spacious private apartments ...",
+        "dateLastCrawled": "2025-05-03T18:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Seniors Blue Book"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Springbrooke Retirement & Assisted Living - Starting at 4,850/mo ...",
+        "url": "https://www.seniorhomes.com/colorado/denver/springbrooke-retirement-and-assisted-living-80224",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhomes.com/colorado/denver/springbrooke-retirement-and-assisted...",
+        "snippet": "Kitchen Appliances In Unit; Transportation & Shopping. General Transportation Services; Campus/Building Details. Coffee Shop; General Store; ... 6800 Leetsdale Drive, Denver, Colorado 80224. 3.3 (3 reviews) $ 3,295. CuraVista Highline. 1640 South Quebec Street, Four Square Mile, Colorado 80231 $ 4,080.",
+        "dateLastCrawled": "2025-05-27T05:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Seniorhomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Springbrooke - June 2025 Pricing (UPDATED) - Family Assets",
+        "url": "https://www.familyassets.com/assisted-living/colorado/denver/springbrooke",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/assisted-living/colorado/denver/springbrooke",
+        "snippet": "6800 Leetsdale Drive, Denver CO, 80224. Resident Review Score. N/A | Not Enough Reviews. See Gallery (5) Starting price. $2,575. For this area $ $$ Get Personalized Pricing. ... This community offers a memory care unit for residents with dementia and provides an independent living option. This facility may offer respite or short-term stays. If ...",
+        "dateLastCrawled": "2025-06-04T13:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Springbrooke Retirement & Assisted Living | SeniorLiving.com",
+        "url": "https://www.seniorliving.com/senior-community/springbrooke-retirement-assisted-living",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorliving.com/senior-community/springbrooke-retirement-assisted-living",
+        "snippet": "6800 Leetsdale Drive. Denver, CO 80224. Assisted Living. If you think Denver retirement communities are all alike, think again. ... The new owners and management team of Steve Elken and Dr. Michael Opatowski draws from its 50-plus years of experience in hospitality and senior housing. Combined, they brought a continuum of care and the elegance ...",
+        "dateLastCrawled": "2025-02-15T13:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Senior Retirement Apartments at Springbrooke",
+        "url": "https://www.springbrookeretirement.com/living-options/apartment-plans",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.springbrookeretirement.com/living-options/apartment-plans",
+        "snippet": "6800 Leetsdale Drive | Denver, CO 80224 303.331.9963 marketing.springbrooke@elkco.net. Write Us a Review ...",
+        "dateLastCrawled": "2025-05-30T09:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "6800 Leetsdale Dr, Denver, CO 80224 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/6800-Leetsdale-Dr-80224/home/34185660",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/6800-Leetsdale-Dr-80224/home/34185660",
+        "snippet": "Multi-family (5+ unit) located at 6800 Leetsdale Dr, Denver, CO 80224 sold for $275,000 on Aug 27, 2015. View sales history, tax history, home value estimates, and overhead views. APN 06174-00-150-...",
+        "dateLastCrawled": "2025-03-30T03:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "6800 Leetsdale Dr, Denver, CO 80224 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6800-Leetsdale-Dr-Denver-CO-80224/247386953_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6800-Leetsdale-Dr-Denver-CO-80224/247386953_zpid",
+        "snippet": "6800 Leetsdale Dr, Denver CO, is a Apartment home that contains 28860 sq ft.This home last sold for $275,000 in August 2015. The Rent Zestimate for this Apartment is $2,506/mo, which has increased by $2,506/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-28T09:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "6800 Leetsdale Drive, Denver, CO 80224 - youriguide.com",
+        "url": "https://youriguide.com/6800_leetsdale_dr_denver_co",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://youriguide.com/6800_leetsdale_dr_denver_co",
+        "snippet": "6800 Leetsdale Dr, Denver, CO. 3D Tour. Photos. Details. Map. EN. 303-331-9963. Email. Website. Springbrooke Senior Living. 6800 Leetsdale Drive, Denver, CO 80224. You are about to show all labels. All measurement labels will visible in measure mode. Confirm Cancel You are about to hide all labels. ...",
+        "dateLastCrawled": "2025-05-02T22:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "iGUIDE"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "6800 Leetsdale Dr #F320A52C6, Denver, CO 80224 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6800-Leetsdale-Dr-F320A52C6-Denver-CO-80224/449091623_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6800-Leetsdale-Dr-F320A52C6-Denver-CO-80224/...",
+        "snippet": "6800 Leetsdale Dr #F320A52C6, Denver, CO 80224 is currently not for sale. The -- sqft apartment home is a 2 beds, 2 baths property. This home was built in 1987 and last sold on 2025-04-02 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-15T02:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

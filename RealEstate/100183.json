@@ -1,0 +1,439 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1346 N Scandia Dr, Pueblo West CO 81007"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1346+N+Scandia+Dr%2c+Pueblo+West+CO+81007",
+    "totalEstimatedMatches": 631000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1346 N Scandia Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1346-N-Scandia-Dr-Pueblo-West-CO-81007/14049962_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1346-N-Scandia-Dr-Pueblo-West-CO-81007/14049962_zpid",
+        "snippet": "1346 N Scandia Dr, Pueblo West CO, is a Single Family home that contains 2084 sq ft and was built in 1998.It contains 3 bedrooms and 4 bathrooms.This home last sold for $3,400 in October 1994. The Zestimate for this Single Family is $425,300, which has increased by $2,994 in the last 30 days.The Rent Zestimate for this Single Family is $2,290/mo, which has increased by $2,290/mo in the last 30 ...",
+        "dateLastCrawled": "2025-05-25T17:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1346 N Scandia Dr, Pueblo West, CO 81007 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1346-N-Scandia-Dr_Pueblo-West_CO_81007_M17111-59866",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1346-N-Scandia-Dr_Pueblo-West_CO_81007_M17111-59866",
+        "snippet": "See sales history and home details for 1346 N Scandia Dr, Pueblo West, CO 81007, a 3 bed, 4 bath, 2,084 Sq. Ft. single family home built in 1998 that was last sold on 10/12/1994.",
+        "dateLastCrawled": "2024-02-27T08:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1346 N Scandia Dr, Pueblo, CO 81007 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/1346-N-Scandia-Dr-81007/home/132417821",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/1346-N-Scandia-Dr-81007/home/132417821",
+        "snippet": "3 beds, 4 baths, 2084 sq. ft. house located at 1346 N Scandia Dr, Pueblo, CO 81007. View sales history, tax history, home value estimates, and overhead views. APN 9519007009.",
+        "dateLastCrawled": "2024-08-08T08:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1346 N Scandia Dr, Pueblo, 81007, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1346 N Scandia Dr, Pueblo, CO 81007 - Homes.com",
+        "url": "https://www.homes.com/property/1346-n-scandia-dr-pueblo-co/2b4kwj350tnk0/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1346-n-scandia-dr-pueblo-co/2b4kwj350tnk0",
+        "snippet": "This home is located at 1346 N Scandia Dr, Pueblo, CO 81007 and is currently estimated at $405,059, approximately $194 per square foot. 1346 N Scandia Dr is a home located in Pueblo County with nearby schools including Prairie Winds Elementary School, Liberty Point International School, and Pueblo West High School.",
+        "dateLastCrawled": "2025-05-21T03:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Who Owns 1346 N Scandia Dr, Pueblo, CO and Lives at This Property ...",
+        "url": "https://www.whitepages.com/address/1346-N-Scandia-Dr/Pueblo-CO/Amw81v476bK",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/address/1346-N-Scandia-Dr/Pueblo-CO/Amw81v476bK",
+        "snippet": "Find out who owns 1346 N Scandia Dr, Pueblo, CO and who lives at this property. Look up sale history, residents' phone numbers & property values with Whitepages Property Records Search.",
+        "dateLastCrawled": "2025-05-18T17:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1346 N Scandia Dr Pueblo West, CO 81007 - Trulia",
+        "url": "https://www.trulia.com/home/1346-n-scandia-dr-pueblo-west-co-81007-14049962",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1346-n-scandia-dr-pueblo-west-co-81007-14049962",
+        "snippet": "1346 N Scandia Dr, Pueblo West, CO 81007 is a 2,084 sqft, 3 bed, 4 bath home sold in 1994. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-02-04T06:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1340 N Scandia Dr, Pueblo, CO 81007 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1340-N-Scandia-Dr_Pueblo-West_CO_81007_M21417-83759",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1340-N-Scandia-Dr_Pueblo-West_CO_81007_M21417-83759",
+        "snippet": "View detailed information about property 1340 N Scandia Dr, Pueblo, CO 81007 including listing details, property photos, school and neighborhood data, and much more. ... Property detail for 1346 N ...",
+        "dateLastCrawled": "2024-06-25T06:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1316 N Scandia Dr, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1316-N-Scandia-Dr-Pueblo-West-CO-81007/82299872_zpid/",
+        "datePublished": "2024-08-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 29, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1316-N-Scandia-Dr-Pueblo-West-CO-81007/82299872_zpid",
+        "snippet": "1316 N Scandia Dr, Pueblo West CO, is a Single Family home that contains 1722 sq ft and was built in 2005.It contains 3 bedrooms and 2 bathrooms.This home last sold for $355,000 in August 2024. The Zestimate for this Single Family is $355,000, which has increased by $4,961 in the last 30 days.The Rent Zestimate for this Single Family is $2,316/mo, which has increased by $2,316/mo in the last ...",
+        "dateLastCrawled": "2024-09-08T11:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1346 N Tabasco Dr, Pueblo West, CO 81007 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1346-N-Tabasco-Dr_Pueblo-West_CO_81007_M16332-00920",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1346-N-Tabasco-Dr_Pueblo-West_CO_81007_M16332-00920",
+        "snippet": "See photos and price history of this 3 bed, 2 bath, 3,056 Sq. Ft. recently sold home located at 1346 N Tabasco Dr, Pueblo West, CO 81007 that was sold on 05/24/2024 for $430000.",
+        "dateLastCrawled": "2024-06-23T12:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1346 N Tabasco Dr, Pueblo West, CO 81007 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/1346-N-Tabasco-Dr-81007/home/133071245",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/1346-N-Tabasco-Dr-81007/home/133071245",
+        "snippet": "Sold: 3 beds, 2 baths, 3056 sq. ft. house located at 1346 N Tabasco Dr, Pueblo West, CO 81007 sold for $430,000 on May 24, 2024. MLS# 221505. Pueblo West Gem! Completed in 2021 this home is better ...",
+        "dateLastCrawled": "2025-03-24T23:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1327 N Scandia Dr, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1327-N-Scandia-Dr-Pueblo-West-CO-81007/109700418_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1327-N-Scandia-Dr-Pueblo-West-CO-81007/109700418_zpid",
+        "snippet": "This 2440 square feet Multiple Occupancy home has 4 bedrooms and 3 bathrooms. It is located at 1327 N Scandia Dr, Pueblo West, CO.",
+        "dateLastCrawled": "2024-10-19T10:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1327 N Scandia Dr, Pueblo West, CO 81007 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/1327-N-Scandia-Dr-81007/home/132785334",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/1327-N-Scandia-Dr-81007/home/132785334",
+        "snippet": "4 beds, 3 baths, 2440 sq. ft. house located at 1327 N Scandia Dr, Pueblo West, CO 81007 sold for $315,915 on Oct 8, 2019. MLS# 180107. Nearly completed new construction home by award winning builde...",
+        "dateLastCrawled": "2025-03-28T02:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1346 N Tabasco Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1346-N-Tabasco-Dr-Pueblo-West-CO-81007/109701250_zpid/",
+        "datePublished": "2024-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1346-N-Tabasco-Dr-Pueblo-West-CO-81007/109701250_zpid",
+        "snippet": "1346 N Tabasco Dr, Pueblo West CO, is a Single Family home that contains 3056 sq ft and was built in 2020.It contains 3 bedrooms and 2 bathrooms.This home last sold for $430,000 in May 2024. The Zestimate for this Single Family is $431,400, which has increased by $1,200 in the last 30 days.The Rent Zestimate for this Single Family is $2,708/mo, which has increased by $2,708/mo in the last 30 days.",
+        "dateLastCrawled": "2024-09-07T08:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1376 N Scandia Dr, Pueblo West, CO 81007 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1376-N-Scandia-Dr_Pueblo-West_CO_81007_M16171-39299",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1376-N-Scandia-Dr_Pueblo-West_CO_81007_M16171-39299",
+        "snippet": "View detailed information about property 1376 N Scandia Dr, Pueblo West, CO 81007 including listing details, property photos, school and neighborhood data, and much more. ... 1346 N Scandia Dr ...",
+        "dateLastCrawled": "2024-03-01T00:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1357 N Scandia Dr, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1357-N-Scandia-Dr-Pueblo-West-CO-81007/14049970_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1357-N-Scandia-Dr-Pueblo-West-CO-81007/14049970_zpid",
+        "snippet": "1357 N Scandia Dr, Pueblo West CO, is a Single Family home that contains 2580 sq ft and was built in 1996.It contains 4 bedrooms and 3 bathrooms.This home last sold for $220,000 in March 2016. The Zestimate for this Single Family is $434,800, which has increased by $52 in the last 30 days.The Rent Zestimate for this Single Family is $2,652/mo, which has increased by $2,652/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-18T01:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1316 N Scandia Dr, Pueblo West, CO 81007 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/1316-N-Scandia-Dr-81007/home/132258329",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/1316-N-Scandia-Dr-81007/home/132258329",
+        "snippet": "Sold: 3 beds, 2 baths, 1722 sq. ft. house located at 1316 N Scandia Dr, Pueblo West, CO 81007 sold for $355,000 on Aug 29, 2024. MLS# 222603. Discover the charm of this well-kept 3-bedroom, 2-bath ...",
+        "dateLastCrawled": "2025-04-09T08:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1316 N Scandia Dr, Pueblo West, CO 81007 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1316-N-Scandia-Dr_Pueblo-West_CO_81007_M23986-37082",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1316-N-Scandia-Dr_Pueblo-West_CO_81007_M23986-37082",
+        "snippet": "1316 N Scandia Dr, Pueblo West, CO 81007 is for sale. View 41 photos of this 3 bed, 2 bath, 1722 sqft. single family home with a list price of $376900.",
+        "dateLastCrawled": "2024-06-23T03:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1358 N Scandia Drive, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1358-N-Scandia-Dr-Pueblo-West-CO-81007/14049963_zpid/",
+        "datePublished": "2025-05-13T00:00:00.0000000",
+        "datePublishedDisplayText": "May 13, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1358-N-Scandia-Dr-Pueblo-West-CO-81007/14049963_zpid",
+        "snippet": "1358 N Scandia Drive, Pueblo West CO, is a Single Family home that contains 2320 sq ft and was built in 1975.It contains 3 bedrooms and 3 bathrooms.This home last sold for $319,900 in May 2025. The Zestimate for this Single Family is $318,200, which has decreased by $3,227 in the last 30 days.The Rent Zestimate for this Single Family is $2,196/mo, which has increased by $2,196/mo in the last ...",
+        "dateLastCrawled": "2025-05-15T06:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1333 N Scandia Dr, Pueblo West, CO 81007 | MLS# 221290 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/1333-N-Scandia-Dr-81007/home/133073704",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/1333-N-Scandia-Dr-81007/home/133073704",
+        "snippet": "Sold: 3 beds, 2 baths, 1596 sq. ft. house located at 1333 N Scandia Dr, Pueblo West, CO 81007 sold for $394,900 on Jun 4, 2024. MLS# 221290. Beautiful, quality new construction with gorgeous mounta...",
+        "dateLastCrawled": "2025-01-05T09:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1334 N Scandia Dr, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1334-N-Scandia-Dr-Pueblo-West-CO-81007/109693105_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1334-N-Scandia-Dr-Pueblo-West-CO-81007/109693105_zpid",
+        "snippet": "1334 N Scandia Dr, Pueblo West CO, is a Single Family home that contains 2400 sq ft and was built in 2019.It contains 3 bedrooms and 3 bathrooms.This home last sold for $275,705 in June 2019. The Zestimate for this Single Family is $427,800, which has increased by $4,006 in the last 30 days.The Rent Zestimate for this Single Family is $2,676/mo, which has increased by $2,676/mo in the last 30 ...",
+        "dateLastCrawled": "2025-05-18T04:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

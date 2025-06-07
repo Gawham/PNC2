@@ -1,0 +1,489 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3580 Stanford Rd, Unit 202, Fort Collins CO 80525"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3580+Stanford+Rd%2c+Unit+202%2c+Fort+Collins+CO+80525",
+    "totalEstimatedMatches": 761000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Fort Collins - Village Cooperative",
+        "url": "https://www.villagecooperative.com/communities/fort-collins-co",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.JcPI8TdetoNvnrDROnjX2AHaDr&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.villagecooperative.com/communities/fort-collins-co",
+        "snippet": "3580 Stanford Road. Fort Collins, CO 80525. Phone: (970) 223-3538. Email: ftcollinsvc@paramark.us. No items found. Fort Collins, CO. A wonderful housing community for active seniors is here in Fort Collins, Colorado! With its great small town feel, Fort Collins regularly makes Money Magazine\u2019s list of \u201cBest Places to Live\u201d and it\u2019s easy ...",
+        "dateLastCrawled": "2025-06-03T15:37:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.JcPI8TdetoNvnrDROnjX2AHaDr&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 235,
+          "imageId": "OIP.JcPI8TdetoNvnrDROnjX2AHaDr"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Village Cooperative"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Village Cooperative Fort Collins - 3580 Stanford Rd Fort Collins, CO ...",
+        "url": "https://www.apartments.com/village-cooperative-fort-collins-fort-collins-co/4rlq6ml/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/village-cooperative-fort-collins-fort-collins-co/4rlq6ml",
+        "snippet": "Village Cooperative Fort Collins media gallery Unit. ... Discover Village Cooperative Fort Collins. The 3580 Stanford Rd location in the 80525 neighborhood of Fort Collins is convenient to everything. The professional leasing staff is eager to show off our wonderful community. ... 700 E Drake Rd, Fort Collins, CO 80525. 1 / 44. 3D Tours. Videos ...",
+        "dateLastCrawled": "2025-05-30T17:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Village Cooperative of Fort Collins \u2013 Paramark Real Estate",
+        "url": "https://paramark.us/property/village-cooperative-of-fort-collins/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.f7hsIPKTYzO1aA4V2dZ-dgHaFn&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://paramark.us/property/village-cooperative-of-fort-collins",
+        "snippet": "3580 Stanford Rd, Fort Collins, CO 80525, USA ... With its great small town feel, Fort Collins regularly makes Money Magazine\u2019s list of \u201cBest Places to Live\u201d and it\u2019s easy to see why with all of its attractions, fabulous outdoor recreation, vibrant nightlife, growing economy and more! ... Washer/Dryer in unit; Woodshop; Property on Map ...",
+        "dateLastCrawled": "2025-06-05T16:52:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.f7hsIPKTYzO1aA4V2dZ-dgHaFn&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 359,
+          "imageId": "OIP.f7hsIPKTYzO1aA4V2dZ-dgHaFn"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Paramark Real Estate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Village Cooperative Fort Collins Apartments - Fort Collins, CO ...",
+        "url": "https://www.forrent.com/co/fort-collins/village-cooperative-fort-collins/jrlq1m7",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forrent.com/co/fort-collins/village-cooperative-fort-collins/jrlq1m7",
+        "snippet": "View the available apartments for rent at Village Cooperative Fort Collins Apartments in Fort Collins, CO. Village Cooperative Fort Collins Apartments has rental units . ... 3580 Stanford Rd, Fort Collins, CO 80525. ... 2727 Nelson Rd, Longmont, CO 80503. Studio - 3 Beds $1,349 - $2,365 . Email Email Property Call (970) 535-8095.",
+        "dateLastCrawled": "2025-05-25T22:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ForRent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "3580 Stanford Rd, Fort Collins, CO 80525 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/3580-Stanford-Rd-80525/home/146101060",
+        "datePublished": "2025-02-28T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 28, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/3580-Stanford-Rd-80525/home/146101060",
+        "snippet": "91 beds, 92 baths, 86661 sq. ft. multi-family (5+ unit) located at 3580 Stanford Rd, Fort Collins, CO 80525. View sales history, tax history, home value estimates, and overhead views. APN R1664558.",
+        "dateLastCrawled": "2025-05-16T03:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3580 Stanford Rd, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "3580 Stanford Rd, Fort Collins, CO 80525 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/514-E-Horsetooth-Rd_Fort-Collins_CO_80525_M20106-01250",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../514-E-Horsetooth-Rd_Fort-Collins_CO_80525_M20106-01250",
+        "snippet": "View detailed information about property 3580 Stanford Rd, Fort Collins, CO 80525 including listing details, property photos, school and neighborhood data, and much more. ... Property detail for ...",
+        "dateLastCrawled": "2024-05-21T09:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Village Cooperative of Fort Collins in Fort Collins, CO 80525 - 970-223...",
+        "url": "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/housing-cooperative/2008208506-village-cooperative-of-fort-collins",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chamberofcommerce.com/business-directory/colorado/fort-collins/housing...",
+        "snippet": "Village Cooperative of Fort Collins. Village Cooperative of Fort Collins is located at 3580 Stanford Rd in Fort Collins, Colorado 80525. Village Cooperative of Fort Collins can be contacted via phone at 970-223-3538 for pricing, hours and directions.",
+        "dateLastCrawled": "2025-05-02T11:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Chamber of Commerce"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "3580 Stanford Rd, Fort Collins, CO 80525 Property Record - County Office",
+        "url": "https://www.countyoffice.org/property-record-3580-stanford-rd-fort-collins-co-80525-2d9/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-3580-stanford-rd-fort-collins-co-80525-2d9",
+        "snippet": "3580 Stanford Rd, Fort Collins, CO 80525 Property Record. This property is a 91 bedroom, 93 bathroom residential multi-family dwellings built in 2017 sitting on a 2.73 acre lot located at 3580 Stanford Rd, Fort Collins, CO 80525. ... Residential > Multi-Unit > Multi-Family Dwellings Building Area 86,661 sq ft (Living Area) Gross Area 116,161 sq ...",
+        "dateLastCrawled": "2025-05-31T05:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Village Cooperative of Fort Collins \u00b7 3580 Stanford Road, Fort Collins ...",
+        "url": "https://opengovco.com/business/20161461340",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20161461340",
+        "snippet": "The agent office address is 3580 Stanford Rd, Fort Collins, CO 80525. Business Information. Entity ID: 20161461340: Entity Name: Village Cooperative of Fort Collins: Principal Address: 3580 Stanford Road ... Apt 2412, Fort Collins, CO 80525: Luksh Sahitia: 2025-05-26: Monahan's Sweet 3 L.L.C. 2257 Trestle Rd, Fort Collins, CO 80525: Jena Jo ...",
+        "dateLastCrawled": "2025-06-05T16:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Village Cooperative Fort Collins - 3580 Stanford Rd Fort Collins CO ...",
+        "url": "https://www.apartmentfinder.com/Colorado/Fort-Collins-Apartments/Village-Cooperative-Fort-Collins-Apartments-esls2mq",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentfinder.com/Colorado/Fort-Collins-Apartments/Village-Cooperative...",
+        "snippet": "Discover Village Cooperative Fort Collins. The 3580 Stanford Rd location in the 80525 neighborhood of Fort Collins is convenient to everything. The professional leasing staff is eager to show off our wonderful community. Stop by the leasing office to schedule your tour.",
+        "dateLastCrawled": "2025-05-15T22:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartment Finder"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3580 Stanford Rd, Fort Collins, CO 80525 - APN/Parcel ID ... - LoopNet",
+        "url": "https://www.loopnet.com/property/3580-stanford-rd-fort-collins-co-80525/08069-R1664558/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/property/3580-stanford-rd-fort-collins-co-80525/08069-R1664558",
+        "snippet": "View information about 3580 Stanford Rd, Fort Collins, CO 80525, APN/Parcel ID: 97253-34-001. See if the property is available for sale or lease. View photos, public assessor data, maps and county tax information. Find properties near 3580 Stanford Rd.",
+        "dateLastCrawled": "2025-05-09T22:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Village Cooperative of Fort Collins - Yelp",
+        "url": "https://www.yelp.com/biz/village-cooperative-of-fort-collins-fort-collins",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/village-cooperative-of-fort-collins-fort-collins",
+        "snippet": "3580 Stanford Rd. Fort Collins, CO 80525. Get directions. You Might Also Consider. Sponsored. Carrie Holmes - Coldwell Banker Realty. 5.0 (4 reviews) 0.2 miles away from Village Cooperative of Fort Collins. Caroline S. said \"Carrie was absolutely AMAZING! We had two properties to sell and both were under contract within 10 days of listing them.",
+        "dateLastCrawled": "2025-06-03T11:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3580 Stanford Rd Fort Collins, CO 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Village Cooperative of Fort Collins | Colorado Company Directory",
+        "url": "https://www.coloradocompanysearch.com/companies/village-cooperative-of-fort-collins/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coloradocompanysearch.com/companies/village-cooperative-of-fort-collins",
+        "snippet": "The principal address is 3580 Stanford Road, Fort Collins, CO 80525. The number id for this business is 20161461340. The agent name of this business is: Village Cooperative of Fort Collins. The business's status is Good Standing now. Village Cooperative Of Fort Collins has been operating for 7 years 0 months, and 18 days.",
+        "dateLastCrawled": "2023-07-24T21:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Colorado Company Directory"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Village Cooperative Fort Collins Apartments | Fort Collins, CO ...",
+        "url": "https://www.apartmenthomeliving.com/apartment-finder/Village-Cooperative-Fort-Collins-Fort-Collins-CO-80525-7293144",
+        "datePublished": "2024-04-09T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 9, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmenthomeliving.com/apartment-finder/Village-Cooperative-Fort-Collins...",
+        "snippet": "The 80525 location in Fort Collins has so much to offer its residents. The leasing team is waiting to show you all that this community has in store. It's time to get moving on finding your next place. Contact or stop by Village Cooperative Fort Collins to schedule your tour! Description created using real-time rental pricing and availability ...",
+        "dateLastCrawled": "2025-03-31T05:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentHomeLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Village Cooperative of Fort Collins, 3580 Stanford Rd, Fort Collins, CO ...",
+        "url": "https://www.mapquest.com/us/colorado/village-cooperative-of-fort-collins-471435069",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/village-cooperative-of-fort-collins-471435069",
+        "snippet": "3580 Stanford Rd. Fort Collins, CO 80525 +1 (970) 204-0084. Village Cooperative of Fort Collins is a senior living community in Fort Collins, CO that offers cooperative housing for active adults aged 62 and older.",
+        "dateLastCrawled": "2024-11-02T06:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Village Cooperative of Fort Collins - 1 Review - Birdeye",
+        "url": "https://reviews.birdeye.com/village-cooperative-of-fort-collins-173507711079618",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://reviews.birdeye.com/village-cooperative-of-fort-collins-173507711079618",
+        "snippet": "Read 1 customer reviews of Village Cooperative of Fort Collins, one of the best Homeowner Association businesses at 3580 Stanford Rd, Fort Collins, CO 80525, Fort Collins, CO 80525 United States. Find reviews, ratings, directions, business hours, and book appointments online.",
+        "dateLastCrawled": "2025-05-28T14:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Birdeye"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "VILLAGE COOPERATIVE OF FORT COLLINS in Fort Collins, CO - Bizapedia",
+        "url": "https://www.bizapedia.com/co/village-cooperative-of-fort-collins.html",
+        "datePublished": "2025-05-11T00:00:00.0000000",
+        "datePublishedDisplayText": "May 11, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/co/village-cooperative-of-fort-collins.html",
+        "snippet": "The Registered Agent on file for this company is Village Cooperative Of Fort Collins and is located at 3580 Stanford Rd, Fort Collins, CO 80525. The company's principal address is 3580 Stanford Road, Fort Collins, CO 80525 and its mailing address is 1303 Corporate Center Dr Ste 400, Saint Paul, MN 55121.",
+        "dateLastCrawled": "2025-05-19T18:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Village Cooperative of Fort Collins - Fort Collins, CO 80525",
+        "url": "https://www.yellowpages.com/fort-collins-co/mip/village-cooperative-of-fort-collins-560487592",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yellowpages.com/fort-collins-co/mip/village-cooperative-of-fort-collins...",
+        "snippet": "Address: 3580 Stanford Rd, Fort Collins, CO 80525. People Also Viewed. Whispering Pines Apartments (1) 515 E Drake Rd, Fort Collins, CO 80525. Oakbrook I Senior Citizens. 3200 Stanford Rd, Fort Collins, CO 80525. Governor's Park (2) 700 E Drake Rd, Fort Collins, CO 80525. Peak Property Management (2)",
+        "dateLastCrawled": "2024-10-19T10:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Yellow Pages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3580 Stanford Rd Unit 307, Fort Collins, CO 80525 - OpenGovCO",
+        "url": "https://opengovco.com/business/20001133421",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20001133421",
+        "snippet": "QMM FINANCIAL, INC (Entity #20001133421) is a Corporation in Fort Collins, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on July 7, 2000 in the jurisdiction of Colorado. The registered office location is at 3580 Stanford Rd Unit 307, Fort Collins, CO 80525. The current entity status is good standing.",
+        "dateLastCrawled": "2024-03-26T13:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3400 Stanford Rd UNIT A112, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3400-Stanford-Rd-UNIT-A112-Fort-Collins-CO-80525/13915880_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3400-Stanford-Rd-UNIT-A112-Fort-Collins-CO-80525/...",
+        "snippet": "3400 Stanford Rd Unit A112, Fort Collins CO, is a Townhouse home that contains 618 sq ft and was built in 1978.It contains 1 bedroom and 1 bathroom.This home last sold for $248,000 in April 2024. The Zestimate for this Townhouse is $250,000, which has increased by $571 in the last 30 days.The Rent Zestimate for this Townhouse is $1,492/mo, which has increased by $1,492/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-21T15:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

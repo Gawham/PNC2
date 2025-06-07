@@ -1,0 +1,698 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1314 Marquette Ave, Unit 2305, Minneapolis MN 55403"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1314+Marquette+Ave%2c+Unit+2305%2c+Minneapolis+MN+55403",
+    "totalEstimatedMatches": 411000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Marquette Place Luxury Apartments for Rent Minneapolis MN",
+        "url": "https://www.marquetteplace.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.marquetteplace.com",
+        "snippet": "1314 Marquette Ave, Minneapolis, MN 55403 (612) 339-9600. leasing@marquetteplace.com fineassociates.com. Marquette Place Luxury Apartments is an Equal Housing Opportunity property. We do not make or intend to make any preference, limitation or discrimination because of race, color, religion, sex, handicap, family status, or national origin. If ...",
+        "deepLinks": [
+          {
+            "name": "Luxury Urban Homes",
+            "url": "https://www.marquetteplace.com/the-building",
+            "snippet": "Luxury Urban Homes - Marquette Place Luxury Apartments for Rent Minneapolis MN"
+          },
+          {
+            "name": "Amenities & Services",
+            "url": "https://www.marquetteplace.com/amenities",
+            "snippet": "Amenities & Services - Marquette Place Luxury Apartments for Rent Minneapolis MN",
+            "deepLinks": [
+              {
+                "name": "Health & Wellness Facilities",
+                "url": "https://www.marquetteplace.com/amenities/health-wellness"
+              },
+              {
+                "name": "All About Your Comfort",
+                "url": "https://www.marquetteplace.com/amenities/comfort"
+              }
+            ]
+          },
+          {
+            "name": "Floor Plans",
+            "url": "https://www.marquetteplace.com/floor-plans",
+            "snippet": "Floor Plans - Marquette Place Luxury Apartments for Rent Minneapolis MN",
+            "deepLinks": [
+              {
+                "name": "Two Bedroom",
+                "url": "https://www.marquetteplace.com/floor-plans/two-bedroom"
+              },
+              {
+                "name": "One Bedroom",
+                "url": "https://www.marquetteplace.com/floor-plans/one-bedroom"
+              }
+            ]
+          },
+          {
+            "name": "For Pet Lovers",
+            "url": "https://www.marquetteplace.com/pets",
+            "snippet": "For Pet Lovers - Marquette Place Luxury Apartments for Rent Minneapolis MN"
+          },
+          {
+            "name": "The Location",
+            "url": "https://www.marquetteplace.com/neighborhood",
+            "snippet": "The Location - Marquette Place Luxury Apartments for Rent Minneapolis MN",
+            "deepLinks": [
+              {
+                "name": "A Cultural Metropolis",
+                "url": "https://www.marquetteplace.com/neighborhood/culture"
+              },
+              {
+                "name": "Easy Connectivity to Twin Cities",
+                "url": "https://www.marquetteplace.com/neighborhood/transportation"
+              },
+              {
+                "name": "Outdoor & Sporting Venues",
+                "url": "https://www.marquetteplace.com/neighborhood/outdoors"
+              }
+            ]
+          },
+          {
+            "name": "Photos",
+            "url": "https://www.marquetteplace.com/photos",
+            "snippet": "Photos - Marquette Place Luxury Apartments for Rent Minneapolis MN",
+            "deepLinks": [
+              {
+                "name": "Residences Gallery",
+                "url": "https://www.marquetteplace.com/photos/residencesgallery"
+              },
+              {
+                "name": "Views Gallery",
+                "url": "https://www.marquetteplace.com/photos/viewsgallery"
+              },
+              {
+                "name": "The Building Gallery",
+                "url": "https://www.marquetteplace.com/photos/thebuildinggallery"
+              }
+            ]
+          },
+          {
+            "name": "Contact",
+            "url": "https://www.marquetteplace.com/contact",
+            "snippet": "Contact - Marquette Place Luxury Apartments for Rent Minneapolis MN"
+          },
+          {
+            "name": "A Priviledged Place",
+            "url": "https://www.marquetteplace.com/the-building/luxury-apartments-minneapolis-mn",
+            "snippet": "A Priviledged Place - Marquette Place Luxury Apartments for Rent Minneapolis MN"
+          },
+          {
+            "name": "The Building",
+            "url": "https://www.marquetteplace.com/the-building/marquette-place-minneapolis-mn",
+            "snippet": "The Building - Marquette Place Luxury Apartments for Rent Minneapolis MN"
+          },
+          {
+            "name": "24/7 Concierge",
+            "url": "https://www.marquetteplace.com/amenities/24-7-concierge",
+            "snippet": "24/7 Concierge - Marquette Place Luxury Apartments for Rent Minneapolis MN"
+          }
+        ],
+        "dateLastCrawled": "2025-06-05T12:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Marquette Place"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1314 Marquette Ave Minneapolis, MN 55403 - Apartments.com",
+        "url": "https://www.apartments.com/marquette-place-minneapolis-mn/9tyd9v4/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.AiYA7KoxtLDB4tm0K-PgDgHaF4&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.9,
+              "bestRating": 5,
+              "reviewCount": 8
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/marquette-place-minneapolis-mn/9tyd9v4",
+        "snippet": "See all available apartments for rent at Marquette Place in Minneapolis, MN. Marquette Place has rental units ranging from 753-2572 sq ft starting at $1619. Map. ... , MN 55403. 1-2 Br $1,331-$2,397 0.2 mi. Five15 on the Park. 515 15th Ave S. Minneapolis ... 1314 Marquette Ave. Minneapolis, MN 55403. Email Copy Link.",
+        "dateLastCrawled": "2025-06-04T13:14:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.AiYA7KoxtLDB4tm0K-PgDgHaF4&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 376,
+          "imageId": "OIP.AiYA7KoxtLDB4tm0K-PgDgHaF4"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1314 Marquette Ave, Minneapolis, 55403, MN"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(612) 255-1574"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,619 - $5,341"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Marquette Place - 1314 Marquette Ave Minneapolis MN | Zillow",
+        "url": "https://www.zillow.com/apartments/minneapolis-mn/marquette-place/5XnfsR/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.DV1_yyEn29AUgErDDcQEFgAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/apartments/minneapolis-mn/marquette-place/5XnfsR",
+        "snippet": "Marquette Place apartment community at 1314 Marquette Ave Minneapolis MN, offers units from - sqft, a Pet-friendly, In-unit dryer, and In-unit washer. ... 1314 Marquette Ave, Minneapolis, MN 55403. ... Marquette Place has in-unit laundry for some or all of the units.",
+        "dateLastCrawled": "2025-06-04T03:13:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.DV1_yyEn29AUgErDDcQEFgAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 384,
+          "sourceHeight": 288,
+          "imageId": "OIP.DV1_yyEn29AUgErDDcQEFgAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1314 Marquette Ave, Minneapolis, 55403, MN"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(612) 255-9420"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,619 - $5,341"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Marquette Place Luxury Apartments - 1314 S Marquette Ave, Minneapolis ...",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1314-Marquette-Ave_Minneapolis_MN_55403_M82520-03269",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1314-Marquette-Ave_Minneapolis_MN_55403_M82520-03269",
+        "snippet": "Learn more about Marquette Place Luxury Apartments located at 1314 S Marquette Ave, Minneapolis, MN 55403. This apartment lists for $1570-$1900/mo, and includes 1-2 beds, 1-2 baths, and 753-1286 ...",
+        "dateLastCrawled": "2024-03-02T22:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1314 Marquette Ave Minneapolis MN 55403 - Apartment Finder",
+        "url": "https://www.apartmentfinder.com/Minnesota/Minneapolis-Apartments/Marquette-Place-Apartments",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.gYkmvR5f_C4PmfQZlUsmyAHaF4&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentfinder.com/Minnesota/Minneapolis-Apartments/Marquette-Place...",
+        "snippet": "Located in the heart of the city, Marquette Place features the area\u2019s most unique living experience! Conveniently connected to the Minneapolis Skyway, Marquette Place will treat you to a first-class location, unsurpassed community amenities, and an impressive array of resident services. We offer a private, heated parking garage with car wash, spectacular 35th floor party rooms and sun deck ...",
+        "dateLastCrawled": "2025-06-04T06:24:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.gYkmvR5f_C4PmfQZlUsmyAHaF4&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 376,
+          "imageId": "OIP.gYkmvR5f_C4PmfQZlUsmyAHaF4"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1314 Marquette Ave, Minneapolis, 55403, MN"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(763) 363-7229"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,619 - $5,341"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-15T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartment Finder"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Marquette Place Luxury Apartments Minneapolis, MN | Rentable",
+        "url": "https://www.rentable.co/minneapolis-mn/marquette-place-luxury-apartments",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.sFNf59hIbdoKluIPN2HxZQHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentable.co/minneapolis-mn/marquette-place-luxury-apartments",
+        "snippet": "1314 S Marquette Ave, Minneapolis, MN 55403. Rent price: $1,570 - $2,776 / month, 1 - 2 bedroom floor plans, 5 available units, pet friendly, 30 photos. ... From furnished apartments to covered parking and in-unit laundry facilities, convenience is at the forefront. Enjoy the outdoor living spaces offered by balconies, decks, and patios, or ...",
+        "dateLastCrawled": "2025-05-29T02:31:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.sFNf59hIbdoKluIPN2HxZQHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.sFNf59hIbdoKluIPN2HxZQHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rentable"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1314 Marquette Ave, Minneapolis, MN 55403 - Redfin",
+        "url": "https://www.redfin.com/MN/Minneapolis/Marquette-Place/apartment/51463635",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/MN/Minneapolis/Marquette-Place/apartment/51463635",
+        "snippet": "See photos, floor plans and more details about Marquette Place at 1314 Marquette Ave, Minneapolis, MN 55403. Search. Sign in. Open app. Feed. Favorites & comments. Saved searches. My homes. My Redfin agent. Appointments. Open house schedule ... 2922 Aldrich Ave S Unit 533, Minneapolis, MN 55408",
+        "dateLastCrawled": "2025-04-22T17:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Marquette Place Luxury Apartments - Temporary Furnished Housing ...",
+        "url": "https://chs-us.com/communities/marquette-place-luxury-apartments/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.rUTMaJZa8AlMR71QEj32LgHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://chs-us.com/communities/marquette-place-luxury-apartments",
+        "snippet": "Temporary Furnished Housing, Residential Property & Real Estate Marquette Place Luxury Apartments A residential tower of legendary luxury, surrounded by well-tended pocket gardens, Marquette Place offers a carefree urban lifestyle in the heart of downtown Minneapolis. You will find apartment homes of uncompromising quality\u2014and a host of services and amenities\u2014for a life of comfort, style ...",
+        "dateLastCrawled": "2025-06-03T16:42:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.rUTMaJZa8AlMR71QEj32LgHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.rUTMaJZa8AlMR71QEj32LgHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "CHS"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Floor Plans - Marquette Place",
+        "url": "https://www.marquetteplace.com/floor-plans",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.-dAGX-SAZt17sSEB08z8ZwHaGE&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.marquetteplace.com/floor-plans",
+        "snippet": "Marquette place offers luxury one and two bedroom apartments, three and four bedroom penthouses in Downtown Minneapolis. 1314 Marquette Ave, Minneapolis MN. 612.339.9600. Menu. Luxury Urban Homes ... 1314 Marquette Ave, Minneapolis, MN 55403 (612) 339-9600. leasing@marquetteplace.com",
+        "dateLastCrawled": "2025-05-30T23:37:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.-dAGX-SAZt17sSEB08z8ZwHaGE&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 388,
+          "imageId": "OIP.-dAGX-SAZt17sSEB08z8ZwHaGE"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Marquette Place"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Marquette Place Apartments - Minneapolis, Minnesota - 7 units available ...",
+        "url": "https://www.corporatehousing.com/mn/minneapolis/marquette-place/wtydfvh",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.corporatehousing.com/mn/minneapolis/marquette-place/wtydfvh",
+        "snippet": "Storage Unit . Refundable deposit. $75/mo. $0. Property Highlights. Personalized Concierge Services ; Downtown Mpls Views ; ... 1314 Marquette Ave, Minneapolis, MN 55403 . Phone Number: (612) 255-1574 . More Information: View Property Website . Office Hours. Sunday 11:00 AM - 5:00 PM; Monday 10:00 AM - 6:00 PM;",
+        "dateLastCrawled": "2025-03-11T02:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "CorporateHousing.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1314 Marquette Ave, Minneapolis, MN - Homes.com",
+        "url": "https://www.homes.com/property/marquette-place-minneapolis-mn/yd1bfgbvhfz6e/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/marquette-place-minneapolis-mn/yd1bfgbvhfz6e",
+        "snippet": "This apartment is located at 1314 Marquette Ave, Minneapolis, MN 55403 and is currently priced between $1,619-$5,341. This property was built in 1985. 1314 Marquette Ave is a home located in Hennepin County with nearby schools including Kenwood Elementary School, Anwatin Middle School, and North Community High School.",
+        "dateLastCrawled": "2025-06-01T08:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1314 Marquette Ave # Plan B, Minneapolis, MN 55403 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1314-Marquette-Ave-1441532-Minneapolis-MN-55403/2105544001_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1314-Marquette-Ave-1441532-Minneapolis-MN-55403/...",
+        "snippet": "1314 Marquette Ave #1441532, Minneapolis, MN 55403 is an apartment unit listed for rent at $1,884 /mo. The 1,229 Square Feet unit is a 2 beds, 2 baths apartment unit. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-19T01:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Marquette Place Luxury Apartments in Minneapolis, MN 55403 - (612) 3...",
+        "url": "https://www.chamberofcommerce.com/united-states/minnesota/minneapolis/apartment-building/1329264292-marquette-place-luxury-apartments",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chamberofcommerce.com/united-states/minnesota/minneapolis/apartment...",
+        "snippet": "Marquette Place Luxury Apartments. Marquette Place Luxury Apartments is located at 1314 S Marquette Ave in Minneapolis, Minnesota 55403. Marquette Place Luxury Apartments can be contacted via phone at (612) 339-9600 for pricing, hours and directions.",
+        "dateLastCrawled": "2025-03-05T04:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Chamber of Commerce"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Marquette Place Minneapolis MN",
+        "url": "https://www.marquetteplace.com/the-building",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.marquetteplace.com/the-building",
+        "snippet": "Marquette place offers luxury one and two bedroom apartments, three and four bedroom penthouses in Downtown Minneapolis. 1314 Marquette Ave, Minneapolis MN . 612.339.9600. Menu ... 1314 Marquette Ave, Minneapolis, MN 55403 (612) 339-9600. leasing@marquetteplace.com fineassociates.com.",
+        "dateLastCrawled": "2025-05-30T13:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Marquette Place"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Luxury Apartments Downtown Minneapolis MN",
+        "url": "https://www.marquetteplace.com/neighborhood",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.marquetteplace.com/neighborhood",
+        "snippet": "1314 Marquette Ave, Minneapolis, MN 55403 (612) 339-9600. leasing@marquetteplace.com fineassociates.com. Marquette Place Luxury Apartments is an Equal Housing Opportunity property. We do not make or intend to make any preference, limitation or discrimination because of race, color, religion, sex, handicap, family status, or national origin. If ...",
+        "dateLastCrawled": "2025-06-05T04:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Marquette Place"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1314 Marquette Ave APT 705, Minneapolis, MN 55403 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1314-Marquette-Ave-APT-705-Minneapolis-MN-55403/2084477476_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1314-Marquette-Ave-APT-705-Minneapolis-MN-55403/...",
+        "snippet": "1314 Marquette Ave Apt 705, Minneapolis MN, is a Apartment home that contains 1204 sq ft.It contains 2 bedrooms and 2 bathrooms. The Rent Zestimate for this Apartment is $2,423/mo, which has increased by $2,423/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-28T13:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1314 Marquette Ave, Minneapolis, MN 55403 | Redfin",
+        "url": "https://www.redfin.com/MN/Minneapolis/1314-Marquette-Ave-55403/home/51463635",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/MN/Minneapolis/1314-Marquette-Ave-55403/home/51463635",
+        "snippet": "364288 sq. ft. multi-family (5+ unit) located at 1314 Marquette Ave, Minneapolis, MN 55403. View sales history, tax history, home value estimates, and overhead views. APN 27 029 24 13 0075.",
+        "dateLastCrawled": "2025-05-31T07:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Luxury Apartments Minneapolis MN - Marquette Place",
+        "url": "https://www.marquetteplace.com/the-building/luxury-apartments-minneapolis-mn",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.marquetteplace.com/the-building/luxury-apartments-minneapolis-mn",
+        "snippet": "Marquette place offers luxury one and two bedroom apartments, three and four bedroom penthouses in Downtown Minneapolis. 1314 Marquette Ave, Minneapolis MN . 612.339.9600. Menu ... 1314 Marquette Ave, Minneapolis, MN 55403 (612) 339-9600. leasing@marquetteplace.com fineassociates.com.",
+        "dateLastCrawled": "2025-06-04T05:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Marquette Place"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Two Bedroom Apartments Minneapolis MN - Marquette Place",
+        "url": "https://www.marquetteplace.com/floor-plans/two-bedroom",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.marquetteplace.com/floor-plans/two-bedroom",
+        "snippet": "Marquette place offers luxury one and two bedroom apartments, three and four bedroom penthouses in Downtown Minneapolis. 1314 Marquette Ave, Minneapolis MN. 612.339.9600. Menu. Luxury Urban Homes ... 1314 Marquette Ave, Minneapolis, MN 55403 (612) 339-9600. leasing@marquetteplace.com",
+        "dateLastCrawled": "2025-06-04T04:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Marquette Place"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

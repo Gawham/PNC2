@@ -1,0 +1,511 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 269, Canon City CO 81215"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+269%2c+Canon+City+CO+81215",
+    "totalEstimatedMatches": 2380000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Four Mile Correctional Facility - Colorado Department of Corrections",
+        "url": "https://cdoc.colorado.gov/facilities/canon-city/four-mile-correctional-facility",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdoc.colorado.gov/facilities/canon-city/four-mile-correctional-facility",
+        "snippet": "The mailing address is Canon Minimum Centers, Attn: Warden, PO Box 300, Canon City, CO 81215. Visitors may also call (719) 269-5603 for an email address. Visiting Room Vending Machines. Beginning Friday, December 9, 2022, Canon Minimum Centers will transition from using canteen cards to debit/credit cards in all visiting room vending machines.",
+        "deepLinks": [
+          {
+            "name": "Fremont Correctional Facility",
+            "url": "https://cdoc.colorado.gov/facilities/canon-city/fremont-correctional-facility",
+            "snippet": "Canon City, CO. 81215-0999 Switchboard - 719-269-5002 . Visiting Days and Hours . Effective May 1 - June 2, 2023, Fremont Correctional Facility visiting will be temporarily suspended due to an ongoing facility improvement project. ... P.O. Box 999. Canon City, Co. 81215 . Directions to the Facility. East Hwy 50 and Evans Ave. Canon City, CO ..."
+          }
+        ],
+        "dateLastCrawled": "2025-06-05T00:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Department of Corrections"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "CDOC-Centennial Correctional Facility (CCF) - InmateAid",
+        "url": "https://www.inmateaid.com/prisons/cdoc-centennial-correctional-facility-ccf",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.QQXEliInSYA66701I-_sPAHaEv&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.inmateaid.com/prisons/cdoc-centennial-correctional-facility-ccf",
+        "snippet": "Find your inmate at CCF - 719-269-5510 for visiting hours. Get phone discounts, send magazines, selfies. ... PO Box 600; Canon City, CO 81215; Or emailed to: doc_ccf_visiting@state.co.us. For video visits: Once the visitor application has been approved through CCF Visiting, ...",
+        "dateLastCrawled": "2025-06-04T07:07:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.QQXEliInSYA66701I-_sPAHaEv&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 303,
+          "imageId": "OIP.QQXEliInSYA66701I-_sPAHaEv"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "600 Evans Rd, Canon City, CO 81215"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(719) 269-5510"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "InmateAid"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Colorado Territorial Correctional Facility (CTCF) - Inmate Lookup",
+        "url": "https://inmate-lookup.org/colorado/state-prison/colorado-territorial-correctional-facility-ctcf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://inmate-lookup.org/colorado/state-prison/colorado-territorial-correctional...",
+        "snippet": "You can send any mail to the inmates who are imprisoned in Colorado Territorial Correctional Facility - (CTCF). Please send the mail or package to the address mentioned below. Inmate Name, Inmate ID, 275 West Highway 50, Canon City, CO, 81215. Please make sure the mail or package that you are sending comes under the list of approved items.",
+        "dateLastCrawled": "2025-06-01T15:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Centennial Correctional Facility, CO Inmate Roster - Prisonroster",
+        "url": "https://prisonroster.com/prisons/colorado/state/centennial-correctional-facility/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.pXc2zXdeyHVPJpHOhOtTogAAAA&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-04-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 12, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://prisonroster.com/prisons/colorado/state/centennial-correctional-facility",
+        "snippet": "Centennial Correctional Facility is in Canon City, Colorado. The physical address of the jail is E US Highway 50 & Evans Boulevard, Canon City, CO 81215. You can reach the jail by phone at (719) 269-4810 or by fax at (719) 269-5545. This is the best way to get ahold of the prison staff with any potential questions that you may have.",
+        "dateLastCrawled": "2025-06-04T20:37:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.pXc2zXdeyHVPJpHOhOtTogAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 300,
+          "sourceHeight": 225,
+          "imageId": "OIP.pXc2zXdeyHVPJpHOhOtTogAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Prisonroster"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Four Mile Correctional Center: A Comprehensive Overview of Colorado's ...",
+        "url": "https://theprisondirect.com/four-mile-correctional-center/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.nS2wUSwgCObZnBbg0A5YmwHaEK&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2023-04-06T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 6, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://theprisondirect.com/four-mile-correctional-center",
+        "snippet": "Ca\u00f1on City, CO, 81212; Telephone: (719) 269-5601; Inmate Mailing Address: Inmate Name, ID Number; Four Mile Correctional Center; PO Box 300; Ca\u00f1on City, CO 81215; See also Fort Lyon Correctional Facility. H1: History of Four Mile Correctional Center.",
+        "dateLastCrawled": "2025-06-06T09:34:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.nS2wUSwgCObZnBbg0A5YmwHaEK&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 266,
+          "imageId": "OIP.nS2wUSwgCObZnBbg0A5YmwHaEK"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Fremont Correctional Facility - Colorado Department of Corrections",
+        "url": "https://cdoc.colorado.gov/facilities/canon-city/fremont-correctional-facility",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.em8jFR4yHRgCbYdV8z-URwHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdoc.colorado.gov/facilities/canon-city/fremont-correctional-facility",
+        "snippet": "Canon City, CO. 81215-0999 Switchboard - 719-269-5002 . Visiting Days and Hours . Effective May 1 - June 2, 2023, Fremont Correctional Facility visiting will be temporarily suspended due to an ongoing facility improvement project. ... P.O. Box 999. Canon City, Co. 81215 . Directions to the Facility. East Hwy 50 and Evans Ave. Canon City, CO ...",
+        "dateLastCrawled": "2025-06-05T04:04:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.em8jFR4yHRgCbYdV8z-URwHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.em8jFR4yHRgCbYdV8z-URwHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Point of Contact - cdpsdocs.state.co.us",
+        "url": "https://cdpsdocs.state.co.us/SOMB/RESOURCES/PointofContactspreadsheet.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdpsdocs.state.co.us/SOMB/RESOURCES/PointofContactspreadsheet.pdf",
+        "snippet": "Canon City, CO 81215 (719) 269-5071 Molly.Carpenter@State.Co.Us Rusty Lander Department of Corrections Colorado Territorial Correctional Facility P. O. Box 1010 Canon City, CO 81215 (719) 269-4099 Dana. Krakow@State.Co. Us Dana Krakow, SW/MH Counselor ... Davilyn.Valdez@Judicial.State.Co.U s Davilyn Valdez, Supervisor and PO for sex offenders ...",
+        "dateLastCrawled": "2025-06-04T03:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Centennial Correctional Facility - Colorado State Prisons",
+        "url": "https://jailaid.com/state/centennial-correctional-facility/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://jailaid.com/state/centennial-correctional-facility",
+        "snippet": "The Centennial Correctional Facility (CCF) in Ca\u00f1on City, Colorado, opened its doors in 1980 as the state\u2019s first maximum security prison. Initially serving this role until 1993, it was reclassified as a Level V maximum security facility in 2010, reflecting its commitment to housing high-custody offenders under strict security measures.",
+        "dateLastCrawled": "2025-05-09T02:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "CDOC-Four Mile Correctional Center (FMCC) - InmateAid",
+        "url": "https://www.inmateaid.com/prisons/cdoc-four-mile-correctional-center-fmcc",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.LwoWDxFTWmGyCXqejoQSMQHaEs&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.inmateaid.com/prisons/cdoc-four-mile-correctional-center-fmcc",
+        "snippet": "Find your inmate at FMCC - 719-269-5601 for visiting hours. Get phone discounts, send magazines, selfies ... PO Box 300, Ca\u00f1on City, CO 81215-3000. View Official Website. Thank you for trying AMP! You got lucky! We have no ad to show to you! ... Evans Rd in Ca\u00f1on City, CO, ...",
+        "dateLastCrawled": "2025-05-30T04:40:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.LwoWDxFTWmGyCXqejoQSMQHaEs&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 300,
+          "imageId": "OIP.LwoWDxFTWmGyCXqejoQSMQHaEs"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "InmateAid"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Colorado Territorial Correctional Facility",
+        "url": "https://cdoc.colorado.gov/facilities/canon-city/colorado-territorial-correctional-facility",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.jmgJFa3WdRMxfmkGOwpY-QHaEG&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdoc.colorado.gov/facilities/canon-city/colorado-territorial-correctional-facility",
+        "snippet": "PO BOX 1010 Canon City, CO. 81215-1010. Switchboard - 719-275-4181. Visiting Days and Hours ... 269-4226 or by email at doc_ctcf_visiting@state.co.us. and will be processed between the hours of 8:30 a.m. and 3:30 p.m. Monday through Thursday, no more than seven (7) days in advance.",
+        "dateLastCrawled": "2025-06-05T23:13:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.jmgJFa3WdRMxfmkGOwpY-QHaEG&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 262,
+          "imageId": "OIP.jmgJFa3WdRMxfmkGOwpY-QHaEG"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Centennial Correctional Facility (CCF) - Inmate Lookup",
+        "url": "https://inmate-lookup.org/colorado/state-prison/centennial-correctional-facility-ccf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://inmate-lookup.org/colorado/state-prison/centennial-correctional-facility-ccf",
+        "snippet": "Address: 6201 East US Highway 50, Ca\u00f1on City, CO 81215 Phone: (719) 269-4100 Website: https: ... Mail: Send money orders to JPay, PO Box 173070, Hialeah, FL 33017; Phone Calls and Video Options. ... East US Highway 50 Evans Blvd, Canon City, CO, 81215.",
+        "dateLastCrawled": "2025-06-04T03:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "RESTORE - Colorado Department of Corrections",
+        "url": "https://cdoc.colorado.gov/parole-and-re-entry-services/transition-planning/restore",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdoc.colorado.gov/parole-and-re-entry-services/transition-planning/restore",
+        "snippet": "E US Highway 50 Evans Blvd, Ca\u00f1on City, CO 81215. Mailing Address: PO Box 600 Ca\u00f1on City, CO 81215. Phone: (719) 269-4810 | Fax: (719) 269-5545. Colorado State Penitentiary (CSP) Josh Curliss, Release Case Manager - Josh.Curliss@state.co.us (Region II) E US Highway 50 Evans Blvd, Ca\u00f1on City, CO 81215. Mailing Address: PO Box 777 Ca\u00f1on City ...",
+        "dateLastCrawled": "2025-06-05T07:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "CDOC-Colorado Territorial Correctional Facility (CTCF) - InmateAid",
+        "url": "https://www.inmateaid.com/prisons/cdoc-colorado-territorial-correctional-facility-ctcf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.inmateaid.com/prisons/cdoc-colorado-territorial-correctional-facility-ctcf",
+        "snippet": "PO Box 1010, Canon City, CO 81215-1010. View Official Website. Thank you for trying AMP! ... 269-4226 or by email at doc_ctcf_visiting@state.co.us and will be processed between the hours of 8:30 a.m. and 3:30 p.m. Monday through Thursday, no more than seven (7) days in advance. Visiting Applications can be found HERE.",
+        "dateLastCrawled": "2025-06-01T21:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "InmateAid"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Centennial Correctional Facility - Colorado Department of Corrections",
+        "url": "https://cdoc.colorado.gov/facilities/canon-city/centennial-correctional-facility",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdoc.colorado.gov/facilities/canon-city/centennial-correctional-facility",
+        "snippet": "PO Box 600. Canon City, CO 81215 . Or emailed in to: doc_ccf_visiting@state.co.us. Visiting appointment requests may be directed to doc_ccf_visiting ... such decisions may be appealed to the facilities administrative head. Please call 719-269-5572 / or email doc_ccf_visiting@state.co.us . Directions to the Facility. East Hwy 50 and Evans Ave ...",
+        "dateLastCrawled": "2025-06-04T22:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Arrowhead Correctional Center - Colorado Department of Corrections",
+        "url": "https://cdoc.colorado.gov/facilities/canon-city/arrowhead-correctional-center",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdoc.colorado.gov/facilities/canon-city/arrowhead-correctional-center",
+        "snippet": "The mailing address is Canon Minimum Centers, Attn: Warden, PO Box 300, Canon City, CO 81215. Visitors may also call (719) 269-5603 for an email address. Visiting Room Vending Machines. Beginning Friday, December 9, 2022, Canon Minimum Centers will transition from using canteen cards to debit/credit cards in all visiting room vending machines.",
+        "dateLastCrawled": "2025-06-03T19:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Colorado State Penitentiary - Colorado Department of Corrections",
+        "url": "https://cdoc.colorado.gov/facilities/canon-city/colorado-state-penitentiary",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cdoc.colorado.gov/facilities/canon-city/colorado-state-penitentiary",
+        "snippet": "PO BOX 777 Canon City, CO. 81215-0777. Front Lobby - 719-269-5120. Visiting Days and Hours . Please contact CSP Visiting with any questions or to schedule visits at doc_csp_visiting@state.co.us or 719-269-5252. Please view the current schedule. Visiting Appointments.",
+        "dateLastCrawled": "2025-06-04T02:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Fremont Correctional Facility: A Look Inside Colorado\u2019s Prison System",
+        "url": "https://theprisondirect.com/fremont-correctional-facility/",
+        "datePublished": "2023-04-06T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 6, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://theprisondirect.com/fremont-correctional-facility",
+        "snippet": "Fremont Correctional Facility E. US Highway 50 & Evans Blvd Ca\u00f1on City, CO, 81212 ... 269-5002. Inmate Mailing Address: Inmate Name, ID Number Fremont Correctional Facility P.O. Box 999 Ca\u00f1on City, CO, 81215. History of Fremont Correctional Facility. FCF was opened in 1992, with the goal of providing a secure and humane environment for ...",
+        "dateLastCrawled": "2025-05-30T11:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Contacting Colorado State Penitentiary - Department Of Corrections",
+        "url": "https://department-of-corrections.org/contacting-colorado-state-penitentiary/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://department-of-corrections.org/contacting-colorado-state-penitentiary",
+        "snippet": "Phone: 719-269-5120 Fax: 719-269-5125 Email: Inmate Mailing Address: PO Box 777 Canon City, CO 81215. Address: Colorado State Penitentiary East US Hwy 50 Evans Blvd Canon City, CO 81215. Security Level: Maximum Capacity: 756. Map Location: Find Department Of Corrections Locations",
+        "dateLastCrawled": "2025-05-28T03:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections Info"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Contacting Colorado Territorial Correctional Facility - Department Of ...",
+        "url": "https://department-of-corrections.org/contacting-colorado-territorial-correctional-facility/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://department-of-corrections.org/contacting-colorado-territorial-correctional...",
+        "snippet": "Fax: 719-269-4168 Email: Inmate Mailing Address: PO Box 1010 Canon City, CO 81215. Address: Colorado Territorial Correctional Facility 275 West Hwy 50 Canon City, CO 81215. Security Level: Medium Capacity: 936. Map Location: Find Department Of Corrections Locations",
+        "dateLastCrawled": "2025-01-31T02:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections Info"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Contacting Fremont Correctional Facility - Department Of Corrections",
+        "url": "https://department-of-corrections.org/contacting-fremont-correctional-facility/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://department-of-corrections.org/contacting-fremont-correctional-facility",
+        "snippet": "Fax: 719-269-5020 Email: doc_fcf_visiting@state.co.us. Inmate Mailing Address: PO Box 999 Canon City, CO 81215. Address: Fremont Correctional Facility East US Hwy 50 Evans Blvd Canon City, CO 81215. Security Level: Medium Capacity: 1661. Map Location: Find Department Of Corrections Locations",
+        "dateLastCrawled": "2025-02-14T19:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Department of Corrections Info"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -57,10 +57,10 @@ def main():
         colorado_rows = 0
         for row in reader:
             total_rows += 1
-            if row['State Code'] == 'CO' and row['representative_address']:
+            if row['deceased_state'] == 'CO' and row['deceased_address']:
                 colorado_rows += 1
-                if 'PNC Notice ID' not in row or row['PNC Notice ID'] not in processed_ids:
-                    addresses.append((row, row['representative_address']))
+                if 'notice_id' not in row or row['notice_id'] not in processed_ids:
+                    addresses.append((row, row['deceased_address']))
         
         print(f"Total rows in CSV: {total_rows}")
         print(f"Colorado addresses found: {colorado_rows}")

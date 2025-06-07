@@ -1,0 +1,452 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "40428 Boulder Canyon Dr, Boulder CO 80302"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=40428+Boulder+Canyon+Dr%2c+Boulder+CO+80302",
+    "totalEstimatedMatches": 74,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "40428 Boulder Canyon Dr, Boulder, CO 80302 | Zillow",
+        "url": "https://www.zillow.com/homedetails/40428-Boulder-Canyon-Dr-Boulder-CO-80302/13196487_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/40428-Boulder-Canyon-Dr-Boulder-CO-80302/13196487_zpid",
+        "snippet": "40428 Boulder Canyon Dr, Boulder CO, is a Vacant Land home that contains 2682 sq ft and was built in 2016.This home last sold for $765,000 in May 2015. The Rent Zestimate for this Vacant Land is $3,866/mo, which has increased by $3,866/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "40420 Boulder Canyon Dr, Boulder, CO 80302 | Zillow",
+            "url": "https://www.zillow.com/homedetails/40420-Boulder-Canyon-Dr-Boulder-CO-80302/13196319_zpid/",
+            "snippet": "40420 Boulder Canyon Dr, Boulder CO, is a Single Family home that contains 4253 sq ft and was built in 1976.It contains 5 bedrooms and 5 bathrooms.This home last sold for $3,230,000 in July 2018. The Zestimate for this Single Family is $4,073,700, which has increased by $90,755 in the last 30 days.The Rent Zestimate for this Single Family is $8,164/mo, which has increased by $8,164/mo in the ..."
+          }
+        ],
+        "dateLastCrawled": "2025-03-29T09:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "40428 Boulder Canyon Dr, Boulder, CO 80302 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/40428-Boulder-Canyon-Dr_Boulder_CO_80302_M16351-36946",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../40428-Boulder-Canyon-Dr_Boulder_CO_80302_M16351-36946",
+        "snippet": "View detailed information about property 40428 Boulder Canyon Dr, Boulder, CO 80302 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-02-07T18:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "40428 Boulder Canyon Dr, Boulder, CO 80302 | Redfin",
+        "url": "https://www.redfin.com/CO/Boulder/40428-Boulder-Canyon-Dr-80302/home/35212072",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Boulder/40428-Boulder-Canyon-Dr-80302/home/35212072",
+        "snippet": "Vacant land located at 40428 Boulder Canyon Dr, Boulder, CO 80302 sold for $765,000 on Apr 30, 2015. MLS# 705990. Exclusive private building lot, bordering Boulder Creek and Boulder Open Space. Jus...",
+        "dateLastCrawled": "2025-02-11T06:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Boulder Canyon Dr, Boulder, CO 80302 Property Records",
+        "url": "https://www.countyoffice.org/boulder-canyon-dr-boulder-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/boulder-canyon-dr-boulder-co-property-records",
+        "snippet": "Property reports for 51 properties on Boulder Canyon Dr in Boulder, CO 80302. Records indicate that Boulder Canyon Drive mainly consists of 1 to 7 bedrooms with 1 to 5 bathrooms. Street Highlights \ud83d\udcc5 Average Sale: $402,500 \ud83d\udcc8 Average Market Value: $769,600 \ud83d\udcb0 Average Tax Bill: $3,681",
+        "dateLastCrawled": "2024-09-18T03:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1946 Lefthand Canyon Dr, Boulder, CO 80302 - realestate.com.au",
+        "url": "https://www.realestate.com.au/international/us/1946-lefthand-canyon-dr-boulder-co-110099883068/",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realestate.com.au/international/us/1946-lefthand-canyon-dr-boulder-co...",
+        "snippet": "1946 Lefthand Canyon Dr, Boulder, CO 80302 Bring hiking shoes to hike the 1 mile groomed trail to the top of the property! A truly rare and extraordinary opportunity to own 35 acres of unspoiled Colorado wilderness just 1.9 miles from Hwy 36 with easy access to both Boulder (8 minutes) and Longmont (15 minutes).",
+        "dateLastCrawled": "2025-06-05T03:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "realestate.com.au"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "40420 Boulder Canyon Dr, Boulder, CO 80302 | Zillow",
+        "url": "https://www.zillow.com/homedetails/40420-Boulder-Canyon-Dr-Boulder-CO-80302/13196319_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.EpRP2NzSrbvcMMx8z66RZQHaE5&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/40420-Boulder-Canyon-Dr-Boulder-CO-80302/13196319_zpid",
+        "snippet": "40420 Boulder Canyon Dr, Boulder CO, is a Single Family home that contains 4253 sq ft and was built in 1976.It contains 5 bedrooms and 5 bathrooms.This home last sold for $3,230,000 in July 2018. The Zestimate for this Single Family is $4,073,700, which has increased by $90,755 in the last 30 days.The Rent Zestimate for this Single Family is $8,164/mo, which has increased by $8,164/mo in the ...",
+        "dateLastCrawled": "2025-04-11T06:25:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.EpRP2NzSrbvcMMx8z66RZQHaE5&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 313,
+          "imageId": "OIP.EpRP2NzSrbvcMMx8z66RZQHaE5"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "40420 Boulder Canyon Dr, Boulder, CO 80302 | Redfin",
+        "url": "https://www.redfin.com/CO/Boulder/40420-Boulder-Canyon-Dr-80302/home/35211166",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Boulder/40420-Boulder-Canyon-Dr-80302/home/35211166",
+        "snippet": "5 beds, 4.5 baths, 4253 sq. ft. house located at 40420 Boulder Canyon Dr, Boulder, CO 80302 sold for $3,230,000 on Jul 2, 2018. MLS# 845905. Absolutely magical setting! 600 feet of Boulder Creek wa...",
+        "dateLastCrawled": "2025-03-12T07:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "40420 Boulder Canyon Dr, Boulder, CO 80302 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/40420-Boulder-Canyon-Dr_Boulder_CO_80302_M26900-15021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../40420-Boulder-Canyon-Dr_Boulder_CO_80302_M26900-15021",
+        "snippet": "See sales history and home details for 40420 Boulder Canyon Dr, Boulder, CO 80302, a 5 bed, 2 bath, 4,253 Sq. Ft. single family home built in 1976 that was last sold on 07/02/2018.",
+        "dateLastCrawled": "2023-12-10T18:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "35412 Boulder Canyon Dr, Boulder, CO 80302 | Zillow",
+        "url": "https://www.zillow.com/homedetails/35412-Boulder-Canyon-Dr-Boulder-CO-80302/13194271_zpid/",
+        "datePublished": "2025-03-19T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 19, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/35412-Boulder-Canyon-Dr-Boulder-CO-80302/13194271_zpid",
+        "snippet": "35412 Boulder Canyon Dr, Boulder CO, is a Single Family home that contains 2000 sq ft.It contains 1 bedroom and 1 bathroom.This home last sold for $415,000 in August 2000. The Zestimate for this Single Family is $1,044,100, which has increased by $32,081 in the last 30 days.The Rent Zestimate for this Single Family is $1,722/mo, which has increased by $1,722/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-08T03:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "40440 Boulder Canyon Dr, Boulder, CO 80302 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/40440-Boulder-Canyon-Dr_Boulder_CO_80302_M94788-13398",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../40440-Boulder-Canyon-Dr_Boulder_CO_80302_M94788-13398",
+        "snippet": "View 40 photos for 40440 Boulder Canyon Dr, Boulder, CO 80302, a 2 bed, 2 bath, 1,488 Sq. Ft. single family home built in 1969 that was last sold on 05/11/2023.",
+        "dateLastCrawled": "2023-12-21T19:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "35106 Boulder Canyon Dr, Boulder, CO 80302 - realestate.com.au",
+        "url": "https://www.realestate.com.au/international/us/35106-boulder-canyon-dr-boulder-co-110099874097/",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realestate.com.au/international/us/35106-boulder-canyon-dr-boulder-co...",
+        "snippet": "35106 Boulder Canyon Dr, Boulder, CO 80302. Unveil an unparalleled lifestyle opportunity at 35106 Boulder Canyon Drive, a truly rare and captivating creekfront sanctuary nestled along the pristine banks of Boulder Creek. This exceptional estate spans a generous 1.44 acres across three distinct parcels, ensuring unparalleled privacy, vast open ...",
+        "dateLastCrawled": "2025-06-05T03:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "realestate.com.au"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "40440 Boulder Canyon Dr, Boulder, CO 80302 | Zillow",
+        "url": "https://www.zillow.com/homedetails/40440-Boulder-Canyon-Dr-Boulder-CO-80302/13196433_zpid/",
+        "datePublished": "2024-08-02T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 2, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/40440-Boulder-Canyon-Dr-Boulder-CO-80302/13196433_zpid",
+        "snippet": "40440 Boulder Canyon Dr, Boulder CO, is a Single Family home that contains 1488 sq ft and was built in 1969.It contains 2 bedrooms and 2 bathrooms.This home last sold for $705,000 in May 2023. The Zestimate for this Single Family is $774,500, which has increased by $5,043 in the last 30 days.The Rent Zestimate for this Single Family is $3,259/mo, which has increased by $3,259/mo in the last 30 ...",
+        "dateLastCrawled": "2025-02-16T10:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "38069 Boulder Canyon Dr, Boulder, CO 80302 | Zillow",
+        "url": "https://www.zillow.com/homedetails/38069-Boulder-Canyon-Dr-Boulder-CO-80302/13195692_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/38069-Boulder-Canyon-Dr-Boulder-CO-80302/13195692_zpid",
+        "snippet": "38069 Boulder Canyon Dr, Boulder CO, is a Single Family home that contains 1728 sq ft and was built in 1959.It contains 3 bedrooms and 3 bathrooms.This home last sold for $350,900 in October 2015. The Zestimate for this Single Family is $919,000, which has increased by $23,400 in the last 30 days.The Rent Zestimate for this Single Family is $4,469/mo, which has increased by $4,469/mo in the ...",
+        "dateLastCrawled": "2025-04-04T12:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2228 Canyon Blvd #4W, Boulder, CO 80302 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2228-Canyon-Blvd-4W-Boulder-CO-80302/446746405_zpid/",
+        "datePublished": "2025-02-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 20, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2228-Canyon-Blvd-4W-Boulder-CO-80302/446746405_zpid",
+        "snippet": "2228 Canyon Blvd #4W, Boulder, CO 80302 is currently not for sale. The 1,300 Square Feet apartment home is a 3 beds, 2 baths property. This home was built in 1974 and last sold on 2025-02-27 for $2,775.",
+        "dateLastCrawled": "2025-04-28T12:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1330 Mariposa Ave, Boulder, CO 80302 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1330-Mariposa-Ave-Boulder-CO-80302/13181633_zpid/",
+        "datePublished": "2025-06-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1330-Mariposa-Ave-Boulder-CO-80302/13181633_zpid",
+        "snippet": "Zillow has 38 photos of this $3,500,000 4 beds, 3 baths, 2,640 Square Feet single family home located at 1330 Mariposa Ave, Boulder, CO 80302 built in 1955.",
+        "dateLastCrawled": "2025-06-06T07:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "5460 Fourmile Canyon Dr, Boulder, CO 80302 | Zillow",
+        "url": "https://www.zillow.com/homedetails/5460-Fourmile-Canyon-Dr-Boulder-CO-80302/13195812_zpid/",
+        "datePublished": "2024-10-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 24, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/5460-Fourmile-Canyon-Dr-Boulder-CO-80302/13195812_zpid",
+        "snippet": "5460 Fourmile Canyon Dr, Boulder CO, is a Single Family home that contains 360 sq ft and was built in 1980.It contains 1 bedroom and 1 bathroom.This home last sold for $250,000 in October 2024. The Zestimate for this Single Family is $249,500, which has decreased by $400 in the last 30 days.The Rent Zestimate for this Single Family is $1,670/mo, which has increased by $1,670/mo in the last 30 ...",
+        "dateLastCrawled": "2025-06-04T06:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "172 Tall Pine Ln, Boulder, CO 80302 | MLS #1035888 | Zillow",
+        "url": "https://www.zillow.com/homedetails/172-Tall-Pine-Ln-Boulder-CO-80302/13242033_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/172-Tall-Pine-Ln-Boulder-CO-80302/13242033_zpid",
+        "snippet": "Zillow has 40 photos of this $2,195,000 4 beds, 4 baths, 4,753 Square Feet single family home located at 172 Tall Pine Ln, Boulder, CO 80302 built in 1988. MLS #1035888.",
+        "dateLastCrawled": "2025-06-06T05:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "9578 Mountain Ridge Dr, Boulder, CO 80302 | MLS #1032965 - Zillow",
+        "url": "https://www.zillow.com/homedetails/9578-Mountain-Ridge-Dr-Boulder-CO-80302/13243721_zpid/",
+        "datePublished": "2025-05-07T00:00:00.0000000",
+        "datePublishedDisplayText": "May 7, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9578-Mountain-Ridge-Dr-Boulder-CO-80302/13243721_zpid",
+        "snippet": "Zillow has 6 photos of this $5,500,000 4 beds, 5 baths, 5,133 Square Feet single family home located at 9578 Mountain Ridge Dr, Boulder, CO 80302 built in 2025. MLS #1032965.",
+        "dateLastCrawled": "2025-06-04T22:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "6310 Red Hill Rd, Boulder, CO 80302 | MLS #1035747 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6310-Red-Hill-Rd-Boulder-CO-80302/13196848_zpid/",
+        "datePublished": "2025-06-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6310-Red-Hill-Rd-Boulder-CO-80302/13196848_zpid",
+        "snippet": "Zillow has 39 photos of this $1,750,000 4 beds, 4 baths, 3,867 Square Feet single family home located at 6310 Red Hill Rd, Boulder, CO 80302 built in 1979. MLS #1035747.",
+        "dateLastCrawled": "2025-06-05T07:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "925 Reed Ranch Rd, Boulder, CO 80302 | MLS #1035658 | Zillow",
+        "url": "https://www.zillow.com/homedetails/925-Reed-Ranch-Rd-Boulder-CO-80302/13196392_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/925-Reed-Ranch-Rd-Boulder-CO-80302/13196392_zpid",
+        "snippet": "Zillow has 1 photo of this $2,000,000 5 beds, 5 baths, 5,013 Square Feet single family home located at 925 Reed Ranch Rd, Boulder, CO 80302 built in 1997. MLS #1035658.",
+        "dateLastCrawled": "2025-06-04T07:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

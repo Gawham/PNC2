@@ -1,0 +1,464 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "8335 Fairmount Dr, Unit 10-104, Denver CO 80247"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=8335+Fairmount+Dr%2c+Unit+10-104%2c+Denver+CO+80247",
+    "totalEstimatedMatches": 911000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "8335 Fairmount Dr UNIT 10-104, Denver, CO 80247 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-10-104-Denver-CO-80247/13401661_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-10-104-Denver-CO-80247/...",
+        "snippet": "8335 Fairmount Dr Unit 10-104, Denver CO, is a Townhouse home that contains 701 sq ft and was built in 1980.It contains 1 bedroom and 1 bathroom.This home last sold for $73,500 in May 2013. The Zestimate for this Townhouse is $224,600, which has increased by $6,167 in the last 30 days.The Rent Zestimate for this Townhouse is $1,459/mo, which has increased by $1,459/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "8335 Fairmount Dr, Denver, CO 80247 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-Denver-CO-80247/247391152_zpid/",
+            "snippet": "8335 Fairmount Dr, Denver, CO 80247 is an apartment unit listed for rent at $2,550 /mo. The 987 Square Feet unit is a 2 beds, 2 baths apartment unit. View more property details, sales history, and Zestimate data on Zillow."
+          },
+          {
+            "name": "8335 Fairmount Drive Unit 8-104, Denver, CO 80247 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-8-104-Denver-CO-80247/13401631_zpid/",
+            "snippet": "8335 Fairmount Drive Unit 8-104, Denver CO, is a Townhouse home that contains 948 sq ft and was built in 1980.It contains 2 bedrooms and 2 bathrooms.This home last sold for $303,000 in July 2022. The Zestimate for this Townhouse is $283,800, which has decreased by $1,160 in the last 30 days.The Rent Zestimate for this Townhouse is $2,018/mo, which has increased by $2,018/mo in the last 30 days."
+          },
+          {
+            "name": "8335 Fairmount Drive Bldg 5 Unit 104, Denver, CO 80247 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-5-104-Denver-CO-80247/13401587_zpid/",
+            "snippet": "8335 Fairmount Drive Bldg 5 Unit 104, Denver CO, is a Condo home that contains 1019 sq ft and was built in 1980.It contains 2 bedrooms and 2 bathrooms.This home last sold for $299,000 in November 2023. The Zestimate for this Condo is $294,300, which has decreased by $413 in the last 30 days.The Rent Zestimate for this Condo is $1,929/mo, which has increased by $1,929/mo in the last 30 days."
+          },
+          {
+            "name": "8335 Fairmount Dr UNIT 11-104, Denver, CO 80247 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-11-104-Denver-CO-80247/13401675_zpid/",
+            "snippet": "8335 Fairmount Dr Unit 11-104, Denver CO, is a Apartment home that contains 948 sq ft and was built in 1980.It contains 2 bedrooms and 2 bathrooms.This home last sold for $262,440 in July 2021. The Zestimate for this Apartment is $282,100, which has decreased by $874 in the last 30 days.The Rent Zestimate for this Apartment is $1,753/mo, which has increased by $1,753/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2024-11-16T01:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "8335 Fairmount Dr Unit 10-104, Denver, CO 80247 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-10-104/home/34182992",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-10-104/home/34182992",
+        "snippet": "701 sq. ft. condo located at 8335 Fairmount Dr Unit 10-104, Denver, CO 80247 sold for $73,500 on May 30, 2013. View sales history, tax history, home value estimates, and overhead views. APN 06161-0...",
+        "dateLastCrawled": "2025-06-05T05:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "8335 Fairmount Dr Unit 10-101, Denver, CO 80247 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/8335-Fairmount-Dr-10-10_Denver_CO_80247_M15427-25385",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../8335-Fairmount-Dr-10-10_Denver_CO_80247_M15427-25385",
+        "snippet": "View 17 photos for 8335 Fairmount Dr Unit 10-101, Denver, CO 80247, a 1 bed, 1 bath, 701 Sq. Ft. condos home built in 1980 that was last sold on 10/06/2022.",
+        "dateLastCrawled": "2024-07-11T07:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "8335 Fairmount Dr #10-104, Denver, CO 80247 | Trulia",
+        "url": "https://www.trulia.com/home/8335-fairmount-dr-10-104-denver-co-80247-13401661",
+        "datePublished": "2023-12-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 11, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/8335-fairmount-dr-10-104-denver-co-80247-13401661",
+        "snippet": "8335 Fairmount Dr #10-104, Denver, CO 80247 is a 701 sqft, 1 bed, 1 bath home sold in 2013. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-11T04:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "8335 Fairmount Dr, Denver, CO 80247 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-Denver-CO-80247/247391152_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.w0-cyfSVWSWNkQvTqZoouAHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-Denver-CO-80247/247391152_zpid",
+        "snippet": "8335 Fairmount Dr, Denver, CO 80247 is an apartment unit listed for rent at $2,550 /mo. The 987 Square Feet unit is a 2 beds, 2 baths apartment unit. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-28T09:04:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.w0-cyfSVWSWNkQvTqZoouAHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.w0-cyfSVWSWNkQvTqZoouAHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "8335 Fairmount Dr #104, Denver, CO 80247 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8335-S-Fairmount-Dr-80247/unit-104/home/45362975",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.97W8y6rAOKMMQYTU6EhOWAHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8335-S-Fairmount-Dr-80247/unit-104/home/45362975",
+        "snippet": "(REColorado as Distributed by MLS Grid) 2 beds, 2 baths, 1019 sq. ft. condo located at 8335 Fairmount Dr #104, Denver, CO 80247 sold for $299,000 on Nov 9, 2023. MLS# 4255946. Move right in! ... 8335 Fairmount Dr Unit 1-107, Denver, CO 80247. Kylie Russell \u2022 LIV Sotheby's International Realty. View more recently sold homes.",
+        "dateLastCrawled": "2025-04-06T08:19:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.97W8y6rAOKMMQYTU6EhOWAHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.97W8y6rAOKMMQYTU6EhOWAHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "8335 Fairmount Drive Bldg 5 Unit 104, Denver, CO 80247 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-5-104-Denver-CO-80247/13401587_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-5-104-Denver-CO-80247/...",
+        "snippet": "8335 Fairmount Drive Bldg 5 Unit 104, Denver CO, is a Condo home that contains 1019 sq ft and was built in 1980.It contains 2 bedrooms and 2 bathrooms.This home last sold for $299,000 in November 2023. The Zestimate for this Condo is $294,300, which has decreased by $413 in the last 30 days.The Rent Zestimate for this Condo is $1,929/mo, which has increased by $1,929/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-08T09:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "8335 Fairmount Dr Unit 8-101, Denver, CO 80247 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/8335-Fairmount-Dr-Unit-8-101_Denver_CO_80247_M27673-45980",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../8335-Fairmount-Dr-Unit-8-101_Denver_CO_80247_M27673-45980",
+        "snippet": "8335 Fairmount Dr Unit 8-101, Denver, CO 80247 is pending. View 21 photos of this 2 bed, 2 bath, 948 sqft. condo with a list price of $300000.",
+        "dateLastCrawled": "2024-08-08T05:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "8335 Fairmount Dr Unit 1-104, Denver, CO 80247 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-1-104/home/34183097",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-1-104/home/34183097",
+        "snippet": "2 beds, 2 baths, 948 sq. ft. townhouse located at 8335 Fairmount Dr Unit 1-104, Denver, CO 80247 sold for $255,000 on Nov 16, 2021. MLS# 8963472. Welcome to this beautiful bright and quiet First fl...",
+        "dateLastCrawled": "2025-04-01T02:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "8335 Fairmount Drive Bldg 10 #102, Denver, CO 80247",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-10-102-Denver-CO-80247/13401659_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-10-102-Denver-CO-80247/...",
+        "snippet": "Zillow has 25 photos of this $189,900 1 bed, 1 bath, 701 Square Feet condo home located at 8335 Fairmount Drive Bldg 10 #102, Denver, CO 80247 built in 1980. MLS #7567695.",
+        "dateLastCrawled": "2025-04-22T06:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "8335 Fairmount Dr Unit 8-104, Denver, CO 80247 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-8-104/home/34183091",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-8-104/home/34183091",
+        "snippet": "2 beds, 2 baths, 948 sq. ft. condo located at 8335 Fairmount Dr Unit 8-104, Denver, CO 80247 sold for $303,000 on Jul 7, 2022. MLS# 3618050. Fantastic opportunity to get into a ground floor unit in...",
+        "dateLastCrawled": "2025-03-31T10:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "8335 Fairmount Drive Unit 8-104, Denver, CO 80247 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-8-104-Denver-CO-80247/13401631_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-8-104-Denver-CO-80247/...",
+        "snippet": "8335 Fairmount Drive Unit 8-104, Denver CO, is a Townhouse home that contains 948 sq ft and was built in 1980.It contains 2 bedrooms and 2 bathrooms.This home last sold for $303,000 in July 2022. The Zestimate for this Townhouse is $283,800, which has decreased by $1,160 in the last 30 days.The Rent Zestimate for this Townhouse is $2,018/mo, which has increased by $2,018/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-03T07:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "8335 Fairmount Dr UNIT 11-104, Denver, CO 80247 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-11-104-Denver-CO-80247/13401675_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-11-104-Denver-CO-80247/...",
+        "snippet": "8335 Fairmount Dr Unit 11-104, Denver CO, is a Apartment home that contains 948 sq ft and was built in 1980.It contains 2 bedrooms and 2 bathrooms.This home last sold for $262,440 in July 2021. The Zestimate for this Apartment is $282,100, which has decreased by $874 in the last 30 days.The Rent Zestimate for this Apartment is $1,753/mo, which has increased by $1,753/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-06T15:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "8335 Fairmount Dr Unit 5-104, Denver, CO 80247 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-5-104/home/34183045",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-5-104/home/34183045",
+        "snippet": "1019 sq. ft. condo located at 8335 Fairmount Dr Unit 5-104, Denver, CO 80247 sold for $299,000 on Nov 13, 2023. View sales history, tax history, home value estimates, and overhead views. APN 06161-...",
+        "dateLastCrawled": "2025-04-09T02:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "8335 Fairmount Drive #5-106, Denver, CO 80247 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-5-106-Denver-CO-80247/13401589_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-5-106-Denver-CO-80247/...",
+        "snippet": "Zillow has 30 photos of this $269,000 2 beds, 2 baths, 1,019 Square Feet condo home located at 8335 Fairmount Drive #5-106, Denver, CO 80247 built in 1980. MLS #9060336.",
+        "dateLastCrawled": "2025-06-06T05:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "8335 Fairmount Dr Unit 5-105, Denver, CO 80247 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-5-105/home/34183042",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-5-105/home/34183042",
+        "snippet": "2 beds, 2 baths, 1019 sq. ft. townhouse located at 8335 Fairmount Dr Unit 5-105, Denver, CO 80247 sold for $285,000 on Sep 16, 2021. MLS# 3445513. Just south of Lowry Town Center, welcome home to t...",
+        "dateLastCrawled": "2025-03-03T02:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "8335 Fairmount Dr UNIT 7-104, Denver, CO 80247 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-7-104-Denver-CO-80247/13401617_zpid/",
+        "datePublished": "2025-01-28T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 28, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-7-104-Denver-CO-80247/...",
+        "snippet": "8335 Fairmount Dr Unit 7-104, Denver CO, is a Apartment home that contains 701 sq ft.It contains 1 bedroom and 1 bathroom.This home last sold for $182,000 in August 2019. The Zestimate for this Apartment is $222,000, which has decreased by $780 in the last 30 days.The Rent Zestimate for this Apartment is $1,564/mo, which has increased by $1,564/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-29T12:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "8335 Fairmount Dr UNIT 7-102, Denver, CO 80247 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-7-102-Denver-CO-80247/13401615_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-7-102-Denver-CO-80247/...",
+        "snippet": "8335 Fairmount Dr UNIT 7-102, Denver, CO 80247 is an apartment unit listed for rent at $1,725 /mo. The 701 Square Feet unit is a 1 bed, 1 bath apartment unit. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-06-07T06:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "8335 Fairmount Dr Unit 10-101, Denver, CO 80247 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-10-101/home/34182987",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/8335-Fairmount-Dr-80247/unit-10-101/home/34182987",
+        "snippet": "1 bed, 1 bath, 701 sq. ft. condo located at 8335 Fairmount Dr Unit 10-101, Denver, CO 80247 sold for $257,000 on Oct 6, 2022. MLS# 9073915. ... 888 S Valentia St Unit 20-104, Denver, CO 80247. Listing provided by Zillow. NEW CONSTRUCTION. ABOUT THIS HOME. Welcome to your luxurious urban oasis at Argenta! Immerse yourself in the vibrant artistic ...",
+        "dateLastCrawled": "2025-03-07T04:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "8335 Fairmount Dr 7-207, Denver, CO 80247 - Zillow",
+        "url": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-7-207-Denver-CO-80247/13401627_zpid/",
+        "datePublished": "2025-05-09T00:00:00.0000000",
+        "datePublishedDisplayText": "May 9, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8335-Fairmount-Dr-UNIT-7-207-Denver-CO-80247/...",
+        "snippet": "8335 Fairmount Dr 7-207, Denver CO, is a Condo home that contains 701 sq ft and was built in 1980.It contains 1 bedroom and 1 bathroom.This home last sold for $202,000 in May 2025. The Zestimate for this Condo is $202,000, which has decreased by $12,561 in the last 30 days.The Rent Zestimate for this Condo is $1,457/mo, which has increased by $1,457/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-12T06:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

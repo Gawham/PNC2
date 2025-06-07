@@ -1,0 +1,437 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3680 Brave Dr, Lake Havasu City AZ 86406"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3680+Brave+Dr%2c+Lake+Havasu+City+AZ+86406",
+    "totalEstimatedMatches": 742000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "3680 Brave Dr, Lake Havasu City, AZ 86406 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3680-Brave-Dr-Lake-Havasu-City-AZ-86406/8337760_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3680-Brave-Dr-Lake-Havasu-City-AZ-86406/8337760_zpid",
+        "snippet": "3680 Brave Dr, Lake Havasu City, AZ 86406 is currently not for sale. The 1,572 Square Feet single family home is a 3 beds, 2 baths property. This home was built in 1994 and last sold on 2014-01-27 for $237,500. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-09-20T12:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3680 Brave Dr, Lake Havasu City, AZ 86406 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3680-Brave-Dr_Lake-Havasu-City_AZ_86406_M24400-40522",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3680-Brave-Dr_Lake-Havasu-City_AZ_86406_M24400-40522",
+        "snippet": "See sales history and home details for 3680 Brave Dr, Lake Havasu City, AZ 86406, a 3 bed, 2 bath, 1,572 Sq. Ft. single family home built in 1994 that was last sold on 01/27/2014.",
+        "dateLastCrawled": "2024-02-12T06:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "3680 Brave Dr, Lake Havasu City, AZ 86406 | Redfin",
+        "url": "https://www.redfin.com/AZ/Lake-Havasu-City/3680-Brave-Dr-86406/home/118554327",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/AZ/Lake-Havasu-City/3680-Brave-Dr-86406/home/118554327",
+        "snippet": "1577 sq. ft. house located at 3680 Brave Dr, Lake Havasu City, AZ 86406 sold for \u00a4237,500 on Jan 27, 2014. View sales history, tax history, home value estimates, and overhead views. APN 11115042.",
+        "dateLastCrawled": "2024-08-21T06:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3680 Brave Dr, Lake Havasu City, 86406, AZ"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "3680 Brave Dr, Lake Havasu City, AZ 86406- Homes.com",
+        "url": "https://www.homes.com/property/3680-brave-dr-lake-havasu-city-az/mqhcsesknk9n4/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/3680-brave-dr-lake-havasu-city-az/mqhcsesknk9n4",
+        "snippet": "Recently Sold - 3680 Brave Dr, Lake Havasu City, AZ 86406 - 1,572 sqft home. Browse photos, view property details and learn about nearby schools and neighborhoods. Sold Off Market. Find an Agent ... 3680 Brave Dr Lake Havasu City, AZ 86406. 3 Beds. 2 Baths. 1,572 Sq Ft. 10,019 Sq Ft Lot.",
+        "dateLastCrawled": "2023-08-13T03:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "3680 Brave Dr, Lake Havasu City, AZ 86406 Property Record - County Office",
+        "url": "https://www.countyoffice.org/property-record-3680-brave-dr-lake-havasu-city-az-86406-fab/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-3680-brave-dr-lake-havasu-city-az-86406-fab",
+        "snippet": "View 3680 Brave Dr, Lake Havasu City, AZ 86406 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2025-02-04T21:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Brave Drive, Lake Havasu City, AZ 86406 - House Value ... - Ownerly",
+        "url": "https://www.ownerly.com/az/lake-havasu-city/brave-dr-home-details",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ownerly.com/az/lake-havasu-city/brave-dr-home-details",
+        "snippet": "3680 Brave Dr. Lake Havasu City, AZ 86406. View . 0.23 acre; 1994 built yr; Last Sold: 2014; Last Sale Price: $239.8K; ... 42 properties and 42 addresses found on Brave Dr in Lake Havasu City, AZ. The average lot size on Brave Dr is 10,986 ft 2 and the average property tax is $1.3K/yr. The average property on Brave Dr was built in 1993 with an ...",
+        "dateLastCrawled": "2025-05-20T04:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Ownerly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 3680 Brave Dr, Lake Havasu City, AZ 86406 | Spokeo",
+        "url": "https://www.spokeo.com/AZ/Lake-Havasu-City/3680-Brave-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/AZ/Lake-Havasu-City/3680-Brave-Dr",
+        "snippet": "Find people by address using reverse address lookup for 3680 Brave Dr, Lake Havasu City, AZ 86406. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-09-15T19:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "3680 Brave Dr Lake Havasu City, AZ 86406 - Trulia",
+        "url": "https://www.trulia.com/home/3680-brave-dr-lake-havasu-city-az-86406-8337760",
+        "datePublished": "2013-08-08T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 8, 2013",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/3680-brave-dr-lake-havasu-city-az-86406-8337760",
+        "snippet": "3680 Brave Dr, Lake Havasu City, AZ 86406 is a 1,572 sqft, 3 bed, 2 bath home sold in 2014. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-05-20T07:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "3680 BRAVE DR, Lake Havasu City, AZ 86406 - Rehold",
+        "url": "https://rehold.com/Lake+Havasu+City+AZ/BRAVE+DR/3680",
+        "datePublished": "2024-11-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 20, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rehold.com/Lake+Havasu+City+AZ/BRAVE+DR/3680",
+        "snippet": "3680 BRAVE DR, Lake Havasu City, AZ 86406 is a 1,572 sqft, 3 beds, 2 baths house. View more property details, see the estimate, sales history and search for homes nearby on Rehold. ... The property located at 3680 Brave Dr, Lake Havasu City, AZ is classified as a Single Family residential dwelling.",
+        "dateLastCrawled": "2025-02-12T14:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rehold"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Brave Dr, Lake Havasu City, AZ 86406 Property Records",
+        "url": "https://www.countyoffice.org/brave-dr-lake-havasu-city-az-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/brave-dr-lake-havasu-city-az-property-records",
+        "snippet": "View property records for 40 addresses on Brave Drive in Lake Havasu City, AZ 86406, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2024-11-11T11:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3680 Brave Dr # I5, Lake Havasu City, AZ 86406 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3680-Brave-Dr_Lake-Havasu-City_AZ_86406_M23923-93126",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3680-Brave-Dr_Lake-Havasu-City_AZ_86406_M23923-93126",
+        "snippet": "View detailed information about property 3680 Brave Dr # I5, Lake Havasu City, AZ 86406 including listing details, property photos, school and neighborhood data, and much more. ... View detailed ...",
+        "dateLastCrawled": "2024-08-23T12:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3780 Brave Dr, Lake Havasu City, AZ 86406 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3780-Brave-Dr-Lake-Havasu-City-AZ-86406/8336318_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3780-Brave-Dr-Lake-Havasu-City-AZ-86406/8336318_zpid",
+        "snippet": "3780 Brave Dr, Lake Havasu City AZ, is a Single Family home that contains 1270 sq ft and was built in 1988.It contains 2 bedrooms and 2 bathrooms.This home last sold for $132,500 in May 2014. The Zestimate for this Single Family is $369,500, which has increased by $1,355 in the last 30 days.The Rent Zestimate for this Single Family is $1,806/mo, which has increased by $1,806/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-29T04:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "3680 BRAVE DR, LAKE HAVASU CITY, AZ 86406 - RE/MAX",
+        "url": "https://www.remax.com/az/lake-havasu-city/home-details/3680-brave-dr-lake-havasu-city-az-86406/2369826784948512855",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/.../3680-brave-dr-lake-havasu-city-az-86406/2369826784948512855",
+        "snippet": "3680 BRAVE DR LAKE HAVASU CITY, AZ 86406. Off Market. SEE THIS HOME'S ESTIMATED VALUE. N/A Beds. N/A Baths. 1,577 Sq Ft. Details for 3680 BRAVE DR. Built in 1994. No Info. 0.23 acres lot. Interior. Living Area. 1,577 SqFt. Building And Construction.",
+        "dateLastCrawled": "2025-05-21T09:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "3680 Squaw Dr, Lake Havasu City, AZ 86406 | Redfin",
+        "url": "https://www.redfin.com/AZ/Lake-Havasu-City/3680-Squaw-Dr-86406/home/119661415",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/AZ/Lake-Havasu-City/3680-Squaw-Dr-86406/home/119661415",
+        "snippet": "1668 sq. ft. house located at 3680 Squaw Dr, Lake Havasu City, AZ 86406 sold for $11,000 on Apr 1, 1990. View sales history, tax history, home value estimates, and overhead views. APN 11115060.",
+        "dateLastCrawled": "2023-09-25T14:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3700 Brave Dr, Lake Havasu City, AZ 86406 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3700-Brave-Dr-Lake-Havasu-City-AZ-86406/67810520_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3700-Brave-Dr-Lake-Havasu-City-AZ-86406/67810520_zpid",
+        "snippet": "3700 Brave Dr, Lake Havasu City AZ, is a Single Family home that contains 1838 sq ft and was built in 2004.It contains 3 bedrooms and 2 bathrooms.This home last sold for $329,000 in November 2017. The Zestimate for this Single Family is $593,800, which has increased by $9,358 in the last 30 days.The Rent Zestimate for this Single Family is $3,084/mo, which has increased by $3,084/mo in the ...",
+        "dateLastCrawled": "2025-03-26T14:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "3650 Brave Dr, Lake Havasu City, AZ 86406 | MLS# 1017973 | Redfin",
+        "url": "https://www.redfin.com/AZ/Lake-Havasu-City/3650-Brave-Dr-86406/home/162020427",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/AZ/Lake-Havasu-City/3650-Brave-Dr-86406/home/162020427",
+        "snippet": "Vacant land located at 3650 Brave Dr, Lake Havasu City, AZ 86406 sold for $110,000 on Oct 8, 2021. MLS# 1017973. Nice Southside Neighborhood. Level Buildable Lot. Approx 90 x 130Ready to build your...",
+        "dateLastCrawled": "2023-08-07T22:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3690 Brave Dr, Lake Havasu City, AZ 86406 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3690-Brave-Dr-Lake-Havasu-City-AZ-86406/8337761_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3690-Brave-Dr-Lake-Havasu-City-AZ-86406/8337761_zpid",
+        "snippet": "3690 Brave Dr, Lake Havasu City AZ, is a Single Family home that contains 1836 sq ft and was built in 1977.It contains 4 bedrooms and 2 bathrooms.This home last sold for $192,000 in April 2014. The Zestimate for this Single Family is $417,800, which has increased by $5,167 in the last 30 days.The Rent Zestimate for this Single Family is $3,125/mo, which has increased by $3,125/mo in the last ...",
+        "dateLastCrawled": "2025-04-22T09:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3660 Brave Dr, Lake Havasu City, AZ 86406 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3660-Brave-Dr-Lake-Havasu-City-AZ-86406/8337758_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3660-Brave-Dr-Lake-Havasu-City-AZ-86406/8337758_zpid",
+        "snippet": "3660 Brave Dr, Lake Havasu City AZ, is a Single Family home that contains 1469 sq ft and was built in 2002.It contains 3 bedrooms and 2 bathrooms.This home last sold for $195,000 in November 2015. The Zestimate for this Single Family is $437,500, which has decreased by $2,114 in the last 30 days.The Rent Zestimate for this Single Family is $1,942/mo, which has increased by $1,942/mo in the ...",
+        "dateLastCrawled": "2025-03-05T02:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3680 Challenger Dr, Lake Havasu City, AZ 86406 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3680-Challenger-Dr-Lake-Havasu-City-AZ-86406/8336571_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3680-Challenger-Dr-Lake-Havasu-City-AZ-86406/...",
+        "snippet": "3680 Challenger Dr, Lake Havasu City AZ, is a Single Family home that contains 1478 sq ft and was built in 1989.This home last sold for $166,900 in December 2003. The Zestimate for this Single Family is $470,000, which has increased by $22,361 in the last 30 days.The Rent Zestimate for this Single Family is $2,550/mo, which has increased by $2,550/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-09T04:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3685 Brave Dr, Lake Havasu City, AZ 86406 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3685-Brave-Dr-Lake-Havasu-City-AZ-86406/8337749_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3685-Brave-Dr-Lake-Havasu-City-AZ-86406/8337749_zpid",
+        "snippet": "3685 Brave Dr, Lake Havasu City AZ, is a Single Family home that contains 1427 sq ft and was built in 1993.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $152,050 in July 2001. The Zestimate for this Single Family is $447,900, which has decreased by $161 in the last 30 days.The Rent Zestimate for this Single Family is $2,175/mo, which has increased by $2,175/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-09T03:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

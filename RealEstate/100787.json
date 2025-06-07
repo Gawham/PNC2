@@ -1,0 +1,416 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "31424 S Bermuda Dunes Dr, Evergreen CO 80439"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=31424+S+Bermuda+Dunes+Dr%2c+Evergreen+CO+80439",
+    "totalEstimatedMatches": 710000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "31424 S Bermuda Dunes Dr, Evergreen, CO 80439 | Zillow",
+        "url": "https://www.zillow.com/homedetails/31424-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/13756615_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31424-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/...",
+        "snippet": "31424 S Bermuda Dunes Dr, Evergreen CO, is a Single Family home that contains 1293 sq ft and was built in 1989.It contains 4 bedrooms and 3 bathrooms. The Zestimate for this Single Family is $905,700, which has increased by $5,255 in the last 30 days.The Rent Zestimate for this Single Family is $3,562/mo, which has increased by $3,562/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-27T16:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "31424 S Bermuda Dunes Dr, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/31424-S-Bermuda-Dunes-Dr-80439/home/34456250",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/31424-S-Bermuda-Dunes-Dr-80439/home/34456250",
+        "snippet": "4 beds, 2.5 baths, 1293 sq. ft. house located at 31424 S Bermuda Dunes Dr, Evergreen, CO 80439 sold for $44,500 on Oct 20, 1988. View sales history, tax history, home value estimates, and overhead ...",
+        "dateLastCrawled": "2024-12-10T15:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "31424 S Bermuda Dunes Dr, Evergreen, 80439, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "31424 S Bermuda Dunes Dr Evergreen, CO 80439 - Trulia",
+        "url": "https://www.trulia.com/home/31424-s-bermuda-dunes-dr-evergreen-co-80439-13756615",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/31424-s-bermuda-dunes-dr-evergreen-co-80439-13756615",
+        "snippet": "31424 S Bermuda Dunes Dr, Evergreen, CO 80439 is a 1,293 sqft, 4 bed, 3 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-12-04T19:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "31424 S Bermuda Dunes Dr, Evergreen, CO 80439 - Homes.com",
+        "url": "https://www.homes.com/property/31424-s-bermuda-dunes-dr-evergreen-co/c1zzg6xcnkz8l/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/31424-s-bermuda-dunes-dr-evergreen-co/c1zzg6xcnkz8l",
+        "snippet": "This home is located at 31424 S Bermuda Dunes Dr, Evergreen, CO 80439 and is currently estimated at $1,106,213, approximately $359 per square foot. 31424 S Bermuda Dunes Dr is a home located in Jefferson County with nearby schools including Bergen Meadow Primary School, Bergen Valley Intermediate School, and Evergreen Middle School. ...",
+        "dateLastCrawled": "2024-06-11T04:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "31424 S Bermuda Dunes Dr, Evergreen, CO 80439 Property Record",
+        "url": "https://www.countyoffice.org/property-record-31424-s-bermuda-dunes-dr-evergreen-co-80439-f67/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-31424-s-bermuda-dunes-dr-evergreen-co...",
+        "snippet": "View 31424 S Bermuda Dunes Dr, Evergreen, CO 80439 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... Follow your device's prompts to create a Passkey using your fingerprint, face recognition, or ...",
+        "dateLastCrawled": "2025-03-31T10:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "31424 S Bermuda Dunes Dr Evergreen, CO 80439 - Xome",
+        "url": "https://www.xome.com/realestate/31424-s-bermuda-dunes-dr-evergreen-co-80439-142875524",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/31424-s-bermuda-dunes-dr-evergreen-co-80439-142875524",
+        "snippet": "31424 S Bermuda Dunes Dr Evergreen CO with 4 bedroom and 3 bath is currently not for sale. Xome's estimated value is $921,793. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-10-21T01:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "S Bermuda Dunes Drive, Evergreen, CO Property Records - County Office",
+        "url": "https://www.countyoffice.org/s-bermuda-dunes-dr-evergreen-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/s-bermuda-dunes-dr-evergreen-co-property-records",
+        "snippet": "View property records for 11 addresses located on S Bermuda Dunes Drive in Evergreen, Colorado, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 31424 S Bermuda Dunes Dr; 31425 S Bermuda Dunes Dr; 31434 S Bermuda Dunes ...",
+        "dateLastCrawled": "2024-08-26T20:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "31425 S Bermuda Dunes Dr, Evergreen, CO 80439 | Zillow",
+        "url": "https://www.zillow.com/homedetails/31425-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/13756642_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31425-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/...",
+        "snippet": "31425 S Bermuda Dunes Dr, Evergreen CO, is a Single Family home that contains 2779 sq ft and was built in 1993.It contains 4 bedrooms and 3 bathrooms.This home last sold for $665,000 in January 2018. The Zestimate for this Single Family is $1,095,500, which has increased by $30,367 in the last 30 days.The Rent Zestimate for this Single Family is $4,066/mo, which has increased by $4,066/mo in ...",
+        "dateLastCrawled": "2025-04-19T23:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "31414 S Bermuda Dunes Dr, Evergreen, CO 80439 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/31414-S-Bermuda-Dunes-Dr_Evergreen_CO_80439_M13835-78596",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../31414-S-Bermuda-Dunes-Dr_Evergreen_CO_80439_M13835-78596",
+        "snippet": "See sales history and home details for 31414 S Bermuda Dunes Dr, Evergreen, CO 80439, a 4 bed, 4 bath, 3,025 Sq. Ft. single family home built in 1982 that was last sold on 06/29/1987.",
+        "dateLastCrawled": "2023-12-07T19:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "31425 S Bermuda Dunes Dr, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/31425-S-Bermuda-Dunes-Dr-80439/home/34456145",
+        "datePublished": "2018-01-31T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 31, 2018",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/31425-S-Bermuda-Dunes-Dr-80439/home/34456145",
+        "snippet": "31425 S Bermuda Dunes Dr is a 1,779 square foot house on a 0.33 acre lot with 4 bedrooms and 2.5 bathrooms. - it last sold on January 31, 2018 for $665,000. Based on Redfin's Evergreen data, we estimate the home's value is $1,069,734.",
+        "dateLastCrawled": "2025-02-10T00:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "31414 S Bermuda Dunes Dr, Evergreen, CO 80439 | Zillow",
+        "url": "https://www.zillow.com/homedetails/31414-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/13756614_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31414-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/...",
+        "snippet": "31414 S Bermuda Dunes Dr, Evergreen CO, is a Single Family home that contains 3025 sq ft and was built in 1982.It contains 4 bedrooms and 4 bathrooms.This home last sold for $250,000 in June 1987. The Zestimate for this Single Family is $1,290,600, which has increased by $41,803 in the last 30 days.The Rent Zestimate for this Single Family is $4,187/mo, which has increased by $4,187/mo in the ...",
+        "dateLastCrawled": "2025-04-02T21:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "31444 S Bermuda Dunes Dr, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/31444-S-Bermuda-Dunes-Dr-80439/home/34456256",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/31444-S-Bermuda-Dunes-Dr-80439/home/34456256",
+        "snippet": "4 beds, 4 baths, 4179 sq. ft. house located at 31444 S Bermuda Dunes Dr, Evergreen, CO 80439 sold for $1,465,100 on Aug 5, 2022. MLS# 7534204. LOCATION, VIEWS, & BRAND NEW TO YOU! Home at last...",
+        "dateLastCrawled": "2025-02-04T11:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "31434 S Bermuda Dunes Drive, Evergreen, CO 80439 | Zillow",
+        "url": "https://www.zillow.com/homedetails/31434-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/13756616_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31434-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/...",
+        "snippet": "31434 S Bermuda Dunes Drive, Evergreen CO, is a Single Family home that contains 3932 sq ft and was built in 1992.It contains 4 bedrooms and 3 bathrooms.This home last sold for $1,365,500 in April 2023. The Zestimate for this Single Family is $1,487,200, which has increased by $29,729 in the last 30 days.The Rent Zestimate for this Single Family is $4,794/mo, which has increased by $4,794/mo ...",
+        "dateLastCrawled": "2025-02-23T22:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "31434 S Bermuda Dunes Dr, Evergreen, CO 80439 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/31434-S-Bermuda-Dunes-Dr_Evergreen_CO_80439_M24115-16057",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../31434-S-Bermuda-Dunes-Dr_Evergreen_CO_80439_M24115-16057",
+        "snippet": "View 42 photos for 31434 S Bermuda Dunes Dr, Evergreen, CO 80439, a 4 bed, 3 bath, 2,033 Sq. Ft. single family home built in 1992 that was last sold on 04/27/2023.",
+        "dateLastCrawled": "2024-03-09T22:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "31434 S Bermuda Dunes Dr, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/31434-S-Bermuda-Dunes-Dr-80439/home/34456255",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/31434-S-Bermuda-Dunes-Dr-80439/home/34456255",
+        "snippet": "4 beds, 3 baths, 3932 sq. ft. house located at 31434 S Bermuda Dunes Dr, Evergreen, CO 80439 sold for $1,365,500 on Apr 26, 2023. MLS# 3307162. Elevated Living, from the outside in! Warm and inviti...",
+        "dateLastCrawled": "2025-02-22T23:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "31445 S Bermuda Dunes Dr, Evergreen, CO 80439 - Zillow",
+        "url": "https://www.zillow.com/homedetails/31445-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/13756633_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31445-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/...",
+        "snippet": "31445 S Bermuda Dunes Dr, Evergreen CO, is a Single Family home that contains 3331 sq ft and was built in 1989.It contains 5 bedrooms and 4 bathrooms.This home last sold for $1,075,000 in July 2021. The Zestimate for this Single Family is $1,305,700, which has increased by $40,081 in the last 30 days.The Rent Zestimate for this Single Family is $5,012/mo, which has increased by $5,012/mo in ...",
+        "dateLastCrawled": "2025-03-13T06:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "31394 S Bermuda Dunes Dr, Evergreen, CO 80439 | Zillow",
+        "url": "https://www.zillow.com/homedetails/31394-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/13756613_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31394-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/...",
+        "snippet": "31394 S Bermuda Dunes Dr, Evergreen CO, is a Single Family home that contains 2710 sq ft and was built in 1991.It contains 4 bedrooms and 4 bathrooms. The Zestimate for this Single Family is $1,189,200, which has decreased by $22,271 in the last 30 days.The Rent Zestimate for this Single Family is $4,013/mo, which has increased by $4,013/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-02T03:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "31414 S Bermuda Dunes Dr, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/31414-S-Bermuda-Dunes-Dr-80439/home/34456249",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/31414-S-Bermuda-Dunes-Dr-80439/home/34456249",
+        "snippet": "4 beds, 3.5 baths, 3025 sq. ft. house located at 31414 S Bermuda Dunes Dr, Evergreen, CO 80439 sold for $250,000 on Jun 29, 1987. View sales history, tax history, home value estimates, and overhead...",
+        "dateLastCrawled": "2024-09-05T18:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "31444 S Bermuda Dunes Drive, Evergreen, CO 80439 | Zillow",
+        "url": "https://www.zillow.com/homedetails/31444-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/13756617_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31444-S-Bermuda-Dunes-Dr-Evergreen-CO-80439/...",
+        "snippet": "31444 S Bermuda Dunes Drive, Evergreen CO, is a Single Family home that contains 4179 sq ft and was built in 1981.It contains 4 bedrooms and 4 bathrooms.This home last sold for $1,465,100 in August 2022. The Zestimate for this Single Family is $1,558,600, which has increased by $17,071 in the last 30 days.The Rent Zestimate for this Single Family is $4,723/mo, which has increased by $4,723/mo ...",
+        "dateLastCrawled": "2025-02-16T05:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2531 Prescott Cir W, Colorado Springs CO 80916"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2531+Prescott+Cir+W%2c+Colorado+Springs+CO+80916",
+    "totalEstimatedMatches": 1060000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "2531 Prescott Cir W, Colorado Springs, CO 80916 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2531-Prescott-Cir-W-Colorado-Springs-CO-80916/13630845_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2531-Prescott-Cir-W-Colorado-Springs-CO-80916/...",
+        "snippet": "2531 Prescott Cir W, Colorado Springs CO, is a Single Family home that contains 1226 sq ft and was built in 1979.It contains 3 bedrooms and 2 bathrooms.This home last sold for $89,000 in December 2008. The Zestimate for this Single Family is $326,000, which has decreased by $1,793 in the last 30 days.The Rent Zestimate for this Single Family is $1,945/mo, which has increased by $1,945/mo in ...",
+        "dateLastCrawled": "2025-04-09T19:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "2531 Prescott Cir W, Colorado Springs, CO 80916 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2531-Prescott-Cir-W-80916/home/34500171",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2531-Prescott-Cir-W-80916/home/34500171",
+        "snippet": "2531 Prescott Cir W is a 1,226 square foot house on a 8,463 square foot lot with 3 bedrooms and 2 bathrooms. - it last sold on November 01, 2004 for $135,000. Based on Redfin's Colorado Springs data, we estimate the home's value is $352,283.",
+        "dateLastCrawled": "2025-05-26T17:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "2531 Prescott Cir W, Colorado Springs, CO 80916 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2531-Prescott-Cir-W_Colorado-Springs_CO_80916_M20478-83917",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2531-Prescott-Cir-W_Colorado-Springs_CO_80916_M20478-83917",
+        "snippet": "See sales history and home details for 2531 Prescott Cir W, Colorado Springs, CO 80916, a 3 bed, 2 bath, 1,226 Sq. Ft. single family home built in 1979 that was last sold on 12/02/2008.",
+        "dateLastCrawled": "2024-05-22T13:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "2531 Prescott Cir W, Colorado Springs, CO 80916 | Homes.com",
+        "url": "https://www.homes.com/property/2531-prescott-cir-w-colorado-springs-co/pkhwptcr7eddf/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/2531-prescott-cir-w-colorado-springs-co/pkhwptcr7eddf",
+        "snippet": "2531 Prescott Cir W, Colorado Springs, CO 80916 - 1,226 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... 2531 Prescott Cir W Colorado Springs, CO 80916 Southborough Neighborhood. Estimated Value: $333,071 - $368,000. 3 Beds. 2 Baths. 1,226 Sq Ft. $290/Sq Ft Est ...",
+        "dateLastCrawled": "2025-05-26T17:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "2531 Prescott Cir W Colorado Springs, CO 80916 - Xome",
+        "url": "https://www.xome.com/realestate/2531-prescott-cir-w-colorado-springs-co-80916-180932156",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/2531-prescott-cir-w-colorado-springs-co-80916-180932156",
+        "snippet": "2531 Prescott Cir W Colorado Springs CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $352,936. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-06-04T09:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Property Report for 2531 Prescott Cir W, Colorado Springs, CO 80916",
+        "url": "https://www.attomdata.com/property-reports/2531-prescott-cir-w-colorado-springs-co-80916/23541444/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.attomdata.com/.../2531-prescott-cir-w-colorado-springs-co-80916/23541444",
+        "snippet": "View property report for 2531 Prescott Cir W, Colorado Springs, CO 80916 on ATTOM\u2019s Property Navigator. Home values, sales prices, taxes, school data, and more. Contact; ... > El Paso County > Colorado Springs > 80916 > Prescott Cir > 2531 Prescott Cir W.",
+        "dateLastCrawled": "2025-02-09T18:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ATTOM"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "2531 Prescott Cir W, Colorado Springs, CO 80916 - Trulia",
+        "url": "https://www.trulia.com/home/2531-prescott-cir-w-colorado-springs-co-80916-13630845",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/2531-prescott-cir-w-colorado-springs-co-80916-13630845",
+        "snippet": "2531 Prescott Cir W, Colorado Springs, CO 80916 is a 1,226 sqft, 3 bed, 2 bath home sold in 2008. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-01-20T04:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "PRESCOTT CIR W, COLORADO SPRINGS, CO ZIP Code - United States ZIP Codes",
+        "url": "https://zipcodes-us.com/zip/co/colorado-springs/prescott-cir-w",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://zipcodes-us.com/zip/co/colorado-springs/prescott-cir-w",
+        "snippet": "3655 e fountain blvd ste 106 colorado springs, co 80910-9998 Envelope example Using the full ZIP+4 Code when mailing via the USPS ensures the fastest, most accurate mailing possible.",
+        "dateLastCrawled": "2025-05-28T13:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "United States ZIP Codes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "2551 Prescott Cir W, Colorado Springs, CO 80916 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2551-Prescott-Cir-W-Colorado-Springs-CO-80916/13630846_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2551-Prescott-Cir-W-Colorado-Springs-CO-80916/...",
+        "snippet": "2551 Prescott Cir W, Colorado Springs CO, is a Single Family home that contains 1184 sq ft and was built in 1979.It contains 4 bedrooms and 2 bathrooms.This home last sold for $148,000 in May 2002. The Zestimate for this Single Family is $368,800, which has increased by $2,187 in the last 30 days.The Rent Zestimate for this Single Family is $2,198/mo, which has increased by $2,198/mo in the ...",
+        "dateLastCrawled": "2025-04-21T03:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "2544 W Prescott Cir, Colorado Springs, CO 80916 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2544-Prescott-Cir-W-80916/home/34498790",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2544-Prescott-Cir-W-80916/home/34498790",
+        "snippet": "3 beds, 2 baths, 1325 sq. ft. house located at 2544 W Prescott Cir, Colorado Springs, CO 80916 sold for $388,000 on Sep 11, 2023. MLS# 3841369. Welcome to this transformed three-bedroom, two-bathro...",
+        "dateLastCrawled": "2025-04-18T20:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "2536 Prescott Cir W, Colorado Springs, CO 80916 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2536-Prescott-Cir-W_Colorado-Springs_CO_80916_M16858-64698",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2536-Prescott-Cir-W_Colorado-Springs_CO_80916_M16858-64698",
+        "snippet": "See sales history and home details for 2536 Prescott Cir W, Colorado Springs, CO 80916, a 3 bed, 2 bath, 1,880 Sq. Ft. single family home built in 1979 that was last sold on 11/09/2015.",
+        "dateLastCrawled": "2023-12-24T22:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "2530 Prescott Cir W, Colorado Springs, CO 80916 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2530-Prescott-Cir-W-Colorado-Springs-CO-80916/13630812_zpid/",
+        "datePublished": "2024-06-28T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 28, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2530-Prescott-Cir-W-Colorado-Springs-CO-80916/...",
+        "snippet": "2530 Prescott Cir W, Colorado Springs CO, is a Single Family home that contains 1262 sq ft and was built in 1979.It contains 4 bedrooms and 3 bathrooms.This home last sold for $350,000 in June 2024. The Zestimate for this Single Family is $352,500, which has increased by $4,355 in the last 30 days.The Rent Zestimate for this Single Family is $1,999/mo, which has increased by $1,999/mo in the ...",
+        "dateLastCrawled": "2024-12-19T03:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "2524 W Prescott Cir, Colorado Springs, CO 80916 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2524-Prescott-Cir-W-80916/home/34498778",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2524-Prescott-Cir-W-80916/home/34498778",
+        "snippet": "Sold: 3 beds, 2 baths, 1313 sq. ft. house located at 2524 W Prescott Cir, Colorado Springs, CO 80916 sold for $338,000 on Apr 17, 2025. MLS# 4593174. Welcome home to this tri-level in the No HOA, S...",
+        "dateLastCrawled": "2025-04-26T19:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2530 Prescott Cir, Colorado Springs, CO 80916 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2530-Prescott-Cir-W_Colorado-Springs_CO_80916_M15773-40618",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2530-Prescott-Cir-W_Colorado-Springs_CO_80916_M15773-40618",
+        "snippet": "2530 Prescott Cir, Colorado Springs, CO 80916 is pending. View 5 photos of this 4 bed, 2 bath, 1262 sqft. single family home with a list price of $350000.",
+        "dateLastCrawled": "2024-06-04T17:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2516 Prescott Cir W, Colorado Springs, CO 80916 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2516-Prescott-Cir-W-Colorado-Springs-CO-80916/13630838_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2516-Prescott-Cir-W-Colorado-Springs-CO-80916/...",
+        "snippet": "2516 Prescott Cir W, Colorado Springs CO, is a Single Family home that contains 1880 sq ft and was built in 1979.It contains 3 bedrooms and 2 bathrooms.This home last sold for $185,000 in May 2016. The Zestimate for this Single Family is $357,400, which has decreased by $5,445 in the last 30 days.The Rent Zestimate for this Single Family is $1,920/mo, which has increased by $1,920/mo in the ...",
+        "dateLastCrawled": "2025-02-04T09:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "2530 Prescott Cir, Colorado Springs, CO 80916 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2530-Prescott-Cir_Colorado-Springs_CO_80916_M98975-10093",
+        "datePublished": "2024-05-27T00:00:00.0000000",
+        "datePublishedDisplayText": "May 27, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2530-Prescott-Cir_Colorado-Springs_CO_80916_M98975-10093",
+        "snippet": "See photos and price history of this 4 bed, 3 bath, 1,262 Sq. Ft. recently sold home located at 2530 Prescott Cir, Colorado Springs, CO 80916 that was sold on 06/28/2024 for $350000.",
+        "dateLastCrawled": "2024-07-06T09:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "2524 Prescott Cir W, Colorado Springs, CO 80916 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2524-Prescott-Cir-W-Colorado-Springs-CO-80916/13630811_zpid/",
+        "datePublished": "2025-04-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 17, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2524-Prescott-Cir-W-Colorado-Springs-CO-80916/...",
+        "snippet": "2524 Prescott Cir W, Colorado Springs CO, is a Single Family home that contains 1313 sq ft and was built in 1979.It contains 3 bedrooms and 2 bathrooms.This home last sold for $338,000 in April 2025. The Zestimate for this Single Family is $340,900, which has increased by $14,806 in the last 30 days.The Rent Zestimate for this Single Family is $2,078/mo, which has increased by $2,078/mo in the ...",
+        "dateLastCrawled": "2025-04-20T06:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "2544 Prescott Cir W, Colorado Springs, CO 80916 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2544-Prescott-Cir-W-Colorado-Springs-CO-80916/13630815_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2544-Prescott-Cir-W-Colorado-Springs-CO-80916/...",
+        "snippet": "2544 Prescott Cir W, Colorado Springs CO, is a Single Family home that contains 1325 sq ft and was built in 1979.It contains 3 bedrooms and 2 bathrooms.This home last sold for $388,000 in September 2023. The Zestimate for this Single Family is $387,200, which has decreased by $7,233 in the last 30 days.The Rent Zestimate for this Single Family is $2,071/mo, which has increased by $2,071/mo in ...",
+        "dateLastCrawled": "2025-04-16T18:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "2516 Prescott Cir W, Colorado Springs, CO 80916 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2516-Prescott-Cir-W-80916/home/34500178",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2516-Prescott-Cir-W-80916/home/34500178",
+        "snippet": "3 beds, 2 baths, 1880 sq. ft. house located at 2516 Prescott Cir W, Colorado Springs, CO 80916 sold for $185,000 on May 9, 2016. View sales history, tax history, home value estimates, and overhead ...",
+        "dateLastCrawled": "2024-08-05T17:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "2515 Prescott Cir W, Colorado Springs, CO 80916 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2515-Prescott-Cir-W-Colorado-Springs-CO-80916/13630870_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2515-Prescott-Cir-W-Colorado-Springs-CO-80916/...",
+        "snippet": "2515 Prescott Cir W, Colorado Springs CO, is a Single Family home that contains 1894 sq ft and was built in 1979.It contains 3 bedrooms and 2 bathrooms.This home last sold for $187,000 in August 2015. The Zestimate for this Single Family is $370,900, which has increased by $2,133 in the last 30 days.The Rent Zestimate for this Single Family is $2,007/mo, which has increased by $2,007/mo in the ...",
+        "dateLastCrawled": "2025-04-14T16:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

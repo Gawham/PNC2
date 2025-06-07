@@ -1,0 +1,629 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "13510 SE 272nd St, Unit 158, Kent WA 98042"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=13510+SE+272nd+St%2c+Unit+158%2c+Kent+WA+98042",
+    "totalEstimatedMatches": 456000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Radcliffe Place Senior Living | Apartments in Kent, WA",
+        "url": "https://www.radcliffeplace.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.radcliffeplace.com",
+        "snippet": "Check for available units at Radcliffe Place Senior Living in Kent, WA. View floor plans, photos, and community amenities. Make Radcliffe Place Senior Living your new home. ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ...",
+        "deepLinks": [
+          {
+            "name": "Amenities",
+            "url": "https://www.radcliffeplace.com/amenities",
+            "snippet": "View unit and community amenities for Radcliffe Place Senior Living in Kent, WA. Skip to main content Toggle Navigation. Login. Resident Login Opens in a new tab. Phone Number (253) ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ..."
+          },
+          {
+            "name": "Floor Plans",
+            "url": "https://www.radcliffeplace.com/floorplans",
+            "snippet": "Check for available units at Radcliffe Place Senior Living in Kent, WA. View floor plans, photos, and community amenities. Make Radcliffe Place Senior Living your new home. ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ..."
+          },
+          {
+            "name": "Photos",
+            "url": "https://www.radcliffeplace.com/photogallery",
+            "snippet": "Photos - Radcliffe Place Senior Living | Apartments in Kent, WA"
+          },
+          {
+            "name": "Contact Us",
+            "url": "https://www.radcliffeplace.com/contactus",
+            "snippet": "13510 SE 272nd St Kent, WA 98042. Opens in a new tab. OFFICE HOURS. Monday to - Friday: 9 AM to - 6 PM; Saturday: Closed; Sunday: Closed; WE ARE HERE. Radcliffe Place Senior Living. 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US ..."
+          },
+          {
+            "name": "Maps and Directions",
+            "url": "https://www.radcliffeplace.com/mapsanddirections",
+            "snippet": "Visit us at Radcliffe Place Senior Living in Kent, WA. View map and get directions. Skip to main content Toggle Navigation. ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ..."
+          },
+          {
+            "name": "Brochure",
+            "url": "https://www.radcliffeplace.com/brochure",
+            "snippet": "Email or print a brochure from Radcliffe Place Senior Living in Kent, WA. Skip to main content Toggle Navigation. Login. Resident Login Opens in a new tab. Phone Number (253) ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ..."
+          },
+          {
+            "name": "Rentcafe Accessibility",
+            "url": "https://www.radcliffeplace.com/accessibility",
+            "snippet": "Rentcafe Accessibility - Radcliffe Place Senior Living | Apartments in Kent, WA"
+          },
+          {
+            "name": "Community",
+            "url": "https://www.radcliffeplace.com/community",
+            "snippet": "Community - Radcliffe Place Senior Living | Apartments in Kent, WA"
+          }
+        ],
+        "dateLastCrawled": "2025-06-05T23:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Radcliffe Place Senior Living"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Radcliffe Place Senior Living - 13510 SE 272nd St Kent, WA 98042 ...",
+        "url": "https://www.apartments.com/radcliffe-place-senior-living-kent-wa/tzsnrhb/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.gEf6fpRakG3wbfrNc1nDmAHaEk&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/radcliffe-place-senior-living-kent-wa/tzsnrhb",
+        "snippet": "13510 SE 272nd St, Kent, WA 98042. 3.0. Property Rating. 3.0. Good. Out of 5. ... 13510 SE 272nd St. Kent, WA 98042. Email Copy Link. ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tour Video Property Site Map Location Map Unit Map ...",
+        "dateLastCrawled": "2025-06-01T06:03:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.gEf6fpRakG3wbfrNc1nDmAHaEk&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 292,
+          "imageId": "OIP.gEf6fpRakG3wbfrNc1nDmAHaEk"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "13510 SE 272nd St, Kent, 98042, WA"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(253) 265-4596"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,380 - $1,695"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Radcliffe Place - 2025 Pricing, Photos, Reviews in Kent, WA",
+        "url": "https://www.assistedlivingcenter.com/facilities/wa/kent/radcliffe-place-98042/",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.4,
+              "bestRating": 5,
+              "reviewCount": 41
+            }
+          }
+        ],
+        "datePublished": "2024-05-02T00:00:00.0000000",
+        "datePublishedDisplayText": "May 2, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/facilities/wa/kent/radcliffe-place-98042",
+        "snippet": "13510 SE 272nd St, Kent, WA 98042. 4.4 / 5.0 41 Reviews . Pricing & Availability (800) 755-1458 . Contact Resident (253) 525-5571 ... The cost of independent living at Radcliffe Place is influenced by the size and layout of the unit and the selection of services and amenities. Personalized pricing ensures that every resident\u2019s lifestyle and ...",
+        "dateLastCrawled": "2025-05-30T22:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Radcliffe Place Senior Living Apartments, 13510 SE 272nd St, Kent, WA ...",
+        "url": "https://www.rentcafe.com/apartments/wa/kent/radcliffe-place/default.aspx",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5,
+              "reviewCount": 2
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentcafe.com/apartments/wa/kent/radcliffe-place/default.aspx",
+        "snippet": "13510 SE 272nd St, Kent, WA 98042. Self storage Coworking Transit Schools Shops Food Health. Points of interest powered by OpenStreetMap. Loading. Calculate commute by driving, cycling or walking, where available. ... View Storage Unit. 20 - 300 Sq.Ft. Extra Space Storage - 15610 SE 272nd Street. $57 - $470. View Storage Unit. 25 - 360 Sq.Ft ...",
+        "dateLastCrawled": "2025-06-01T22:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "13510 SE 272nd St, Kent, 98042, WA"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(253) 525-5571"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,129 - $2,034"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "RentCafe"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Radcliffe Place Senior Living 13510 SE 272Nd St in Kent, WA 98042",
+        "url": "https://www.affordablehousing.com/kent-wa/radcliffe-place-senior-living-562496/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.affordablehousing.com/kent-wa/radcliffe-place-senior-living-562496",
+        "snippet": "Radcliffe Place Senior Living 13510 SE 272Nd St in Kent, WA 98042 $1,456. 1 Bed | 1 Bath. Radcliffe Place Senior Living 13510 SE 272Nd St in Kent, WA 98042 ... By law, whenever a family moves to a new unit where the rent exceeds the payment standard, the family may not pay more than 40 percent of its adjusted monthly income for rent. ...",
+        "dateLastCrawled": "2025-05-01T00:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "AffordableHousing.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Radcliffe Place | Independent Living | Kent, WA 98042 | 14 Reviews",
+        "url": "https://www.aplaceformom.com/community/radcliffe-place-140585",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.e1W1FLrFt2ZmuoAo-OqwoQHaE3&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/radcliffe-place-140585",
+        "snippet": "13510 SE 272nd Street, Kent, WA 98042. For more information about senior living options: (866) 374-4058. Call Now Close . ... The staff is amazing; we needed a little help moving an a/c unit and [name removed], the manager, was more than willing to come outside and give us a hand. After delivering the mobile a/c unit, staff installed it within ...",
+        "dateLastCrawled": "2025-06-03T20:27:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.e1W1FLrFt2ZmuoAo-OqwoQHaE3&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 311,
+          "imageId": "OIP.e1W1FLrFt2ZmuoAo-OqwoQHaE3"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Radcliffe Place Senior Living Apartments - Kent, WA - ForRent.com",
+        "url": "https://www.forrent.com/wa/kent/radcliffe-place-senior-living/gzsnzhy",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.qXg4iMfLl9oqGSqIQpCniAHaEl&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forrent.com/wa/kent/radcliffe-place-senior-living/gzsnzhy",
+        "snippet": "Welcome to Radcliffe Place! Our beautiful senior community (62+) is located on the east hill of Kent, just 2 miles from Covington. Radcliffe Place Senior Living offers affordable retirement living in a luxurious, comfortable setting.",
+        "dateLastCrawled": "2025-05-30T07:57:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.qXg4iMfLl9oqGSqIQpCniAHaEl&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 293,
+          "imageId": "OIP.qXg4iMfLl9oqGSqIQpCniAHaEl"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ForRent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Radcliffe Place Senior Living Apartments - Kent, Washington - After55",
+        "url": "https://www.after55.com/wa/kent/radcliffe-place-senior-living/gzsnzhy",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.qXg4iMfLl9oqGSqIQpCniAHaEl&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.after55.com/wa/kent/radcliffe-place-senior-living/gzsnzhy",
+        "snippet": "Radcliffe Place Senior Living Apartments is located in Kent, Washington in the 98042 zip code. This apartment community was built in 2007 and has 3 stories with 135 units. Apartment Features",
+        "dateLastCrawled": "2025-06-05T22:14:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.qXg4iMfLl9oqGSqIQpCniAHaEl&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 293,
+          "imageId": "OIP.qXg4iMfLl9oqGSqIQpCniAHaEl"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "After55"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Radcliffe Place - 12 Reviews - Kent, WA - Caring.com",
+        "url": "https://www.caring.com/senior-living/washington/kent/radcliffe-place-98042",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.cxLLleB2QNORz3IePAuOOwHaEi&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-03-26T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 26, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.caring.com/senior-living/washington/kent/radcliffe-place-98042",
+        "snippet": "13510 SE 272nd St. , Kent, WA 98042 (800) 558-0653 (Caring Family Advisor\u2122) Claim this listing. 3.3 (12 reviews) Request Tour. Care Offered ... Elevators are poorly placed causing many residents to have to walk a long way to get to their unit Parking is not close to the building entrance and none are assigned to the residents. READ LESS.",
+        "dateLastCrawled": "2025-06-04T04:31:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.cxLLleB2QNORz3IePAuOOwHaEi&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 290,
+          "imageId": "OIP.cxLLleB2QNORz3IePAuOOwHaEi"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Caring.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Contact Radcliffe Place Senior Living to Schedule a Visit",
+        "url": "https://www.radcliffeplace.com/contactus",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.radcliffeplace.com/contactus",
+        "snippet": "13510 SE 272nd St Kent, WA 98042. Opens in a new tab. OFFICE HOURS. Monday to - Friday: 9 AM to - 6 PM; Saturday: Closed; Sunday: Closed; WE ARE HERE. Radcliffe Place Senior Living. 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US ...",
+        "dateLastCrawled": "2025-05-30T18:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Radcliffe Place Senior Living"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "RADCLIFFE PLACE - Updated June 2025 - 15 Photos & 10 Reviews - 13510 SE ...",
+        "url": "https://www.yelp.com/biz/radcliffe-place-kent",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/radcliffe-place-kent",
+        "snippet": "13510 SE 272nd St. Kent, WA 98042. Get directions. Mon. 9:00 AM - 6:00 PM. Tue. 9:00 AM - 6:00 PM. Closed now: Wed. 9:00 AM - 6:00 PM. Thu. 9:00 AM - 6:00 PM. Fri. 9:00 AM - 6:00 PM. Sat. ... long walks down hallways to get to your unit and no assigned resident parking - stay away from this place - they cannot be trusted. Helpful 0. Helpful 1 ...",
+        "dateLastCrawled": "2025-06-04T01:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "13510 SE 272nd St Kent, WA 98042"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Radcliffe Place Senior Living - 13510 SE 272nd St Kent WA 98042 ...",
+        "url": "https://www.apartmentfinder.com/Washington/Kent-Apartments/Radcliffe-Place-Senior-Living-Apartments-lysvwhf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentfinder.com/Washington/Kent-Apartments/Radcliffe-Place-Senior...",
+        "snippet": "Find apartments for rent at Radcliffe Place Senior Living from $1,380 at 13510 SE 272nd St in Kent, WA. Get the best value for your money with Apartment Finder. ... 13510 SE 272nd St, Kent, WA 98042 Map Kent. $1,380 ... 1 Unit Available. Hide Floor Plan Details Show Floor Plan Details. Highlights.",
+        "dateLastCrawled": "2025-06-01T09:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartment Finder"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Radcliffe Place in Kent, Washington - Affordable Housing Online",
+        "url": "https://affordablehousingonline.com/housing-search/Washington/Kent/Radcliffe-Place/10043691",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://affordablehousingonline.com/housing-search/Washington/Kent/Radcliffe-Place/...",
+        "snippet": "13510 SE 272nd St, Kent, WA 98042. Waiting List Forecast: Likely Short or None. check_circle Verified for 2023 by Connor Bailey, Joshua Cappell. Rent Beds Baths SqFt; $651 - 1,563 per Month ... Unit (Bd/Ba) Ft 2 Rent One Bedroom (1/1) 600ft 2: $651 $1,456 ...",
+        "dateLastCrawled": "2025-05-30T11:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Affordable Housing Online"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Radcliffe Place Senior Living Apartments in Kent, WA ...",
+        "url": "https://www.apartmenthomeliving.com/apartment-finder/Radcliffe-Place-Senior-Living-Kent-WA-98042-1872568",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmenthomeliving.com/apartment-finder/Radcliffe-Place-Senior-Living...",
+        "snippet": "ApartmentHomeLiving.com's new Interactive Property Map allows you to see where every available unit is located at this community. Try It Now > 1 Bedrooms; 2 Bedrooms; 1 Bedroom. From $1,411 ... 13510 SE 272nd St, Kent, WA 98042. Shopping; Colleges; Grocery; Medical; Transportation; Map. Explore Nearby. Shopping. Colleges. Grocery. Medical ...",
+        "dateLastCrawled": "2025-06-01T05:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentHomeLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Floor Plans of Radcliffe Place Senior Living in Kent, WA",
+        "url": "https://www.radcliffeplace.com/floorplans",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.radcliffeplace.com/floorplans",
+        "snippet": "Check for available units at Radcliffe Place Senior Living in Kent, WA. View floor plans, photos, and community amenities. Make Radcliffe Place Senior Living your new home. ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ...",
+        "dateLastCrawled": "2025-06-03T22:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Radcliffe Place Senior Living"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Radcliffe Place Senior Living | Apartment and Community Amenities",
+        "url": "https://www.radcliffeplace.com/amenities",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.radcliffeplace.com/amenities",
+        "snippet": "View unit and community amenities for Radcliffe Place Senior Living in Kent, WA. Skip to main content Toggle Navigation. Login. Resident Login Opens in a new tab. Phone Number (253) ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ...",
+        "dateLastCrawled": "2025-05-29T17:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Radcliffe Place Senior Living"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "13510 SE 272nd St, Kent, WA 98042 - Zillow",
+        "url": "https://www.zillow.com/homedetails/13510-SE-272nd-St-Kent-WA-98042/2068183161_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13510-SE-272nd-St-Kent-WA-98042/2068183161_zpid",
+        "snippet": "13510 SE 272nd St, Kent, WA 98042 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow. ... 13414 SE 272nd St, Kent, WA 98042. Off Market. $624,300. 3 bd | 2 ba | 1.6k sqft ...",
+        "dateLastCrawled": "2025-04-02T22:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Radcliffe Place, 13510 SE 272nd St, Kent, WA 98042, US - MapQuest",
+        "url": "https://www.mapquest.com/us/washington/radcliffe-place-276720602",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/washington/radcliffe-place-276720602",
+        "snippet": "Get more information for Radcliffe Place in Kent, WA. See reviews, map, get the address, and find directions. ... Website. More. Directions. Advertisement. Advertisement. Photos View gallery. 13510 SE 272nd St. Kent, WA 98042 +1 (253) 631-8505 ... and picturesque views that soothe the soul. Accessibility is key here, with every unit designed ...",
+        "dateLastCrawled": "2025-04-27T18:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "13510 SE 272nd St #F320A52C6, Kent, WA 98042 | Zillow",
+        "url": "https://www.zillow.com/homedetails/13510-SE-272nd-St-F320A52C6-Kent-WA-98042/449423881_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13510-SE-272nd-St-F320A52C6-Kent-WA-98042/449423881...",
+        "snippet": "13510 SE 272nd St #F320A52C6, Kent, WA 98042 is currently not for sale. The -- sqft apartment home is a 2 beds, 2 baths property. This home was built in 2007 and last sold on 2025-04-07 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-16T19:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Map and Directions to Radcliffe Place Senior Living in Kent, WA",
+        "url": "https://www.radcliffeplace.com/mapsanddirections",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.radcliffeplace.com/mapsanddirections",
+        "snippet": "Visit us at Radcliffe Place Senior Living in Kent, WA. View map and get directions. Skip to main content Toggle Navigation. ... 13510 SE 272nd St Kent, WA 98042. Opens in a new tab. CALL US. Phone Number (253) 753-1602. Resident ...",
+        "dateLastCrawled": "2025-05-09T23:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Radcliffe Place Senior Living"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

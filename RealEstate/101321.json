@@ -1,0 +1,425 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1401 Martin Dr, Colorado Springs CO 80915"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1401+Martin+Dr%2c+Colorado+Springs+CO+80915",
+    "totalEstimatedMatches": 1630000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1401 Martin Drive, Colorado Springs, CO 80915 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1401-Martin-Dr-Colorado-Springs-CO-80915/13612141_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1401-Martin-Dr-Colorado-Springs-CO-80915/13612141_zpid",
+        "snippet": "Zillow has 2 photos of this $290,000 4 beds, 2 baths, 2,072 Square Feet single family home located at 1401 Martin Drive, Colorado Springs, CO 80915 built in 1968. MLS #1607291.",
+        "dateLastCrawled": "2025-05-07T07:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1401 Martin Dr, Colorado Springs, CO 80915 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1401-Martin-Dr_Colorado-Springs_CO_80915_M16699-52324",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1401-Martin-Dr_Colorado-Springs_CO_80915_M16699-52324",
+        "snippet": "1401 Martin Dr, Colorado Springs, CO 80915 is a single family home for sale listed on the market for 9 Days. 1401 Martin Dr, Colorado Springs, CO 80915 is in the Powers neighborhood, which has a ...",
+        "dateLastCrawled": "2025-05-16T03:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1401 Martin Dr, Colorado Springs, CO 80915 - Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1401-Martin-Dr-80915/home/34458568",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1401-Martin-Dr-80915/home/34458568",
+        "snippet": "(REColorado as Distributed by MLS Grid) For Sale: 4 beds, 2 baths \u2219 2072 sq. ft. \u2219 1401 Martin Dr, Colorado Springs, CO 80915 \u2219 $290,000 \u2219 MLS# 1607291 \u2219 Welcome to this spacious 3-bedroom, 2-bathroom bi-level gem located in a well-estab...",
+        "dateLastCrawled": "2025-05-09T03:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1401 Martin Dr Colorado Springs, CO 80915 - ColdwellBankerHomes.com",
+        "url": "https://www.coldwellbankerhomes.com/co/colorado-springs/1401-martin-dr/pid_65112232/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbankerhomes.com/co/colorado-springs/1401-martin-dr/pid_65112232",
+        "snippet": "1401 Martin Drive, Colorado Springs, CO 80915 (MLS# 1607291) is a Single Family property with 4 bedrooms, 1 full bathroom and 1 partial bathroom. 1401 Martin Drive is currently listed for $290,000 and was received on May 05, 2025.",
+        "dateLastCrawled": "2025-06-01T12:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ColdwellBankerHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1401 Martin Dr, Colorado Springs, CO 80915 | MLS# 1607291 | 2 Photos ...",
+        "url": "https://www.movoto.com/colorado-springs-co/1401-martin-dr-colorado-springs-co-80915/pid_hiylqggt9g/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/colorado-springs-co/1401-martin-dr-colorado-springs-co-80915/...",
+        "snippet": "For Sale: $290,000 $160/Sqft - 1401 Martin Dr, Colorado Springs, CO 80915 in Rustic Hills is a 4 bed, 2 bath, 1,812 Sqft, 8,000 sqft lot, House built in 1968, with an estimated value of $380,000",
+        "dateLastCrawled": "2025-05-06T05:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1401 MARTIN DR, COLORADO SPRINGS, CO 80915 | 1607291 | Douglas Elliman",
+        "url": "https://www.elliman.com/listing/1401-martin-dr-colorado-springs-co-80915/15059000",
+        "datePublished": "2025-05-06T00:00:00.0000000",
+        "datePublishedDisplayText": "May 6, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.elliman.com/listing/1401-martin-dr-colorado-springs-co-80915/15059000",
+        "snippet": "View 1401 MARTIN DR, COLORADO SPRINGS, CO 80915, a House for sale at $290,000. Features 4 beds, 1 bath, and 1812 sq ft.",
+        "dateLastCrawled": "2025-05-06T05:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Douglas Elliman"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1401 Martin Dr, Colorado Springs, CO 80915 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/colorado-springs/1401-martin-dr/lid-P00800000Grbv3Z7RI1UZTwvg0qTprkZjXT2FMGH",
+        "datePublished": "2025-05-06T00:00:00.0000000",
+        "datePublishedDisplayText": "May 6, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/colorado-springs/1401-martin-dr/lid-P00800000Grbv3Z7...",
+        "snippet": "Find Property Information for 1401 Martin Dr, Colorado Springs, CO 80915. MLS# 1607291. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2025-05-07T00:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1401 Martin Drive, Colorado Springs, CO 80915 - MLS#1607291",
+        "url": "https://coloradohomesbymike.com/details/denver_1607291--1401-Martin-Drive-Colorado-Springs-CO-80915/",
+        "datePublished": "2025-05-07T00:00:00.0000000",
+        "datePublishedDisplayText": "May 7, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://coloradohomesbymike.com/details/denver_1607291--1401-Martin-Drive-Colorado...",
+        "snippet": "MLS#1607291 - 1401 Martin Drive - For Sale $290,000. Located in Austin Estates Sub 5 Fil 5. Welcome to this spacious 3-bedroom, 2-bathroom bi-level gem located in a well-established, tree-lined neighborhood full of character and potential.",
+        "dateLastCrawled": "2025-05-07T17:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Michael Phillip - Colorado Real Estate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1401 Martin Drive, Colorado Springs, CO 80915 Property for sale",
+        "url": "https://www.corcoran.com/listing/for-sale/1401-martin-drive-colorado-springs-co-80915/96953855/regionId/109",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.corcoran.com/listing/for-sale/1401-martin-drive-colorado-springs-co-80915/...",
+        "snippet": "1401 Martin Drive Colorado Springs, CO 80915. Colorado Springs, CO 80915. $290,000 USD. New | May 05. 4 beds. 2 baths. 2072 Approx. Sqft/ 0.18 acres. presented by Corcoran Perry & Co. The Details. Transaction Type for sale . Property Type Single Family. Built in 1968. calculate my mortgage.",
+        "dateLastCrawled": "2025-05-07T00:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Corcoran Group"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1401 Martin Dr, Colorado Springs, CO 80915 | MLS #1607291 - Compass",
+        "url": "https://www.compass.com/listing/1401-martin-drive-colorado-springs-co-80915/1834539251797032785/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.compass.com/listing/1401-martin-drive-colorado-springs-co-80915/...",
+        "snippet": "1401 Martin Dr, Colorado Springs, CO 80915 is a single family home listed for sale at $290,000. This is a 4-bed, 1-bath, 2,072 sqft property.",
+        "dateLastCrawled": "2025-05-06T09:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Compass"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1401 Martin Dr, Colorado Springs, CO, 80915 - Photos, Videos & More!",
+        "url": "https://www.xlvcollectiveproperties.com/property/19-1607291-1401-Martin-Dr-Colorado-Springs-CO-80915",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xlvcollectiveproperties.com/property/19-1607291-1401-Martin-Dr-Colorado...",
+        "snippet": "Learn more about this Single Family Home located at 1401 Martin Dr which has 4 Beds, 2 Baths, 2,072 Square Feet and has been on the market for 23 Days. Photos, Maps and Videos! 1401 Martin Dr, Colorado Springs, CO, 80915 - Photos, Videos & More!",
+        "dateLastCrawled": "2025-05-28T05:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1401 Martin Dr, Colorado Springs, CO 80915 - Homes.com",
+        "url": "https://www.homes.com/property/1401-martin-dr-colorado-springs-co/ccyep47lj854h/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1401-martin-dr-colorado-springs-co/ccyep47lj854h",
+        "snippet": "1401 Martin Dr, Colorado Springs, CO 80915 - 2,688 sqft home . Browse photos, take a 3D tour & get detailed information about this property. Buy For Sale; Houses; Townhouses; Condos; ... 1401 Martin Dr Colorado Springs, CO 80915 Rustic Hills Neighborhood. Estimated Value: $349,839 - $370,000. 4 Beds. 2 Baths. 2,688 Sq Ft. $ ...",
+        "dateLastCrawled": "2024-10-11T12:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1401 Martin Drive Colorado Springs CO for sale: MLS #1607291 | Weichert",
+        "url": "https://www.weichert.com/127469246/",
+        "datePublished": "2025-05-06T00:00:00.0000000",
+        "datePublishedDisplayText": "May 6, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.weichert.com/127469246",
+        "snippet": "1401 Martin Drive is for sale in Colorado Springs CO. Learn more about this Single Family with Weichert\u2019s property listing for 1401 Martin Drive. ... 1401 Martin Drive is for sale in Colorado Springs CO. Learn more about this Single Family with Weichert\u2019s property listing for 1401 Martin Drive. Skip page header and navigation. 1-800-401 ...",
+        "dateLastCrawled": "2025-05-06T09:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Weichert Realtors"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1401 Martin Dr Colorado Springs, CO 80915 - stellerrealestate.com",
+        "url": "https://www.stellerrealestate.com/property-search/detail/24/1607291/1401-martin-dr-colorado-springs-co-80915/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.stellerrealestate.com/.../24/1607291/1401-martin-dr-colorado-springs-co-80915",
+        "snippet": "1401 Martin Dr Colorado Springs, CO 80915 home for sale, MLS#1607291. Welcome to this spacious 3-bedroom, 2-bathroom bi-level gem located in a well-established,...",
+        "dateLastCrawled": "2025-05-30T02:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1401 MARTIN DR COLORADO SPRINGS, CO 80915 - RE/MAX",
+        "url": "https://www.remax.com/co/colorado-springs/home-details/1401-martin-dr-colorado-springs-co-80915/299517741118024327/M00000116/1607291",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/colorado-springs/home-details/1401-martin-dr-colorado-springs...",
+        "snippet": "Take a closer look at this $290,000, 4 bed, 2 bath, 1,812 Sq Ft, Single Family for sale, located at 1401 MARTIN DR in COLORADO SPRINGS, CO 80915.",
+        "dateLastCrawled": "2025-05-06T04:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1401 Martin Drive, Colorado Springs, CO 80915 - BHGRE",
+        "url": "https://www.bhgre.com/home/detail/co/colorado-springs/1401-martin-dr/lid-P00800000Grbv3Z7RI1UZTwvg0qTprkZjXT2FMGH",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bhgre.com/home/detail/co/colorado-springs/1401-martin-dr/lid-P00800000Grbv...",
+        "snippet": "Find Property Information for 1401 Martin Drive, Colorado Springs, CO 80915. View Photos, Pricing, Listing Status and More.",
+        "dateLastCrawled": "2025-05-06T07:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Better Homes and Gardens Real Estate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1401 Martin Dr Colorado Springs, CO 80915 - Trulia",
+        "url": "https://www.trulia.com/home/1401-martin-dr-colorado-springs-co-80915-13612141",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1401-martin-dr-colorado-springs-co-80915-13612141",
+        "snippet": "1401 Martin Dr, Colorado Springs, CO 80915 is a 1,036 sqft, 4 bed, 1.5 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-01-29T12:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1401 Martin Dr, Colorado Springs, CO 80915 Property Record (FREE)",
+        "url": "https://www.countyoffice.org/property-record-1401-martin-dr-colorado-springs-co-80915-7ae/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-1401-martin-dr-colorado-springs-co-80915-7ae",
+        "snippet": "View 1401 Martin Dr, Colorado Springs, CO 80915 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 1401 Martin Drive, Colorado Springs, CO 80915 80915 Property Records. This page details ...",
+        "dateLastCrawled": "2025-04-23T09:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1401 Martin Dr Colorado Springs, CO 80915 - Xome",
+        "url": "https://www.xome.com/realestate/1401-martin-dr-colorado-springs-co-80915-22242825",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/1401-martin-dr-colorado-springs-co-80915-22242825",
+        "snippet": "1401 Martin Dr Colorado Springs CO with 4 bedroom and 1 bath is currently not for sale. Xome's estimated value is $426,615. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-10-12T09:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1401 Martin Dr Colorado Springs, CO 80915 - rocket.com",
+        "url": "https://rocket.com/homes/listings/1401-martin-dr-colorado-springs-co-80915",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rocket.com/homes/listings/1401-martin-dr-colorado-springs-co-80915",
+        "snippet": "Browse homes for sale in Colorado Springs, CO, and get in touch with a real estate agent today to find your dream home.",
+        "dateLastCrawled": "2025-05-28T08:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rocket"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

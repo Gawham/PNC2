@@ -1,0 +1,443 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "265 Hidden Valley Rd, Colorado Springs CO 80919"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=265+Hidden+Valley+Rd%2c+Colorado+Springs+CO+80919",
+    "totalEstimatedMatches": 1870000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "265 Hidden Valley Rd, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/265-Hidden-Valley-Rd-Colorado-Springs-CO-80919/64651394_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/265-Hidden-Valley-Rd-Colorado-Springs-CO-80919/...",
+        "snippet": "265 Hidden Valley Rd, Colorado Springs CO, is a Single Family home that contains 3057 sq ft and was built in 2003.It contains 4 bedrooms and 3 bathrooms. The Zestimate for this Single Family is $1,090,900, which has decreased by $2,433 in the last 30 days.The Rent Zestimate for this Single Family is $3,917/mo, which has increased by $3,917/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-18T07:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "265 Hidden Valley Rd, Colorado Springs, CO 80919 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/265-Hidden-Valley-Rd_Colorado-Springs_CO_80919_M23596-84726",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../265-Hidden-Valley-Rd_Colorado-Springs_CO_80919_M23596-84726",
+        "snippet": "View detailed information about property 265 Hidden Valley Rd, Colorado Springs, CO 80919 including listing details, property photos, school and neighborhood data, and much more. ... View detailed ...",
+        "dateLastCrawled": "2024-02-03T18:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "265 Hidden Valley Rd, Colorado Springs, CO 80919 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/265-Hidden-Valley-Rd-80919/home/34544484",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/265-Hidden-Valley-Rd-80919/home/34544484",
+        "snippet": "4 beds, 3 baths, 5585 sq. ft. house located at 265 Hidden Valley Rd, Colorado Springs, CO 80919. View sales history, tax history, home value estimates, and overhead views. APN 7301002002.",
+        "dateLastCrawled": "2025-01-01T01:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "265 Hidden Valley Rd, Colorado Springs, CO 80919 | Homes.com",
+        "url": "https://www.homes.com/property/265-hidden-valley-rd-colorado-springs-co/91kxw8c3zvrjp/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/265-hidden-valley-rd-colorado-springs-co/91kxw8c3zvrjp",
+        "snippet": "This home is located at 265 Hidden Valley Rd, Colorado Springs, CO 80919 and is currently estimated at $1,215,900, approximately $397 per square foot. 265 Hidden Valley Rd is a home located in El Paso County with nearby schools including Woodmen-Roberts Elementary School, Eagleview Middle School, and Air Academy High School.",
+        "dateLastCrawled": "2025-05-11T15:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "DR. JOHN HADYN DRABING D.O. - NPI 1376985218 - NPI Profile",
+        "url": "https://npiprofile.com/npi/1376985218",
+        "datePublished": "2013-07-19T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 19, 2013",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1376985218",
+        "snippet": "NPI Profile for John Drabing in 265 Hidden Valley Rd Colorado Springs, Co 80919. Phone: (719) 598-6123 . Taxonomy 207X00000X",
+        "dateLastCrawled": "2025-06-03T17:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Dr. John Hadyn Drabing - General Orthopedic Surgeon in Colorado Springs, CO",
+        "url": "https://orthopedic.io/surgeon/dr-john-hadyn-drabing-do-colorado-springs/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://orthopedic.io/surgeon/dr-john-hadyn-drabing-do-colorado-springs",
+        "snippet": "265 Hidden Valley Rd, Colorado Springs, Colorado, 80919-2704: Phone: 719-598-6123: ... Patients can reach Dr. John Hadyn Drabing at 265 Hidden Valley Rd, Colorado Springs, ... Similar General Orthopedic Doctors in Colorado Springs, CO. Dr. Peter Daniel Fredericks, M.D. 18+ yr exp. Address: ...",
+        "dateLastCrawled": "2025-06-03T03:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Orthopedic.io"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "265 Hidden Valley Rd Colorado Springs, CO 80919 - Xome",
+        "url": "https://www.xome.com/realestate/265-hidden-valley-rd-colorado-springs-co-80919-180846815",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/265-hidden-valley-rd-colorado-springs-co-80919-180846815",
+        "snippet": "265 Hidden Valley Rd Colorado Springs CO with 4 bedroom and 3 bath is currently not for sale. Xome's estimated value is $1,243,913. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-11-01T15:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Who Lives at 265 Hidden Valley Rd, Colorado Springs, CO 80919 - Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/265-Hidden-Valley-Rd",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/265-Hidden-Valley-Rd",
+        "snippet": "Find people by address using reverse address lookup for 265 Hidden Valley Rd, Colorado Springs, CO 80919. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-11-18T02:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "John Hadyn Drabing \u00b7 265 Hidden Valley Road, Colorado Springs, CO 80919 ...",
+        "url": "https://opengovco.com/license/404070",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/404070",
+        "snippet": "The business address is 265 Hidden Valley Road, Colorado Springs, CO 80919-2704. The license first issue date is June 18, 1962. License Overview. Licensee Name: John Hadyn Drabing : Address: 265 Hidden Valley Road Colorado Springs CO 80919-2704: License Category: Medical : License Type: Physician : License Number: DR.0014189 : First Issue Date ...",
+        "dateLastCrawled": "2024-06-09T12:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "265 Hidden Valley Rd Colorado Springs, CO 80919 - Trulia",
+        "url": "https://www.trulia.com/home/265-hidden-valley-rd-colorado-springs-co-80919-64651394",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/265-hidden-valley-rd-colorado-springs-co-80919-64651394",
+        "snippet": "265 Hidden Valley Rd, Colorado Springs, CO 80919 is a 3,057 sqft, 4 bed, 3 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-01-23T12:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Who Owns 265 Hidden Valley Rd, Colorado Springs, CO and ... - Whitepages",
+        "url": "https://www.whitepages.com/address/265-Hidden-Valley-Rd/Colorado-Springs-CO/ArweNzO8yDK",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/address/265-Hidden-Valley-Rd/Colorado-Springs-CO/ArweNzO8yDK",
+        "snippet": "Find out who owns 265 Hidden Valley Rd, Colorado Springs, CO and who lives at this home, including John Drabing. Look up sale history, residents' phone numbers & property values with Whitepages Property Records Search.",
+        "dateLastCrawled": "2024-10-04T18:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "265 Hidden Valley Rd Colorado Springs, CO 80919 - Rehold",
+        "url": "https://rehold.com/Colorado+Springs+CO/HIDDEN+VALLEY+RD/265",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rehold.com/Colorado+Springs+CO/HIDDEN+VALLEY+RD/265",
+        "snippet": "265 HIDDEN VLY RD, Colorado Springs, CO 80919 is a 5,585 sqft, 4 beds, 3 baths house. View more property details, see the estimate, sales history and search for homes nearby on Rehold ... 265 Hidden Valley Rd, Colorado Springs CO On the map. Map of real estate properties. Assessment history. Year Tax Assessment Market; 2014: N/A: $64,160: N/A:",
+        "dateLastCrawled": "2025-05-25T04:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rehold"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "23 Best Fun Unique Things to Do In Colorado Springs CO",
+        "url": "https://lifesuccessjournal.com/unique-things-to-do-in-colorado-springs-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://lifesuccessjournal.com/unique-things-to-do-in-colorado-springs-co",
+        "snippet": "Address: 101 Pro Rodeo Dr, Colorado Springs, CO 80919. ... This hidden gem is located near Colorado Springs and features fascinating rock formations. Hiking up to the caves is a rewarding adventure with spectacular views of the valley. ... Address: 6150 Mssn Rd, Colorado Springs, CO 80908. 22. Participate in a cooking class at the Colorado ...",
+        "dateLastCrawled": "2025-06-05T12:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1120 Hidden Valley Rd, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1120-Hidden-Valley-Rd-Colorado-Springs-CO-80919/13649163_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1120-Hidden-Valley-Rd-Colorado-Springs-CO-80919/...",
+        "snippet": "1120 Hidden Valley Rd, Colorado Springs CO, is a Single Family home that contains 2548 sq ft and was built in 1963.It contains 4 bedrooms and 3 bathrooms.This home last sold for $657,700 in October 2021. The Zestimate for this Single Family is $838,800, which has increased by $100 in the last 30 days.The Rent Zestimate for this Single Family is $3,166/mo, which has increased by $3,166/mo in ...",
+        "dateLastCrawled": "2025-06-06T02:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "385 Hidden Valley Rd, Colorado Springs, CO 80919 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/385-Hidden-Valley-Rd_Colorado-Springs_CO_80919_M28645-24705",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../385-Hidden-Valley-Rd_Colorado-Springs_CO_80919_M28645-24705",
+        "snippet": "View 28 photos for 385 Hidden Valley Rd, Colorado Springs, CO 80919, a 4 bed, 1.5 bath, 2,563 Sq. Ft. single family home built in 1965 that was last sold on 10/08/2021.",
+        "dateLastCrawled": "2025-03-20T03:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "385 Hidden Valley Rd, Colorado Springs, CO 80919 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/385-Hidden-Valley-Rd-80919/home/34544546",
+        "datePublished": "2025-06-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "5 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/385-Hidden-Valley-Rd-80919/home/34544546",
+        "snippet": "For Rent: \u00b7 See photos, floor plans and more details about 385 Hidden Valley Rd, Colorado Springs, CO 80919.",
+        "dateLastCrawled": "2025-06-02T17:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "275 Hidden Valley Rd, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/275-Hidden-Valley-Rd-Colorado-Springs-CO-80919/13649252_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/275-Hidden-Valley-Rd-Colorado-Springs-CO-80919/...",
+        "snippet": "275 Hidden Valley Rd, Colorado Springs CO, is a Single Family home that contains 3498 sq ft and was built in 1964.It contains 5 bedrooms and 3.25 bathrooms.This home last sold for $800,000 in March 2005. The Zestimate for this Single Family is $1,587,000, which has increased by $29,103 in the last 30 days.The Rent Zestimate for this Single Family is $3,740/mo, which has increased by $3,740/mo ...",
+        "dateLastCrawled": "2025-05-15T02:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "245 Hidden Valley Rd, Colorado Springs, CO 80919 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/245-Hidden-Valley-Rd_Colorado-Springs_CO_80919_M96019-13610",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../245-Hidden-Valley-Rd_Colorado-Springs_CO_80919_M96019-13610",
+        "snippet": "Address Estimate Bed Bath Sq Ft Lot (Sq Ft) This Home: 245 Hidden Valley Rd: Last sold for $435,000: 204732: 7640 Winding Oaks Dr, Colorado Springs, CO 80919",
+        "dateLastCrawled": "2024-02-08T02:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "240 Hidden Valley Rd, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/240-Hidden-Valley-Rd-Colorado-Springs-CO-80919/13649175_zpid/",
+        "datePublished": "2023-07-25T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 25, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/240-Hidden-Valley-Rd-Colorado-Springs-CO-80919/...",
+        "snippet": "240 Hidden Valley Rd, Colorado Springs CO, is a Single Family home that contains 4901 sq ft and was built in 1963.It contains 3 bedrooms and 4 bathrooms.This home last sold for $900,000 in July 2023. The Zestimate for this Single Family is $1,134,500, which has increased by $62,660 in the last 30 days.The Rent Zestimate for this Single Family is $3,912/mo, which has increased by $3,912/mo in ...",
+        "dateLastCrawled": "2025-04-30T02:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "790 Hidden Valley Rd, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/790-Hidden-Valley-Rd-Colorado-Springs-CO-80919/13649167_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/790-Hidden-Valley-Rd-Colorado-Springs-CO-80919/...",
+        "snippet": "790 Hidden Valley Rd, Colorado Springs CO, is a Single Family home that contains 2528 sq ft and was built in 1963.It contains 4 bedrooms and 3 bathrooms.This home last sold for $520,000 in March 2018. The Zestimate for this Single Family is $898,000, which has increased by $10,800 in the last 30 days.The Rent Zestimate for this Single Family is $3,044/mo, which has increased by $3,044/mo in ...",
+        "dateLastCrawled": "2025-04-23T00:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "385 Hidden Valley Rd, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/385-Hidden-Valley-Rd-Colorado-Springs-CO-80919/13649206_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/385-Hidden-Valley-Rd-Colorado-Springs-CO-80919/...",
+        "snippet": "385 Hidden Valley Rd, Colorado Springs CO, is a Single Family home that contains 2563 sq ft and was built in 1965.It contains 4 bedrooms and 2 bathrooms.This home last sold for $800,000 in October 2021. The Zestimate for this Single Family is $970,700, which has increased by $12,316 in the last 30 days.The Rent Zestimate for this Single Family is $3,431/mo, which has increased by $3,431/mo in ...",
+        "dateLastCrawled": "2025-03-30T22:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -15,6 +15,7 @@ import asyncio
 import aiohttp
 import math
 import glob
+from itertools import islice
 
 # Define process_json_file function since the import is failing
 def process_json_file(json_file_path):
@@ -86,6 +87,9 @@ def get_proxy():
         raise
 
 async def make_api_call_async(session, name, city, state, notice_id, max_retries=10):
+    # Remove anything after a comma in the name
+    name = name.split(',')[0].strip()
+    
     # First replace spaces with hyphens
     formatted_name = name.lower().replace(' ', '-')
     
@@ -110,7 +114,7 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
     formatted_city_name = city.lower().replace(' ', '-')  # Use hyphens for city
     output_filename = f"{notice_id}_{formatted_output_name}_{formatted_city_name}_{formatted_state}.html"
     bucket_name = "datainsdr"
-    s3_path = f"PNCBigBoy25thMay/{output_filename}"
+    s3_path = f"PNCBigBoy6thJune/{output_filename}"
     
     if check_file_exists_in_s3(bucket_name, s3_path):
         print(f"Response file already exists for {notice_id}_{name} in S3, skipping...")
@@ -130,7 +134,7 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
         try:
             print(f"Attempt {attempt} for {notice_id}_{name} in {city}, {state}")
             
-            timeout = aiohttp.ClientTimeout(total=60)
+            timeout = aiohttp.ClientTimeout(total=120)  # 2 minutes timeout
             async with session.get(url, proxy=proxy, ssl=False, timeout=timeout) as response:
                 response_text = await response.text()
             
@@ -158,13 +162,17 @@ async def make_api_call_async(session, name, city, state, notice_id, max_retries
             else:
                 print("Empty content in response, retrying...")
         except asyncio.TimeoutError:
-            print(f"Timeout on attempt {attempt} after 60 seconds")
+            print(f"Timeout on attempt {attempt} after 120 seconds")
         except Exception as e:
             print(f"Error on attempt {attempt}: {str(e)}")
         await asyncio.sleep(2)  # Add a small delay between retries
     
     print(f"Failed to get valid response after {max_retries} attempts")
     return None
+
+async def process_batch(session, batch):
+    tasks = [make_api_call_async(session, name, city, state, notice_id) for name, city, state, notice_id in batch]
+    return await asyncio.gather(*tasks)
 
 async def process_csv_file_async(csv_file_path):
     bucket_name = "datainsdr"
@@ -174,8 +182,8 @@ async def process_csv_file_async(csv_file_path):
     existing_files = set()
     paginator = s3_client.get_paginator('list_objects_v2')
     
-    print(f"\nChecking existing files in s3://{bucket_name}/PNCBigBoy25thMay/")
-    for page in paginator.paginate(Bucket=bucket_name, Prefix="PNCBigBoy25thMay/"):
+    print(f"\nChecking existing files in s3://{bucket_name}/PNCBigBoy6thJune/")
+    for page in paginator.paginate(Bucket=bucket_name, Prefix="PNCBigBoy6thJune/"):
         if 'Contents' in page:
             for obj in page['Contents']:
                 key = obj['Key']
@@ -291,17 +299,26 @@ async def process_csv_file_async(csv_file_path):
     failed_entries = []
     processed_count = 0
     
-    print("\nStarting processing of all missing entries...")
+    print("\nStarting processing of all missing entries in batches of 30...")
     async with aiohttp.ClientSession() as session:
-        tasks = [make_api_call_async(session, name, city, state, notice_id) for name, city, state, notice_id in missing_items]
-        results = await asyncio.gather(*tasks)
-        
-        # Track failed entries and count successes
-        for item, result in zip(missing_items, results):
-            if not result or result == "already_exists":
-                failed_entries.append(item)
-            elif result:
-                processed_count += 1
+        # Process in batches of 30
+        batch_size = 30
+        for i in range(0, len(missing_items), batch_size):
+            batch = missing_items[i:i + batch_size]
+            print(f"\nProcessing batch {i//batch_size + 1} of {math.ceil(len(missing_items)/batch_size)}")
+            results = await process_batch(session, batch)
+            
+            # Track failed entries and count successes for this batch
+            for item, result in zip(batch, results):
+                if not result or result == "already_exists":
+                    failed_entries.append(item)
+                elif result:
+                    processed_count += 1
+            
+            # Add a small delay between batches
+            if i + batch_size < len(missing_items):
+                print("Waiting 5 seconds before next batch...")
+                await asyncio.sleep(5)
     
     print(f"\nFinal Results:")
     print(f"Successfully processed {processed_count} out of {len(missing_items)} items")

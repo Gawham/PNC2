@@ -1,0 +1,407 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "984 S Silt Dr, Pueblo CO 81007"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=984+S+Silt+Dr%2c+Pueblo+CO+81007",
+    "totalEstimatedMatches": 1110000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "984 S Silt Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/984-S-Silt-Dr-Pueblo-West-CO-81007/14024607_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/984-S-Silt-Dr-Pueblo-West-CO-81007/14024607_zpid",
+        "snippet": "984 S Silt Dr, Pueblo West CO, is a Single Family home that contains 960 sq ft and was built in 1998.It contains 2 bedrooms and 1 bathroom.This home last sold for $30,000 in March 2007. The Zestimate for this Single Family is $148,800, which has increased by $7,923 in the last 30 days.The Rent Zestimate for this Single Family is $1,505/mo, which has increased by $1,505/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-10T09:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "984 S Silt Dr, Pueblo, CO 81007 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/984-S-Silt-Dr_Pueblo_CO_81007_M19111-34691",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/984-S-Silt-Dr_Pueblo_CO_81007_M19111...",
+        "snippet": "See sales history and home details for 984 S Silt Dr, Pueblo, CO 81007, a 2 bed, 1 bath, 960 Sq. Ft. mobile home built in 1998 that was last sold on 03/19/2007.",
+        "dateLastCrawled": "2024-08-07T16:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "984 Silt Dr, Pueblo West, CO 81007 | MLS# 105030 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/984-S-Silt-Dr-81007/home/132741737",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/984-S-Silt-Dr-81007/home/132741737",
+        "snippet": "3 beds, 2 baths, 1024 sq. ft. house located at 984 Silt Dr, Pueblo West, CO 81007 sold for $30,000 on Feb 16, 2007. MLS# 105030. TAXES ON LOT ONLY- LOT AND HOME IN THE PROCESS OF BEING PURGED. HOME...",
+        "dateLastCrawled": "2024-12-15T00:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "984 S Silt Dr Pueblo West, CO 81007 - Trulia",
+        "url": "https://www.trulia.com/home/984-s-silt-dr-pueblo-west-co-81007-14024607",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/984-s-silt-dr-pueblo-west-co-81007-14024607",
+        "snippet": "984 S Silt Dr, Pueblo West, CO 81007 is a 960 sqft, 2 bed, 1 bath home sold in 2007. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-04-25T15:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "984 S Silt Dr, Pueblo, CO 81007 - Homes.com",
+        "url": "https://www.homes.com/property/984-s-silt-dr-pueblo-co/plzl485m7xxm2/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/984-s-silt-dr-pueblo-co/plzl485m7xxm2",
+        "snippet": "This home is located at 984 S Silt Dr, Pueblo, CO 81007 and is currently estimated at $164,061, approximately $160 per square foot. 984 S Silt Dr is a home located in Pueblo County with nearby schools including Desert Sage Elementary School, Liberty Point International School, and Pueblo West High School. ...",
+        "dateLastCrawled": "2025-02-26T02:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Who Lives at 984 S Silt Dr, Pueblo, CO 81007 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Pueblo/984-S-Silt-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Pueblo/984-S-Silt-Dr",
+        "snippet": "Find people by address using reverse address lookup for 984 S Silt Dr, Pueblo, CO 81007. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-02-08T23:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "984 S Silt Dr Pueblo West CO 81007 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/984-s-silt-dr-pueblo-west-co-81007-30169484",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/984-s-silt-dr-pueblo-west-co-81007-30169484",
+        "snippet": "984 S Silt Dr Pueblo West CO with 2 bedroom and 1 bath is currently not for sale. Xome's estimated value is $176,330. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-05-14T03:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "978 S Silt Dr, Pueblo West, CO 81007 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/978-S-Silt-Dr_Pueblo_CO_81007_M10593-76789",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/978-S-Silt-Dr_Pueblo_CO_81007_M10593...",
+        "snippet": "View detailed information about property 978 S Silt Dr, Pueblo West, CO 81007 including listing details, property photos, school and neighborhood data, and much more. ... 984 S Silt Dr, Pueblo, CO ...",
+        "dateLastCrawled": "2025-03-20T19:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "954 S Silt Dr, Pueblo West, CO 81007 - realestate.com.au",
+        "url": "https://www.realestate.com.au/international/us/954-s-silt-dr-pueblo-west-co-110098996286/",
+        "datePublished": "2025-04-25T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 25, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realestate.com.au/international/us/954-s-silt-dr-pueblo-west-co-110098996286",
+        "snippet": "954 S Silt Dr, Pueblo West, CO 81007. Move-in ready and fully refreshed! This beautifully remodeled 3-bedroom, 2-bath single wide offers a modern touch inside and out. Enjoy brand-new carpet and laminate flooring, fresh paint throughout, and a stylishly updated kitchen featuring stainless steel appliances. The spacious master suite boasts a ...",
+        "dateLastCrawled": "2025-06-07T03:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "realestate.com.au"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "984 S Sibley Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/984-S-Sibley-Dr-Pueblo-West-CO-81007/14048360_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/984-S-Sibley-Dr-Pueblo-West-CO-81007/14048360_zpid",
+        "snippet": "984 S Sibley Dr, Pueblo West CO, is a Mobile / Manufactured home. The Zestimate for this Mobile / Manufactured is $106,800, which has decreased by $10,597 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,507/mo, which has increased by $1,507/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-13T18:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "984 S Sibley Dr, Pueblo, CO 81007 - Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/984-S-Sibley-Dr-81007/home/133039845",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/984-S-Sibley-Dr-81007/home/133039845",
+        "snippet": "Mobile/manufactured home located at 984 S Sibley Dr, Pueblo, CO 81007 sold for $6,000 on Jan 28, 2004. View sales history, tax history, home value estimates, and overhead views. APN 624104027.",
+        "dateLastCrawled": "2025-05-11T17:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "989 S Silt Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/989-S-Silt-Dr-Pueblo-West-CO-81007/14024763_zpid/",
+        "datePublished": "2025-03-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 20, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/989-S-Silt-Dr-Pueblo-West-CO-81007/14024763_zpid",
+        "snippet": "989 S Silt Dr, Pueblo West CO, is a Mobile / Manufactured home that contains 1134 sq ft and was built in 1997.It contains 3 bedrooms and 2 bathrooms.This home last sold for $203,197 in March 2023. The Zestimate for this Mobile / Manufactured is $215,900, which has increased by $161 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,385/mo, which has increased by $1,385 ...",
+        "dateLastCrawled": "2025-05-14T01:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "989 S Silt Dr, Pueblo West, CO 81007 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/989-S-Silt-Dr_Pueblo-West_CO_81007_M10936-61456",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/989-S-Silt-Dr_Pueblo-West_CO_81007_M...",
+        "snippet": "View 29 photos for 989 S Silt Dr, Pueblo West, CO 81007, a 3 bed, 2 bath, 1,134 Sq. Ft. single family home built in 1997 that was last sold on 03/17/2023.",
+        "dateLastCrawled": "2024-02-24T01:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "954 S Silt Dr, Pueblo, CO 81007 | For Sale ($225,000) | MLS ... - Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/954-S-Silt-Dr-81007/home/132614690",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/954-S-Silt-Dr-81007/home/132614690",
+        "snippet": "(REColorado as Distributed by MLS Grid) For Sale: 3 beds, 2 baths \u2219 1216 sq. ft. \u2219 954 S Silt Dr, Pueblo, CO 81007 \u2219 $225,000 \u2219 MLS# 2872669 \u2219 Move-in ready and fully refreshed! This beautifully remodeled 3-bedroom, 2-bath single wide of...",
+        "dateLastCrawled": "2025-06-06T05:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "998 S Silt Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/998-S-Silt-Dr-Pueblo-West-CO-81007/14024605_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/998-S-Silt-Dr-Pueblo-West-CO-81007/14024605_zpid",
+        "snippet": "998 S Silt Dr, Pueblo West CO, is a Single Family home that contains 1782 sq ft and was built in 1994.It contains 3 bedrooms and 2 bathrooms.This home last sold for $94,500 in May 2016. The Zestimate for this Single Family is $251,600, which has increased by $7,058 in the last 30 days.The Rent Zestimate for this Single Family is $1,958/mo, which has increased by $1,958/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-28T22:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "954 S Silt Dr, Pueblo West, CO 81007 [Updated 4/24] - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/954-S-Silt-Dr_Pueblo-West_CO_81007_M22126-85103",
+        "datePublished": "2025-04-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/954-S-Silt-Dr_Pueblo-West_CO_81007_M...",
+        "snippet": "954 S Silt Dr, Pueblo West, CO 81007 is for sale. View 34 photos of this 3 bed, 2 bath, 1216 sqft. single family home with a list price of $225000. ... 984 E Saxony Dr. Pueblo West, CO 81007.",
+        "dateLastCrawled": "2025-04-24T11:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "978 S Silt Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/978-S-Silt-Dr-Pueblo-West-CO-81007/14024608_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/978-S-Silt-Dr-Pueblo-West-CO-81007/14024608_zpid",
+        "snippet": "978 S Silt Dr, Pueblo West CO, is a Single Family home that contains 1216 sq ft and was built in 1997.It contains 3 bedrooms and 2 bathrooms.This home last sold for $48,500 in April 2003. The Zestimate for this Single Family is $188,700, which has increased by $2,787 in the last 30 days.The Rent Zestimate for this Single Family is $1,871/mo, which has increased by $1,871/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-08T12:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "940 S Silt Dr, Pueblo West, CO 81007 - Zillow",
+        "url": "https://www.zillow.com/homedetails/940-S-Silt-Dr-Pueblo-West-CO-81007/14024595_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/940-S-Silt-Dr-Pueblo-West-CO-81007/14024595_zpid",
+        "snippet": "940 S Silt Dr, Pueblo West CO, is a Single Family home that contains 784 sq ft and was built in 1986.It contains 2 bedrooms and 1 bathroom.This home last sold for $38,000 in September 2014. The Zestimate for this Single Family is $126,600, which has increased by $3,268 in the last 30 days.The Rent Zestimate for this Single Family is $1,188/mo, which has increased by $1,188/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T02:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "954 S Silt Dr, Pueblo West, CO 81007 | MLS #231553 | Zillow",
+        "url": "https://www.zillow.com/homedetails/954-S-Silt-Dr-Pueblo-West-CO-81007/14024612_zpid/",
+        "datePublished": "2025-05-09T00:00:00.0000000",
+        "datePublishedDisplayText": "May 9, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/954-S-Silt-Dr-Pueblo-West-CO-81007/14024612_zpid",
+        "snippet": "Zillow has 35 photos of this $225,000 3 beds, 2 baths, 1,216 Square Feet manufactured home located at 954 S Silt Dr, Pueblo West, CO 81007 built in 1996. MLS #231553.",
+        "dateLastCrawled": "2025-06-05T18:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

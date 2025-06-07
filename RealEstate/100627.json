@@ -1,0 +1,417 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "9288 Buttonhill Ct, Highlands Ranch CO 80130"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=9288+Buttonhill+Ct%2c+Highlands+Ranch+CO+80130",
+    "totalEstimatedMatches": 287000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "9288 Buttonhill Ct, Highlands Ranch, CO 80130 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9288-Buttonhill-Ct-Highlands-Ranch-CO-80130/13456434_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9288-Buttonhill-Ct-Highlands-Ranch-CO-80130/...",
+        "snippet": "9288 Buttonhill Ct, Highlands Ranch CO, is a Single Family home that contains 2459 sq ft and was built in 1990.It contains 5 bedrooms and 3 bathrooms.This home last sold for $204,000 in April 1996. The Zestimate for this Single Family is $702,800, which has increased by $13,126 in the last 30 days.The Rent Zestimate for this Single Family is $3,475/mo, which has increased by $3,475/mo in the ...",
+        "dateLastCrawled": "2025-03-14T17:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "9288 Buttonhill Ct, Highlands Ranch, CO 80130 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/9288-Buttonhill-Ct-80130/home/35179238",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/9288-Buttonhill-Ct-80130/home/35179238",
+        "snippet": "9288 Buttonhill Ct is a 2,459 square foot house on a 6,839 square foot lot with 5 bedrooms and 3 bathrooms. - it last sold on April 22, 1996 for $204,000. Based on Redfin's Highlands Ranch data, we estimate the home's value is $705,366.",
+        "dateLastCrawled": "2024-09-28T18:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "9288 Buttonhill Ct, Highlands Ranch, 80130, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "9288 Buttonhill Ct, Highlands Ranch, CO 80130 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/9288-Buttonhill-Ct_Highlands-Ranch_CO_80130_M13349-70692",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../9288-Buttonhill-Ct_Highlands-Ranch_CO_80130_M13349-70692",
+        "snippet": "See sales history and home details for 9288 Buttonhill Ct, Highlands Ranch, CO 80130, a 5 bed, 3 bath, 2,459 Sq. Ft. single family home built in 1990 that was last sold on 04/22/1996.",
+        "dateLastCrawled": "2024-07-16T01:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "9288 Buttonhill Ct, Highlands Ranch, CO 80130 - Trulia",
+        "url": "https://www.trulia.com/home/9288-buttonhill-ct-highlands-ranch-co-80130-13456434",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/9288-buttonhill-ct-highlands-ranch-co-80130-13456434",
+        "snippet": "9288 Buttonhill Ct, Highlands Ranch, CO 80130 is a 2,459 sqft, 5 bed, 3 bath home sold in 1996. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-05-22T04:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "9288 Buttonhill Ct, Highlands Ranch, CO 80130 | Homes.com",
+        "url": "https://www.homes.com/property/9288-buttonhill-ct-highlands-ranch-co/1mz1g4llfy7gz/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/9288-buttonhill-ct-highlands-ranch-co/1mz1g4llfy7gz",
+        "snippet": "9288 Buttonhill Ct, Highlands Ranch, CO 80130 - 3,720 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... Highlands Ranch, CO 80130 and is currently estimated at $735,510, approximately $197 per square foot. 9288 Buttonhill Ct is a home located in Douglas County with nearby schools including Fox Creek ...",
+        "dateLastCrawled": "2025-02-17T11:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Bar-1 Rescue Inc. \u00b7 9288 Buttonhill Court, Highlands Ranch, CO 80130",
+        "url": "https://opengovco.com/business/20181049843",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20181049843",
+        "snippet": "Bar-1 Rescue Inc. (Entity #20181049843) is a Nonprofit Corporation in Highlands Ranch, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on January 20, 2018 in the jurisdiction of Colorado. The registered office location is at 9288 Buttonhill Court, Highlands Ranch, CO 80130. The current entity status is delinquent.",
+        "dateLastCrawled": "2024-07-20T08:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "9288 Buttonhill Ct Highlands Ranch, CO 80130 - Xome",
+        "url": "https://www.xome.com/realestate/9288-buttonhill-ct-highlands-ranch-co-80130-123457667",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/9288-buttonhill-ct-highlands-ranch-co-80130-123457667",
+        "snippet": "9288 Buttonhill Ct Highlands Ranch CO with 5 bedroom and 4 bath is currently not for sale. Xome's estimated value is $712,446. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-01-13T00:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "9284 Buttonhill Ct, Highlands Ranch, CO 80130 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9284-Buttonhill-Ct-Highlands-Ranch-CO-80130/13456435_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9284-Buttonhill-Ct-Highlands-Ranch-CO-80130/...",
+        "snippet": "9284 Buttonhill Ct, Highlands Ranch CO, is a Single Family home that contains 3355 sq ft and was built in 1990.It contains 4 bedrooms and 4 bathrooms.This home last sold for $550,405 in June 2018. The Zestimate for this Single Family is $772,300, which has increased by $340 in the last 30 days.The Rent Zestimate for this Single Family is $3,685/mo, which has increased by $3,685/mo in the last ...",
+        "dateLastCrawled": "2024-11-08T06:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "9289 Buttonhill Ct, Highlands Ranch, CO 80130 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/9289-Buttonhill-Ct-80130/home/35179235",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/9289-Buttonhill-Ct-80130/home/35179235",
+        "snippet": "4 beds, 3 baths, 2916 sq. ft. house located at 9289 Buttonhill Ct, Highlands Ranch, CO 80130 sold for $155,455 on Oct 23, 1990. View sales history, tax history, home value estimates, and overhead v...",
+        "dateLastCrawled": "2024-08-31T13:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "9280 Buttonhill Ct, Highlands Ranch, CO 80130 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/9280-Buttonhill-Ct_Highlands-Ranch_CO_80130_M22292-32069",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../9280-Buttonhill-Ct_Highlands-Ranch_CO_80130_M22292-32069",
+        "snippet": "See sales history and home details for 9280 Buttonhill Ct, Highlands Ranch, CO 80130, a 3 bed, 3 bath, 3,577 Sq. Ft. single family home built in 1990 that was last sold on 10/30/1990.",
+        "dateLastCrawled": "2024-02-09T16:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "9280 Buttonhill Ct, Highlands Ranch, CO 80130 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9280-Buttonhill-Ct-Highlands-Ranch-CO-80130/13454044_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9280-Buttonhill-Ct-Highlands-Ranch-CO-80130/...",
+        "snippet": "9280 Buttonhill Ct, Highlands Ranch CO, is a Single Family home that contains 2459 sq ft and was built in 1990.It contains 3 bedrooms and 3 bathrooms.This home last sold for $158,000 in October 1990. The Zestimate for this Single Family is $729,800, which has increased by $14,484 in the last 30 days.The Rent Zestimate for this Single Family is $3,225/mo, which has increased by $3,225/mo in the ...",
+        "dateLastCrawled": "2025-03-31T10:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "9280 Buttonhill Ct, Highlands Ranch, CO 80130 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/9280-Buttonhill-Ct-80130/home/35174673",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/9280-Buttonhill-Ct-80130/home/35174673",
+        "snippet": "9280 Buttonhill Ct is a 3,577 square foot house on a 9,322 square foot lot with 3 bedrooms and 3 bathrooms. - it last sold on October 30, 1990 for $157,976. Based on Redfin's Highlands Ranch data, we estimate the home's value is $742,125.",
+        "dateLastCrawled": "2025-04-12T16:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "9289 Buttonhill Ct, Highlands Ranch, CO 80130 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/9289-Buttonhill-Ct_Highlands-Ranch_CO_80130_M12479-48419",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../9289-Buttonhill-Ct_Highlands-Ranch_CO_80130_M12479-48419",
+        "snippet": "See sales history and home details for 9289 Buttonhill Ct, Highlands Ranch, CO 80130, a 4 bed, 3 bath, 2,916 Sq. Ft. single family home built in 1990 that was last sold on 10/23/1990.",
+        "dateLastCrawled": "2024-02-24T01:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "9285 Buttonhill Ct, Highlands Ranch, CO 80130 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9285-Buttonhill-Ct-Highlands-Ranch-CO-80130/13456430_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9285-Buttonhill-Ct-Highlands-Ranch-CO-80130/...",
+        "snippet": "9285 Buttonhill Ct, Highlands Ranch CO, is a Single Family home that contains 3061 sq ft and was built in 1990.It contains 4 bedrooms and 4 bathrooms.This home last sold for $480,000 in August 2017. The Zestimate for this Single Family is $716,400, which has increased by $7,868 in the last 30 days.The Rent Zestimate for this Single Family is $3,729/mo, which has increased by $3,729/mo in the ...",
+        "dateLastCrawled": "2025-03-15T15:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "9285 Buttonhill Ct, Highlands Ranch, CO 80130 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/9285-Buttonhill-Ct_Highlands-Ranch_CO_80130_M16988-95366",
+        "datePublished": "2017-09-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 12, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../9285-Buttonhill-Ct_Highlands-Ranch_CO_80130_M16988-95366",
+        "snippet": "View detailed information about property 9285 Buttonhill Ct, Highlands Ranch, CO 80130 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-11-13T19:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "9250 Buttonhill Ct, Highlands Ranch, CO 80130 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/9250-Buttonhill-Ct-80130/home/35174771",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/9250-Buttonhill-Ct-80130/home/35174771",
+        "snippet": "5 beds, 4 baths, 3364 sq. ft. house located at 9250 Buttonhill Ct, Highlands Ranch, CO 80130 sold for $572,500 on Jul 24, 2020. MLS# 7512267. Welcome to this immaculate home in the coveted Highland...",
+        "dateLastCrawled": "2025-03-21T15:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "9289 Buttonhill Ct, Highlands Ranch, CO 80130 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9289-Buttonhill-Ct-Highlands-Ranch-CO-80130/13456431_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9289-Buttonhill-Ct-Highlands-Ranch-CO-80130/...",
+        "snippet": "9289 Buttonhill Ct, Highlands Ranch CO, is a Single Family home that contains 2135 sq ft and was built in 1990.It contains 4 bedrooms and 3 bathrooms.This home last sold for $155,500 in October 1990. The Zestimate for this Single Family is $695,100, which has increased by $13,200 in the last 30 days.The Rent Zestimate for this Single Family is $3,138/mo, which has increased by $3,138/mo in the ...",
+        "dateLastCrawled": "2025-02-26T00:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "9293 Buttonhill Court, Highlands Ranch, CO 80130 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9293-Buttonhill-Ct-Highlands-Ranch-CO-80130/13456432_zpid/",
+        "datePublished": "2023-09-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 13, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9293-Buttonhill-Ct-Highlands-Ranch-CO-80130/...",
+        "snippet": "9293 Buttonhill Court, Highlands Ranch CO, is a Single Family home that contains 2294 sq ft and was built in 1990.It contains 4 bedrooms and 4 bathrooms.This home last sold for $715,000 in February 2023. The Zestimate for this Single Family is $703,400, which has decreased by $100 in the last 30 days.The Rent Zestimate for this Single Family is $3,138/mo, which has increased by $3,138/mo in ...",
+        "dateLastCrawled": "2025-04-09T04:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "9218 Buttonhill Ct, Highlands Ranch, CO 80130 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9218-Buttonhill-Ct-Highlands-Ranch-CO-80130/13454052_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9218-Buttonhill-Ct-Highlands-Ranch-CO-80130/...",
+        "snippet": "9218 Buttonhill Ct, Highlands Ranch CO, is a Single Family home that contains 3818 sq ft and was built in 1992.It contains 5 bedrooms and 3.5 bathrooms.This home last sold for $367,000 in August 2012. The Zestimate for this Single Family is $781,700, which has decreased by $333 in the last 30 days.The Rent Zestimate for this Single Family is $3,948/mo, which has increased by $3,948/mo in the ...",
+        "dateLastCrawled": "2025-04-21T16:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

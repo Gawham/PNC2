@@ -1,0 +1,478 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "410 W 6th St, Unit 1, Cortez CO 81321"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=410+W+6th+St%2c+Unit+1%2c+Cortez+CO+81321",
+    "totalEstimatedMatches": 3700000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "410 W 6th St APT 1, Cortez, CO 81321 - Zillow",
+        "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-1-Cortez-CO-81321/229257921_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/410-W-6th-St-APT-1-Cortez-CO-81321/229257921_zpid",
+        "snippet": "410 W 6th St APT 1, Cortez, CO 81321 is currently not for sale. The 1,050 Square Feet condo home is a 2 beds, 2 baths property. This home was built in 1984 and last sold on 2021-03-30 for $196,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "deepLinks": [
+          {
+            "name": "410 W 6th St APT 3, Cortez, CO 81321 - Zillow",
+            "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-3-Cortez-CO-81321/229257923_zpid/",
+            "snippet": "410 W 6th St Apt 3, Cortez CO, is a Condo home that contains 1050 sq ft and was built in 1984.It contains 2 bedrooms and 2 bathrooms.This home last sold for $165,000 in December 2023. The Rent Zestimate for this Condo is $1,616/mo, which has increased by $1,616/mo in the last 30 days."
+          },
+          {
+            "name": "410 W 6th St APT 7, Cortez, CO 81321 - Zillow",
+            "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-7-Cortez-CO-81321/229257927_zpid/",
+            "snippet": "410 W 6th St APT 7, Cortez, CO 81321 is currently not for sale. The 1,050 Square Feet single family home is a 2 beds, 1 bath property. This home was built in null and last sold on 2025-03-01 for $1,300. View more property details, sales history, and Zestimate data on Zillow."
+          }
+        ],
+        "dateLastCrawled": "2025-03-07T01:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "410 W 6th St #1, Cortez, CO 81321 | MLS# 776922 | Redfin",
+        "url": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-1/home/70113109",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-1/home/70113109",
+        "snippet": "2 beds, 1.5 baths, 1050 sq. ft. condo located at 410 W 6th St #1, Cortez, CO 81321 sold for $196,000 on Mar 30, 2021. MLS# 776922. Stunning Telluride craftsmanship in a fully remodeled condominium ...",
+        "dateLastCrawled": "2024-04-07T18:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "410 W 6th St, Cortez, CO 81321 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St_Cortez_CO_81321_M28461-59350",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St_Cortez_CO_81321_M28461...",
+        "snippet": "View detailed information about property 410 W 6th St, Cortez, CO 81321 including listing details, property photos, school and neighborhood data, and much more. ... Cortez new construction and ...",
+        "dateLastCrawled": "2024-06-23T00:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "410 W 6th St #1, Cortez, CO 81321 - See Est. Value, Schools & More - Trulia",
+        "url": "https://www.trulia.com/home/410-w-6th-st-1-cortez-co-81321-229257921",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/410-w-6th-st-1-cortez-co-81321-229257921",
+        "snippet": "410 W 6th St #1, Cortez, CO 81321 is a 1,050 sqft, 2 bed, 2 bath home sold in 2021. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-12-31T02:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "410 W 6th St, Cortez, CO 81321 - House Rental in Cortez, CO ...",
+        "url": "https://www.apartments.com/410-w-6th-st-cortez-co/exr6mtp/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/410-w-6th-st-cortez-co/exr6mtp",
+        "snippet": "2 br, 1 bath House - 410 W 6th St unit 7 media gallery Unit. Photos Floor Plans Matterport 3D Tours Videos View From Unit Floor Plan View Body Houses Colorado Montezuma County Cortez 410 W 6th St. $1,300 / Month ... Walkability Near 410 W 6th St Cortez, CO 81321. Somewhat Walkable. 54.",
+        "dateLastCrawled": "2025-06-03T06:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "410 W 6th St, Cortez, CO 81321 in Cortez, CO | Redfin",
+        "url": "https://www.redfin.com/CO/Cortez/410-W-6th-St-Cortez-CO-81321/building/112559",
+        "datePublished": "2021-03-30T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 30, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Cortez/410-W-6th-St-Cortez-CO-81321/building/112559",
+        "snippet": "View units for 410 W 6th St, Cortez, CO 81321 located at 410 W 6th St in Cortez, CO along with 11 photos of the property. This building has in total. Sign in. SEARCH; For Sale. For Rent. Find an Agent. Feed. ... Unit Sale Price Beds Baths Sq. Ft. Dec 06, 2024: 2. $176,200: 2 beds: 1.5 baths: 1050 sq. ft. Dec 21, 2023: 3. $165,000: 2 beds: 1.5 ...",
+        "dateLastCrawled": "2025-03-23T04:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "410 W 6th St Apt 3, Cortez, CO 81321 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-3_Cortez_CO_81321_M22694-59352",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-3_Cortez_CO_81321_M...",
+        "snippet": "410 W 6th St Apt 3, Cortez, CO 81321 is pending. View 28 photos of this 2 bed, 2 bath, 1050 sqft. condo with a list price of $189000.",
+        "dateLastCrawled": "2024-03-03T18:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "410 W 6th St APT 3, Cortez, CO 81321 - Zillow",
+        "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-3-Cortez-CO-81321/229257923_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.Ktx_hIt6omdJlNH1RqguWQHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/410-W-6th-St-APT-3-Cortez-CO-81321/229257923_zpid",
+        "snippet": "410 W 6th St Apt 3, Cortez CO, is a Condo home that contains 1050 sq ft and was built in 1984.It contains 2 bedrooms and 2 bathrooms.This home last sold for $165,000 in December 2023. The Rent Zestimate for this Condo is $1,616/mo, which has increased by $1,616/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-25T18:58:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.Ktx_hIt6omdJlNH1RqguWQHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.Ktx_hIt6omdJlNH1RqguWQHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "410 W 6th St Apt 10, Cortez, CO 81321 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-10_Cortez_CO_81321_M29299-33250",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-10_Cortez_CO_81321...",
+        "snippet": "View 35 photos for 410 W 6th St Apt 10, Cortez, CO 81321, a 3 bed, 2 bath, 1,242 Sq. Ft. condos home built in 1984 that was last sold on 05/14/2021.",
+        "dateLastCrawled": "2023-12-10T00:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "410 W 6th St APT 6, Cortez, CO 81321 - Zillow",
+        "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-6-Cortez-CO-81321/229257926_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/410-W-6th-St-APT-6-Cortez-CO-81321/229257926_zpid",
+        "snippet": "410 W 6th St Apt 6, Cortez, CO 81321 is currently not for sale. The 1,050 sq. ft. condo is a 2 bed, 2.0 bath unit. This condo was built in 1984 and last sold on for.",
+        "dateLastCrawled": "2022-12-05T02:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "410 W 6th #10 St #10, Cortez, CO 81321 | Redfin",
+        "url": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-10/home/70113071",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-10/home/70113071",
+        "snippet": "3 beds, 2 baths, 1242 sq. ft. condo located at 410 W 6th #10 St #10, Cortez, CO 81321 sold for $144,000 on May 14, 2021. MLS# 779062. WHAT MAKES A WONDERFUL LIFE? Does this lifestyle work for you?...",
+        "dateLastCrawled": "2025-03-18T02:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "410 W 6th St, Cortez, CO 81321 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St_Cortez_CO_81321_M19975-99533",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St_Cortez_CO_81321_M19975...",
+        "snippet": "View detailed information about property 410 W 6th St, Cortez, CO 81321 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App 314,000+",
+        "dateLastCrawled": "2023-08-05T18:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "410 W 6th St APT 10, Cortez, CO 81321 - Zillow",
+        "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-10-Cortez-CO-81321/229257930_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/410-W-6th-St-APT-10-Cortez-CO-81321/229257930_zpid",
+        "snippet": "410 W 6th St Apt 10, Cortez CO, is a Condo home that contains 1286 sq ft and was built in 1984.It contains 3 bedrooms and 2 bathrooms. The Rent Zestimate for this Condo is $1,914/mo, which has increased by $1,914/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-11T05:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "410 W 6th St #7, Cortez, CO 81321 - Redfin",
+        "url": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-7/home/70113115",
+        "datePublished": "2021-04-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 1, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-7/home/70113115",
+        "snippet": "410 W 6th St #7 is a 1,050 square foot condo with 2 bedrooms and 2 bathrooms. - it last sold on April 01, 2021 for $100,000. Based on Redfin's Cortez data, we estimate the home's value is $183,972.",
+        "dateLastCrawled": "2025-03-03T22:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "410 W 6th St Apt 2, Cortez, CO 81321 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-2_Cortez_CO_81321_M29297-46920",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-2_Cortez_CO_81321_M...",
+        "snippet": "410 W 6th St Apt 2, Cortez, CO 81321 is for sale. View 19 photos of this 2 bed, 1.5 bath, 1050 sqft. condo with a list price of $205000.",
+        "dateLastCrawled": "2024-11-16T13:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/LicenseAttribution",
+            "targetPropertyName": "snippet",
+            "targetPropertyIndex": 15,
+            "mustBeCloseToContent": true,
+            "license": {
+              "name": "CC-BY-SA",
+              "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+            },
+            "licenseNotice": "Text under CC-BY-SA license"
+          }
+        ],
+        "name": "Cortez, Colorado - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cortez,_Colorado",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://en.wikipedia.org/wiki/Cortez,_Colorado",
+        "snippet": "Cortez (/ \u02c8 k \u0254\u02d0r t \u025b z / \u24d8) is a home-rule municipality that is the county seat and the most populous municipality of Montezuma County, Colorado, United States. [1] The city's population was 8,766 at the 2020 United States census .",
+        "dateLastCrawled": "2025-06-01T17:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Wikipedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "410 W 6th St APT 7, Cortez, CO 81321 - Zillow",
+        "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-7-Cortez-CO-81321/229257927_zpid/",
+        "datePublished": "2025-02-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 21, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/410-W-6th-St-APT-7-Cortez-CO-81321/229257927_zpid",
+        "snippet": "410 W 6th St APT 7, Cortez, CO 81321 is currently not for sale. The 1,050 Square Feet single family home is a 2 beds, 1 bath property. This home was built in null and last sold on 2025-03-01 for $1,300. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-30T23:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "410 W 6th St #2, Cortez, CO 81321 | Redfin",
+        "url": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-2/home/70113120",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Cortez/410-W-6th-St-81321/unit-2/home/70113120",
+        "snippet": "Sold: 2 beds, 1.5 baths, 1050 sq. ft. condo located at 410 W 6th St #2, Cortez, CO 81321 sold for $176,200 on Dec 6, 2024. MLS# 816228. Are you ready to buy but are looking for an affordable home??...",
+        "dateLastCrawled": "2025-02-07T08:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "410 W 6th St Apt 7, Cortez, CO 81321 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-7_Cortez_CO_81321_M19678-49205",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/410-W-6th-St-Apt-7_Cortez_CO_81321_M...",
+        "snippet": "View 26 photos for 410 W 6th St Apt 7, Cortez, CO 81321, a 2 bed, 2 bath, 1,050 Sq. Ft. condos home built in 1984 that was last sold on 04/01/2021.",
+        "dateLastCrawled": "2024-01-01T22:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "410 W 6th St APT 5, Cortez, CO 81321 - Zillow",
+        "url": "https://www.zillow.com/homedetails/410-W-6th-St-APT-5-Cortez-CO-81321/229257925_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/410-W-6th-St-APT-5-Cortez-CO-81321/229257925_zpid",
+        "snippet": "410 W 6th St APT 5, Cortez, CO 81321 is currently not for sale. The 1,050 Square Feet condo home is a 2 beds, 2 baths property. This home was built in 1984 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-16T06:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "410 W 6th Unit #7 St #7, Cortez, CO 81321 | Redfin",
+        "url": "https://www.redfin.com/CO/Cortez/410-W-7th-St-81321/unit-7/home/180832367",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Cortez/410-W-7th-St-81321/unit-7/home/180832367",
+        "snippet": "2 beds, 1.5 baths, 1050 sq. ft. condo located at 410 W 6th Unit #7 St #7, Cortez, CO 81321 sold for $100,000 on Apr 1, 2021. MLS# 776835. CONDO LIVING - AT WHATEVER AGE?",
+        "dateLastCrawled": "2025-03-26T06:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

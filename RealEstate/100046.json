@@ -1,0 +1,410 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2509 Royalty Ct, Colorado Springs CO 80904"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2509+Royalty+Ct%2c+Colorado+Springs+CO+80904",
+    "totalEstimatedMatches": 734000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "2509 Royalty Ct, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2509-Royalty-Ct-Colorado-Springs-CO-80904/13661172_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2509-Royalty-Ct-Colorado-Springs-CO-80904/13661172_zpid",
+        "snippet": "2509 Royalty Ct, Colorado Springs CO, is a Single Family home that contains 1013 sq ft and was built in 1971.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $415,000, which has increased by $7,519 in the last 30 days.The Rent Zestimate for this Single Family is $2,107/mo, which has increased by $2,107/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T05:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "2509 Royalty Ct, Colorado Springs, CO 80904 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2509-Royalty-Ct_Colorado-Springs_CO_80904_M18042-11365",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2509-Royalty-Ct_Colorado-Springs_CO_80904_M18042-11365",
+        "snippet": "View detailed information about property 2509 Royalty Ct, Colorado Springs, CO 80904 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-04-15T16:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "2509 Royalty Ct, Colorado Springs, CO 80904 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2509-Royalty-Ct-80904/home/34578812",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2509-Royalty-Ct-80904/home/34578812",
+        "snippet": "3 beds, 2 baths, 2026 sq. ft. house located at 2509 Royalty Ct, Colorado Springs, CO 80904 sold for $18,500 on Dec 1, 1971. View sales history, tax history, home value estimates, and overhead views...",
+        "dateLastCrawled": "2024-12-15T22:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2509 Royalty Ct, Colorado Springs, 80904"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "2509 Royalty Ct, Colorado Springs, CO 80904 | Homes.com",
+        "url": "https://www.homes.com/property/2509-royalty-ct-colorado-springs-co/6l7nq90we4mcd/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/2509-royalty-ct-colorado-springs-co/6l7nq90we4mcd",
+        "snippet": "This home is located at 2509 Royalty Ct, Colorado Springs, CO 80904 and is currently estimated at $419,568, approximately $414 per square foot. 2509 Royalty Ct is a home located in El Paso County with nearby schools including Bristol Elementary, School of the Arts and STEM, Holmes Middle School, and Coronado High School. ...",
+        "dateLastCrawled": "2025-04-18T20:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "2509 Royalty Ct, Colorado Springs, CO 80904 - Movoto - Movoto by OJO",
+        "url": "https://www.movoto.com/colorado-springs-co/2509-royalty-ct-colorado-springs-co-80904/pid_areoqggt9g/",
+        "datePublished": "2024-08-03T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 3, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/colorado-springs-co/2509-royalty-ct-colorado-springs-co-80904/...",
+        "snippet": "2509 Royalty Ct is a 3 beds, 2 baths, 2,026 Sqft house built in 1971 on a 7,820 Sqft lot and located in the Pleasant Valley neighborhood in Colorado Springs. View the property estimate, details, and search for more land and homes nearby on Movoto.",
+        "dateLastCrawled": "2024-08-03T07:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "2509 Royalty Ct Colorado Springs, CO 80904 - Trulia",
+        "url": "https://www.trulia.com/home/2509-royalty-ct-colorado-springs-co-80904-13661172",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/2509-royalty-ct-colorado-springs-co-80904-13661172",
+        "snippet": "2509 Royalty Ct, Colorado Springs, CO 80904 is a 1,013 sqft, 3 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-12-01T21:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "2562 Royalty Ct, Colorado Springs, CO 80904 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2562-Royalty-Ct-80904/home/34581422",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2562-Royalty-Ct-80904/home/34581422",
+        "snippet": "5 beds, 1862 sq. ft. multi-family (2-4 unit) located at 2562 Royalty Ct, Colorado Springs, CO 80904 sold for $542,500 on May 31, 2023. MLS# 3156132. RARE OPPORTUNITY! Home can be used as single fam...",
+        "dateLastCrawled": "2025-03-12T22:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "2510 Royalty Ct, Colorado Springs, CO 80904 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2510-Royalty-Ct_Colorado-Springs_CO_80904_M20740-22383",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.OEQpBMleBMj3rxXdibxh7wHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2510-Royalty-Ct_Colorado-Springs_CO_80904_M20740-22383",
+        "snippet": "View 12 photos for 2510 Royalty Ct, Colorado Springs, CO 80904, a 3 bed, 2 bath, 2,066 Sq. Ft. single family home built in 1972 that was last sold on 12/11/2020.",
+        "dateLastCrawled": "2024-08-13T16:48:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.OEQpBMleBMj3rxXdibxh7wHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.OEQpBMleBMj3rxXdibxh7wHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "2549 Royalty Ct, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2549-Royalty-Ct-Colorado-Springs-CO-80904/13661168_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2549-Royalty-Ct-Colorado-Springs-CO-80904/13661168_zpid",
+        "snippet": "2549 Royalty Ct, Colorado Springs CO, is a Single Family home that contains 1495 sq ft and was built in 1973.It contains 3 bedrooms and 2 bathrooms.This home last sold for $283,000 in June 2019. The Zestimate for this Single Family is $399,600, which has increased by $14,232 in the last 30 days.The Rent Zestimate for this Single Family is $2,370/mo, which has increased by $2,370/mo in the last ...",
+        "dateLastCrawled": "2025-05-27T00:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "2510 Royalty Ct, Colorado Springs, CO 80904 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2510-Royalty-Ct-Colorado-Springs-CO-80904/13661319_zpid/",
+        "datePublished": "2025-04-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 15, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2510-Royalty-Ct-Colorado-Springs-CO-80904/13661319_zpid",
+        "snippet": "Zillow has 44 photos of this $499,900 3 beds, 2 baths, 2,066 Square Feet single family home located at 2510 Royalty Ct, Colorado Springs, CO 80904 built in 1972. MLS #6154808.",
+        "dateLastCrawled": "2025-04-22T00:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "2510 Royalty Ct, Colorado Springs, CO 80904 - Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2510-Royalty-Ct-80904/home/34581433",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2510-Royalty-Ct-80904/home/34581433",
+        "snippet": "For Sale: 3 beds, 2 baths \u2219 2066 sq. ft. \u2219 2510 Royalty Ct, Colorado Springs, CO 80904 \u2219 $499,900 \u2219 MLS# 6154808 \u2219 Exceptional Home for Sale: Master Suite on Main Level, Remodeled Kitchen & B...",
+        "dateLastCrawled": "2025-05-18T12:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "2525 Royalty Ct, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2525-Royalty-Ct-Colorado-Springs-CO-80904/13661170_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2525-Royalty-Ct-Colorado-Springs-CO-80904/13661170_zpid",
+        "snippet": "2525 Royalty Ct, Colorado Springs CO, is a Single Family home that contains 1470 sq ft and was built in 1971.It contains 4 bedrooms and 2 bathrooms.This home last sold for $420,000 in March 2023. The Zestimate for this Single Family is $433,700, which has increased by $3,220 in the last 30 days.The Rent Zestimate for this Single Family is $2,209/mo, which has increased by $2,209/mo in the last ...",
+        "dateLastCrawled": "2024-11-30T23:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "2549 Royalty Ct, Colorado Springs, CO 80904 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2549-Royalty-Ct-80904/home/34578816",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2549-Royalty-Ct-80904/home/34578816",
+        "snippet": "2549 Royalty Ct is a 1,542 square foot house on a 6,700 square foot lot with 3 bedrooms and 2 bathrooms. - it last sold on June 24, 2019 for $283,000. Based on Redfin's Colorado Springs data, we estimate the home's value is $422,844.",
+        "dateLastCrawled": "2025-03-30T22:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2566 Royalty Ct, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2566-Royalty-Ct-Colorado-Springs-CO-80904/13661314_zpid/",
+        "datePublished": "2022-10-31T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 31, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2566-Royalty-Ct-Colorado-Springs-CO-80904/13661314_zpid",
+        "snippet": "2566 Royalty Ct, Colorado Springs CO, is a Single Family home that contains 1440 sq ft and was built in 1972.It contains 4 bedrooms and 2 bathrooms.This home last sold for $385,000 in October 2022. The Zestimate for this Single Family is $408,000, which has increased by $408,000 in the last 30 days.The Rent Zestimate for this Single Family is $2,347/mo, which has increased by $2,347/mo in the ...",
+        "dateLastCrawled": "2025-03-29T15:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2525 Royalty Ct, Colorado Springs, CO 80904 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2525-Royalty-Ct-80904/home/34578818",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2525-Royalty-Ct-80904/home/34578818",
+        "snippet": "4 beds, 2 baths, 1470 sq. ft. house located at 2525 Royalty Ct, Colorado Springs, CO 80904 sold for $420,000 on Mar 27, 2023. MLS# 5019838. Location location location! This little westside cutie is...",
+        "dateLastCrawled": "2025-03-31T13:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "2562 Royalty Ct, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2562-Royalty-Ct-Colorado-Springs-CO-80904/13661315_zpid/",
+        "datePublished": "2023-05-31T00:00:00.0000000",
+        "datePublishedDisplayText": "May 31, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2562-Royalty-Ct-Colorado-Springs-CO-80904/13661315_zpid",
+        "snippet": "2562 Royalty Ct, Colorado Springs CO, is a Multiple Occupancy home that contains 1862 sq ft and was built in 1971.It contains 5 bedrooms and 2 bathrooms.This home last sold for $542,500 in May 2023. The Zestimate for this Multiple Occupancy is $547,300, which has increased by $5,652 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $1,877/mo, which has increased by $1,877 ...",
+        "dateLastCrawled": "2024-11-04T17:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "2569 Royalty Ct, Colorado Springs, CO 80904 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2569-Royalty-Ct-80904/home/34578850",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2569-Royalty-Ct-80904/home/34578850",
+        "snippet": "2569 Royalty Ct is a 1,320 square foot house on a 7,500 square foot lot with 4 bedrooms and 2 bathrooms. - it last sold on August 01, 1972 for $17,800. Based on Redfin's Colorado Springs data, we estimate the home's value is $397,791.",
+        "dateLastCrawled": "2025-05-31T05:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "2569 Royalty Ct, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2569-Royalty-Ct-Colorado-Springs-CO-80904/80397168_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2569-Royalty-Ct-Colorado-Springs-CO-80904/80397168_zpid",
+        "snippet": "2569 Royalty Ct, Colorado Springs CO, is a Single Family home that contains 876 sq ft and was built in 1972.It contains 4 bedrooms and 1.5 bathrooms. The Zestimate for this Single Family is $350,000, which has increased by $9,158 in the last 30 days.The Rent Zestimate for this Single Family is $1,998/mo, which has increased by $1,998/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-14T12:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

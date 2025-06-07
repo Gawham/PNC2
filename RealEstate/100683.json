@@ -1,0 +1,388 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "102 Pack Saddle Pass, Abilene TX 79602"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=102+Pack+Saddle+Pass%2c+Abilene+TX+79602",
+    "totalEstimatedMatches": 164000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "102 Pack Saddle Pass, Abilene, TX 79602 - Zillow",
+        "url": "https://www.zillow.com/homedetails/102-Pack-Saddle-Pass-Abilene-TX-79602/62562272_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/102-Pack-Saddle-Pass-Abilene-TX-79602/62562272_zpid",
+        "snippet": "102 Pack Saddle Pass, Abilene, TX 79602 is currently not for sale. The 1,560 Square Feet single family home is a 3 beds, 2 baths property. This home was built in 2002 and last sold on 2011-04-16 for $149,900. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-26T18:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "102 Pack Saddle Pass, Abilene, TX 79602 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/102-Pack-Saddle-Pass_Abilene_TX_79602_M82891-47755",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../102-Pack-Saddle-Pass_Abilene_TX_79602_M82891-47755",
+        "snippet": "View detailed information about property 102 Pack Saddle Pass, Abilene, TX 79602 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-03-07T23:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "102 Pack Saddle Pass, Abilene, TX 79602 | Redfin",
+        "url": "https://www.redfin.com/TX/Abilene/102-Pack-Saddle-Pass-79602/home/55027414",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/TX/Abilene/102-Pack-Saddle-Pass-79602/home/55027414",
+        "snippet": "3 beds, 2 baths, 1560 sq. ft. house located at 102 Pack Saddle Pass, Abilene, TX 79602. View sales history, tax history, home value estimates, and overhead views. APN 000000099080.",
+        "dateLastCrawled": "2024-11-15T05:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "102 Pack Saddle Pass, Abilene, 79602, TX"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "105 Pack Saddle Pass, Abilene, TX 79602 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/105-Pack-Saddle-Pass_Abilene_TX_79602_M83173-20808",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.va9BSj_WCBjBEfaq0oemWAHaE7&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../105-Pack-Saddle-Pass_Abilene_TX_79602_M83173-20808",
+        "snippet": "View 36 photos for 105 Pack Saddle Pass, Abilene, TX 79602, a 4 bed, 2 bath, 1,974 Sq. Ft. single family home built in 1999 that was last sold on 01/27/2021.",
+        "dateLastCrawled": "2024-08-19T10:37:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.va9BSj_WCBjBEfaq0oemWAHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.va9BSj_WCBjBEfaq0oemWAHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "102 Pack Saddle Pass, ABILENE, TX 79602 - HAR.com",
+        "url": "https://www.har.com/homedetail/102-pack-saddle-pass-abilene-tx-79602/11821949",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.har.com/homedetail/102-pack-saddle-pass-abilene-tx-79602/11821949",
+        "snippet": "102 Pack Saddle Pass, ABILENE, TX 79602 \u2219 $202,426 \u2219 View more.",
+        "dateLastCrawled": "2024-03-31T16:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HAR.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Pack Saddle Pass, Abilene, TX 79602 Property Records",
+        "url": "https://www.countyoffice.org/pack-saddle-pass-abilene-tx-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/pack-saddle-pass-abilene-tx-property-records",
+        "snippet": "Pack Saddle Pass in Abilene, TX 79602 has 31 properties with an average market value of $302,952. These homes, built between 1998 and 2010, typically offer 3 and 4 bedrooms and 2 to 3 bathrooms. ... 102 Pack Saddle Pass, Abilene, TX 79602: $202,426: 3: 1,560 sq ft: 105 Pack Saddle Pass, Abilene, TX 79602: $329,527: 3: 1,974 sq ft: 110 Pack ...",
+        "dateLastCrawled": "2024-10-24T18:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Pack Saddle Pass, Abilene, TX 79602 Property Reports",
+        "url": "https://www.attomdata.com/property-reports/tx/taylor-county/abilene/79602/pack-saddle-pass/",
+        "datePublished": "2024-11-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 22, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.attomdata.com/property-reports/tx/taylor-county/abilene/79602/pack-saddle-pass",
+        "snippet": "Instant property reports for homes on Pack Saddle Pass, Abilene, 79602. View property details, home values, real estate comps, neighborhood data and more. Contact; ... 102 Pack Saddle Pass, Abilene, TX 79602 Est.Value $237,077 1,560 sqft, 3 beds, 2 baths 105 Pack Saddle Pass, Abilene, TX 79602 ...",
+        "dateLastCrawled": "2025-05-14T22:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ATTOM"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "102 Pack Saddle Pass, Abilene, TX 79602 - Trulia",
+        "url": "https://www.trulia.com/home/102-pack-saddle-pass-abilene-tx-79602-62562272",
+        "datePublished": "2023-12-06T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 6, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/102-pack-saddle-pass-abilene-tx-79602-62562272",
+        "snippet": "102 Pack Saddle Pass, Abilene, TX 79602 is a 1,560 sqft, 3 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-06T04:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "121 Pack Saddle Pass, Abilene, TX 79602 - Zillow",
+        "url": "https://www.zillow.com/homedetails/121-Pack-Saddle-Pass-Abilene-TX-79602/53351125_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/121-Pack-Saddle-Pass-Abilene-TX-79602/53351125_zpid",
+        "snippet": "121 Pack Saddle Pass, Abilene TX, is a Apartment home that contains 696 sq ft and was built in 1999.It contains 1 bedroom and 1 bathroom. The Zestimate for this Apartment is $321,900, which has increased by $6,416 in the last 30 days.The Rent Zestimate for this Apartment is $986/mo, which has increased by $986/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-01T01:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "105 Pack Saddle Pass, Abilene, TX 79602 - Zillow",
+        "url": "https://www.zillow.com/homedetails/105-Pack-Saddle-Pass-Abilene-TX-79602/62562267_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/105-Pack-Saddle-Pass-Abilene-TX-79602/62562267_zpid",
+        "snippet": "105 Pack Saddle Pass, Abilene TX, is a Single Family home that contains 1974 sq ft and was built in 1999.It contains 4 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $358,800, which has increased by $4,880 in the last 30 days.The Rent Zestimate for this Single Family is $2,371/mo, which has increased by $2,371/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-21T19:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "102 Quicksilver Rd, Abilene, TX 79602 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/102-Quicksilver-Rd_Abilene_TX_79602_M82704-31845",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/102-Quicksilver-Rd_Abilene_TX_79602...",
+        "snippet": "View detailed information about property 102 Quicksilver Rd, Abilene, TX 79602 including listing details, property photos, school and neighborhood data, and much more. ... 209 Pack Saddle Pass ...",
+        "dateLastCrawled": "2024-12-20T06:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "142 Pack Saddle Pass, Abilene, TX 79602 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/142-Pack-Saddle-Pass_Abilene_TX_79602_M70809-19591",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../142-Pack-Saddle-Pass_Abilene_TX_79602_M70809-19591",
+        "snippet": "View detailed information about property 142 Pack Saddle Pass, Abilene, TX 79602 including listing details, property photos, school and neighborhood data, and much more. ... 102 Pack Saddle Pass ...",
+        "dateLastCrawled": "2023-12-16T10:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "105 Pack Saddle Pass, Abilene, TX 79602 - HAR.com",
+        "url": "https://www.har.com/homedetail/105-pack-saddle-pass-abilene-tx-79602/9788084",
+        "datePublished": "2021-01-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 27, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.har.com/homedetail/105-pack-saddle-pass-abilene-tx-79602/9788084",
+        "snippet": "Sold: 105 Pack Saddle Pass, Abilene, TX 79602 \u2219 $250,001 - $285,000 \u2219 1.00 Acre Lot \u2219 1,974 Sqft, 4 beds, 2 full baths, Single-Family \u2219 View more. ... 105 Pack Saddle Pass City Abilene. State TX Zip Code 79602. County Taylor County. Subdivision Pack Saddle Meadows ...",
+        "dateLastCrawled": "2024-12-25T08:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HAR.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "166 Pack Saddle Pass, Abilene, TX 79602 | Zillow",
+        "url": "https://www.zillow.com/homedetails/166-Pack-Saddle-Pass-Abilene-TX-79602/53351234_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/166-Pack-Saddle-Pass-Abilene-TX-79602/53351234_zpid",
+        "snippet": "166 Pack Saddle Pass, Abilene, TX 79602 is currently not for sale. The 2,358 Square Feet single family home is a 4 beds, 3 baths property. This home was built in 1999 and last sold on 2011-04-16 for $239,900. ... $239,900 $102/sqft: Source: Coldwell Banker Panian and Mash, REALTORS # 11522416 Report a problem. 3/18/2011: Price change: $239,900 ...",
+        "dateLastCrawled": "2025-02-23T09:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "286 Pack Saddle Pass, Abilene, TX 79602 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/286-Pack-Saddle-Pass_Abilene_TX_79602_M81957-38301",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../286-Pack-Saddle-Pass_Abilene_TX_79602_M81957-38301",
+        "snippet": "View detailed information about property 286 Pack Saddle Pass, Abilene, TX 79602 including listing details, property photos, school and neighborhood data, and much more. ... 102 Sunburst Rd ...",
+        "dateLastCrawled": "2025-05-02T05:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "126 Pack Saddle Pass, Abilene, TX 79602 | Zillow",
+        "url": "https://www.zillow.com/homedetails/126-Pack-Saddle-Pass-Abilene-TX-79602/53351237_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/126-Pack-Saddle-Pass-Abilene-TX-79602/53351237_zpid",
+        "snippet": "126 Pack Saddle Pass, Abilene TX, is a Single Family home that contains 2076 sq ft and was built in 1999.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $365,300, which has increased by $6,565 in the last 30 days.The Rent Zestimate for this Single Family is $2,475/mo, which has increased by $2,475/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-17T13:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "222 Pack Saddle Pass, Abilene, TX 79602 | Zillow",
+        "url": "https://www.zillow.com/homedetails/222-Pack-Saddle-Pass-Abilene-TX-79602/71273646_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/222-Pack-Saddle-Pass-Abilene-TX-79602/71273646_zpid",
+        "snippet": "222 Pack Saddle Pass, Abilene TX, is a Single Family home that contains 2307 sq ft and was built in 2004.It contains 4 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $437,500, which has increased by $5,187 in the last 30 days.The Rent Zestimate for this Single Family is $2,658/mo, which has increased by $2,658/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-16T05:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        }
+      ]
+    }
+  }
+}

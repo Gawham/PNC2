@@ -1,0 +1,647 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3755 Tutt Blvd, Unit 332, Colorado Springs CO 80922"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3755+Tutt+Blvd%2c+Unit+332%2c+Colorado+Springs+CO+80922",
+    "totalEstimatedMatches": 763000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Affinity at Colorado Springs - Affinity Living Communities",
+        "url": "https://www.affinityforliving.com/colorado-springs",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.affinityforliving.com/colorado-springs",
+        "snippet": "Enjoy your active, independent lifestyle in a different kind of 55+ community. Near plenty of restaurants and entertainment, Affinity at Colorado Springs offers senior apartments to suit your active lifestyle. Rent a studio, one-bedroom, or two-bedroom apartment and enjoy living the all-inclusive life.",
+        "deepLinks": [
+          {
+            "name": "Testimonials",
+            "url": "https://www.affinityforliving.com/colorado-springs/testimonials",
+            "snippet": "Enjoy your active, independent lifestyle in a different kind of 55+ community. Near plenty of restaurants and entertainment, Affinity at Colorado Springs offers senior apartments to suit your active lifestyle. Rent a studio, one-bedroom, or two-bedroom apartment and enjoy living the all-inclusive life."
+          },
+          {
+            "name": "Blog",
+            "url": "https://www.affinityforliving.com/colorado-springs/blog",
+            "snippet": "Enjoy your active, independent lifestyle in a different kind of 55+ community. Near plenty of restaurants and entertainment, Affinity at Colorado Springs offers senior apartments to suit your active lifestyle. Rent a studio, one-bedroom, or two-bedroom apartment and enjoy living the all-inclusive life."
+          }
+        ],
+        "dateLastCrawled": "2025-06-04T03:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3755 Tutt Blvd, Colorado Springs, 80922"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(719) 249-6526"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Affinity Living Communities"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Affinity at Colorado Springs 55+ - 3755 Tutt Blvd Colorado Springs, CO ...",
+        "url": "https://www.apartments.com/affinity-at-colorado-springs-55-colorado-springs-co/s1kqm65/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.z_euP9xhcRo3ddVfGH_MlAHaEg&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.7,
+              "bestRating": 5,
+              "reviewCount": 7
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/affinity-at-colorado-springs-55-colorado-springs-co/s1kqm65",
+        "snippet": "See all available apartments for rent at Affinity at Colorado Springs 55+ in Colorado Springs, CO. Affinity at Colorado Springs 55+ has rental units ranging from 495-1029 sq ft starting at $1849. ... Affinity at Colorado Springs 55+ media gallery Unit. call 719-426-2376 Send Message ... 3755 Tutt Blvd. Colorado Springs, CO 80922. Email Copy Link.",
+        "dateLastCrawled": "2025-06-04T03:26:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.z_euP9xhcRo3ddVfGH_MlAHaEg&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 288,
+          "imageId": "OIP.z_euP9xhcRo3ddVfGH_MlAHaEg"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3755 Tutt Blvd, Colorado Springs, 80922"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(719) 426-2376"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,849 - $2,960"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Affinity at Colorado Springs 55+ Apartments - After55",
+        "url": "https://www.after55.com/co/colorado-springs/affinity-at-colorado-springs-55/d1kql6j",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.lv926XuMwZpwKLDy75ogXAHaEg&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.7,
+              "bestRating": 5,
+              "reviewCount": 8
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.after55.com/co/colorado-springs/affinity-at-colorado-springs-55/d1kql6j",
+        "snippet": "Storage Unit . Refundable deposit. $75/mo. $0. Matterport 3D Tours. Property Details. ... 3755 Tutt Blvd, Colorado Springs, CO 80922 . Phone Number: (719) 426-2376 . More Information: View Property Website . Office Hours. Sunday CLOSED; Monday 8:30 AM - 5:30 PM; Tuesday 8:30 AM - 5:30 PM;",
+        "dateLastCrawled": "2025-05-30T07:27:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.lv926XuMwZpwKLDy75ogXAHaEg&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 288,
+          "imageId": "OIP.lv926XuMwZpwKLDy75ogXAHaEg"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3755 Tutt Blvd, Colorado Springs, 80922"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(719) 426-2376"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-15T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "After55"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Affinity at Colorado Springs - June 2025 Pricing (UPDATED) - Family Assets",
+        "url": "https://www.familyassets.com/independent-living/colorado/colorado-springs/affinity-at-colorado-springs",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.5fOJ5lturofTjJbx23slcAHaDt&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 9.5,
+              "bestRating": 10,
+              "reviewCount": 4
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/independent-living/colorado/colorado-springs/affinity-at...",
+        "snippet": "There are 3 hospitals within 25 miles of Affinity at Colorado Springs. The two closest hospitals are University Colo Health Memorial Hospital Central which is 5.6 miles away and Centura Health-Penrose St Francis Health Services which is 6.0 miles away.",
+        "dateLastCrawled": "2025-06-04T08:18:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.5fOJ5lturofTjJbx23slcAHaDt&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 237,
+          "imageId": "OIP.5fOJ5lturofTjJbx23slcAHaDt"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3755 Tutt Blvd, Colorado Springs, 80922"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Affinity At Colorado Springs | 3755 Tutt Blvd, Colorado Springs, CO 80922",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/3755-Tutt-Blvd-80922/home/146021303",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/3755-Tutt-Blvd-80922/home/146021303",
+        "snippet": "For Rent: \u00b7 See photos, floor plans and more details about 3755 Tutt Blvd, Colorado Springs, CO 80922. Affinity At Colorado Springs - 3755 Tutt Blvd, Colorado Springs, CO 80922 | Redfin Search",
+        "dateLastCrawled": "2024-09-21T05:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Affinity at Colorado Springs- 55+ Living Redefined - 3755 Tutt Blvd ...",
+        "url": "https://www.zillow.com/apartments/colorado-springs-co/affinity-at-colorado-springs-55+-living-redefined/65XZyS/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/apartments/colorado-springs-co/affinity-at-colorado-springs-55...",
+        "snippet": "Affinity at Colorado Springs- 55+ Living Redefined apartment community at 3755 Tutt Blvd Colorado Springs CO, offers units from - sqft, a In-unit dryer, In-unit washer, and Covered parking. ... 3755 Tutt Blvd, Colorado Springs, CO 80922. ... Affinity at Colorado Springs- 55+ Living Redefined has in-unit laundry for some or all of the units.",
+        "dateLastCrawled": "2025-03-10T01:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "3755 Tutt Blvd, Colorado Springs, CO 80922 - For Rent",
+        "url": "https://www.homes.com/property/affinity-at-colorado-springs-55-colorado-springs-co/l1hqfv7n6d7kr/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/affinity-at-colorado-springs-55-colorado-springs-co/l1...",
+        "snippet": "Affinity at Colorado Springs 55+ - 3755 Tutt Blvd, Colorado Springs, CO 80922 - 1,195 sqft home built in 2015 . Browse photos, take a 3D tour & see rental costs & information about this property for rent.",
+        "dateLastCrawled": "2025-04-10T05:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Affinity At Colorado Springs, 3755 Tutt Blvd, Colorado Springs, CO ...",
+        "url": "https://www.mapquest.com/us/colorado/affinity-at-colorado-springs-358180420",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/affinity-at-colorado-springs-358180420",
+        "snippet": "3755 Tutt Blvd. Colorado Springs, CO 80922 +1 (719) 203-1132. https://www.affinityatcoloradosprings.com. Affinity at Colorado Springs offers a unique living experience for active adults seeking to pursue their passions in a vibrant community. Located in Colorado Springs, residents can enjoy a variety of amenities on-site and explore nearby ...",
+        "dateLastCrawled": "2025-05-30T22:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Affinity at Colorado Springs \u2013 Colorado Springs, CO - SeniorHousingNet",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/affinity-at-colorado-springs_3755-tutt-blvd_colorado-springs_co_80922-564662",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.vQsmLNc1HKX71_rI6nR0ywHaFM&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/affinity-at-colorado-springs_3755...",
+        "snippet": "Affinity at Colorado Springs - facility located at 3755 Tutt Blvd., Colorado Springs, CO, 80922, seniorhousingnet.com . 800-304-7152. Talk to a local advisor for free. Assisted Living; ... 3755 Tutt Blvd., Colorado Springs, CO 80922. Overview. A refreshingly New Option for the 55+ Crowd",
+        "dateLastCrawled": "2025-04-14T20:12:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.vQsmLNc1HKX71_rI6nR0ywHaFM&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 332,
+          "imageId": "OIP.vQsmLNc1HKX71_rI6nR0ywHaFM"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Affinity at Colorado Springs 55+ Apartments - ForRent.com",
+        "url": "https://www.forrent.com/co/colorado-springs/affinity-at-colorado-springs-55/d1kql6j",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forrent.com/co/colorado-springs/affinity-at-colorado-springs-55/d1kql6j",
+        "snippet": "View the available apartments for rent at Affinity at Colorado Springs 55+ Apartments in Colorado Springs, CO. Affinity at Colorado Springs 55+ Apartments has rental units ranging from - sq ft starting at $1,849. ... Storage Unit . Refundable deposit. $75/mo. $0. Matterport 3D Tours. Property Highlights . ... 3755 Tutt Blvd, Colorado Springs ...",
+        "dateLastCrawled": "2025-05-30T14:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ForRent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Affinity At Colorado Springs - Colorado Springs, CO - Yelp",
+        "url": "https://www.yelp.com/biz/affinity-at-colorado-springs-colorado-springs",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.pKGcmXAh7YI94Urdywr9_wHaEl&w=108&h=108&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/affinity-at-colorado-springs-colorado-springs",
+        "snippet": "Marcus in Maintenance was prompt, professional and competent in making my unit top notch. Everyone I have worked with in the management office are top notch professionals! ... 3755 Tutt Blvd Colorado Springs, CO 80922. Suggest an edit. Verify this business for free. People searched for Apartments 1,273 times last month within 15 miles of this ...",
+        "dateLastCrawled": "2025-06-02T13:02:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.pKGcmXAh7YI94Urdywr9_wHaEl&w=108&h=108&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 0,
+          "sourceHeight": 0,
+          "imageId": "OIP.pKGcmXAh7YI94Urdywr9_wHaEl"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3755 Tutt Blvd Colorado Springs, CO 80922"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Affinity at Colorado Springs 55+ - 3755 Tutt Blvd Colorado Springs CO ...",
+        "url": "https://www.apartmentfinder.com/Colorado/Colorado-Springs-Apartments/Affinity-At-Colorado-Springs-55-Apartments-h0ksh61",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentfinder.com/Colorado/Colorado-Springs-Apartments/Affinity-At...",
+        "snippet": "Find apartments for rent at Affinity at Colorado Springs 55+ from $1,849 at 3755 Tutt Blvd in Colorado Springs, CO. Affinity at Colorado Springs 55+ has rentals available ranging from 495-1029 sq ft. ... 3755 Tutt Blvd, Colorado Springs, CO 80922 Map East Colorado Springs. View Community Website. ... Apartments with Washer/Dryer in Unit in ...",
+        "dateLastCrawled": "2025-05-13T23:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartment Finder"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Affinity at Colorado Springs 55+ Apartments - ApartmentHomeLiving.com",
+        "url": "https://www.apartmenthomeliving.com/apartment-finder/Affinity-at-Colorado-Springs-55-Colorado-Springs-CO-80922-1439108",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmenthomeliving.com/apartment-finder/Affinity-at-Colorado-Springs-55...",
+        "snippet": "Affinity at Colorado Springs 55+ Apartments in Colorado Springs, CO 80922 | See official prices, pictures, amenities, Matterport 3D Tours, and more for Studio to 2 Bedroom rentals from $1849 at Affinity at Colorado Springs 55+ Apartments on ApartmentHomeLiving.com. Check availability! ... 3755 Tutt Blvd, Colorado Springs, CO 80922. Shopping ...",
+        "dateLastCrawled": "2025-06-05T17:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentHomeLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Affinity at Colorado Springs in Colorado Springs, CO 80922 - 719-573...",
+        "url": "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/apartment-complex/1252148-affinity-at-colorado-springs",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/...",
+        "snippet": "About Affinity at Colorado Springs. Affinity at Colorado Springs is located at 3755 Tutt Blvd in Colorado Springs, Colorado 80922. Affinity at Colorado Springs can be contacted via phone at 719-573-5962 for pricing, hours and directions.",
+        "dateLastCrawled": "2025-04-06T10:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Chamber of Commerce"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3755 Tutt Blvd #Q1EAF25BX, Colorado Springs, CO 80922",
+        "url": "https://www.zillow.com/homedetails/3755-Tutt-Blvd-Q1EAF25BX-Colorado-Springs-CO-80922/2080244104_zpid/",
+        "datePublished": "2020-04-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 1, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3755-Tutt-Blvd-Q1EAF25BX-Colorado-Springs-CO-80922/...",
+        "snippet": "3755 Tutt Blvd #Q1EAF25BX, Colorado Springs, CO 80922 is currently not for sale. The -- sqft apartment home is a 2 beds, 2 baths property. This home was built in null and last sold on 2021-05-30 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-26T11:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Affinity at Colorado Springs | Independent Living & Senior Apartments ...",
+        "url": "https://www.aplaceformom.com/community/affinity-at-colorado-springs-1388137",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/affinity-at-colorado-springs-1388137",
+        "snippet": "3755 Tutt Blvd, Colorado Springs, CO 80922. For more information about senior living options: (866) 374-4058. ... Affinity at Colorado Springs. 3755 Tutt Blvd, Colorado Springs, CO 80922. Get pricing. The Belcaro. 3475 American Drive, Colorado Springs, CO 80917. Get pricing. Brookdale Monument Valley Park.",
+        "dateLastCrawled": "2025-04-19T11:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Affinity At Colorado Springs - Colorado Springs, CO 80922 ...",
+        "url": "https://www.apartmentguide.com/rent/Affinity-At-Colorado-Springs-Colorado-Springs-CO-100023980/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentguide.com/rent/Affinity-At-Colorado-Springs-Colorado-Springs-CO...",
+        "snippet": "Find your new home at Affinity At Colorado Springs located at 3755 Tutt Blvd, Colorado Springs, CO 80922. Check availability now! ... 3755 Tutt Blvd, Colorado Springs, CO 80922. Powers. 3755 Tutt Blvd, Colorado Springs, CO 80922. ... 322 Bonnie Ct unit 102; The Vineyards Of Colorado Springs; 7230 Constitution Square Heights; Fountain Oaks ...",
+        "dateLastCrawled": "2025-04-26T01:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentGuide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Affinity at Colorado Springs- 55+ Living Redefined - Trulia",
+        "url": "https://www.trulia.com/building/affinity-at-colorado-springs-55-living-redefined-3755-tutt-blvd-colorado-springs-co-80922-1150323826",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/building/affinity-at-colorado-springs-55-living-redefined-3755...",
+        "snippet": "Affinity at Colorado Springs- 55+ Living Redefined offers rental. Affinity at Colorado Springs- 55+ Living Redefined is located at 3755 Tutt Blvd, Colorado Springs, CO 80922 in the Powers neighborhood. See floorplans, review amenities, and request a tour of the building today.",
+        "dateLastCrawled": "2025-06-05T19:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Affinity At Colorado Springs - 3755 Tutt Blvd | Colorado Springs, CO ...",
+        "url": "https://www.rent.com/colorado/colorado-springs-apartments/affinity-at-colorado-springs-4-100051351",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rent.com/colorado/colorado-springs-apartments/affinity-at-colorado-springs...",
+        "snippet": "3755 Tutt Blvd, Colorado Springs, CO 80922. Close. View Available Properties. Similar Properties. 27 Photos. Close. Photos (27) Total Costs & Fees $-- ... 1128 W Colorado Ave unit 1126; 118 N Tejon St; 405 St Vrain Pl unit 302; 1523 S Fountain St; 830 Promontory Rock Grv; 1726 Clemson Dr unit 107;",
+        "dateLastCrawled": "2025-03-23T03:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3755 Tutt Blvd, Colorado Springs, CO 80922 | Homes.com",
+        "url": "https://www.homes.com/property/3755-tutt-blvd-colorado-springs-co/900msbm75509m/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/3755-tutt-blvd-colorado-springs-co/900msbm75509m",
+        "snippet": "This home is located at 3755 Tutt Blvd, Colorado Springs, CO 80922. 3755 Tutt Blvd is a home located in El Paso County with nearby schools including Springs Ranch Elementary School, Horizon Middle School, and Sand Creek High School. ... 3864 Riviera Grove Unit 204; 6171 Mission Trails View; 6139 Mission Trails View; 3367 Evening Breeze Dr; 6155 ...",
+        "dateLastCrawled": "2025-04-19T11:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3560 Cloverleaf Dr, Boulder CO 80304"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3560+Cloverleaf+Dr%2c+Boulder+CO+80304",
+    "totalEstimatedMatches": 445000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "3560 Cloverleaf Dr, Boulder, CO 80304 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3560-Cloverleaf-Dr-Boulder-CO-80304/13177863_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3560-Cloverleaf-Dr-Boulder-CO-80304/13177863_zpid",
+        "snippet": "3560 Cloverleaf Dr, Boulder CO, is a Single Family home that contains 1800 sq ft and was built in 1968.It contains 4 bedrooms and 2 bathrooms.This home last sold for $479,000 in June 2009. The Zestimate for this Single Family is $1,070,200, which has increased by $32,352 in the last 30 days.The Rent Zestimate for this Single Family is $3,670/mo, which has increased by $3,670/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-01T05:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3550 Cloverleaf Dr, Boulder, CO 80304 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3550-Cloverleaf-Dr-Boulder-CO-80304/13180463_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3550-Cloverleaf-Dr-Boulder-CO-80304/13180463_zpid",
+        "snippet": "3550 Cloverleaf Dr, Boulder CO, is a Single Family home that contains 2644 sq ft and was built in 1969.It contains 4 bedrooms and 3 bathrooms.This home last sold for $915,000 in July 2016. The Zestimate for this Single Family is $1,539,100, which has increased by $17,614 in the last 30 days.The Rent Zestimate for this Single Family is $4,739/mo, which has increased by $4,739/mo in the last 30 ...",
+        "dateLastCrawled": "2025-02-24T22:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "3560 Cloverleaf Dr, Boulder, CO 80304 | Redfin",
+        "url": "https://www.redfin.com/CO/Boulder/3560-Cloverleaf-Dr-80304/home/35166912",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Boulder/3560-Cloverleaf-Dr-80304/home/35166912",
+        "snippet": "4 beds, 2 baths, 1800 sq. ft. house located at 3560 Cloverleaf Dr, Boulder, CO 80304 sold for $479,000 on May 29, 2009. MLS# 597278. Don't wait to see this one! What a find in this solidly built b...",
+        "dateLastCrawled": "2025-03-24T19:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "3540 Cloverleaf Dr, Boulder, CO 80304 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3540-Cloverleaf-Dr-Boulder-CO-80304/13181518_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3540-Cloverleaf-Dr-Boulder-CO-80304/13181518_zpid",
+        "snippet": "3540 Cloverleaf Dr, Boulder CO, is a Single Family home that contains 1112 sq ft and was built in 1966.It contains 2 bedrooms and 1.75 bathrooms. The Zestimate for this Single Family is $971,100, which has decreased by $2,413 in the last 30 days.The Rent Zestimate for this Single Family is $2,442/mo, which has increased by $2,442/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-14T18:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "3660 Cloverleaf Dr, Boulder, CO 80304 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3660-Cloverleaf-Dr-Boulder-CO-80304/13178313_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3660-Cloverleaf-Dr-Boulder-CO-80304/13178313_zpid",
+        "snippet": "3660 Cloverleaf Dr, Boulder CO, is a Single Family home that contains 1150 sq ft and was built in 1963.It contains 5 bedrooms and 1.75 bathrooms.This home last sold for $38,300 in July 1975. The Zestimate for this Single Family is $949,700, which has decreased by $1,973 in the last 30 days.The Rent Zestimate for this Single Family is $2,859/mo, which has increased by $2,859/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-09T20:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "3560 Cloverleaf Dr, Boulder, CO 80304 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3560-Cloverleaf-Dr_Boulder_CO_80304_M20447-60059",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/3560-Cloverleaf-Dr_Boulder_CO_80304...",
+        "snippet": "View 17 photos for 3560 Cloverleaf Dr, Boulder, CO 80304, a 4 bed, 1 bath, 1,800 Sq. Ft. single family home built in 1968 that was last sold on 05/29/2009.",
+        "dateLastCrawled": "2023-06-07T22:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "3560 Cloverleaf Dr, Boulder, CO 80304 owner and property records",
+        "url": "https://hudwayglass.com/house/3560+CLOVERLEAF+DR,+Boulder+CO",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hudwayglass.com/house/3560+CLOVERLEAF+DR,+Boulder+CO",
+        "snippet": "Information about property on 3560 Cloverleaf Dr, Boulder CO, 80304-1809. Find out owner contacts, building history, price, neighborhood at Homemetry Address Directory. Property Details. A sizable A-Frame two-story single-family possession at 3560 Cloverleaf Drive, Boulder, CO. Facts. Built in 1968 ...",
+        "dateLastCrawled": "2025-05-15T13:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "740 Hawthorn Ave, Boulder, CO 80304 | MLS #1035765 | Zillow",
+        "url": "https://www.zillow.com/homedetails/740-Hawthorn-Ave-Boulder-CO-80304/13179417_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/740-Hawthorn-Ave-Boulder-CO-80304/13179417_zpid",
+        "snippet": "Zillow has 28 photos of this $1,150,000 2 beds, 1 bath, 837 Square Feet single family home located at 740 Hawthorn Ave, Boulder, CO 80304 built in 1910. MLS #1035765.",
+        "dateLastCrawled": "2025-06-05T07:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "3860 Cloverleaf Dr, Boulder, CO 80304 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3860-Cloverleaf-Dr-Boulder-CO-80304/13180939_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3860-Cloverleaf-Dr-Boulder-CO-80304/13180939_zpid",
+        "snippet": "3860 Cloverleaf Dr, Boulder CO, is a Single Family home that contains 2335 sq ft and was built in 1966.It contains 3 bedrooms and 3 bathrooms.This home last sold for $985,000 in December 2017. The Zestimate for this Single Family is $2,338,800, which has decreased by $32,719 in the last 30 days.The Rent Zestimate for this Single Family is $3,992/mo, which has increased by $3,992/mo in the last ...",
+        "dateLastCrawled": "2025-04-01T21:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "3560 Cloverleaf Dr Boulder, CO 80304 - Trulia",
+        "url": "https://www.trulia.com/home/3560-cloverleaf-dr-boulder-co-80304-13177863",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/3560-cloverleaf-dr-boulder-co-80304-13177863",
+        "snippet": "3560 Cloverleaf Dr, Boulder, CO 80304 is a 1,800 sqft, 4 bed, 2 bath home sold in 2009. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-11-24T04:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3760 Cloverleaf Dr, Boulder, CO 80304 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3760-Cloverleaf-Dr-Boulder-CO-80304/13181254_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3760-Cloverleaf-Dr-Boulder-CO-80304/13181254_zpid",
+        "snippet": "3760 Cloverleaf Dr, Boulder CO, is a Single Family home that contains 1204 sq ft and was built in 1963.It contains 3 bedrooms and 1.75 bathrooms.This home last sold for $250,000 in September 1998. The Zestimate for this Single Family is $982,400, which has increased by $25,810 in the last 30 days.The Rent Zestimate for this Single Family is $2,714/mo, which has increased by $2,714/mo in the ...",
+        "dateLastCrawled": "2025-03-28T15:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3570 Cloverleaf Dr, Boulder, CO 80304 | Redfin",
+        "url": "https://www.redfin.com/CO/Boulder/3570-Cloverleaf-Dr-80304/home/35166922",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Boulder/3570-Cloverleaf-Dr-80304/home/35166922",
+        "snippet": "4 beds, 2 baths, 1922 sq. ft. house located at 3570 Cloverleaf Dr, Boulder, CO 80304 sold for $985,000 on Apr 20, 2021. MLS# 934315. FANTASTIC updated bi-level home with Flatirons views! Don't miss...",
+        "dateLastCrawled": "2025-05-17T07:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "3570 Cloverleaf Dr, Boulder, CO 80304 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3570-Cloverleaf-Dr-Boulder-CO-80304/13177868_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3570-Cloverleaf-Dr-Boulder-CO-80304/13177868_zpid",
+        "snippet": "3570 Cloverleaf Dr, Boulder CO, is a Single Family home that contains 1922 sq ft and was built in 1969.It contains 4 bedrooms and 2 bathrooms.This home last sold for $985,000 in April 2021. The Zestimate for this Single Family is $1,332,300, which has increased by $26,994 in the last 30 days.The Rent Zestimate for this Single Family is $4,187/mo, which has increased by $4,187/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-31T13:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "GSK Holdings 2, LLC \u00b7 5923 Amber Ridge Dr, Castle Pines, CO 80108",
+        "url": "https://opengovco.com/business/20251370140",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251370140",
+        "snippet": "The agent office address is 5923 Amber Ridge Dr, Castle Pines, CO 80108. Business Information. Entity ID: 20251370140: Entity Name: ... 3560 Collins St, Castle Rock, CO 80108: Castle Rock Roofing Contractors Association CRRCA LLC: 2025-05-21: ... Boulder, CO 80304: Ed C Schultz: 2016-09-07: DSL Holdings: 3005 Clipper Dr, Colorado Springs, CO 80920:",
+        "dateLastCrawled": "2025-06-03T00:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2860 Table Mesa Dr, Boulder, CO 80305 | MLS #1035400 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2860-Table-Mesa-Dr-Boulder-CO-80305/13188093_zpid/",
+        "datePublished": "2025-05-30T00:00:00.0000000",
+        "datePublishedDisplayText": "May 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2860-Table-Mesa-Dr-Boulder-CO-80305/13188093_zpid",
+        "snippet": "Zillow has 40 photos of this $2,799,900 5 beds, 6 baths, 3,928 Square Feet single family home located at 2860 Table Mesa Dr, Boulder, CO 80305 built in 2024. MLS #1035400.",
+        "dateLastCrawled": "2025-06-03T16:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Justin Breese Rydberg \u00b7 3560 Cloverleaf Drive, Boulder, CO 80304-0304 ...",
+        "url": "https://opengovco.com/license/395107",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/395107",
+        "snippet": "The business address is 3560 Cloverleaf Drive, Boulder, CO 80304-0304. The license first issue date is October 14, 2009. License Overview. Licensee Name: Justin Breese Rydberg : Address: ... 222 High View Dr, Boulder, CO 80304-0422: 2017-08-27: Meghan Elene Mulcrone: LSW.9920501: 1489 Zamia Ave, Boulder, CO 80304-0000: 2014-08-08: Grace ...",
+        "dateLastCrawled": "2023-12-16T20:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1110 Poplar Ave, Boulder, CO 80304 | MLS #1035875 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1110-Poplar-Ave-Boulder-CO-80304/13219572_zpid/",
+        "datePublished": "2025-06-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1110-Poplar-Ave-Boulder-CO-80304/13219572_zpid",
+        "snippet": "Zillow has 40 photos of this $960,000 3 beds, 3 baths, 1,806 Square Feet townhouse home located at 1110 Poplar Ave, Boulder, CO 80304 built in 1976. MLS #1035875.",
+        "dateLastCrawled": "2025-06-06T05:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3550 Cloverleaf Dr, Boulder, CO 80304 | Redfin",
+        "url": "https://www.redfin.com/CO/Boulder/3550-Cloverleaf-Dr-80304/home/35173290",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Boulder/3550-Cloverleaf-Dr-80304/home/35173290",
+        "snippet": "4 beds, 3 baths, 2644 sq. ft. house located at 3550 Cloverleaf Dr, Boulder, CO 80304 sold for $915,000 on Jul 29, 2016. MLS# 795631. Unbeatable cul de sac location backs to farmers ditch & hu...",
+        "dateLastCrawled": "2025-03-14T23:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

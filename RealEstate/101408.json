@@ -1,0 +1,420 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1030 Cedar St, Broomfield CO 80020"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1030+Cedar+St%2c+Broomfield+CO+80020",
+    "totalEstimatedMatches": 634000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1030 Cedar St, Broomfield, CO 80020 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1030-Cedar-St-Broomfield-CO-80020/60234935_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1030-Cedar-St-Broomfield-CO-80020/60234935_zpid",
+        "snippet": "1030 Cedar St, Broomfield CO, is a Single Family home that contains 2100 sq ft and was built in 1970.It contains 3 bedrooms and 2 bathrooms.This home last sold for $34,000 in August 1971. The Zestimate for this Single Family is $548,100, which has increased by $4,321 in the last 30 days.The Rent Zestimate for this Single Family is $2,526/mo, which has increased by $2,526/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-25T00:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1030 Cedar St, Broomfield, CO 80020 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/1030-Cedar-St-80020/home/35520590",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/1030-Cedar-St-80020/home/35520590",
+        "snippet": "1030 Cedar St is a 2,100 square foot house on a 7,667 square foot lot with 3 bedrooms and 2 bathrooms. - it last sold on August 05, 1971 for $34,000. Based on Redfin's Broomfield data, we estimate the home's value is $546,665.",
+        "dateLastCrawled": "2025-02-09T21:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1030 Cedar St, Broomfield, CO 80020 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1030-Cedar-St_Broomfield_CO_80020_M19163-49997",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1030-Cedar-St_Broomfield_CO_80020_M...",
+        "snippet": "See sales history and home details for 1030 Cedar St, Broomfield, CO 80020, a 3 bed, 2 bath, 2,100 Sq. Ft. single family home built in 1970 that was last sold on 08/05/1971.",
+        "dateLastCrawled": "2024-10-19T18:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1030 Cedar St, Broomfield, CO 80020 - Trulia",
+        "url": "https://www.trulia.com/home/1030-cedar-st-broomfield-co-80020-60234935",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1030-cedar-st-broomfield-co-80020-60234935",
+        "snippet": "1030 Cedar St, Broomfield, CO 80020 is a 2,100 sqft, 3 bed, 2 bath home sold in 1971. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-15T20:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1030 Cedar St, Broomfield, CO 80020 - Homes.com",
+        "url": "https://www.homes.com/property/1030-cedar-st-broomfield-co/cqmz9cjjhfz9l/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1030-cedar-st-broomfield-co/cqmz9cjjhfz9l",
+        "snippet": "This home is located at 1030 Cedar St, Broomfield, CO 80020 and is currently estimated at $572,622, approximately $272 per square foot. 1030 Cedar St is a home located in Broomfield County with nearby schools including Birch Elementary School, Aspen Creek K-8 School, and Broomfield High School.",
+        "dateLastCrawled": "2023-12-11T07:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Edna E Pfeifer in Broomfield, CO | Addresses",
+        "url": "https://www.addresses.com/4:eJyKVnJ18XNU0lFyVdJRCnBz9XRzDVLSUVLSUXIqys_PTctMzUlR0lFy9ocIKukoGVoam-oaGuoamSvpKAW6hLvrehuahCjpKJUUJeYVl-Zl5ueBFMYCAgAA___VdhZs/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.addresses.com/4:eJyKVnJ18XNU0lFyVdJRCnBz9XRzDVLSUVLSUXIqys_PTctMzUlR0lFy9...",
+        "snippet": "Edna E Pfeifer has a last known address of 1030 Cedar St, Broomfield, Co 80020-1449. Edna E Pfeifer's Phone Number (303) 469-3070 is Edna's current phone number. The phone number\u2019s provider is registered at Qwest Corporation (centurylink). Things to Consider When Searching for Public Records Information",
+        "dateLastCrawled": "2025-06-01T10:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Addresses"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Be Still Counseling LLC \u00b7 1030, Cedar St, Broomfield, CO 80020, US",
+        "url": "https://opengovco.com/business/20228168686",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20228168686",
+        "snippet": "address: 1030, Cedar St, Broomfield, CO 80020, US. Be Still Counseling LLC (Entity# 20228168686) is a business corporation registered with Colorado Department of State (CDOS). The business formed date is November 29, 2022. Search. Entity Overview.",
+        "dateLastCrawled": "2022-12-28T14:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "BE STILL COUNSELING LLC in Broomfield, CO - Bizapedia",
+        "url": "https://www.bizapedia.com/co/be-still-counseling-llc.html",
+        "datePublished": "2024-02-25T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 25, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/co/be-still-counseling-llc.html",
+        "snippet": "BE STILL COUNSELING LLC is a Colorado Limited-Liability Company filed on November 29, 2022. The company's filing status is listed as Good Standing and its File Number is 20228168686. The Registered Agent on file for this company is Jessica Pfeifer and is located at 1030 Cedar St, Broomfield, CO 80020.",
+        "dateLastCrawled": "2024-07-08T21:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1030 E 10th Ave # 102-209, Broomfield, CO 80020 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1030-E-10th-Ave-102-209_Broomfield_CO_80020_M98825-29477",
+        "datePublished": "2024-01-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 12, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1030-E-10th-Ave-102-209_Broomfield_CO_80020_M98825-29477",
+        "snippet": "View detailed information about property 1030 E 10th Ave # 102-209, Broomfield, CO 80020 including listing details, property photos, school and neighborhood data, and much more. ... 1020 Cedar St ...",
+        "dateLastCrawled": "2024-05-01T17:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1031 Cedar St, Broomfield, CO 80020 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1031-Cedar-St-Broomfield-CO-80020/60234942_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1031-Cedar-St-Broomfield-CO-80020/60234942_zpid",
+        "snippet": "1031 Cedar St, Broomfield CO, is a Single Family home that contains 2322 sq ft and was built in 1971.It contains 5 bedrooms and 2.5 bathrooms.This home last sold for $266,000 in March 2006. The Zestimate for this Single Family is $614,500, which has increased by $10,653 in the last 30 days.The Rent Zestimate for this Single Family is $2,901/mo, which has increased by $2,901/mo in the last 30 days.",
+        "dateLastCrawled": "2024-11-29T07:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "CEDAR ST, BROOMFIELD, CO ZIP Code - United States ZIP Codes",
+        "url": "https://zipcodes-us.com/zip/co/broomfield/cedar-st",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://zipcodes-us.com/zip/co/broomfield/cedar-st",
+        "snippet": "280 e 1st ave broomfield, co 80020-9998 Envelope example Using the full ZIP+4 Code when mailing via the USPS ensures the fastest, most accurate mailing possible.",
+        "dateLastCrawled": "2025-04-26T03:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "United States ZIP Codes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1030 Birch St, Broomfield, CO 80020 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/1030-Birch-St-80020/home/35520598",
+        "datePublished": "2014-02-03T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 3, 2014",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/1030-Birch-St-80020/home/35520598",
+        "snippet": "3 beds, 2 baths, 2490 sq. ft. house located at 1030 Birch St, Broomfield, CO 80020 sold for $190,000 on Feb 3, 2014. View sales history, tax history, home value estimates, and overhead views. APN R...",
+        "dateLastCrawled": "2024-09-19T14:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1010 Cedar Street, Broomfield, CO 80020 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1010-Cedar-St-Broomfield-CO-80020/60234938_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1010-Cedar-St-Broomfield-CO-80020/60234938_zpid",
+        "snippet": "1010 Cedar Street, Broomfield CO, is a Single Family home that contains 2100 sq ft and was built in 1970.It contains 4 bedrooms and 2 bathrooms.This home last sold for $545,000 in June 2023. The Zestimate for this Single Family is $583,400, which has increased by $16,300 in the last 30 days.The Rent Zestimate for this Single Family is $2,873/mo, which has increased by $2,873/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-06T15:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1031 Cedar St, Broomfield, CO 80020 | MLS# 471428 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/1031-Cedar-St-80020/home/35520597",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/1031-Cedar-St-80020/home/35520597",
+        "snippet": "5 beds, 2.5 baths, 2358 sq. ft. house located at 1031 Cedar St, Broomfield, CO 80020 sold for $266,000 on Feb 28, 2006. MLS# 471428. GORGEOUS HOME W/ SPECTACULAR UPGRADES. ALL FLOORS HAVE NEW 12 C...",
+        "dateLastCrawled": "2024-08-01T06:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1030 Birch St, Broomfield, CO 80020 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1030-Birch-St-Broomfield-CO-80020/60234944_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1030-Birch-St-Broomfield-CO-80020/60234944_zpid",
+        "snippet": "1030 Birch St, Broomfield CO, is a Single Family home that contains 1245 sq ft and was built in 1966.It contains 3 bedrooms and 2 bathrooms.This home last sold for $190,000 in February 2014. The Zestimate for this Single Family is $519,000, which has increased by $1,073 in the last 30 days.The Rent Zestimate for this Single Family is $2,270/mo, which has increased by $2,270/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-10T01:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1000 Cedar St, Broomfield, CO 80020 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/1000-Cedar-St-80020/home/35520593",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/1000-Cedar-St-80020/home/35520593",
+        "snippet": "3 beds, 4 baths, 2356 sq. ft. house located at 1000 Cedar St, Broomfield, CO 80020 sold for $635,000 on May 18, 2023. MLS# 8053418. * * Open Houses Sat & Sun 12-3pm * * This is the one!",
+        "dateLastCrawled": "2025-03-08T18:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1040 Cedar St, Broomfield, CO 80020 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1040-Cedar-St-Broomfield-CO-80020/60234934_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1040-Cedar-St-Broomfield-CO-80020/60234934_zpid",
+        "snippet": "1040 Cedar St, Broomfield CO, is a Single Family home that contains 2740 sq ft and was built in 1970.It contains 5 bedrooms and 4 bathrooms.This home last sold for $435,000 in June 2020. The Zestimate for this Single Family is $628,600, which has increased by $1,439 in the last 30 days.The Rent Zestimate for this Single Family is $3,450/mo, which has increased by $3,450/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-12T02:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1060 Cedar St, Broomfield, CO 80020 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1060-Cedar-St-Broomfield-CO-80020/60234930_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1060-Cedar-St-Broomfield-CO-80020/60234930_zpid",
+        "snippet": "1060 Cedar St, Broomfield CO, is a Single Family home that contains 1988 sq ft and was built in 1970.It contains 4 bedrooms and 3.5 bathrooms.This home last sold for $265,000 in June 2005. The Zestimate for this Single Family is $613,600, which has decreased by $9,061 in the last 30 days.The Rent Zestimate for this Single Family is $2,839/mo, which has increased by $2,839/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-31T07:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1010 Cedar St, Broomfield, CO 80020 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/1010-Cedar-St-80020/home/35520594",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/1010-Cedar-St-80020/home/35520594",
+        "snippet": "4 beds, 2 baths, 2100 sq. ft. house located at 1010 Cedar St, Broomfield, CO 80020 sold for $545,000 on Jun 30, 2023. MLS# 7663059. Discover the perfect home at 1010 Cedar St in the heart of Broomf...",
+        "dateLastCrawled": "2025-03-19T06:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

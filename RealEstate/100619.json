@@ -1,0 +1,444 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "550 E Fremont Pl, Centennial CO 80122"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=550+E+Fremont+Pl%2c+Centennial+CO+80122",
+    "totalEstimatedMatches": 1330000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "550 E Fremont Pl, Centennial, CO 80122 - Zillow",
+        "url": "https://www.zillow.com/homedetails/550-E-Fremont-Pl-Centennial-CO-80122/247460579_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/550-E-Fremont-Pl-Centennial-CO-80122/247460579_zpid",
+        "snippet": "550 E Fremont Pl, Centennial CO, is a Single Family home that contains 2154 sq ft and was built in 2016.It contains 3 bedrooms and 3 bathrooms.This home last sold for $499,950 in January 2017. The Zestimate for this Single Family is $731,100, which has increased by $6,052 in the last 30 days.The Rent Zestimate for this Single Family is $3,202/mo, which has increased by $3,202/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-07T10:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "550 E Fremont Pl, Centennial, CO 80122 | Redfin",
+        "url": "https://www.redfin.com/CO/Centennial/550-E-Fremont-Pl-80122/home/103790944",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Centennial/550-E-Fremont-Pl-80122/home/103790944",
+        "snippet": "3 beds, 3 baths, 2154 sq. ft. house located at 550 E Fremont Pl, Centennial, CO 80122. View sales history, tax history, home value estimates, and overhead views. APN 2077-27-4-42-004.",
+        "dateLastCrawled": "2024-08-18T22:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "550 E Fremont Pl, Centennial, CO 80122 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/550-E-Fremont-Pl_Centennial_CO_80122_M11424-63850",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/550-E-Fremont-Pl_Centennial_CO_80122...",
+        "snippet": "See sales history and home details for 550 E Fremont Pl, Centennial, CO 80122, a 3 bed, 3 bath, 2,154 Sq. Ft. single family home built in 2016 that was last sold on 01/05/2017.",
+        "dateLastCrawled": "2024-04-03T17:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "550 E Fremont Pl, Centennial, CO 80122 - Trulia",
+        "url": "https://www.trulia.com/home/550-e-fremont-pl-centennial-co-80122-247460579",
+        "datePublished": "2023-12-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 20, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/550-e-fremont-pl-centennial-co-80122-247460579",
+        "snippet": "550 E Fremont Pl, Centennial, CO 80122 is a 2,154 sqft, 3 bed, 3 bath home sold in 2017. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-20T10:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "556 E Fremont Place, Centennial, CO 80122 | Zillow",
+        "url": "https://www.zillow.com/homedetails/556-E-Fremont-Pl-Centennial-CO-80122/247460580_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/556-E-Fremont-Pl-Centennial-CO-80122/247460580_zpid",
+        "snippet": "556 E Fremont Place, Centennial CO, is a Single Family home that contains 2692 sq ft and was built in 2016.It contains 3 bedrooms and 3 bathrooms.This home last sold for $750,000 in June 2023. The Zestimate for this Single Family is $751,500, which has increased by $1,200 in the last 30 days.The Rent Zestimate for this Single Family is $3,481/mo, which has increased by $3,481/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-05T05:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "520 E Fremont Pl, Centennial, CO 80122 | Redfin",
+        "url": "https://www.redfin.com/CO/Centennial/520-E-Fremont-Pl-80122/home/103790937",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Centennial/520-E-Fremont-Pl-80122/home/103790937",
+        "snippet": "4 beds, 3 baths, 2154 sq. ft. house located at 520 E Fremont Pl, Centennial, CO 80122. View sales history, tax history, home value estimates, and overhead views. APN 2077-27-4-40-003.",
+        "dateLastCrawled": "2025-06-06T06:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "556 E Fremont Pl, Centennial, CO 80122 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/556-E-Fremont-Pl_Centennial_CO_80122_M17741-67065",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/556-E-Fremont-Pl_Centennial_CO_80122...",
+        "snippet": "View 28 photos for 556 E Fremont Pl, Centennial, CO 80122, a 3 bed, 3 bath, 2,692 Sq. Ft. single family home built in 2016 that was last sold on 03/31/2017.",
+        "dateLastCrawled": "2024-01-02T21:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "13275 E Fremont Pl, Englewood, CO 80112 - Cobblestone Plaza - LoopNet",
+        "url": "https://www.loopnet.com/Listing/13275-E-Fremont-Pl-Englewood-CO/6046841/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.cWfBgXpWYFIq6k9-zCjjAAHaE8&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-30T00:00:00.0000000",
+        "datePublishedDisplayText": "May 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/13275-E-Fremont-Pl-Englewood-CO/6046841",
+        "snippet": "13275 E Fremont Pl, Englewood, CO 80112. This Office space is available for lease. Cobblestone Plaza is a 35,588-square-foot, 3-story office bu. ... Cobblestone Plaza is a 35,588-square-foot, 3-story office building located in Centennial, CO. The property is leased to an array of professional tenants that include technology, accounting, and ...",
+        "dateLastCrawled": "2025-06-02T20:11:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.cWfBgXpWYFIq6k9-zCjjAAHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.cWfBgXpWYFIq6k9-zCjjAAHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "590 E Fremont Pl, Centennial, CO 80122 - Zillow",
+        "url": "https://www.zillow.com/homedetails/590-E-Fremont-Pl-Centennial-CO-80122/247460564_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/590-E-Fremont-Pl-Centennial-CO-80122/247460564_zpid",
+        "snippet": "590 E Fremont Pl, Centennial CO, is a Single Family home that contains 2935 sq ft and was built in 2016.It contains 3 bedrooms and 3 bathrooms.This home last sold for $549,000 in January 2018. The Zestimate for this Single Family is $773,200, which has increased by $13,571 in the last 30 days.The Rent Zestimate for this Single Family is $3,542/mo, which has increased by $3,542/mo in the last ...",
+        "dateLastCrawled": "2025-03-26T16:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "546 E Fremont Pl, Centennial, CO 80122 | Redfin",
+        "url": "https://www.redfin.com/CO/Centennial/546-E-Fremont-Pl-80122/home/103790945",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Centennial/546-E-Fremont-Pl-80122/home/103790945",
+        "snippet": "4 beds, 3 baths, 3437 sq. ft. house located at 546 E Fremont Pl, Centennial, CO 80122 sold for $785,000 on Mar 21, 2023. MLS# 9875299. Welcome to your new home, a 2016 built Century Communities, pa...",
+        "dateLastCrawled": "2025-06-05T22:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "540 E Fremont Pl, Centennial, CO 80122 [Updated 5/29] - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/540-E-Fremont-Pl_Centennial_CO_80122_M23007-75247",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP._OWwqRlkPjaSB_e25vkkrgHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/540-E-Fremont-Pl_Centennial_CO_80122...",
+        "snippet": "540 E Fremont Pl, Centennial, CO 80122 is for sale. View 45 photos of this 3 bed, 2.5 bath, 2683 sqft. single family home with a list price of $765000.",
+        "dateLastCrawled": "2025-06-05T12:02:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP._OWwqRlkPjaSB_e25vkkrgHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP._OWwqRlkPjaSB_e25vkkrgHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "520 E Fremont Pl, Centennial, CO 80122 - Zillow",
+        "url": "https://www.zillow.com/homedetails/520-E-Fremont-Pl-Centennial-CO-80122/247460639_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/520-E-Fremont-Pl-Centennial-CO-80122/247460639_zpid",
+        "snippet": "520 E Fremont Pl, Centennial CO, is a Single Family home that contains 2968 sq ft and was built in 2016.It contains 4 bedrooms and 3 bathrooms.This home last sold for $492,230 in January 2017. The Zestimate for this Single Family is $761,900, which has increased by $4,300 in the last 30 days.The Rent Zestimate for this Single Family is $3,650/mo, which has increased by $3,650/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-16T01:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "500 E Fremont Pl, Centennial, CO 80122 | Redfin",
+        "url": "https://www.redfin.com/CO/Centennial/500-E-Fremont-Pl-80122/home/103790935",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Centennial/500-E-Fremont-Pl-80122/home/103790935",
+        "snippet": "3 beds, 3 baths, 2038 sq. ft. house located at 500 E Fremont Pl, Centennial, CO 80122. View sales history, tax history, home value estimates, and overhead views. APN 2077-27-4-40-001.",
+        "dateLastCrawled": "2025-06-06T06:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "540 E Fremont Place, Centennial, CO 80122 - Zillow",
+        "url": "https://www.zillow.com/homedetails/540-E-Fremont-Pl-Littleton-CO-80122/247460607_zpid/",
+        "datePublished": "2025-05-29T00:00:00.0000000",
+        "datePublishedDisplayText": "May 29, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/540-E-Fremont-Pl-Littleton-CO-80122/247460607_zpid",
+        "snippet": "Zillow has 45 photos of this $765,000 3 beds, 3 baths, 2,683 Square Feet single family home located at 540 E Fremont Place, Littleton, CO 80122 built in 2016. MLS #1885605.",
+        "dateLastCrawled": "2025-05-31T06:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "560 E Fremont Pl, Centennial, CO 80122 | MLS# 7834900 | Redfin",
+        "url": "https://www.redfin.com/CO/Centennial/560-E-Fremont-Pl-80122/home/103790946",
+        "datePublished": "2017-01-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 7, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Centennial/560-E-Fremont-Pl-80122/home/103790946",
+        "snippet": "3 beds, 3 baths, 3043 sq. ft. house located at 560 E Fremont Pl, Centennial, CO 80122. View sales history, tax history, home value estimates, and overhead views. APN 2077-27-4-42-006.",
+        "dateLastCrawled": "2025-01-29T12:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "560 E Fremont Pl, Centennial, CO 80122 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/560-E-Fremont-Pl_Centennial_CO_80122_M17835-32892",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/560-E-Fremont-Pl_Centennial_CO_80122...",
+        "snippet": "See sales history and home details for 560 E Fremont Pl, Centennial, CO 80122, a 3 bed, 3 bath, 3,043 Sq. Ft. single family home built in 2016 that was last sold on 03/14/2017.",
+        "dateLastCrawled": "2024-03-08T06:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "560 E Fremont Pl, Centennial, CO 80122 - Zillow",
+        "url": "https://www.zillow.com/homedetails/560-E-Fremont-Pl-Centennial-CO-80122/247460581_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/560-E-Fremont-Pl-Centennial-CO-80122/247460581_zpid",
+        "snippet": "560 E Fremont Pl, Centennial CO, is a Single Family home that contains 2385 sq ft and was built in 2016.It contains 3 bedrooms and 3 bathrooms.This home last sold for $589,950 in March 2017. The Zestimate for this Single Family is $816,700, which has increased by $6,174 in the last 30 days.The Rent Zestimate for this Single Family is $3,262/mo, which has increased by $3,262/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-01T01:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3014 E Fremont Drive, Centennial, CO 80122 | MLS #9745134 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3014-E-Fremont-Dr-Centennial-CO-80122/13161668_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3014-E-Fremont-Dr-Centennial-CO-80122/13161668_zpid",
+        "snippet": "Zillow has 50 photos of this $899,000 4 beds, 3 baths, 2,533 Square Feet single family home located at 3014 E Fremont Drive, Centennial, CO 80122 built in 1972. MLS #9745134. 3D Home Tour Available!",
+        "dateLastCrawled": "2025-05-25T07:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "590 E Fremont Pl, Centennial, CO 80122 | Redfin",
+        "url": "https://www.redfin.com/CO/Centennial/590-E-Fremont-Pl-80122/home/103790948",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Centennial/590-E-Fremont-Pl-80122/home/103790948",
+        "snippet": "3 beds, 3 baths, 2154 sq. ft. house located at 590 E Fremont Pl, Centennial, CO 80122 sold for $549,000 on Jan 4, 2018. View sales history, tax history, home value estimates, and overhead views. AP...",
+        "dateLastCrawled": "2025-06-06T01:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "546 E Fremont Place, Centennial, CO 80122 | Zillow",
+        "url": "https://www.zillow.com/homedetails/546-E-Fremont-Pl-Centennial-CO-80122/247460608_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/546-E-Fremont-Pl-Centennial-CO-80122/247460608_zpid",
+        "snippet": "546 E Fremont Place, Centennial CO, is a Single Family home that contains 3437 sq ft and was built in 2016.It contains 4 bedrooms and 3 bathrooms.This home last sold for $785,000 in March 2023. The Zestimate for this Single Family is $796,200, which has increased by $816 in the last 30 days.The Rent Zestimate for this Single Family is $3,764/mo, which has increased by $3,764/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-01T06:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

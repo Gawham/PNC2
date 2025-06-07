@@ -1,0 +1,423 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "30580 Aldred Rd, Pueblo CO 81006"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=30580+Aldred+Rd%2c+Pueblo+CO+81006",
+    "totalEstimatedMatches": 271000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "30580 Aldred Rd, Pueblo, CO 81006 | Zillow",
+        "url": "https://www.zillow.com/homedetails/30580-Aldred-Rd-Pueblo-CO-81006/14049457_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/30580-Aldred-Rd-Pueblo-CO-81006/14049457_zpid",
+        "snippet": "30580 Aldred Rd, Pueblo, CO 81006 is currently not for sale. The -- sqft manufactured home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-30T04:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "30580 Aldred Rd, Pueblo, CO 81006 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/30580-Aldred-Rd_Pueblo_CO_81006_M24910-98959",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/30580-Aldred-Rd_Pueblo_CO_81006_M...",
+        "snippet": "View detailed information about property 30580 Aldred Rd, Pueblo, CO 81006 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2023-04-19T19:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "30580 Aldred Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/30580-Aldred-Rd-81006/home/132470911",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/30580-Aldred-Rd-81006/home/132470911",
+        "snippet": "Mobile/manufactured home located at 30580 Aldred Rd, Pueblo, CO 81006 sold for $25,000 on Jan 11, 1985. View sales history, tax history, home value estimates, and overhead views. APN 436000015.",
+        "dateLastCrawled": "2023-11-15T02:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "30580 Aldred Rd, Pueblo, 81006, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "30580 Aldred Rd, Pueblo, CO 81006 - See Est. Value, Schools & More - Trulia",
+        "url": "https://www.trulia.com/home/30580-aldred-rd-pueblo-co-81006-14049457",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/30580-aldred-rd-pueblo-co-81006-14049457",
+        "snippet": "30580 Aldred Rd, Pueblo, CO 81006 is a Studio home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-05-30T18:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "30580 Aldred Rd, Pueblo, CO 81006"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Year"
+            },
+            "items": [
+              {
+                "text": "2024"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Michael S Montgomery Electrician at 30580 Aldred Rd, Pueblo, CO 81006 ...",
+        "url": "https://licensefiles.com/licenses/michael-s-montgomery/3w1O63",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://licensefiles.com/licenses/michael-s-montgomery/3w1O63",
+        "snippet": "Electrician at Aldred Rd, Pueblo, CO. License number. Colorado 920899. Issued Date. Jun 4, 1991. Renew Date. Aug 1, 1999. Type. Electrical Apprentice. Address. Address 30580 Aldred Rd, Pueblo, CO 81006. LicenseFiles verified this license of Dec 9, 2016 at the Colorado - Department of Regulatory Agencies. Personal information See more ...",
+        "dateLastCrawled": "2024-09-30T04:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LicenseFiles.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Who Lives at 30580 Aldred Rd, Pueblo, CO 81006 - Spokeo",
+        "url": "https://www.spokeo.com/CO/Pueblo/30580-Aldred-Rd",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Pueblo/30580-Aldred-Rd",
+        "snippet": "Find people by address using reverse address lookup for 30580 Aldred Rd, Pueblo, CO 81006. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-11-08T14:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "30580 Aldred Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/30580-Aldred-Rd-81006/home/132870811",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/30580-Aldred-Rd-81006/home/132870811",
+        "snippet": "Mobile/manufactured home located at 30580 Aldred Rd, Pueblo, CO 81006. View sales history, tax history, home value estimates, and overhead views. APN 7370140099.",
+        "dateLastCrawled": "2024-09-18T13:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "30620 Aldred Rd, Pueblo, CO 81006 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/30620-Aldred-Rd_Pueblo_CO_81006_M16750-65095",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/30620-Aldred-Rd_Pueblo_CO_81006_M...",
+        "snippet": "View detailed information about property 30620 Aldred Rd, Pueblo, CO 81006 including listing details, property photos, school and neighborhood data, and much more. ... 30580 Aldred Rd, Pueblo, CO ...",
+        "dateLastCrawled": "2024-02-12T17:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "30580 Aldred Rd, Pueblo, CO 81006 - Trulia",
+        "url": "https://www.trulia.com/home/30580-aldred-rd-pueblo-co-81006-14010442",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/30580-aldred-rd-pueblo-co-81006-14010442",
+        "snippet": "30580 Aldred Rd, Pueblo, CO 81006 is a Studio home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-11-29T19:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "30600 Aldred Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/30600-Aldred-Rd-Pueblo-CO-81006/14010443_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/30600-Aldred-Rd-Pueblo-CO-81006/14010443_zpid",
+        "snippet": "30600 Aldred Rd, Pueblo, CO 81006 is currently not for sale. The -- sqft manufactured home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow. ... 30580 Aldred Rd, Pueblo, CO 81006. Off Market. $12,674",
+        "dateLastCrawled": "2025-03-05T00:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "30620 Aldred Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/30620-Aldred-Rd-Pueblo-CO-81006/14010444_zpid/",
+        "datePublished": "2024-08-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 15, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/30620-Aldred-Rd-Pueblo-CO-81006/14010444_zpid",
+        "snippet": "30620 Aldred Rd, Pueblo CO, is a Mobile / Manufactured home that contains 664 sq ft and was built in 1963.It contains 1 bedroom and 1 bathroom.This home last sold for $58,500 in August 2022. The Zestimate for this Mobile / Manufactured is $65,300, which has increased by $1,752 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,036/mo, which has increased by $1,036/mo ...",
+        "dateLastCrawled": "2025-03-15T13:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "30640 Aldred Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/30640-Aldred-Rd-81006/home/132275634",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/30640-Aldred-Rd-81006/home/132275634",
+        "snippet": "4 beds, 2 baths, 2128 sq. ft. house located at 30640 Aldred Rd, Pueblo, CO 81006 sold for $389,000 on Nov 8, 2022. MLS# 2617851. A HIDDEN GEM! As you enter the property, you will immediately notice...",
+        "dateLastCrawled": "2025-03-12T00:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "30520 Aldred Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/30520-Aldred-Rd-Pueblo-CO-81006/14010441_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/30520-Aldred-Rd-Pueblo-CO-81006/14010441_zpid",
+        "snippet": "30520 Aldred Rd, Pueblo, CO 81006 is currently not for sale. The 1,536 Square Feet single family home is a 4 beds, 3 baths property. This home was built in 2000 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-09-30T03:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "30620 Aldred Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/30620-Aldred-Rd-81006/home/132511353",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/30620-Aldred-Rd-81006/home/132511353",
+        "snippet": "1 bed, 1 bath, 664 sq. ft. house located at 30620 Aldred Rd, Pueblo, CO 81006 sold for $58,500 on Aug 31, 2022. MLS# 203912. Investment opportunity near airport. Mobile in fair condition with lot a...",
+        "dateLastCrawled": "2025-03-02T00:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "30620 Aldred Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/30620-Aldred-Rd-Pueblo-CO-81006/14049458_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/30620-Aldred-Rd-Pueblo-CO-81006/14049458_zpid",
+        "snippet": "30620 Aldred Rd, Pueblo, CO 81006 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow. ... 30580 Aldred Rd, Pueblo, CO 81006. Off Market.",
+        "dateLastCrawled": "2025-04-01T07:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "30577 Aldred Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/30577-Aldred-Rd-Pueblo-CO-81006/55692834_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/30577-Aldred-Rd-Pueblo-CO-81006/55692834_zpid",
+        "snippet": "30577 Aldred Rd, Pueblo CO, is a Single Family home that contains 1920 sq ft and was built in 1999.It contains 4 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $309,400, which has increased by $5,046 in the last 30 days.The Rent Zestimate for this Single Family is $2,248/mo, which has increased by $2,248/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-04T18:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "30577 Aldred Rd, Pueblo, CO 81006 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/30577-Aldred-Rd-81006/home/132453522",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/30577-Aldred-Rd-81006/home/132453522",
+        "snippet": "4 beds, 2 baths, 1920 sq. ft. mobile/manufactured home located at 30577 Aldred Rd, Pueblo, CO 81006. View sales history, tax history, home value estimates, and overhead views. APN 436000116.",
+        "dateLastCrawled": "2025-06-01T21:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "31850 Aldred Rd, Pueblo, CO 81006 - Zillow",
+        "url": "https://www.zillow.com/homedetails/31850-Aldred-Rd-Pueblo-CO-81006/14001214_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/31850-Aldred-Rd-Pueblo-CO-81006/14001214_zpid",
+        "snippet": "31850 Aldred Rd, Pueblo CO, is a Single Family home that contains 491 sq ft and was built in 1952.It contains 1 bedroom and 1 bathroom.This home last sold for $20,000 in May 2017. The Zestimate for this Single Family is $80,800, which has increased by $6,706 in the last 30 days.The Rent Zestimate for this Single Family is $929/mo, which has increased by $929/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-09T01:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

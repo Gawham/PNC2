@@ -1,0 +1,669 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "5085 W 136th Ave, Unit 205, Broomfield CO 80023"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=5085+W+136th+Ave%2c+Unit+205%2c+Broomfield+CO+80023",
+    "totalEstimatedMatches": 702000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Highland Trail (UPDATED) - Get Pricing, See 18 Photos & See ... - Seniorly",
+        "url": "https://www.seniorly.com/independent-living/colorado/broomfield/highland-trail",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.9GWSvj8D7UmLlBgQr0SBSQAAAA&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 9.7,
+              "bestRating": 10,
+              "reviewCount": 18
+            }
+          }
+        ],
+        "datePublished": "2025-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/independent-living/colorado/broomfield/highland-trail",
+        "snippet": "Highland Trail is an Independent Living community located at 5085 West 136th Avenue in Broomfield, CO. See pricing, photos & reviews on Seniorly.com! Talk with a local ... 1450 West 169th Avenue, Broomfield, CO 80023 Assisted Living, Memory Care, Independent Living.",
+        "dateLastCrawled": "2025-06-04T13:29:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.9GWSvj8D7UmLlBgQr0SBSQAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 320,
+          "sourceHeight": 275,
+          "imageId": "OIP.9GWSvj8D7UmLlBgQr0SBSQAAAA"
+        },
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "5085 West 136th Avenue, Broomfield, 80023, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 635-8034"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Highland Trail | Sky Activing Living | Independent Living in Broomfield, CO",
+        "url": "https://skyactive.sunriseseniorliving.com/communities/highland-trail",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.Dej2Gc96uAC-9bTdc26KRgHaE7&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://skyactive.sunriseseniorliving.com/communities/highland-trail",
+        "snippet": "5085 W 136th Ave, Broomfield, CO, 80023. ... For outdoor lovers, Broomfield Commons Park and scenic walking trails are just a short stroll from your door, and your furry friends will enjoy the nearby Broomfield Commons Dog Park, just a four-minute drive away. Plus, with quick access to top-notch healthcare facilities like Good Samaritan ...",
+        "dateLastCrawled": "2025-06-05T21:14:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.Dej2Gc96uAC-9bTdc26KRgHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.Dej2Gc96uAC-9bTdc26KRgHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "5085 W 136th Ave, Broomfield, 80023, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 532-1399"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Highland Trail Senior Apartments - 5085 W 136th Ave Broomfield, CO ...",
+        "url": "https://www.apartments.com/highland-trail-senior-apartments-broomfield-co/xsrss2m/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/highland-trail-senior-apartments-broomfield-co/xsrss2m",
+        "snippet": "5085 W 136th Ave, Broomfield, CO 80023. Property Rating. 4.0. Great. Out of 5. No Renter Reviews. ... 5085 W 136th Ave. Broomfield, CO 80023. Email Copy Link. ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tour Video Property Site Map Location Map Unit Map ...",
+        "dateLastCrawled": "2025-05-24T04:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "5085 W 136th Ave, Broomfield, 80023, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(540) 640-6748"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$3,250 - $4,700"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Holiday Highland Trail - 2025 Pricing, Photos, 22 Reviews in Broomfield, CO",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/broomfield/holiday-highland-trail-80023/",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.6,
+              "bestRating": 5,
+              "reviewCount": 52
+            }
+          }
+        ],
+        "datePublished": "2020-07-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 1, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/facilities/co/broomfield/holiday-highland-trail-80023",
+        "snippet": "5085 W 136th Ave, Broomfield, CO 80023. 4.6 / 5.0 52 Reviews . Pricing & Availability (800) 755-1458 . Contact Resident (303) 635-8034 ... The cost of independent living at Holiday Highland Trail is determined by the size and layout of the unit and the inclusion of services and amenities. Costs are tailored to meet each resident\u2019s unique ...",
+        "dateLastCrawled": "2025-06-06T00:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Highland Trail | Independent Living | Broomfield, CO 80023 | 93 Reviews",
+        "url": "https://www.aplaceformom.com/community/highland-trail-147152",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.3gY4CLVMNqMm00-398izYAHaE7&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.1,
+              "bestRating": 5,
+              "reviewCount": 89
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/highland-trail-147152",
+        "snippet": "5085 West 136th Avenue, Broomfield, CO 80023. For pricing & availability: (866) 374-4058. Call Now Close . This phone number connects you with a local advisor from A Place For Mom. Call us (866) 374-4058. 9.0. Review score. 93 reviews. Add review. 9.0. Review score. 93 reviews. 5 star. 47%. 4 star. 33%. 3 star. 12%. 2 star. 5%.",
+        "dateLastCrawled": "2025-06-04T14:01:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.3gY4CLVMNqMm00-398izYAHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.3gY4CLVMNqMm00-398izYAHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "5085 West 136th Avenue, Broomfield, 80023, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-17T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          },
+          {
+            "label": {
+              "text": "Start Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-16T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:STARTDATE"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Highland Trail Senior Apartments - Broomfield, Colorado - After55",
+        "url": "https://www.after55.com/co/broomfield/highland-trail-senior-apartments/8srsy20",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.YdQsiBbA9dJagGXNGe6dTwHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.after55.com/co/broomfield/highland-trail-senior-apartments/8srsy20",
+        "snippet": "5085 W 136th Ave, Broomfield, CO 80023. Last Updated: 1 Wk Ago. INDEPENDENT LIVING 55+ Floor Plan Summary ; Monthly Rent Bedrooms Bathrooms Sq. Ft. $3,250 - $4,700: Studio - 2 Beds: Studio - 2 : 1 - 2 Baths: 1 - 2 : 430 - 1,009 sq. ft. April Pricing Offer. You can enjoy 50% off your first three months\u2019 rent when you sign by April 22 ...",
+        "dateLastCrawled": "2025-04-18T04:56:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.YdQsiBbA9dJagGXNGe6dTwHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.YdQsiBbA9dJagGXNGe6dTwHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "After55"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Highland Trail - May 2025 Pricing (UPDATED) - Family Assets",
+        "url": "https://www.familyassets.com/independent-living/colorado/broomfield/highland-trail",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.U5yC-HqF5gVj4v0-WNF8xQHaDt&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/independent-living/colorado/broomfield/highland-trail",
+        "snippet": "Highland Trail is an independent living community located in Broomfield, Colorado.The cost of independent living at Highland Trail starts at $3,349 and can range as high as $8,602 per month. The average monthly cost is $5,879.There may be some additional services that could increase the cost of care, depending on the services that you may need.",
+        "dateLastCrawled": "2025-06-04T05:11:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.U5yC-HqF5gVj4v0-WNF8xQHaDt&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 237,
+          "imageId": "OIP.U5yC-HqF5gVj4v0-WNF8xQHaDt"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Highland Trail - 5085 W 136th Ave, Broomfield, CO 80023 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/Highland-Trail/apartment/35504754",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/Highland-Trail/apartment/35504754",
+        "snippet": "See photos, floor plans and more details about Highland Trail at 5085 W 136th Ave, Broomfield, CO 80023. Search. Sign in. SEARCH; For Sale. For Rent. Find an Agent. Feed. Favorites. Redfin Premier. Sell My Home. List My Home for Rent ... 13005 Lowell Ct Unit 1, Broomfield, CO, 80020; 13005 Lowell Ct Unit 1, Broomfield, CO, 80020 ...",
+        "dateLastCrawled": "2025-03-22T13:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Highland Trail - 9 Reviews - Broomfield, CO - Caring.com",
+        "url": "https://www.caring.com/senior-living/colorado/broomfield/highland-trail",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.U9oTeIfWj0KKlsh7gKeWOQHaE8&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2020-03-19T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 19, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.caring.com/senior-living/colorado/broomfield/highland-trail",
+        "snippet": "5085 W 136th Ave, Broomfield, CO 80023 (800) 558-0653 Verified Partner. 4.3 (9 reviews) Starting Price. $3,250. Request Tour. Care Offered: Independent Living. Pet Friendly. Transportation Services. ... The unit we saw at Highland Trail wasn't as big as the other facility we visited. It was a one-bedroom apartment with a living room and a ...",
+        "dateLastCrawled": "2025-06-04T05:36:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.U9oTeIfWj0KKlsh7gKeWOQHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.U9oTeIfWj0KKlsh7gKeWOQHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Caring.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Highland Trail \u2013 Broomfield, CO \u2013 SeniorHousingNet.com",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/highland-trail_5085-w-136th-ave_broomfield_co_80023-631306",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.le4GbP_Fw46If6cDNyQy9AHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/highland-trail_5085-w-136th-ave...",
+        "snippet": "Highland Trail - Independent Living facility located at 5085 W 136th Ave, Broomfield, CO, 80023, seniorhousingnet.com . 800-304-7152. Talk to a local advisor for free. Assisted Living; Alzheimer\u2019s Care; More Senior Living Options; Advice & Planning;",
+        "dateLastCrawled": "2025-01-27T15:14:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.le4GbP_Fw46If6cDNyQy9AHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.le4GbP_Fw46If6cDNyQy9AHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Holiday Highland Trail, 5085 W 136th Ave, Broomfield, CO 80023, US ...",
+        "url": "https://www.mapquest.com/us/colorado/holiday-highland-trail-262515101",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/holiday-highland-trail-262515101",
+        "snippet": "5085 W 136th Ave. Broomfield, CO 80023 +1 (303) 247-0542. https://holidayseniorliving.com. Highland Trail is an award-winning senior apartment community offering an affordable lifestyle with hotel-like amenities including chef-prepared meals, weekly housekeeping, and an array of activities near by Broomfield. Highland Trail welcomes home care ...",
+        "dateLastCrawled": "2025-04-28T23:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Broomfield CO Retirement Community | Highland Trail - Senior Living Guide",
+        "url": "https://www.seniorlivingguide.com/communities/highland-trail-5085-w-136th-avenue-broomfield-co-80023/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorlivingguide.com/communities/highland-trail-5085-w-136th-avenue...",
+        "snippet": "5085 W 136Th Avenue, Broomfield, CO 80023 $$ Check Availability Get Pricing . Under the open skies of Broomfield, CO, Highland Trail provides three freshly prepared meals a day, weekly light housekeeping and abundant opportunities to enrich, enjoy and simplify your life in a beautiful independent living community. ... Unit Amenities. Cable ...",
+        "dateLastCrawled": "2025-05-16T12:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Senior Living Guide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "HIGHLAND TRAIL - Updated June 2025 - 18 Photos - 5085 W 136th Ave ...",
+        "url": "https://www.yelp.com/biz/highland-trail-broomfield-2",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/highland-trail-broomfield",
+        "snippet": "Specialties: Come discover independent senior living at Highland Trail, an award-winning community in Broomfield, Colorado. With three homestyle meals a day, housekeeping every week and most utilities for one bundled price, you can spend time living the life of your dreams. Apartments have plenty of space, walk-in tubs, kitchenettes and your choice of a patio or balcony. You can also arrange ...",
+        "dateLastCrawled": "2025-06-05T16:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "5085 W 136th Ave Broomfield, CO 80023"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "5085 W 136Th Ave, Broomfield, CO 80023 - For Rent - Homes.com",
+        "url": "https://www.homes.com/property/highland-trail-senior-apartments-broomfield-co/1v6w73jh461ql/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/highland-trail-senior-apartments-broomfield-co/1v6w73jh...",
+        "snippet": "Apartments for Rent in Broomfield, CO. This apartment is located at 5085 W 136th Ave, Broomfield, CO 80023 and is currently priced between $3,250-$4,700. This property was built in 2009. 5085 W 136th Ave is a home located in Broomfield County with nearby schools including Coyote Ridge Elementary School, Westlake Middle School, and Legacy High ...",
+        "dateLastCrawled": "2025-05-05T23:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Highland Trail, Retirement home, Bloomfield, CO, Senior Living Housing Care",
+        "url": "https://www.liveyourretirement.com/home/highland-trail",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.liveyourretirement.com/home/highland-trail",
+        "snippet": "Highland Trail is a Retirement home in 5085 West 136th Avenue, Bloomfield, CO, offering Senior Living, Independent Living. See photos, get pricing, reviews, services and a variety of amenties. ... 5085 West 136th Avenue, Bloomfield, CO 80023, United States; View Map; Get a callback. ... Broomfield Skilled Nursing & Rehabilitation Center - 1.44 ...",
+        "dateLastCrawled": "2025-04-13T09:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Live your retirement"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Highland Trail in Broomfield, CO - SeniorAdvice.com",
+        "url": "https://www.senioradvice.com/providers/view/highland-trail-broomfield-co",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.senioradvice.com/providers/view/highland-trail-broomfield-co",
+        "snippet": "Highland Trail is a senior housing community located at 5085 West 136th Ave in Broomfield, Colorado. The facility is in a primarily wealthier area, with a median family income of $103,703. With around 16,000 residents in the 80023 zip code, it has an average population density.",
+        "dateLastCrawled": "2025-03-17T08:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorAdvice.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Highland Trail - 5085 W 136th Ave | Broomfield, CO Apartments for Rent ...",
+        "url": "https://www.rent.com/colorado/broomfield-apartments/highland-trail-4-45043894",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rent.com/colorado/broomfield-apartments/highland-trail-4-45043894",
+        "snippet": "5085 W 136th Ave, Broomfield, CO 80023. Close. View Available Properties. Similar Properties. 11 Photos. Close. Photos (11) This is a great property for Senior Living. ... 2291 E 90Th Avenue Thornton CO; 10000 W 59th Pl unit 3; 2321 Old Rail Wy; View More Nearby Zip Codes. 80027, CO; 80031, CO; 80020, CO;",
+        "dateLastCrawled": "2025-03-10T08:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Highland Trail, 5085 W 136th Ave, Broomfield, CO 80023, US - MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/highland-trail-638989203",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/highland-trail-638989203",
+        "snippet": "5085 W 136th Ave. Broomfield, CO 80023 +1 (303) 532-1399. https://skyactive.sunriseseniorliving.com. ... Highland Trail in Broomfield, CO, is one of the inviting communities where neighbors quickly become good friends. The location offers convenient independent living close to the Rockies. Residents can enjoy spacious apartments, walking paths ...",
+        "dateLastCrawled": "2025-06-01T05:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "5085 W 136th Ave #776F18CCB, Broomfield, CO 80023 | Zillow",
+        "url": "https://www.zillow.com/homedetails/5085-W-136th-Ave-776F18CCB-Broomfield-CO-80023/449111395_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/5085-W-136th-Ave-776F18CCB-Broomfield-CO-80023/...",
+        "snippet": "5085 W 136th Ave #776F18CCB, Broomfield, CO 80023 is currently not for sale. The -- sqft apartment home is a 1 bed, 1 bath property. This home was built in 2008 and last sold on 2025-04-02 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-04T04:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "5085 W 136th Ave, Broomfield, CO 80023 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/5085-W-136th-Ave_Broomfield_CO_80023_M10796-45609",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/5085-W-136th-Ave_Broomfield_CO_80023...",
+        "snippet": "See sales history and home details for 5085 W 136th Ave, Broomfield, CO 80023, a 97 bed, 133 bath, 105,337 Sq. Ft. multi family home built in 2009 that was last sold on 09/25/2013.",
+        "dateLastCrawled": "2024-01-02T17:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

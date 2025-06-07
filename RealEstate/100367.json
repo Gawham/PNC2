@@ -1,0 +1,583 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 110683, Aurora CO 80042"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+110683%2c+Aurora+CO+80042",
+    "totalEstimatedMatches": 5470000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Sheral Ann Stumbaugh from Aurora, Colorado | VoterRecords.com",
+        "url": "https://voterrecords.com/voter/1583807/sheral-stumbaugh",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/voter/1583807/sheral-stumbaugh",
+        "snippet": "Sheral Ann Stumbaugh (born 1948) is listed at 15804 E 17th Pl Aurora, Co 80011 and is affiliated with the Democratic Party. She is a female registered to vote in Adams County, Colorado. Share. Background Report ... Po Box 110683 Aurora, Co 80042. Neighbors. Sara Lewis: Unaffiliated: 15805 E 17th Pl Aurora, Co 80011 View Details: Kristopher ...",
+        "dateLastCrawled": "2025-06-04T12:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Gender"
+            },
+            "items": [
+              {
+                "text": "Female"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENDER"
+            }
+          },
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "Po Box 110683 Aurora, Co 80042"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Home Country"
+            },
+            "items": [
+              {
+                "text": "15804 E 17th Pl Aurora, Co 80011"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Address: PO BOX 110661 (From 110661 To 110776), AURORA, CO 80042-0661 ...",
+        "url": "https://co.postcodebase.com/zipcode/80042-0661",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/zipcode/80042-0661",
+        "snippet": "What's 80042-0661? 80042-0661 is a ZIP Code 5 Plus 4 number of PO BOX 110661 (From 110661 To 110776), AURORA, CO, USA. Below is detail information.",
+        "dateLastCrawled": "2025-04-21T21:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "AURORA, CO ZIP Code - United States ZIP Codes",
+        "url": "https://zipcodes-us.com/zip/co/aurora",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.7io_fTmKxeZPKySE1e8E5wHaEK&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://zipcodes-us.com/zip/co/aurora",
+        "snippet": "80042: po box \u2013 80044: po box \u2013 ... 29,066: post offices. altura \u2014 post office \u2122 15355 e colfax ave unit a aurora, co 80011-9998. aurora \u2014 post office ... aurora co 80010-4300. 6798 n dunkirk st aurora co 80019-2107. 2233 s buckley ct aurora co 80013-4102. 1943 s lansing ct aurora co 80014-1056. 3619 s walden st",
+        "dateLastCrawled": "2025-06-05T15:02:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.7io_fTmKxeZPKySE1e8E5wHaEK&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 266,
+          "imageId": "OIP.7io_fTmKxeZPKySE1e8E5wHaEK"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "City"
+            },
+            "items": [
+              {
+                "text": "AURORA"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Post offices count"
+            },
+            "items": [
+              {
+                "text": "8 (see all)"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "State"
+            },
+            "items": [
+              {
+                "text": "Colorado"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "ZIP Codes count"
+            },
+            "items": [
+              {
+                "text": "18 (see all)"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "United States ZIP Codes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "PO Boxes | USPS",
+        "url": "https://www.usps.com/manage/po-boxes.htm",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.0VlLuezcAG7hP4MPyS3kGgHaD-&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.usps.com/manage/po-boxes.htm",
+        "snippet": "To open your PO Box online: Step 1: Search for Post Office locations near you by using the search bar under \"Find a PO Box Near You.\" Step 2: Choose a Post Office location and select your desired PO Box size and payment period. Step 3: Complete the online application form, accept the Terms & Conditions, enter your billing and payment information, and review and submit your application to ...",
+        "dateLastCrawled": "2025-06-04T21:41:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.0VlLuezcAG7hP4MPyS3kGgHaD-&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 254,
+          "imageId": "OIP.0VlLuezcAG7hP4MPyS3kGgHaD-"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "USPS.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "CU MEDICINE NPI 1962461889 Internal Medicine in Aurora, CO - NPI Profile",
+        "url": "https://npiprofile.com/npi/1962461889",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.g_W-BnxauNSmiU37tO-8ZwHaE8&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2006-03-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 20, 2006",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1962461889",
+        "snippet": "PO BOX 110429 AURORA, CO 80042 Mailing Phone (303) 493-7000 Is Sole Proprietor? No Is Organization Subpart? No Enumeration Date 03-20-2006 Last Update Date ... 12605 E 16TH AVE UNIVERSITY OF COLORADO HOSPITAL AURORA, CO 80045 (720) 848-0000: 1205826120: DR. JAMES EATON MD Individual: Radiology (Diagnostic Radiology) 12605 E 16TH AVE AURORA, CO ...",
+        "dateLastCrawled": "2025-06-04T08:15:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.g_W-BnxauNSmiU37tO-8ZwHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.g_W-BnxauNSmiU37tO-8ZwHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "12605 E 16TH AVE UNIVERSITY OF COLORADO HOSPITAL, AURORA, 80045"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 493-7000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "PO BOX 110773 AURORA, CO 80042 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-110773-aurora-co-80042.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-110773-aurora-co-80042.html",
+        "snippet": "Po Box 110773 Aurora, CO 80042 - Colorado Bail Bonds Agency LLC, Carvill LLC, Payless Insurance LLC, Statewide Insurance, Orange Is The New Bail Bonds, Roca ... PO BOX 110773 AURORA, CO 80042: Sponsored Links. There are 6 companies that have an address matching Po Box 110773 Aurora, CO 80042.",
+        "dateLastCrawled": "2025-05-18T14:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Cody Noli Construction & Remodeling LLC - Colorado Company",
+        "url": "https://colorado-corp.com/co/cody-noli-construction-remodeling-llc-delinquent-august-1-2014",
+        "datePublished": "2013-03-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 22, 2013",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://colorado-corp.com/co/cody-noli-construction-remodeling-llc-delinquent-august-1...",
+        "snippet": "PO Box 111014, Aurora, CO 80042, US. Added: 2020-01-06 09:56 Updated: 2025-05-25 22:16. Principal Office Address Main Address: 271 S Jasper Cir Apt 206, Aurora, CO 80017, US. Agent Information. Agent Name. Cody v noli. Agent Organization Name. Address.",
+        "dateLastCrawled": "2025-05-27T21:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Colorado Company Directory"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "E Z CARE TRANSPORTATION LLC - NPI 1366724247 - NPI Profile",
+        "url": "https://npiprofile.com/npi/1366724247",
+        "datePublished": "2011-09-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 15, 2011",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1366724247",
+        "snippet": "PO BOX 111443 AURORA, CO 80042 Mailing Phone (720) 233-4128 Is Sole Proprietor? No Is Organization Subpart? No Enumeration Date 09-15-2011 Last Update Date 09-07-2018 Code Navigator View Adjacent NPI Profiles . Location Map. Specialty - Primary Taxonomy. The NPI enumerator requires providers to submit at least one taxonomy code. A taxonomy code ...",
+        "dateLastCrawled": "2025-06-03T22:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Chester D Haney \u00b7 Po Box 110573, Aurora, CO 80042-0042 \u00b7 Barber",
+        "url": "https://opengovco.com/license/163512",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/163512",
+        "snippet": "The business address is Po Box 110573, Aurora, CO 80042-0042. The license first issue date is May 29, 1940. License Overview. Licensee Name: Chester D Haney: Address: Po Box 110573 Aurora CO 80042-0042: License Category: Barber/Cosmetology: License Type: Barber: License Number: BAR.0001718: First Issue Date: 1940-05-29: Last Renewed Date:",
+        "dateLastCrawled": "2025-05-10T23:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "UPI Path Lab 2 LLC, Aurora - business information - Biz Set",
+        "url": "https://www.bizset.com/company/colorado/20111521655/",
+        "datePublished": "2011-09-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 15, 2011",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizset.com/company/colorado/20111521655",
+        "snippet": "The firm can be contacted at: Po Box 111719, Aurora, CO 80042-1719, US. Upi Path Lab 2 Llc has been functioning under the Colorado SoS jurisdiction since 09/15/2011, which is its incorporation date, operating under id no 20111521655. University Physicians, Inc., the registered agent, can be found at 13199 E. Montview Boulevard at 13199 E ...",
+        "dateLastCrawled": "2025-05-31T05:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "DR. ANDREA JEANNE HOOPES M.D., M.P.H. - NPI 1033351614 - NPI Profile",
+        "url": "https://npiprofile.com/npi/1033351614",
+        "datePublished": "2009-03-30T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 30, 2009",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1033351614",
+        "snippet": "PO BOX 110429 AURORA, CO 80042 Mailing Phone (303) 493-7000 Is Sole Proprietor? No Enumeration Date 03-30-2009 Last Update Date 04-15-2021 Code Navigator View Adjacent NPI Profiles . A pediatrician like Andrea Hoopes is a physician who has completed a pediatric residency and is board-certified or board-eligible in a pediatric specialty ...",
+        "dateLastCrawled": "2025-04-14T03:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "PO BOX 110903 AURORA, CO 80042 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-aurora-co-80042.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-aurora-co-80042.html",
+        "snippet": "Po Box 110903 Aurora, CO 80042 - Mile High City Remodels LLC, Us International Security Marshal LLC, Up N Runnin LLC. PO BOX 110903 AURORA, CO 80042: Sponsored Links. There are 3 companies that have an address matching Po Box 110903 Aurora, CO 80042.",
+        "dateLastCrawled": "2025-03-06T04:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "PO Box 110429, Aurora, CO 80042-0042 \u00b7 Physician - OpenGovCO",
+        "url": "https://opengovco.com/license/1194997",
+        "datePublished": "2018-05-23T00:00:00.0000000",
+        "datePublishedDisplayText": "May 23, 2018",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/1194997",
+        "snippet": "The business address is PO Box 110429, Aurora, CO 80042-0042. The license first issue date is May 23, 2018. License Overview. Licensee Name: Mark David Duncan: Address: PO Box 110429 Aurora CO 80042-0042: License Category: Medical: License Type: Physician: License Number: DR.0060581: First Issue Date: 2018-05-23: Last Renewed Date:",
+        "dateLastCrawled": "2025-05-29T00:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "DR. CLEVELAND ALCIDES PIGGOTT JR. M.D. - NPI 1528453685 - Family ...",
+        "url": "https://npiprofile.com/npi/1528453685",
+        "datePublished": "2015-04-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 5, 2015",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1528453685",
+        "snippet": "12605 E 16TH AVE AURORA, CO 80045 Location Phone (720) 848-0000 Mailing Address PO BOX 110429 AURORA, CO 80042 Medical School Name UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL SCHOOL OF MEDICINE Graduation Year 2015 Is Sole Proprietor? No Enumeration Date 04-05-2015 Last Update Date 08-27-2018 Code Navigator View Adjacent NPI Profiles",
+        "dateLastCrawled": "2025-02-25T05:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "E Z CARE TRANSPORTATION LLC in Denver, CO - Bizapedia",
+        "url": "https://www.bizapedia.com/co/e-z-care-transportation-llc.html",
+        "datePublished": "2025-02-09T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 9, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/co/e-z-care-transportation-llc.html",
+        "snippet": "The company's principal address is 1582 S Parker Rd Ste 301, Denver, CO 80231 and its mailing address is Po Box 111443, Aurora, CO 80042. The company has 1 contact on record. The contact is Deo Rubbani from Denver CO. Company Information: Company Name: E Z CARE TRANSPORTATION LLC: Entity Type:",
+        "dateLastCrawled": "2025-04-10T17:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "KATHRYN POKRANDT NPI 1619860574 Nurse Practitioner in Aurora, CO",
+        "url": "https://npiprofile.com/npi/1619860574",
+        "datePublished": "2025-05-30T00:00:00.0000000",
+        "datePublishedDisplayText": "May 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1619860574",
+        "snippet": "PO BOX 110429 AURORA, CO 80042 Mailing Phone (303) 493-7000 Is Sole Proprietor? No Enumeration Date 05-30-2025 Last Update Date 05-30-2025 Code Navigator View Adjacent NPI Profiles . A nurse practitioner (NP) like Kathryn Pokrandt is an experienced registered nurse with a master\u2019s or doctoral degree and advanced clinical training. Nurse ...",
+        "dateLastCrawled": "2025-06-04T12:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "SPECIAL CARE CLINIC - CHCO NPI 1316426026 Pediatrics in Aurora, CO",
+        "url": "https://npiprofile.com/npi/1316426026",
+        "datePublished": "2018-08-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 13, 2018",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1316426026",
+        "snippet": "13123 E 16TH AVE FL 1 AURORA, CO 80045 Location Phone (720) 777-6739 Mailing Address PO BOX 110429 AURORA, CO 80042 Mailing Phone (303) 493-7000 Is Sole Proprietor? No Is Organization Subpart? No Enumeration Date 08-13-2018 Last Update Date 08-29-2024 Code Navigator View Adjacent NPI Profiles .",
+        "dateLastCrawled": "2025-06-01T15:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "PO BOX 110993 AURORA, CO 80042 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-110993-aurora-co-80042.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-110993-aurora-co-80042.html",
+        "snippet": "Po Box 110993 Aurora, CO 80042 - Tash Family Services And Legacy Building, Jandf Collaboration And Consulting, Dbos World LLC. PO BOX 110993 AURORA, CO 80042: Sponsored Links. There are 3 companies that have an address matching Po Box 110993 Aurora, CO 80042.",
+        "dateLastCrawled": "2025-04-18T01:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "PO BOX 110223 AURORA, CO 80042 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-110223-aurora-co-80042.html",
+        "datePublished": "2025-02-16T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 16, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-110223-aurora-co-80042.html",
+        "snippet": "Po Box 110223 Aurora, CO 80042 - Green Room Studios LLC, Time Stamp Records LLC, Studio Sg LLC, Speak And Reach LLC, Dmb Properties LLC. PO BOX 110223 AURORA, CO 80042: Sponsored Links. There are 5 companies that have an address matching Po Box 110223 Aurora, CO 80042.",
+        "dateLastCrawled": "2025-03-20T09:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

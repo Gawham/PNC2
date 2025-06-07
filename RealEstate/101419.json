@@ -1,0 +1,437 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "37 Watson Blvd, Colorado Springs CO 80911"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=37+Watson+Blvd%2c+Colorado+Springs+CO+80911",
+    "totalEstimatedMatches": 1110000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "37 Watson Blvd, Colorado Springs, CO 80911 | Zillow",
+        "url": "https://www.zillow.com/homedetails/37-Watson-Blvd-Colorado-Springs-CO-80911/13642935_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/37-Watson-Blvd-Colorado-Springs-CO-80911/13642935_zpid",
+        "snippet": "37 Watson Blvd, Colorado Springs CO, is a Single Family home that contains 1148 sq ft and was built in 1966.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $339,700, which has increased by $1,335 in the last 30 days.The Rent Zestimate for this Single Family is $1,739/mo, which has increased by $1,739/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-27T06:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "37 Watson Blvd, Colorado Springs, CO 80911 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/37-Watson-Blvd_Colorado-Springs_CO_80911_M14721-94562",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../37-Watson-Blvd_Colorado-Springs_CO_80911_M14721-94562",
+        "snippet": "Comparison of 37 Watson Blvd, Colorado Springs, CO 80911 with Nearby Homes: Property detail for 105 Ithaca St Colorado Springs, CO 80911. $360,000. 3 bed; 1,794 sqft 1,794 square feet;",
+        "dateLastCrawled": "2024-08-07T16:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "37 Watson Blvd, Colorado Springs, CO 80911 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/37-Watson-Blvd-80911/home/34525686",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/37-Watson-Blvd-80911/home/34525686",
+        "snippet": "37 Watson Blvd is a 1,648 square foot house on a 8,111 square foot lot with 3 bedrooms and 2 bathrooms. - it last sold on September 01, 1966 for $16,500. Based on Redfin's Colorado Springs data, we estimate the home's value is $366,947.",
+        "dateLastCrawled": "2024-12-10T05:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "37 Watson Blvd, Colorado Springs, 80911"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "37 Watson Blvd Colorado Springs CO 80911 Property Details ... - Xome",
+        "url": "https://www.xome.com/realestate/37-watson-blvd-colorado-springs-co-80911-23267011",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/37-watson-blvd-colorado-springs-co-80911-23267011",
+        "snippet": "37 Watson Blvd Colorado Springs CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is 374809. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-05-24T22:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "37 Watson Blvd Colorado Springs, CO 80911 - Trulia",
+        "url": "https://www.trulia.com/home/37-watson-blvd-colorado-springs-co-80911-13642935",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/37-watson-blvd-colorado-springs-co-80911-13642935",
+        "snippet": "37 Watson Blvd, Colorado Springs, CO 80911 is a 1,148 sqft, 3 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-02-17T11:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "37 Watson Blvd, Colorado Springs, CO - parcellookup.com",
+        "url": "https://parcellookup.com/p/37-watson-blvd-colorado-springs-co-80911_3029805",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://parcellookup.com/p/37-watson-blvd-colorado-springs-co-80911_3029805",
+        "snippet": "37 Watson Blvd, Colorado Springs, CO 80911: Parcel ID: 6513301040: Total Assessed Value : N/A: Tax Year: 2019: Land Information. Land Area: N/A: Land Use ... Last Sale Date: N/A: Owner. Owner: Owner Address: N/A: Parcels on this street. 31 Watson Blvd, Colorado Springs, CO 80911 (N/A) View Parcel Details: 33 Watson Blvd, Colorado Springs, CO ...",
+        "dateLastCrawled": "2024-10-07T11:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "37 Watson Blvd Colorado Springs, CO 80911 - property.whitepages.com",
+        "url": "https://property.whitepages.com/property/70726f2d5264334c52325638706d37",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://property.whitepages.com/property/70726f2d5264334c52325638706d37",
+        "snippet": "Find out how much 37 Watson Blvd Colorado Springs, CO is worth, including rental income and investment insights. Compare property values, appreciation trends, & look up owners for free with Property Intel by Whitepages.",
+        "dateLastCrawled": "2025-04-16T13:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Who Lives at 37 Watson Blvd, Colorado Springs, CO 80911 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/37-Watson-Blvd",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/37-Watson-Blvd",
+        "snippet": "Find people by address using reverse address lookup for 37 Watson Blvd, Colorado Springs, CO 80911. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-09-22T01:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "35 Watson Blvd, Colorado Springs, CO 80911 | Zillow",
+        "url": "https://www.zillow.com/homedetails/35-Watson-Blvd-Colorado-Springs-CO-80911/13642934_zpid/",
+        "datePublished": "2024-11-08T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 8, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/35-Watson-Blvd-Colorado-Springs-CO-80911/13642934_zpid",
+        "snippet": "35 Watson Blvd, Colorado Springs CO, is a Single Family home that contains 1664 sq ft and was built in 1966.It contains 4 bedrooms and 2 bathrooms.This home last sold for $399,000 in November 2024. The Zestimate for this Single Family is $400,300, which has increased by $5,365 in the last 30 days.The Rent Zestimate for this Single Family is $2,055/mo, which has increased by $2,055/mo in the ...",
+        "dateLastCrawled": "2024-12-22T05:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "37 Watson Blvd Colorado Springs, CO 80911 - Xome",
+        "url": "https://www.xome.com/realestate/37-watson-blvd-colorado-springs-co-80911-180874122",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/37-watson-blvd-colorado-springs-co-80911-180874122",
+        "snippet": "37 Watson Blvd Colorado Springs CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $357,539. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-04-26T08:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "31 Watson Blvd, Colorado Springs, CO 80911 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/31-Watson-Blvd_Colorado-Springs_CO_80911_M14949-32381",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../31-Watson-Blvd_Colorado-Springs_CO_80911_M14949-32381",
+        "snippet": "View 29 photos for 31 Watson Blvd, Colorado Springs, CO 80911, a 3 bed, 2 bath, 1,664 Sq. Ft. single family home built in 1965 that was last sold on 12/16/2019.",
+        "dateLastCrawled": "2025-04-20T04:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "38 Watson Blvd, Colorado Springs, CO 80911 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/38-Watson-Blvd-80911/home/34527202",
+        "datePublished": "2002-09-30T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 30, 2002",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/38-Watson-Blvd-80911/home/34527202",
+        "snippet": "38 Watson Blvd is a 1,677 square foot house on a 0.3 acre lot with 3 bedrooms and 2 bathrooms. - it last sold on September 30, 2002 for $141,500. Based on Redfin's Colorado Springs data, we estimate the home's value is $375,087.",
+        "dateLastCrawled": "2025-06-05T17:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "33 Watson Blvd, Colorado Springs, CO 80911 | Zillow",
+        "url": "https://www.zillow.com/homedetails/33-Watson-Blvd-Colorado-Springs-CO-80911/13642933_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/33-Watson-Blvd-Colorado-Springs-CO-80911/13642933_zpid",
+        "snippet": "33 Watson Blvd, Colorado Springs CO, is a Single Family home that contains 2691 sq ft and was built in 1965.It contains 5 bedrooms and 3 bathrooms.This home last sold for $98,706 in September 2000. The Zestimate for this Single Family is $386,300, which has increased by $720 in the last 30 days.The Rent Zestimate for this Single Family is $2,497/mo, which has increased by $2,497/mo in the last ...",
+        "dateLastCrawled": "2025-04-12T02:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "35 Watson Blvd, Colorado Springs, CO 80911 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/35-Watson-Blvd_Colorado-Springs_CO_80911_M28098-31417",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../35-Watson-Blvd_Colorado-Springs_CO_80911_M28098-31417",
+        "snippet": "See photos and price history of this 4 bed, 2 bath, 1,664 Sq. Ft. recently sold home located at 35 Watson Blvd, Colorado Springs, CO 80911 that was sold on 11/08/2024 for $399000.",
+        "dateLastCrawled": "2024-11-21T05:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "39 Watson Blvd, Colorado Springs, CO 80911 | Zillow",
+        "url": "https://www.zillow.com/homedetails/39-Watson-Blvd-Colorado-Springs-CO-80911/13642936_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/39-Watson-Blvd-Colorado-Springs-CO-80911/13642936_zpid",
+        "snippet": "39 Watson Blvd, Colorado Springs CO, is a Single Family home that contains 2167 sq ft and was built in 1966.It contains 5 bedrooms and 3 bathrooms.This home last sold for $300,000 in August 2020. The Zestimate for this Single Family is $392,300, which has increased by $5,250 in the last 30 days.The Rent Zestimate for this Single Family is $2,252/mo, which has increased by $2,252/mo in the last ...",
+        "dateLastCrawled": "2025-03-07T23:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "43 Watson Blvd, Colorado Springs, CO 80911 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/43-Watson-Blvd-80911/home/34525683",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/43-Watson-Blvd-80911/home/34525683",
+        "snippet": "43 Watson Blvd is a 2,200 square foot house on a 9,559 square foot lot with 4 bedrooms and 3 bathrooms. - it last sold on December 22, 2021 for $408,000. Based on Redfin's Colorado Springs data, we estimate the home's value is $402,193.",
+        "dateLastCrawled": "2025-03-24T23:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "33 N Belmont St, Colorado Springs, CO 80911 - Zillow",
+        "url": "https://www.zillow.com/homedetails/33-N-Belmont-St-Colorado-Springs-CO-80911/447493623_zpid/",
+        "datePublished": "2025-02-18T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 18, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/33-N-Belmont-St-Colorado-Springs-CO-80911/447493623...",
+        "snippet": "Zillow has 41 photos of this $420,000 4 beds, 2 baths, 1,664 Square Feet single family home located at 33 N Belmont St, Colorado Springs, CO 80911 built in 1965. MLS #9382559.",
+        "dateLastCrawled": "2025-06-03T06:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "41 Watson Blvd, Colorado Springs, CO 80911 | Zillow",
+        "url": "https://www.zillow.com/homedetails/41-Watson-Blvd-Colorado-Springs-CO-80911/13642937_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/41-Watson-Blvd-Colorado-Springs-CO-80911/13642937_zpid",
+        "snippet": "41 Watson Blvd, Colorado Springs CO, is a Single Family home that contains 1642 sq ft and was built in 1966.It contains 4 bedrooms and 2 bathrooms.This home last sold for $265,000 in August 2019. The Zestimate for this Single Family is $367,000, which has increased by $567 in the last 30 days.The Rent Zestimate for this Single Family is $2,118/mo, which has increased by $2,118/mo in the last ...",
+        "dateLastCrawled": "2025-04-17T20:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "38 Watson Blvd, Colorado Springs, CO 80911 | Zillow",
+        "url": "https://www.zillow.com/homedetails/38-Watson-Blvd-Colorado-Springs-CO-80911/13643133_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/38-Watson-Blvd-Colorado-Springs-CO-80911/13643133_zpid",
+        "snippet": "38 Watson Blvd, Colorado Springs CO, is a Single Family home that contains 1800 sq ft and was built in 1966.It contains 5 bedrooms and 2 bathrooms.This home last sold for $141,500 in September 2002. The Zestimate for this Single Family is $359,700, which has decreased by $1,900 in the last 30 days.The Rent Zestimate for this Single Family is $2,181/mo, which has increased by $2,181/mo in the ...",
+        "dateLastCrawled": "2025-04-05T05:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "107 Watson Blvd, Colorado Springs, CO 80911 | Zillow",
+        "url": "https://www.zillow.com/homedetails/107-Watson-Blvd-Colorado-Springs-CO-80911/13643664_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/107-Watson-Blvd-Colorado-Springs-CO-80911/13643664_zpid",
+        "snippet": "107 Watson Blvd, Colorado Springs CO, is a Single Family home that contains 910 sq ft and was built in 1964.It contains 3 bedrooms and 1.5 bathrooms.This home last sold for $55,000 in December 1989. The Zestimate for this Single Family is $313,200, which has decreased by $500 in the last 30 days.The Rent Zestimate for this Single Family is $1,768/mo, which has increased by $1,768/mo in the ...",
+        "dateLastCrawled": "2025-03-04T11:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

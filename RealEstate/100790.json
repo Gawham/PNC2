@@ -1,0 +1,400 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "16504 W 62nd Ln, Arvada CO 80403"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=16504+W+62nd+Ln%2c+Arvada+CO+80403",
+    "totalEstimatedMatches": 460000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "16504 W 62nd Ln, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16504-W-62nd-Ln-Arvada-CO-80403/13707622_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16504-W-62nd-Ln-Arvada-CO-80403/13707622_zpid",
+        "snippet": "16504 W 62nd Ln, Arvada CO, is a Single Family home that contains 2259 sq ft and was built in 2001.It contains 3 bedrooms and 3 bathrooms.This home last sold for $288,050 in September 2000. The Zestimate for this Single Family is $828,800, which has increased by $18,143 in the last 30 days.The Rent Zestimate for this Single Family is $3,696/mo, which has increased by $3,696/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-25T15:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "16504 W 62nd Ln, Arvada, CO 80403 | Redfin",
+        "url": "https://www.redfin.com/CO/Arvada/16504-W-62nd-Ln-80403/home/34354592",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Arvada/16504-W-62nd-Ln-80403/home/34354592",
+        "snippet": "3 beds, 2.5 baths, 2259 sq. ft. house located at 16504 W 62nd Ln, Arvada, CO 80403 sold for $2,974,000 on Dec 16, 1998. View sales history, tax history, home value estimates, and overhead views. AP...",
+        "dateLastCrawled": "2024-11-29T04:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "16504 W 62nd Ln, Arvada, CO 80403 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/16504-W-62nd-Ln_Arvada_CO_80403_M28590-46612",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/16504-W-62nd-Ln_Arvada_CO_80403_M...",
+        "snippet": "See sales history and home details for 16504 W 62nd Ln, Arvada, CO 80403, a 3 bed, 3.5 bath, 2,259 Sq. Ft. single family home built in 2001 that was last sold on 09/08/2000.",
+        "dateLastCrawled": "2024-08-22T15:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "16504 W 62nd Ln, Arvada, CO 80403 - Homes.com",
+        "url": "https://www.homes.com/property/16504-w-62nd-ln-arvada-co/gmesnqlpjnyzl/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/16504-w-62nd-ln-arvada-co/gmesnqlpjnyzl",
+        "snippet": "16504 W 62nd Ln, Arvada, CO 80403 - 2,259 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... CO 80403 and is currently estimated at $884,932, approximately $391 per square foot. 16504 W 62nd Ln is a home located in Jefferson County with nearby schools including Fairmount Elementary School, Drake Junior ...",
+        "dateLastCrawled": "2025-03-15T08:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "16504 W 62nd Ln Arvada CO 80403 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/16504-w-62nd-ln-arvada-co-80403-142810817",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/16504-w-62nd-ln-arvada-co-80403-142810817",
+        "snippet": "16504 W 62nd Ln Arvada CO with 3 bedroom and 3 bath is currently not for sale. Xome's estimated value is $865,754. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-10-18T20:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "16504 W 62nd Ln, Arvada, CO 80403 - Trulia",
+        "url": "https://www.trulia.com/home/16504-w-62nd-ln-arvada-co-80403-13707622",
+        "datePublished": "2023-12-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 11, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/16504-w-62nd-ln-arvada-co-80403-13707622",
+        "snippet": "16504 W 62nd Ln, Arvada, CO 80403 is a 2,259 sqft, 3 bed, 3 bath home sold in 2000. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-11T06:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 16504 W 62nd Ln, Arvada, CO 80403 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Arvada/16504-W-62nd-Ln",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Arvada/16504-W-62nd-Ln",
+        "snippet": "Find people by address using reverse address lookup for 16504 W 62nd Ln, Arvada, CO 80403. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-04-28T06:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "W 62nd Ln, Arvada, CO 80403 | MLS# 750751 | Redfin",
+        "url": "https://www.redfin.com/CO/Arvada/W-62nd-Ln-80403/home/147031592",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Arvada/W-62nd-Ln-80403/home/147031592",
+        "snippet": "House located at W 62nd Ln, Arvada, CO 80403. View sales history, tax history, home value estimates, and overhead views. ... Nearby homes similar to 0 W 62nd Ln have recently sold between $810K to $1M at an average of $240 per square foot. ... 16504 West 62nd Ln, Arvada, CO. 3 Beds | 2.5 Baths | 2259 Sq. Ft. $754,184:",
+        "dateLastCrawled": "2025-02-01T12:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "16514 W 62nd Ln, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16514-W-62nd-Ln-Arvada-CO-80403/13707623_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16514-W-62nd-Ln-Arvada-CO-80403/13707623_zpid",
+        "snippet": "16514 W 62nd Ln, Arvada CO, is a Single Family home that contains 3672 sq ft and was built in 2001.It contains 4 bedrooms and 3 bathrooms.This home last sold for $675,000 in June 2019. The Zestimate for this Single Family is $1,004,800, which has decreased by $8,168 in the last 30 days.The Rent Zestimate for this Single Family is $4,112/mo, which has increased by $4,112/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-16T07:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "16514 W 62nd Ln, Arvada, CO 80403 | Redfin",
+        "url": "https://www.redfin.com/CO/Arvada/16514-W-62nd-Ln-80403/home/34354585",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Arvada/16514-W-62nd-Ln-80403/home/34354585",
+        "snippet": "5 beds, 3.5 baths, 2447 sq. ft. house located at 16514 W 62nd Ln, Arvada, CO 80403 sold for $675,000 on Jun 7, 2019. View sales history, tax history, home value estimates, and overhead views. APN 3...",
+        "dateLastCrawled": "2025-04-08T01:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "16494 W 62nd Ln, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16494-W-62nd-Ln-Arvada-CO-80403/13707621_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16494-W-62nd-Ln-Arvada-CO-80403/13707621_zpid",
+        "snippet": "16494 W 62nd Ln, Arvada CO, is a Single Family home that contains 2049 sq ft and was built in 2001.It contains 3 bedrooms and 2 bathrooms.This home last sold for $347,000 in November 2002. The Zestimate for this Single Family is $846,600, which has increased by $21,760 in the last 30 days.The Rent Zestimate for this Single Family is $3,140/mo, which has increased by $3,140/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-23T02:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "16505 W 62nd Ln, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16505-W-62nd-Ln-Arvada-CO-80403/13707613_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16505-W-62nd-Ln-Arvada-CO-80403/13707613_zpid",
+        "snippet": "16505 W 62nd Ln, Arvada CO, is a Single Family home that contains 2146 sq ft and was built in 2001.It contains 4 bedrooms and 4 bathrooms.This home last sold for $405,000 in September 2009. The Zestimate for this Single Family is $901,000, which has decreased by $13,384 in the last 30 days.The Rent Zestimate for this Single Family is $3,802/mo, which has increased by $3,802/mo in the last 30 days.",
+        "dateLastCrawled": "2024-08-17T07:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "16484 W 62nd Ln, Arvada, CO 80403 | Redfin",
+        "url": "https://www.redfin.com/CO/Arvada/16484-W-62nd-Ln-80403/home/34354590",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Arvada/16484-W-62nd-Ln-80403/home/34354590",
+        "snippet": "2 beds, 2 baths, 3360 sq. ft. house located at 16484 W 62nd Ln, Arvada, CO 80403 sold for $630,000 on Nov 1, 2022. MLS# 8269824. Meticulously maintained ranch home in highly sought-after Sunrise Ri...",
+        "dateLastCrawled": "2025-05-17T04:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "16514 W 62nd Ln, Arvada, CO 80403 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/16514-W-62nd-Ln_Arvada_CO_80403_M25229-97383",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/16514-W-62nd-Ln_Arvada_CO_80403_M...",
+        "snippet": "View 39 photos for 16514 W 62nd Ln, Arvada, CO 80403, a 4 bed, 4 bath, 3,672 Sq. Ft. single family home built in 2001 that was last sold on 06/07/2019.",
+        "dateLastCrawled": "2023-10-06T23:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "16085 W 62nd Ln UNIT E, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16085-W-62nd-Ln-UNIT-E-Arvada-CO-80403/108394622_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16085-W-62nd-Ln-UNIT-E-Arvada-CO-80403/108394622_zpid",
+        "snippet": "16085 W 62nd Ln UNIT E, Arvada, CO 80403 is a townhouse listed for rent at $3,300 /mo. The 2,691 Square Feet townhouse is a 3 beds, 3 baths townhouse. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-06-02T05:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "16505 W 62nd Ln, Arvada, CO 80403 | MLS# 772143 | Redfin",
+        "url": "https://www.redfin.com/CO/Arvada/16505-W-62nd-Ln-80403/home/34354560",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Arvada/16505-W-62nd-Ln-80403/home/34354560",
+        "snippet": "4 beds, 3.5 baths, 2146 sq. ft. house located at 16505 W 62nd Ln, Arvada, CO 80403 sold for $405,000 on Sep 1, 2009. View sales history, tax history, home value estimates, and overhead views. APN 3...",
+        "dateLastCrawled": "2024-12-15T10:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "16484 W 62nd Lane, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16484-W-62nd-Ln-Arvada-CO-80403/13707620_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16484-W-62nd-Ln-Arvada-CO-80403/13707620_zpid",
+        "snippet": "16484 W 62nd Lane, Arvada CO, is a Single Family home that contains 3360 sq ft and was built in 2001.It contains 2 bedrooms and 2 bathrooms.This home last sold for $630,000 in November 2022. The Zestimate for this Single Family is $725,200, which has increased by $12,397 in the last 30 days.The Rent Zestimate for this Single Family is $2,915/mo, which has increased by $2,915/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-11T11:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "16874 W 62nd Ln, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16874-W-62nd-Ln-Arvada-CO-80403/54888997_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16874-W-62nd-Ln-Arvada-CO-80403/54888997_zpid",
+        "snippet": "16874 W 62nd Ln, Arvada CO, is a Single Family home that contains 3111 sq ft and was built in 2002.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $560,000 in July 2021. The Zestimate for this Single Family is $675,500, which has increased by $12,861 in the last 30 days.The Rent Zestimate for this Single Family is $3,410/mo, which has increased by $3,410/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-15T03:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "17354 W 62nd Lane, Arvada, CO 80403 - Zillow",
+        "url": "https://www.zillow.com/homedetails/17354-W-62nd-Ln-Arvada-CO-80403/13707918_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/17354-W-62nd-Ln-Arvada-CO-80403/13707918_zpid",
+        "snippet": "17354 W 62nd Lane, Arvada CO, is a Single Family home that contains 3812 sq ft and was built in 2000.It contains 4 bedrooms and 4 bathrooms.This home last sold for $960,000 in October 2024. The Zestimate for this Single Family is $960,000, which has decreased by $1,080 in the last 30 days.The Rent Zestimate for this Single Family is $4,965/mo, which has increased by $4,965/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-30T21:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

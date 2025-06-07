@@ -1,0 +1,493 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "5751 S State Highway 67, Sedalia CO 80135"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=5751+S+State+Highway+67%2c+Sedalia+CO+80135",
+    "totalEstimatedMatches": 1140000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Sedalia, CO Real Estate & Homes For Sale - Trulia",
+        "url": "https://www.trulia.com/CO/Sedalia/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/CO/Sedalia",
+        "snippet": "55 Homes For Sale in Sedalia, CO. Browse photos, see new properties, get open house info, and research neighborhoods on Trulia.",
+        "deepLinks": [
+          {
+            "name": "Cheap Homes for Sale in Sedalia, Co",
+            "url": "https://www.trulia.com/CO/Sedalia/cheap-homes/",
+            "snippet": "29 Cheap Homes For Sale in Sedalia, CO. Browse photos, see new properties, get open house info, and research neighborhoods on Trulia."
+          },
+          {
+            "name": "Single Family Homes",
+            "url": "https://www.trulia.com/for_sale/Sedalia,CO/SINGLE-FAMILY_HOME_type/",
+            "snippet": "31 Single Family Homes For Sale in Sedalia, CO. Browse photos, see new properties, get open house info, and research neighborhoods on Trulia."
+          },
+          {
+            "name": "Townhomes",
+            "url": "https://www.trulia.com/for_sale/Sedalia,CO/TOWNHOUSE_type/",
+            "snippet": "Townhomes For Sale in Sedalia, CO. Browse photos, see new properties, get open house info, and research neighborhoods on Trulia."
+          },
+          {
+            "name": "Condos",
+            "url": "https://www.trulia.com/for_sale/Sedalia,CO/CONDO_type/",
+            "snippet": "Condos For Sale in Sedalia, CO. Browse photos, see new properties, get open house info, and research neighborhoods on Trulia."
+          },
+          {
+            "name": "New Homes",
+            "url": "https://www.trulia.com/for_sale/Sedalia,CO/new_homes_lt/",
+            "snippet": "4 New Construction Homes For Sale in Sedalia, CO. Browse photos, see new properties, get open house info, and research neighborhoods on Trulia. Trulia, a Zillow brand"
+          }
+        ],
+        "dateLastCrawled": "2025-06-01T10:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "5751 Doc Bar, Sedalia, CO 80135 - Redfin",
+        "url": "https://www.redfin.com/CO/Sedalia/5751-Doc-Bar-80135/home/184407376",
+        "datePublished": "2023-02-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 21, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Sedalia/5751-Doc-Bar-80135/home/184407376",
+        "snippet": "House located at 5751 Doc Bar, Sedalia, CO 80135. View sales history, tax history, home value estimates, and overhead views. ... 2518 N State Highway 67, Sedalia, CO 80135. Listing provided by REColorado as Distributed by MLS Grid. 3D WALKTHROUGH. $1,499,000. 3 beds 3 baths 4,190 sq ft.",
+        "dateLastCrawled": "2025-05-06T08:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "5751 Doc Bar, Sedalia, 80135, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Property Records for State-Highway-67 in Sedalia, CO 80135 - Xome",
+        "url": "https://www.xome.com/realestate/CO/Sedalia/80135/State-Highway-67",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/CO/Sedalia/80135/State-Highway-67",
+        "snippet": "Search Xome's directory of real estate property records in State-Highway-67, Sedalia, Colorado 80135. Get the information you need including price & tax history, property details, home valuations and more.",
+        "dateLastCrawled": "2025-05-28T10:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Sedalia, CO Real Estate & Homes For Sale | RE/MAX",
+        "url": "https://www.remax.com/homes-for-sale/co/sedalia/zip/80135?noListing=true",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/homes-for-sale/co/sedalia/zip/80135?noListing=true",
+        "snippet": "Search the most complete Sedalia, CO real estate listings for sale. Find Sedalia, CO homes for sale, real estate, apartments, condos, townhomes, mobile homes, multi-family units, farm and land lots with RE/MAX&#x27;s powerful search tools",
+        "dateLastCrawled": "2025-05-31T11:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "S Co Hwy 67, Sedalia, CO 80135 Property Records",
+        "url": "https://www.countyoffice.org/s-co-hwy-67-sedalia-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/s-co-hwy-67-sedalia-co-property-records",
+        "snippet": "S Co Hwy 67 in Sedalia, CO 80135 has 60 properties with an average market value of $400,467. These homes, built between 1928 and 2017, typically offer 1-5 bedrooms and 1-3 bathrooms. Property records show the average building size is 1,050 sq ft on lots averaging 4.5 acres. Property taxes on S County Highway 67 average $1,884 annually, with a ...",
+        "dateLastCrawled": "2025-05-25T02:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "5751 Doc Bar Cir, Sedalia, CO 80135 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/5751-Doc-Bar-Cir_Sedalia_CO_80135_M93956-10659",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.gFZmnhOlp8PtCGuLvwrKcQHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/5751-Doc-Bar-Cir_Sedalia_CO_80135_M...",
+        "snippet": "See 5751 Doc Bar Cir, Sedalia, CO 80135, a single family home. View property details, similar homes, and the nearby school and neighborhood information. Use our heat map to find crime, amenities ...",
+        "dateLastCrawled": "2025-04-10T05:39:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.gFZmnhOlp8PtCGuLvwrKcQHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.gFZmnhOlp8PtCGuLvwrKcQHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "OX YOKE LLC in Sedalia, CO | Company Information & Reviews - Bizapedia",
+        "url": "https://www.bizapedia.com/co/ox-yoke-llc.html",
+        "datePublished": "2025-03-09T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 9, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/co/ox-yoke-llc.html",
+        "snippet": "The Registered Agent on file for this company is Roger Scott Doud and is located at 22458 S. Platte River Road, Sedalia, CO 80135. The company's principal address is 22458 S. Platte River Road, Sedalia, CO 80135 and its mailing address is 5751 S. Hwy 67, Sedalia, CO 80135. The company has 1 contact on record.",
+        "dateLastCrawled": "2025-05-29T04:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "80135 Homes for Sale | Sedalia CO Real Estate - Compass",
+        "url": "https://www.compass.com/homes-for-sale/sedalia-co-80135/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.compass.com/homes-for-sale/sedalia-co-80135",
+        "snippet": "5751 Doc Bar Circle Sedalia, CO 80135. 4. Beds. 4. Baths. 5,000. Sq. Ft. ... 11881 Highway 67 Sedalia, CO 80135-Beds-Baths-Sq. Ft. Colorado Investments And Homes \u2022 MLS #1403624. $349,000. 1709 North State Highway Sedalia, CO 80135-Beds-Baths-Sq. Ft. Realty One Group Premier Colorado \u2022 MLS #5637688. $375,000. 104 North County Highway Sedalia ...",
+        "dateLastCrawled": "2024-06-19T10:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Compass"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "5597 N State Highway 67, Sedalia, CO 80135 | Zillow",
+        "url": "https://www.zillow.com/homedetails/5597-N-State-Highway-67-Sedalia-CO-80135/13486895_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/5597-N-State-Highway-67-Sedalia-CO-80135/13486895_zpid",
+        "snippet": "5597 N State Highway 67, Sedalia CO, is a Single Family home that contains 2481 sq ft and was built in 1980.It contains 4 bedrooms and 3 bathrooms.This home last sold for $935,000 in February 2024. The Zestimate for this Single Family is $949,900, which has increased by $6,590 in the last 30 days.The Rent Zestimate for this Single Family is $4,181/mo, which has increased by $4,181/mo in the ...",
+        "dateLastCrawled": "2025-04-04T04:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Woodbine Education Center \u00b7 2584 N State Hwy 67, Sedalia, CO 80135",
+        "url": "https://opengovco.com/business/20201415299",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20201415299",
+        "snippet": "The agent office address is 2584 N State Hwy 67, Sedalia, CO 80135. Business Information. Entity ID: 20201415299: Entity Name: Woodbine Education Center Delinquent October 1, 2021: Principal Address: ... 5751 Doc Bar Cir, Sedalia, CO 80135: Trenton Stringari: 2025-05-08: Black Diamond Real Estate, LLC: 1780 Macom Dr, Sedalia, CO 80135: Cynthia ...",
+        "dateLastCrawled": "2025-05-31T08:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "State Highway 67, Sedalia, CO 80135 Property for sale",
+        "url": "https://www.corcoran.com/listing/for-sale/state-highway-67-sedalia-co-80135/95164833/regionId/109",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.corcoran.com/listing/for-sale/state-highway-67-sedalia-co-80135/95164833/...",
+        "snippet": "State Highway 67 Sedalia, CO 80135. Sedalia, CO 80135. for sale | Single Family | Built in 2020. 4 beds. 3 baths. 4912 Approx. Sqft/ 2.86 acres. outdoor space. $1,675,000 USD. Annual Tax: $5,258.00; PRESENTED BY CORCORAN PERRY & CO. This is a carousel. Use Next and Previous buttons to navigate. Click on image or \"Expand\" button to open the ...",
+        "dateLastCrawled": "2025-04-12T11:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Corcoran Group"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Step It Up Performance Horses LLC \u00b7 3303 N State Highway 67, Sedalia ...",
+        "url": "https://opengovco.com/business/20251427317",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251427317",
+        "snippet": "The entity was formed on April 15, 2025 in the jurisdiction of Colorado. The registered office location is at 3303 N State Highway 67, Sedalia, CO 80135. The current entity status is good standing. ... 5751 Doc Bar Cir, Sedalia, CO 80135: Trenton Stringari: 2025-05-08: Quartz Equipment, LLC: 353 Hill Dr, Sedalia, CO 80135: Steve Hathaway: 2025 ...",
+        "dateLastCrawled": "2025-05-28T02:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "13759 S State Highway 67, Sedalia, CO 80135 | Zillow",
+        "url": "https://www.zillow.com/homedetails/13759-S-State-Highway-67-Sedalia-CO-80135/82026635_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13759-S-State-Highway-67-Sedalia-CO-80135/82026635_zpid",
+        "snippet": "13759 S State Highway 67, Sedalia CO, is a Single Family home that contains 720 sq ft and was built in 2008.It contains 1 bedroom and 1 bathroom. The Zestimate for this Single Family is $491,200, which has increased by $19,027 in the last 30 days.The Rent Zestimate for this Single Family is $1,979/mo, which has increased by $1,979/mo in the last 30 days.",
+        "dateLastCrawled": "2024-11-30T12:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "5597 N State Highway 67, Sedalia, CO 80135 | Redfin",
+        "url": "https://www.redfin.com/CO/Sedalia/5597-N-State-Highway-67-80135/home/35234605",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Sedalia/5597-N-State-Highway-67-80135/home/35234605",
+        "snippet": "4 beds, 3 baths, 2481 sq. ft. house located at 5597 N State Highway 67, Sedalia, CO 80135 sold for $935,000 on Feb 1, 2024. MLS# 1995285. What a quiet, private and peaceful home nestled perfectly o...",
+        "dateLastCrawled": "2025-04-20T02:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "13792 S State Highway 67, Sedalia, CO 80135 | Zillow",
+        "url": "https://www.zillow.com/homedetails/13792-S-State-Highway-67-Sedalia-CO-80135/13497745_zpid/",
+        "datePublished": "2024-11-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 15, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/13792-S-State-Highway-67-Sedalia-CO-80135/13497745_zpid",
+        "snippet": "13792 S State Highway 67, Sedalia CO, is a Single Family home that contains 3744 sq ft and was built in 2003.It contains 3 bedrooms and 3 bathrooms.This home last sold for $577,000 in November 2024. The Zestimate for this Single Family is $577,300, which has decreased by $117,467 in the last 30 days.The Rent Zestimate for this Single Family is $4,231/mo, which has increased by $4,231/mo in the ...",
+        "dateLastCrawled": "2024-12-02T07:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "2545 W State Highway 67 Sedalia, CO 80135 - Matterport 3D Showcase",
+        "url": "https://my.matterport.com/show/?m=CgSnp7fE6Pa",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://my.matterport.com/show/?m=CgSnp7fE6Pa",
+        "snippet": "Matterport 3D Showcase. 2545 N State Hwy 67, Sedalia, CO, 80135, US. Presented by. Powered by",
+        "dateLastCrawled": "2025-06-02T19:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "MyMatterport"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Bear's Den Homeowner's Association, Inc. \u00b7 4566 N. State Highway 67 ...",
+        "url": "https://opengovco.com/business/20061319691",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20061319691",
+        "snippet": "Bear's Den Homeowner's Association, Inc. (Entity #20061319691) is a DNC in Sedalia, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on August 4, 2006 in the jurisdiction of Colorado. The registered office location is at 4566 N. State Highway 67, Sedalia, CO 80135. The current entity status is good standing.",
+        "dateLastCrawled": "2025-06-02T05:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "12251 S State Highway 67, Sedalia, CO 80135 | Zillow",
+        "url": "https://www.zillow.com/homedetails/12251-S-State-Highway-67-Sedalia-CO-80135/147444170_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12251-S-State-Highway-67-Sedalia-CO-80135/147444170...",
+        "snippet": "12251 S State Highway 67, Sedalia, CO 80135 is currently not for sale. The vacant lot last sold on -- for $--, with a recorded lot size of 1.57 acres (68302 sq. ft.). View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-19T16:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "4951 N State Highway 67, Sedalia, CO 80135 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4951-N-State-Highway-67-Sedalia-CO-80135/13486886_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4951-N-State-Highway-67-Sedalia-CO-80135/13486886_zpid",
+        "snippet": "4951 N State Highway 67, Sedalia CO, is a Single Family home that contains 6370 sq ft and was built in 2009.It contains 5 bedrooms and 6 bathrooms.This home last sold for $1,000,000 in October 2017. The Zestimate for this Single Family is $1,701,700, which has increased by $29,514 in the last 30 days.The Rent Zestimate for this Single Family is $6,217/mo, which has increased by $6,217/mo in ...",
+        "dateLastCrawled": "2025-02-26T08:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "12155 S State Highway 67, Sedalia, CO 80135 | Zillow",
+        "url": "https://www.zillow.com/homedetails/12155-S-State-Highway-67-Sedalia-CO-80135/13497728_zpid/",
+        "datePublished": "2024-11-04T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 4, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/12155-S-State-Highway-67-Sedalia-CO-80135/13497728_zpid",
+        "snippet": "12155 S State Highway 67, Sedalia CO, is a Single Family home that contains 480 sq ft and was built in 1959.It contains 2 bedrooms and 1 bathroom.This home last sold for $475,000 in November 2024. The Zestimate for this Single Family is $448,700, which has decreased by $45,307 in the last 30 days.The Rent Zestimate for this Single Family is $1,454/mo, which has increased by $1,454/mo in the ...",
+        "dateLastCrawled": "2024-11-12T10:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

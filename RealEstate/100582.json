@@ -1,0 +1,541 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "250 S Cherry St, Denver CO 80246"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=250+S+Cherry+St%2c+Denver+CO+80246",
+    "totalEstimatedMatches": 700,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "250 S Cherry St, Denver, CO 80246 - Zillow",
+        "url": "https://www.zillow.com/homedetails/250-S-Cherry-St-Denver-CO-80246/13395798_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/250-S-Cherry-St-Denver-CO-80246/13395798_zpid",
+        "snippet": "250 S Cherry St, Denver, CO 80246 is currently not for sale. The 1,895 Square Feet single family home is a 4 beds, 3 baths property. This home was built in 1957 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "deepLinks": [
+          {
+            "name": "250 S Holly St, Denver, CO 80246 - Zillow",
+            "url": "https://www.zillow.com/homedetails/250-S-Holly-St-Denver-CO-80246/13397278_zpid/",
+            "snippet": "250 S Holly St, Denver, CO 80246 is currently not for sale. The 2,124 Square Feet single family home is a 4 beds, 2 baths property. This home was built in 1956 and last sold on 2015-09-19 for $524,900. ... Source: Coldwell Banker Residential Brokerage - Devonshire Cherry Creek # 9184855 Report a problem. 8/18/2015: Price change: $524,900-4.6% ..."
+          },
+          {
+            "name": "250 S Dahlia St, Denver, CO 80246 - Zillow",
+            "url": "https://www.zillow.com/homedetails/250-S-Dahlia-St-Denver-CO-80246/13396180_zpid/",
+            "snippet": "250 S Dahlia St, Denver CO, is a Single Family home that contains 3269 sq ft and was built in 1955.It contains 3 bedrooms and 5 bathrooms.This home last sold for $1,225,000 in July 2008. The Zestimate for this Single Family is $2,080,900, which has increased by $67,973 in the last 30 days.The Rent Zestimate for this Single Family is $5,506/mo, which has increased by $5,506/mo in the last 30 days."
+          },
+          {
+            "name": "250 S Clermont St, Denver, CO 80246 - Zillow",
+            "url": "https://www.zillow.com/homedetails/250-S-Clermont-St-Denver-CO-80246/13395784_zpid/",
+            "snippet": "250 S Clermont St, Denver CO, is a Single Family home that contains 4288 sq ft and was built in 1948.It contains 4 bedrooms and 6 bathrooms.This home last sold for $1,699,000 in June 2016. The Zestimate for this Single Family is $2,787,800, which has increased by $46,507 in the last 30 days.The Rent Zestimate for this Single Family is $4,909/mo, which has increased by $4,909/mo in the last 30 ..."
+          }
+        ],
+        "dateLastCrawled": "2025-04-17T00:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "950 S Cherry St, Denver, CO 80246 - Cherry Tower | LoopNet",
+        "url": "https://www.loopnet.com/Listing/950-S-Cherry-St-Denver-CO/13977044/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.3NBbo1Uh6htncWrs2-b60gHaE7&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-30T00:00:00.0000000",
+        "datePublishedDisplayText": "May 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/950-S-Cherry-St-Denver-CO/13977044",
+        "snippet": "Address: 950 S Cherry St, Denver, CO 80246; 1 of 18. VIDEOS. 3D TOUR. PHOTOS. STREET VIEW STREET. MAP. 1 / 18. Cherry Tower at 950 S Cherry Street in Denver. 16-Floor Multi-Tenant Office Building. Gorgeous Modern Fa\u00e7ade. Excess of $6 Million in Property Upgrades. Vibrant Main Entrance.",
+        "dateLastCrawled": "2025-05-31T06:28:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.3NBbo1Uh6htncWrs2-b60gHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.3NBbo1Uh6htncWrs2-b60gHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Category"
+            },
+            "items": [
+              {
+                "text": "Office"
+              }
+            ],
+            "hint": {
+              "text": "BASE:CATEGORY"
+            }
+          },
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "950 S Cherry St, Denver, Colorado"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "CHERRY TOWER - Goodman Realty",
+        "url": "https://goodmanrealty.com/properties/cherry-tower/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.YMxJ0BVgXFADi6KRnKNs3gHaE7&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://goodmanrealty.com/properties/cherry-tower",
+        "snippet": "Cherry Tower is 16-story, first-class office property located on the edge of Cherry Creek, one of Downtown Denver's premiere neighborhoods. ... 950 S Cherry St # G14 Denver, CO 80246. DETAILS. Cherry Tower features an efficient 15,000 square foot floor plate that provides ultimate flexibility in leasing from approximately 1,000 square feet to ...",
+        "dateLastCrawled": "2025-05-31T07:06:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.YMxJ0BVgXFADi6KRnKNs3gHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.YMxJ0BVgXFADi6KRnKNs3gHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Office Locations - First Integrity Title Company",
+        "url": "https://www.firstintegritytitle.com/office-locations/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.firstintegritytitle.com/office-locations",
+        "snippet": "4610 South Ulster Street, Suite 100 Denver, CO 80237. Phone: 303-209-0312 Fax: 303-648-4238. Get Directions PDF Directions HUD Title ID # Firsti0012 This office receives earnest money checks. GLENDALE. 501 South Cherry Street, Suite 700 Glendale, CO 80246. Phone: 303-837-9171 Fax: 303-265-9009. Get Directions ... 20 S 3rd Street, Suite 210 ...",
+        "dateLastCrawled": "2025-06-05T04:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "First Integrity Title Company"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "One Cherry Center - One Cherry Center",
+        "url": "https://www.onecherrycenter.com/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.T5dJn5lOpM--JqqIqHDQVQHaGE&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.onecherrycenter.com",
+        "snippet": "501 S. Cherry Street Glendale, CO 80246. For current availability, contact: Nate Bradley Managing Director ... Located at 501 S. Cherry Street in Glendale, One Cherry Center is one of the area\u2019s premier office buildings. ... One Cherry Creek enjoys direct access to downtown Cherry Creek, downtown Denver\u2019s Central Business District, and I-25 ...",
+        "dateLastCrawled": "2025-06-04T23:16:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.T5dJn5lOpM--JqqIqHDQVQHaGE&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 388,
+          "imageId": "OIP.T5dJn5lOpM--JqqIqHDQVQHaGE"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Listings - One Cherry Center",
+        "url": "https://www.onecherrycenter.com/listings/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.WXoWWGNOTu9Z0OEYrrcNQQHaEL&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.onecherrycenter.com/listings",
+        "snippet": "501 S. Cherry Street Glendale, CO 80246. For current availability, contact: Nate Bradley Managing Director (303) 813-6444. nate.bradley@cushwake.com. Founded in 1986, DPC Companies is a Colorado-based, privately held commercial real estate firm specializing in the acquisition and development of commercial real estate in Colorado and the West ...",
+        "dateLastCrawled": "2025-04-30T04:59:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.WXoWWGNOTu9Z0OEYrrcNQQHaEL&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 267,
+          "imageId": "OIP.WXoWWGNOTu9Z0OEYrrcNQQHaEL"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Cherry Tower \u2013 Humanly",
+        "url": "https://behuman.ly/space/cherry-tower/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://behuman.ly/space/cherry-tower",
+        "snippet": "Cherry Tower 720-770-8222 [email protected] 950 S Cherry St, Suite 1675, Denver, CO 80246 See Map. 38. Private Offices. 7. Hourly/Day Rooms. Cherry Tower is a 16 story, first class office property located on the edge of Cherry Creek. Humanly is located on the top floor in suite 1675 occupying 11,000+ square feet.",
+        "dateLastCrawled": "2025-05-31T12:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "250 S Holly St, Denver, CO 80246 - Zillow",
+        "url": "https://www.zillow.com/homedetails/250-S-Holly-St-Denver-CO-80246/13397278_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/250-S-Holly-St-Denver-CO-80246/13397278_zpid",
+        "snippet": "250 S Holly St, Denver, CO 80246 is currently not for sale. The 2,124 Square Feet single family home is a 4 beds, 2 baths property. This home was built in 1956 and last sold on 2015-09-19 for $524,900. ... Source: Coldwell Banker Residential Brokerage - Devonshire Cherry Creek # 9184855 Report a problem. 8/18/2015: Price change: $524,900-4.6% ...",
+        "dateLastCrawled": "2025-04-20T00:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "950 S Cherry St, Denver, CO 80246 | Crexi.com",
+        "url": "https://www.crexi.com/lease/properties/455607/colorado-cherry-tower",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.tHqhdqcghPM68y4RI5D2DgHaEl&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.crexi.com/lease/properties/455607",
+        "snippet": "Office space for lease at 950 S Cherry St, Denver, CO 80246. Visit Crexi.com to read property details & contact the listing broker. 950 S Cherry St, Denver, CO 80246 | Crexi.com",
+        "dateLastCrawled": "2025-06-05T11:03:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.tHqhdqcghPM68y4RI5D2DgHaEl&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 293,
+          "imageId": "OIP.tHqhdqcghPM68y4RI5D2DgHaEl"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Crexi.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "250 S Eudora St, Denver, CO 80246 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/250-S-Eudora-St_Denver_CO_80246_M18434-17766",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/250-S-Eudora-St_Denver_CO_80246_M...",
+        "snippet": "View 34 photos for 250 S Eudora St, Denver, CO 80246, a 5 bed, 3 bath, 4,538 Sq. Ft. single family home built in 1941 that was last sold on 09/15/2020.",
+        "dateLastCrawled": "2024-01-09T16:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "501 S Cherry St, Denver, CO 80246 - One Cherry Center | LoopNet",
+        "url": "https://www.loopnet.com/Listing/501-S-Cherry-St-Denver-CO/4087630/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.PW5v2SEtHHjQQiBGA5GaegHaE8&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-05T00:00:00.0000000",
+        "datePublishedDisplayText": "May 5, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/501-S-Cherry-St-Denver-CO/4087630",
+        "snippet": "501 S Cherry St, Denver, CO 80246. This Office space is available for lease. 11-story, 151,000 sf office building in Southeast Denver. B. ... 400 S Colorado Blvd, Denver CO; 250 Steele St, Denver CO; 1 of 16. VIDEOS. 3D TOUR. PHOTOS. STREET VIEW STREET. MAP. 1 / 16. Building Photo. Building Photo.",
+        "dateLastCrawled": "2025-05-20T14:15:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.PW5v2SEtHHjQQiBGA5GaegHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.PW5v2SEtHHjQQiBGA5GaegHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Office Space at 950 S Cherry St in Denver",
+        "url": "https://www.officespace.com/co/denver/29449-950-s-cherry-st",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.officespace.com/co/denver/29449-950-s-cherry-st",
+        "snippet": "650 S Cherry St, Denver, CO 80246. 7 Spaces, 5 - 25 ppl (723 - 3,231 SF) $1,446 - $6,462 / MO. 4101 E Louisiana Ave. 6 Spaces, 1 - 35 ppl (412 - 4,435 SF) $515 - $7,044 / MO. Property Details. ... Find the ideal office space for rent at 950 S Cherry St, Central, Denver with OfficeSpace.com. We provide flexible options, including coworking ...",
+        "dateLastCrawled": "2025-05-31T07:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "OfficeSpace.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "255 S Cherry St, Denver, CO 80246 - Zillow",
+        "url": "https://www.zillow.com/homedetails/255-S-Cherry-St-Denver-CO-80246/13395792_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/255-S-Cherry-St-Denver-CO-80246/13395792_zpid",
+        "snippet": "255 S Cherry St, Denver CO, is a Single Family home that contains 4312 sq ft and was built in 1955.It contains 4 bedrooms and 5 bathrooms.This home last sold for $1,420,000 in May 2017. The Zestimate for this Single Family is $2,381,600, which has increased by $61,984 in the last 30 days.The Rent Zestimate for this Single Family is $3,507/mo, which has increased by $3,507/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-27T00:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "501 S Cherry St, Denver, CO 80246 - Office Evolution-One ... - LoopNet",
+        "url": "https://www.loopnet.com/Listing/501-S-Cherry-St-Denver-CO/29219640/",
+        "datePublished": "2024-10-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 11, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/501-S-Cherry-St-Denver-CO/29219640",
+        "snippet": "501 S Cherry St, Denver, CO 80246. This Office space is available for lease. About Our Location Office Evolution Cherry Creek offers 48 f. ... 400 S Colorado Blvd, Denver CO; 250 Steele St, Denver CO; 1 of 40. VIDEOS. 3D TOUR. PHOTOS. STREET VIEW STREET. MAP. 1 / 40. Reception. Reception. Reception. Team Office. Coworking. Kitchen.",
+        "dateLastCrawled": "2025-05-16T20:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "801 S Cherry St #258, Denver, CO 80246 - Trulia",
+        "url": "https://www.trulia.com/home/801-s-cherry-st-258-denver-co-80246-452662018",
+        "datePublished": "2025-05-27T00:00:00.0000000",
+        "datePublishedDisplayText": "May 27, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/801-s-cherry-st-258-denver-co-80246-452662018",
+        "snippet": "801 S Cherry St #258, Denver, CO 80246 is a 1 bed, 1 bath, 713 sqft Apartment listed for rent on Trulia for $2,051. See 24 photos, review amenities, and request a tour of the property today.",
+        "dateLastCrawled": "2025-06-02T17:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "950 South Cherry Street, #311, Denver, CO 80246 | Crexi.com",
+        "url": "https://www.crexi.com/lease/properties/234253/colorado-cherry-tower",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.crexi.com/lease/properties/234253/colorado-cherry-tower",
+        "snippet": "Office space for lease at 950 South Cherry Street, #311, Denver, CO 80246. Visit Crexi.com to read property details & contact the listing broker.",
+        "dateLastCrawled": "2025-02-11T10:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Crexi.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "250 S Dahlia St, Denver, CO 80246 - Zillow",
+        "url": "https://www.zillow.com/homedetails/250-S-Dahlia-St-Denver-CO-80246/13396180_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/250-S-Dahlia-St-Denver-CO-80246/13396180_zpid",
+        "snippet": "250 S Dahlia St, Denver CO, is a Single Family home that contains 3269 sq ft and was built in 1955.It contains 3 bedrooms and 5 bathrooms.This home last sold for $1,225,000 in July 2008. The Zestimate for this Single Family is $2,080,900, which has increased by $67,973 in the last 30 days.The Rent Zestimate for this Single Family is $5,506/mo, which has increased by $5,506/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-20T19:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "250 S Clermont St, Denver, CO 80246 - Zillow",
+        "url": "https://www.zillow.com/homedetails/250-S-Clermont-St-Denver-CO-80246/13395784_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/250-S-Clermont-St-Denver-CO-80246/13395784_zpid",
+        "snippet": "250 S Clermont St, Denver CO, is a Single Family home that contains 4288 sq ft and was built in 1948.It contains 4 bedrooms and 6 bathrooms.This home last sold for $1,699,000 in June 2016. The Zestimate for this Single Family is $2,787,800, which has increased by $46,507 in the last 30 days.The Rent Zestimate for this Single Family is $4,909/mo, which has increased by $4,909/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-19T20:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "950 S Cherry St, Suite 714, Denver, CO 80246 | Crexi.com",
+        "url": "https://www.crexi.com/lease/properties/271409/colorado-cherry-tower",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.crexi.com/lease/properties/271409/colorado-cherry-tower",
+        "snippet": "Office space for lease at 950 S Cherry St, Suite 714, Denver, CO 80246. Visit Crexi.com to read property details & contact the listing broker. 950 S Cherry St, Suite 714, Denver, CO 80246 | Crexi.com",
+        "dateLastCrawled": "2024-12-02T01:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Crexi.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "265 S Cherry St, Denver, CO 80246 - Zillow",
+        "url": "https://www.zillow.com/homedetails/265-S-Cherry-St-Denver-CO-80246/13395787_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/265-S-Cherry-St-Denver-CO-80246/13395787_zpid",
+        "snippet": "265 S Cherry St, Denver CO, is a Single Family home that contains 3052 sq ft and was built in 1960.It contains 3 bedrooms and 2 bathrooms.This home last sold for $390,000 in September 1993. The Zestimate for this Single Family is $1,493,900, which has increased by $30,400 in the last 30 days.The Rent Zestimate for this Single Family is $2,890/mo, which has increased by $2,890/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-20T20:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "243 S Cherry St, Denver, CO 80246 - Zillow",
+        "url": "https://www.zillow.com/homedetails/243-S-Cherry-St-Denver-CO-80246/13395788_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/243-S-Cherry-St-Denver-CO-80246/13395788_zpid",
+        "snippet": "243 S Cherry St, Denver CO, is a Single Family home that contains 4166 sq ft and was built in 1954.It contains 4 bedrooms and 5 bathrooms.This home last sold for $1,235,000 in December 2018. The Zestimate for this Single Family is $2,370,900, which has decreased by $31,026 in the last 30 days.The Rent Zestimate for this Single Family is $4,371/mo, which has increased by $4,371/mo in the last ...",
+        "dateLastCrawled": "2025-05-08T10:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "4870 Whimsical Dr, Colorado Springs CO 80917"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=4870+Whimsical+Dr%2c+Colorado+Springs+CO+80917",
+    "totalEstimatedMatches": 870000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "4870 Whimsical Dr, Colorado Springs, CO 80917 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4870-Whimsical-Dr-Colorado-Springs-CO-80917/13596862_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4870-Whimsical-Dr-Colorado-Springs-CO-80917/...",
+        "snippet": "4870 Whimsical Dr, Colorado Springs CO, is a Single Family home that contains 1071 sq ft and was built in 1973.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $384,600, which has increased by $4,200 in the last 30 days.The Rent Zestimate for this Single Family is $1,810/mo, which has increased by $1,810/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-13T02:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "4870 Whimsical Dr, Colorado Springs, CO 80917 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4870-Whimsical-Dr_Colorado-Springs_CO_80917_M14725-40105",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4870-Whimsical-Dr_Colorado-Springs_CO_80917_M14725-40105",
+        "snippet": "See sales history and home details for 4870 Whimsical Dr, Colorado Springs, CO 80917, a 3 bed, 2 bath, 1,561 Sq. Ft. single family home built in 1973 that was last sold on 12/01/1980.",
+        "dateLastCrawled": "2024-11-10T08:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "4870 Whimsical Dr, Colorado Springs, CO 80917 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/4870-Whimsical-Dr-80917/home/34429352",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/4870-Whimsical-Dr-80917/home/34429352",
+        "snippet": "4870 Whimsical Dr is a 1,561 square foot house on a 9,575 square foot lot with 3 bedrooms and 2 bathrooms. - it last sold on December 01, 1980 for $61,000. Based on Redfin's Colorado Springs data, we estimate the home's value is $371,226.",
+        "dateLastCrawled": "2025-03-28T16:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Whimsical Dr, Colorado Springs, CO 80917 Property Records - County Office",
+        "url": "https://www.countyoffice.org/whimsical-dr-colorado-springs-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/whimsical-dr-colorado-springs-co-property-records",
+        "snippet": "View property records for 169 addresses on Whimsical Drive in Colorado Springs, CO 80917, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 4870 Whimsical Dr; 4880 Whimsical Dr; 4890 Whimsical Dr; 4910 Whimsical Dr; 4920 ...",
+        "dateLastCrawled": "2024-09-25T17:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Who Lives at 4870 Whimsical Dr, Colorado Springs, CO 80917 - Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/4870-Whimsical-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/4870-Whimsical-Dr",
+        "snippet": "Find people by address using reverse address lookup for 4870 Whimsical Dr, Colorado Springs, CO 80917. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-06-02T18:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "4870 Whimsical Dr Colorado Springs, CO 80917 - Trulia",
+        "url": "https://www.trulia.com/home/4870-whimsical-dr-colorado-springs-co-80917-13596862",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/4870-whimsical-dr-colorado-springs-co-80917-13596862",
+        "snippet": "This single-family home is located at 4870 Whimsical Dr, Colorado Springs, CO. 4870 Whimsical Dr is in the East Colorado Springs neighborhood in Colorado Springs, CO and in ZIP code 80917. This property has 3 bedrooms, 2 bathrooms and approximately 1,071 sqft of floor space. This property has a lot size of 9583 sqft and was built in 1973.",
+        "dateLastCrawled": "2025-05-13T21:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "4870 Whimsical Dr Colorado Springs, CO 80917 - Xome",
+        "url": "https://www.xome.com/realestate/4870-whimsical-dr-colorado-springs-co-80917-180876569",
+        "datePublished": "2025-04-02T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 2, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/4870-whimsical-dr-colorado-springs-co-80917-180876569",
+        "snippet": "4870 Whimsical Dr Colorado Springs, CO 80917. Single Family Residential Residence. 3 Beds. 2 Baths. Static Map Interactive Map Property Facts for 4870 Whimsical Dr. 4870 Whimsical Dr, Colorado Springs, CO is a single family home that contains 1,071 Sq. Ft. sq ft and was built in 1973. It contains 3 bedrooms and 2 bathrooms. ...",
+        "dateLastCrawled": "2025-04-08T23:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "4970 Whimsical Dr, Colorado Springs, CO 80917 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4970-Whimsical-Dr-Colorado-Springs-CO-80917/13596853_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4970-Whimsical-Dr-Colorado-Springs-CO-80917/...",
+        "snippet": "4970 Whimsical Dr, Colorado Springs, CO 80917 is currently not for sale. The 1,050 Square Feet single family home is a 4 beds, 2 baths property. This home was built in 1973 and last sold on 2002-07-01 for $154,500. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-08-23T19:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "4780 Whimsical Dr, Colorado Springs, CO 80917",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4780-Whimsical-Dr_Colorado-Springs_CO_80917_M20789-28189",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4780-Whimsical-Dr_Colorado-Springs_CO_80917_M20789-28189",
+        "snippet": "4780 Whimsical Dr, Colorado Springs, CO 80917 is pending. View 37 photos of this 4 bed, 2 bath, 1522 sqft. single family home with a list price of $425000.",
+        "dateLastCrawled": "2025-05-31T15:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "4880 Whimsical Dr, Colorado Springs, CO 80917 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4880-Whimsical-Dr-Colorado-Springs-CO-80917/13596861_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4880-Whimsical-Dr-Colorado-Springs-CO-80917/...",
+        "snippet": "4880 Whimsical Dr, Colorado Springs CO, is a Single Family home that contains 1500 sq ft and was built in 1973.It contains 3 bedrooms and 2 bathrooms.This home last sold for $179,000 in July 2014. The Zestimate for this Single Family is $397,700, which has increased by $6,916 in the last 30 days.The Rent Zestimate for this Single Family is $1,998/mo, which has increased by $1,998/mo in the ...",
+        "dateLastCrawled": "2025-04-03T07:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "4870 N Splendid Cir, Colorado Springs, CO 80917 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4870-N-Splendid-Cir_Colorado-Springs_CO_80917_M16336-48815",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4870-N-Splendid-Cir_Colorado-Springs_CO_80917_M16336-48815",
+        "snippet": "View 16 photos for 4870 N Splendid Cir, Colorado Springs, CO 80917, a 3 bed, 2 bath, 1,894 Sq. Ft. single family home built in 1972 that was last sold on 10/07/2011.",
+        "dateLastCrawled": "2024-01-04T09:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "4670 Whimsical Dr, Colorado Springs, CO 80917 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4670-Whimsical-Dr-Colorado-Springs-CO-80917/13595000_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4670-Whimsical-Dr-Colorado-Springs-CO-80917/...",
+        "snippet": "4670 Whimsical Dr, Colorado Springs CO, is a Single Family home that contains 845 sq ft and was built in 1972.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $366,200, which has increased by $2,427 in the last 30 days.The Rent Zestimate for this Single Family is $1,636/mo, which has increased by $1,636/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-14T05:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "4880 Whimsical Dr, Colorado Springs, CO 80917 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4880-Whimsical-Dr_Colorado-Springs_CO_80917_M29904-70996",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4880-Whimsical-Dr_Colorado-Springs_CO_80917_M29904-70996",
+        "snippet": "View 23 photos for 4880 Whimsical Dr, Colorado Springs, CO 80917, a 3 bed, 2 bath, 1,429 Sq. Ft. single family home built in 1973 that was last sold on 07/31/2014.",
+        "dateLastCrawled": "2024-01-03T23:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "5670 Whimsical Dr, Colorado Springs, CO 80917 | Zillow",
+        "url": "https://www.zillow.com/homedetails/5670-Whimsical-Dr-Colorado-Springs-CO-80917/13596713_zpid/",
+        "datePublished": "2023-08-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 15, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/5670-Whimsical-Dr-Colorado-Springs-CO-80917/...",
+        "snippet": "5670 Whimsical Dr, Colorado Springs CO, is a Single Family home that contains 1260 sq ft and was built in 1985.It contains 3 bedrooms and 2 bathrooms.This home last sold for $359,900 in August 2023. The Zestimate for this Single Family is $363,500, which has decreased by $5,190 in the last 30 days.The Rent Zestimate for this Single Family is $1,902/mo, which has increased by $1,902/mo in the ...",
+        "dateLastCrawled": "2025-03-20T10:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "4840 Whimsical Dr, Colorado Springs, CO 80917 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4840-Whimsical-Dr_Colorado-Springs_CO_80917_M23820-86632",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4840-Whimsical-Dr_Colorado-Springs_CO_80917_M23820-86632",
+        "snippet": "See sales history and home details for 4840 Whimsical Dr, Colorado Springs, CO 80917, a 4 bed, 3 bath, 1,938 Sq. Ft. single family home built in 1973 that was last sold on 07/24/2000.",
+        "dateLastCrawled": "2024-11-26T02:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "4540 Debonair Cir, Colorado Springs, CO 80917 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4540-Debonair-Cir-Colorado-Springs-CO-80917/13594911_zpid/",
+        "datePublished": "2025-06-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4540-Debonair-Cir-Colorado-Springs-CO-80917/...",
+        "snippet": "4510 S Sleepy Hollow Cir, Colorado Springs, CO 80917. Off Market. Skip to the beginning of the carousel. Skip carousel. Local experts in 80917. Skip carousel. Similar homes ... 5560 Whimsical Dr, Colorado Springs, CO 80917. For Sale. MLS ID #5722492, Michael Parnell MRP PSA , The Warner Group ...",
+        "dateLastCrawled": "2025-06-05T07:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "4970 Whimsical Dr, Colorado Springs, CO 80917 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4970-Whimsical-Dr_Colorado-Springs_CO_80917_M22877-01657",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4970-Whimsical-Dr_Colorado-Springs_CO_80917_M22877-01657",
+        "snippet": "See sales history and home details for 4970 Whimsical Dr, Colorado Springs, CO 80917, a 4 bed, 2 bath, 1,560 Sq. Ft. single family home built in 1973 that was last sold on 07/01/2002.",
+        "dateLastCrawled": "2024-08-17T14:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "4570 Whimsical Dr, Colorado Springs, CO 80917 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4570-Whimsical-Dr-Colorado-Springs-CO-80917/13595007_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4570-Whimsical-Dr-Colorado-Springs-CO-80917/...",
+        "snippet": "4570 Whimsical Dr, Colorado Springs CO, is a Single Family home that contains 1386 sq ft and was built in 1972.It contains 4 bedrooms and 2.5 bathrooms. The Zestimate for this Single Family is $403,000, which has increased by $200 in the last 30 days.The Rent Zestimate for this Single Family is $2,200/mo, which has increased by $2,200/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-05T00:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "4850 Whimsical Dr, Colorado Springs, CO 80917 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4850-Whimsical-Dr-Colorado-Springs-CO-80917/13596864_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4850-Whimsical-Dr-Colorado-Springs-CO-80917/...",
+        "snippet": "4850 Whimsical Dr, Colorado Springs CO, is a Single Family home that contains 1650 sq ft and was built in 1973.It contains 4 bedrooms and 2 bathrooms.This home last sold for $119,500 in November 1995. The Zestimate for this Single Family is $421,600, which has increased by $2,980 in the last 30 days.The Rent Zestimate for this Single Family is $2,183/mo, which has increased by $2,183/mo in the ...",
+        "dateLastCrawled": "2025-04-19T07:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

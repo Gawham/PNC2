@@ -1,0 +1,423 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3207 Greenwood Ct, Fort Collins CO 80525"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3207+Greenwood+Ct%2c+Fort+Collins+CO+80525",
+    "totalEstimatedMatches": 693000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "3207 Greenwood Ct, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3207-Greenwood-Ct-Fort-Collins-CO-80525/13870504_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3207-Greenwood-Ct-Fort-Collins-CO-80525/13870504_zpid",
+        "snippet": "3207 Greenwood Ct, Fort Collins CO, is a Single Family home that contains 1920 sq ft and was built in 1980.It contains 3 bedrooms and 2.75 bathrooms.This home last sold for $262,500 in June 2002. The Zestimate for this Single Family is $627,100, which has increased by $12,273 in the last 30 days.The Rent Zestimate for this Single Family is $2,413/mo, which has increased by $2,413/mo in the ...",
+        "dateLastCrawled": "2025-04-20T05:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3207 Greenwood Ct, Fort Collins, CO 80525 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3207-Greenwood-Ct_Fort-Collins_CO_80525_M23822-16619",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3207-Greenwood-Ct_Fort-Collins_CO_80525_M23822-16619",
+        "snippet": "See sales history and home details for 3207 Greenwood Ct, Fort Collins, CO 80525, a 3 bed, 4 bath, 2,704 Sq. Ft. single family home built in 1980 that was last sold on 06/14/2002.",
+        "dateLastCrawled": "2023-12-23T04:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "3207 Greenwood Ct, Fort Collins, CO 80525 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/3207-Greenwood-Ct-80525/home/34901803",
+        "datePublished": "2002-06-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 14, 2002",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/3207-Greenwood-Ct-80525/home/34901803",
+        "snippet": "4 beds, 3.5 baths, 2703 sq. ft. house located at 3207 Greenwood Ct, Fort Collins, CO 80525 sold for $262,500 on May 30, 2002. MLS# 326770. WALK INTO GRACIOUS IMPECCABLE LIVING. THIS HOME IS LOCATED...",
+        "dateLastCrawled": "2025-04-03T19:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "3207 Greenwood Ct, Fort Collins, CO 80525 | Homes.com",
+        "url": "https://www.homes.com/property/3207-greenwood-ct-fort-collins-co/27vyljtl0byef/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/3207-greenwood-ct-fort-collins-co/27vyljtl0byef",
+        "snippet": "This home is located at 3207 Greenwood Ct, Fort Collins, CO 80525 and is currently estimated at $674,902, approximately $249 per square foot. 3207 Greenwood Ct is a home located in Larimer County with nearby schools including Shepardson Elementary School, Boltz Middle School, and Fort Collins High School.",
+        "dateLastCrawled": "2025-05-01T06:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "3207 Greenwood Ct, Fort Collins, CO 80525 Property Record - County Office",
+        "url": "https://www.countyoffice.org/property-record-3207-greenwood-ct-fort-collins-co-80525-449/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-3207-greenwood-ct-fort-collins-co-80525-449",
+        "snippet": "View 3207 Greenwood Ct, Fort Collins, CO 80525 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2025-02-02T04:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Jacqueline's \u00b7 3207 Greenwood Ct, Fort Collins, CO 80525-0525 - OpenGovCO",
+        "url": "https://opengovco.com/license/210982",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/210982",
+        "snippet": "3207 Greenwood Ct, Fort Collins, CO 80525-0525: 1980-02-29: Licenses in the same zip code. License Name License Number Address First Issue Date; Annelisa Clare Herold: 2226 Cutting Horse Dr, Fort Collins, CO 80525-0525: 2022-09-01: Jenevieve Modafferi: 6814 Debra Dr #201, Fort Collins, CO 80525-0525:",
+        "dateLastCrawled": "2022-12-11T02:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Estate Sale - Saturday ONLY - Facebook",
+        "url": "https://www.facebook.com/events/1621020848596320/",
+        "datePublished": "2025-05-25T01:00:00.0000000",
+        "datePublishedDisplayText": "May 25, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.facebook.com/events/1621020848596320",
+        "snippet": "Event in Fort Collins, CO by Casie Higuera on Saturday, May 24 2025 ... 3207 Greenwood Ct, Fort Collins, CO 80525 9 AM \u2013 5 PM | Rain or Shine! Calling all treasure hunters, DIYers, collecto... See more. Suggested events. Happening now. BlueSided LIVE at Lake Countr... 600 Virginia Ave, Clarksville, VA,",
+        "dateLastCrawled": "2025-05-24T01:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Facebook"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Who Lives at 3207 Greenwood Ct, Fort Collins, CO 80525 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Fort-Collins/3207-Greenwood-Ct",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Fort-Collins/3207-Greenwood-Ct",
+        "snippet": "Find people by address using reverse address lookup for 3207 Greenwood Ct, Fort Collins, CO 80525. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-05-05T00:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "3207 Wedgewood Ct, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3207-Wedgewood-Ct-Fort-Collins-CO-80525/13870523_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3207-Wedgewood-Ct-Fort-Collins-CO-80525/13870523_zpid",
+        "snippet": "3207 Wedgewood Ct, Fort Collins CO, is a Single Family home that contains 2504 sq ft and was built in 1979.It contains 6 bedrooms and 3.75 bathrooms.This home last sold for $110,000 in July 1988. The Zestimate for this Single Family is $695,600, which has increased by $12,680 in the last 30 days.The Rent Zestimate for this Single Family is $2,837/mo, which has increased by $2,837/mo in the ...",
+        "dateLastCrawled": "2025-04-15T12:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "3207 Wedgewood Ct, Fort Collins, CO 80525 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3207-Wedgewood-Ct_Fort-Collins_CO_80525_M18376-05318",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3207-Wedgewood-Ct_Fort-Collins_CO_80525_M18376-05318",
+        "snippet": "See sales history and home details for 3207 Wedgewood Ct, Fort Collins, CO 80525, a 6 bed, 5 bath, 3,288 Sq. Ft. single family home built in 1979 that was last sold on 07/01/1988.",
+        "dateLastCrawled": "2024-01-13T17:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3213 Greenwood Ct, Fort Collins, CO 80525 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/3213-Greenwood-Ct-80525/home/34901800",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/3213-Greenwood-Ct-80525/home/34901800",
+        "snippet": "4 beds, 4 baths, 3159 sq. ft. house located at 3213 Greenwood Ct, Fort Collins, CO 80525 sold for $725,000 on Feb 15, 2023. MLS# 6904710. Take a look at this beautifully updated 2-story home in a p...",
+        "dateLastCrawled": "2025-03-31T11:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3207 Norwood Ct, Fort Collins, CO 80525 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3207-Norwood-Ct-Fort-Collins-CO-80525/13870549_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3207-Norwood-Ct-Fort-Collins-CO-80525/13870549_zpid",
+        "snippet": "3207 Norwood Ct, Fort Collins CO, is a Single Family home that contains 3316 sq ft and was built in 1985.It contains 4 bedrooms and 4 bathrooms.This home last sold for $500,000 in June 2015. The Zestimate for this Single Family is $811,900, which has increased by $4,664 in the last 30 days.The Rent Zestimate for this Single Family is $3,130/mo, which has increased by $3,130/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-05T03:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "3213 Greenwood Ct Fort Collins CO 80525 - YouTube",
+        "url": "https://www.youtube.com/watch?v=88lA9FHJMV4",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.youtube.com/watch?v=88lA9FHJMV4",
+        "snippet": "3213 Greenwood Ct Fort Collins CO 80525To get property details right on your phone text SEEME195537 to 878787.*Fab features in this beautiful 2 story home wi...",
+        "dateLastCrawled": "2023-05-12T07:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "YouTube"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "3213 Greenwood Ct, Fort Collins, CO 80525 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3213-Greenwood-Ct_Fort-Collins_CO_80525_M18305-24789",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3213-Greenwood-Ct_Fort-Collins_CO_80525_M18305-24789",
+        "snippet": "View 32 photos for 3213 Greenwood Ct, Fort Collins, CO 80525, a 4 bed, 3 bath, 3,159 Sq. Ft. single family home built in 1983 that was last sold on 02/15/2023.",
+        "dateLastCrawled": "2023-12-28T04:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3200 Greenwood Ct, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3200-Greenwood-Ct-Fort-Collins-CO-80525/13870509_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3200-Greenwood-Ct-Fort-Collins-CO-80525/13870509_zpid",
+        "snippet": "3200 Greenwood Ct, Fort Collins CO, is a Single Family home that contains 1762 sq ft and was built in 1979.It contains 4 bedrooms and 3.25 bathrooms.This home last sold for $164,900 in June 1998. The Zestimate for this Single Family is $586,800, which has increased by $18,277 in the last 30 days.The Rent Zestimate for this Single Family is $2,527/mo, which has increased by $2,527/mo in the ...",
+        "dateLastCrawled": "2025-03-27T05:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "3207 Fernwood Ln, Fort Collins, CO 80525 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3207-Fernwood-Ln_Fort-Collins_CO_80525_M16802-59062",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3207-Fernwood-Ln_Fort-Collins_CO_80525_M16802-59062",
+        "snippet": "View 40 photos for 3207 Fernwood Ln, Fort Collins, CO 80525, a 5 bed, 2 bath, 2,964 Sq. Ft. single family home built in 1979 that was last sold on 02/07/2022.",
+        "dateLastCrawled": "2024-03-01T17:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3207 Silverwood Dr, Fort Collins, CO 80525 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3207-Silverwood-Dr-Fort-Collins-CO-80525/13870017_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3207-Silverwood-Dr-Fort-Collins-CO-80525/13870017_zpid",
+        "snippet": "3207 Silverwood Dr, Fort Collins CO, is a Single Family home that contains 1969 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $425,000 in March 2019. The Zestimate for this Single Family is $590,800, which has increased by $550 in the last 30 days.The Rent Zestimate for this Single Family is $2,572/mo, which has increased by $2,572/mo in the last 30 ...",
+        "dateLastCrawled": "2025-02-21T03:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3207 Lochwood Dr, Fort Collins, CO 80525 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3207-Lochwood-Dr_Fort-Collins_CO_80525_M15606-63726",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3207-Lochwood-Dr_Fort-Collins_CO_80525_M15606-63726",
+        "snippet": "View detailed information about property 3207 Lochwood Dr, Fort Collins, CO 80525 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-01-01T16:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3213 Greenwood Ct, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3213-Greenwood-Ct-Fort-Collins-CO-80525/13870505_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3213-Greenwood-Ct-Fort-Collins-CO-80525/13870505_zpid",
+        "snippet": "3213 Greenwood Ct, Fort Collins CO, is a Single Family home that contains 3159 sq ft and was built in 1983.It contains 4 bedrooms and 4 bathrooms.This home last sold for $725,000 in February 2023. The Zestimate for this Single Family is $795,100, which has decreased by $1,714 in the last 30 days.The Rent Zestimate for this Single Family is $3,113/mo, which has increased by $3,113/mo in the ...",
+        "dateLastCrawled": "2025-02-17T15:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3207 Lochwood Dr, Fort Collins, CO 80525 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3207-Lochwood-Dr-Fort-Collins-CO-80525/13870597_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3207-Lochwood-Dr-Fort-Collins-CO-80525/13870597_zpid",
+        "snippet": "3207 Lochwood Dr, Fort Collins CO, is a Single Family home that contains 2078 sq ft and was built in 1980.It contains 4 bedrooms and 2.25 bathrooms.This home last sold for $132,000 in April 1992. The Zestimate for this Single Family is $620,000, which has increased by $18,900 in the last 30 days.The Rent Zestimate for this Single Family is $2,495/mo, which has increased by $2,495/mo in the ...",
+        "dateLastCrawled": "2025-04-05T00:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

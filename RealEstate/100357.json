@@ -1,0 +1,466 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1840 W 135th Ave, Westminster CO 80234"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1840+W+135th+Ave%2c+Westminster+CO+80234",
+    "totalEstimatedMatches": 796000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1840 W 135th Ave, Westminster, CO 80234 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1840-W-135th-Ave-Westminster-CO-80234/12956157_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1840-W-135th-Ave-Westminster-CO-80234/12956157_zpid",
+        "snippet": "1840 W 135th Ave, Westminster CO, is a Single Family home that contains 2879 sq ft and was built in 1996.It contains 3 bedrooms and 3 bathrooms.This home last sold for $300,000 in August 2012. The Zestimate for this Single Family is $683,900, which has increased by $8,833 in the last 30 days.The Rent Zestimate for this Single Family is $3,200/mo, which has increased by $3,200/mo in the last 30 ...",
+        "deepLinks": [
+          {
+            "name": "1840 W 134th Ave, Westminster, CO 80234 - Zillow",
+            "url": "https://www.zillow.com/homedetails/1840-W-134th-Ave-Westminster-CO-80234/12956482_zpid/",
+            "snippet": "1840 W 134th Ave, Westminster CO, is a Single Family home that contains 1381 sq ft and was built in 1995.It contains 3 bedrooms and 2 bathrooms.This home last sold for $187,500 in March 2008. The Zestimate for this Single Family is $520,100, which has increased by $12,377 in the last 30 days.The Rent Zestimate for this Single Family is $2,529/mo, which has increased by $2,529/mo in the last 30 ..."
+          }
+        ],
+        "dateLastCrawled": "2025-04-17T23:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1840 W 135th Ave, Westminster, CO 80234 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1840-W-135th-Ave_Westminster_CO_80234_M96235-74193",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1840-W-135th-Ave_Westminster_CO_80234_M96235-74193",
+        "snippet": "See sales history and home details for 1840 W 135th Ave, Westminster, CO 80234, a 3 bed, 4 bath, 3,435 Sq. Ft. single family home built in 1996 that was last sold on 08/29/2012.",
+        "dateLastCrawled": "2024-03-11T20:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1840 W 135th Ave, Denver, CO 80234 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1840-W-135th-Ave-80234/home/34853807",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1840-W-135th-Ave-80234/home/34853807",
+        "snippet": "3 beds, 4 baths, 3435 sq. ft. house located at 1840 W 135th Ave, Denver, CO 80234. View sales history, tax history, home value estimates, and overhead views. APN R0019849.",
+        "dateLastCrawled": "2025-03-23T10:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1840 W 135th Ave, Denver, 80234, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1840 W 135th Ave, Denver, CO 80234 - Homes.com",
+        "url": "https://www.homes.com/property/1840-w-135th-ave-denver-co/jf1tqf6ejn6zm/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1840-w-135th-ave-denver-co/jf1tqf6ejn6zm",
+        "snippet": "1840 W 135th Ave, Denver, CO 80234 - 3,435 sqft home . Browse photos, take a 3D tour & ... CO 80234 and is currently estimated at $702,210, approximately $204 per square foot. 1840 W 135th Ave is a home located in Adams County with nearby schools including Arapahoe Ridge Elementary School, Silver Hills Middle School, and Legacy High School.",
+        "dateLastCrawled": "2024-06-29T23:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1840 W 135th Ave Westminster, CO 80234 - Trulia",
+        "url": "https://www.trulia.com/home/1840-w-135th-ave-westminster-co-80234-12956157",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1840-w-135th-ave-westminster-co-80234-12956157",
+        "snippet": "1840 W 135th Ave, Westminster, CO 80234 is a 2,879 sqft, 3 bed, 3 bath home sold in 2012. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-12-05T22:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1840 W 134th Ave, Westminster, CO 80234 | MLS# 550764 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1840-W-134th-Ave-80234/home/34853709",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1840-W-134th-Ave-80234/home/34853709",
+        "snippet": "3 beds, 2 baths, 1873 sq. ft. house located at 1840 W 134th Ave, Westminster, CO 80234 sold for $187,500 on Feb 29, 2008. MLS# 550764. * * LOWEST PRICE IN AMHERST * * * Look again!",
+        "dateLastCrawled": "2024-11-16T09:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1840 W 135th Ave, Denver, CO 80234 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1840-W-135th-Ave_Denver_CO_80234_M96235-74193",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1840-W-135th-Ave_Denver_CO_80234_M...",
+        "snippet": "See sales history and home details for 1840 W 135th Ave, Denver, CO 80234, a 3 bed, 4 bath, 3,435 Sq. Ft. single family home built in 1996 that was last sold on 08/29/2012.",
+        "dateLastCrawled": "2024-07-15T00:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1840 W 134th Ave, Westminster, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1840-W-134th-Ave-Westminster-CO-80234/12956482_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1840-W-134th-Ave-Westminster-CO-80234/12956482_zpid",
+        "snippet": "1840 W 134th Ave, Westminster CO, is a Single Family home that contains 1381 sq ft and was built in 1995.It contains 3 bedrooms and 2 bathrooms.This home last sold for $187,500 in March 2008. The Zestimate for this Single Family is $520,100, which has increased by $12,377 in the last 30 days.The Rent Zestimate for this Single Family is $2,529/mo, which has increased by $2,529/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-29T23:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "2140 W 135th Ave Westminster, CO 80234 - ColdwellBankerHomes.com",
+        "url": "https://www.coldwellbankerhomes.com/co/westminster/2140-w-135th-ave/pid_65647132/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbankerhomes.com/co/westminster/2140-w-135th-ave/pid_65647132",
+        "snippet": "OPEN HOUSE: Saturday, June 7, 2025 11:00 AM - 1:00 PM. For Sale - 2140 W 135th Ave, Westminster, CO - $614,900. View details, map and photos of this single family property with 5 bedrooms and 4 total baths. MLS# 8197925. ... 2140 W 135th Avenue, Westminster, CO 80234 (MLS# 8197925) is a Single Family property with 5 bedrooms, 3 full bathrooms ...",
+        "dateLastCrawled": "2025-06-03T22:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ColdwellBankerHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "2140 W. 135th Ave, Westminster, CO 80234 | Home is for Sale",
+        "url": "https://v1tours.com/listing/57581/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://v1tours.com/listing/57581",
+        "snippet": "Home is for sale at 2140 W. 135th Ave, Westminster, CO 80234 is a 2,493 Sqft, 5 bed, 3/1 bath, Single Family Home is for sale at $614,900",
+        "dateLastCrawled": "2025-06-03T21:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "2140 W 135th Ave, Westminster, CO 80234 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/westminster/2140-w-135th-ave/lid-P00800000Gt5T14f4JKsokwJqHnfMyyCAbLVZ6Cx",
+        "datePublished": "2025-06-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/westminster/2140-w-135th-ave/lid-P00800000Gt5T14f4...",
+        "snippet": "Find Property Information for 2140 W 135th Ave, Westminster, CO 80234. MLS# 8197925. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2025-06-03T21:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1840 W 134th Ave Westminster, CO 80234 - Trulia",
+        "url": "https://www.trulia.com/home/1840-w-134th-ave-westminster-co-80234-12956482",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1840-w-134th-ave-westminster-co-80234-12956482",
+        "snippet": "1840 W 134th Ave, Westminster, CO 80234 is a 1,381 sqft, 3 bed, 2 bath home sold in 2008. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-12-11T09:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "2140 W 135th Avenue, Westminster, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2140-W-135th-Ave-Westminster-CO-80234/12955845_zpid/",
+        "datePublished": "2025-06-07T00:00:00.0000000",
+        "datePublishedFreshnessText": "7 hours ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2140-W-135th-Ave-Westminster-CO-80234/12955845_zpid",
+        "snippet": "Zillow has 50 photos of this $614,900 5 beds, 4 baths, 2,493 Square Feet single family home located at 2140 W 135th Avenue, Westminster, CO 80234 built in 1994. MLS #8197925.",
+        "dateLastCrawled": "2025-06-06T02:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1240 W 135th Dr, Westminster, CO 80234 | Apartments.com",
+        "url": "https://www.apartments.com/1240-w-135th-dr-westminster-co/wgp1v4l/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/1240-w-135th-dr-westminster-co/wgp1v4l",
+        "snippet": "1240 W 135th Dr house in Westminster,CO, is available for rent. ... Within 50 Miles of 1240 W 135th Dr Westminster, CO 80234. 3311 W 134th Ave. Broomfield, CO 80020. 4 Br $3,000 1.3 mi. 13091 Dexter St. Thornton, CO 80241. 3 Br $3,225 3.7 mi. The Villas at Prairie Center. 2103 Peregrine Dr ...",
+        "dateLastCrawled": "2025-06-04T06:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1850 W 134th Ave, Westminster, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1850-W-134th-Ave-Westminster-CO-80234/12956483_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1850-W-134th-Ave-Westminster-CO-80234/12956483_zpid",
+        "snippet": "1850 W 134th Ave, Westminster CO, is a Single Family home that contains 1800 sq ft and was built in 1995.It contains 4 bedrooms and 2 bathrooms.This home last sold for $315,000 in December 2017. The Zestimate for this Single Family is $520,700, which has increased by $4,833 in the last 30 days.The Rent Zestimate for this Single Family is $2,879/mo, which has increased by $2,879/mo in the last ...",
+        "dateLastCrawled": "2025-04-17T00:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1830 W 135th Ave, Westminster, CO 80234 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1830-W-135th-Ave_Westminster_CO_80234_M18731-54245",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1830-W-135th-Ave_Westminster_CO_80234_M18731-54245",
+        "snippet": "See sales history and home details for 1830 W 135th Ave, Westminster, CO 80234, a 3 bed, 4 bath, 2,486 Sq. Ft. single family home built in 1997 that was last sold on 05/13/2003.",
+        "dateLastCrawled": "2024-02-28T16:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1855 W 130th Pl, Westminster, CO 80234 | MLS# 5677408 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1855-W-130th-Pl-80234/home/34699506",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1855-W-130th-Pl-80234/home/34699506",
+        "snippet": "4 beds, 2.5 baths, 2737 sq. ft. house located at 1855 W 130th Pl, Westminster, CO 80234 sold for $525,000 on Jun 25, 2020. MLS# 5677408. To view 3D tour, copy and paste this link: https://my. matte...",
+        "dateLastCrawled": "2024-11-07T21:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1830 W 135th Ave, Westminster, CO 80234 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1830-W-135th-Ave-Westminster-CO-80234/12956181_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1830-W-135th-Ave-Westminster-CO-80234/12956181_zpid",
+        "snippet": "1830 W 135th Ave, Westminster CO, is a Single Family home that contains 2689 sq ft and was built in 1997.It contains 6 bedrooms and 4 bathrooms.This home last sold for $249,900 in May 2003. The Zestimate for this Single Family is $658,200, which has increased by $13,050 in the last 30 days.The Rent Zestimate for this Single Family is $3,831/mo, which has increased by $3,831/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-25T15:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1280 W 134th Place, Westminster, CO 80234 | MLS #9531591 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1280-W-134th-Pl-Westminster-CO-80234/12955433_zpid/",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1280-W-134th-Pl-Westminster-CO-80234/12955433_zpid",
+        "snippet": "Zillow has 45 photos of this $499,997 3 beds, 2 baths, 1,254 Square Feet single family home located at 1280 W 134th Place, Westminster, CO 80234 built in 1988. MLS #9531591.",
+        "dateLastCrawled": "2025-06-07T05:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1404 W 135th Ave, Westminster, CO 80234 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1404-W-135th-Ave-Westminster-CO-80234/12955402_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1404-W-135th-Ave-Westminster-CO-80234/12955402_zpid",
+        "snippet": "1404 W 135th Ave, Westminster CO, is a Single Family home that contains 1296 sq ft and was built in 1984.It contains 3 bedrooms and 2 bathrooms.This home last sold for $359,800 in November 2022. The Zestimate for this Single Family is $466,400, which has increased by $3,029 in the last 30 days.The Rent Zestimate for this Single Family is $2,429/mo, which has increased by $2,429/mo in the last ...",
+        "dateLastCrawled": "2025-03-04T09:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "2180 W 135th Ave, Westminster, CO 80234 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2180-W-135th-Ave-Westminster-CO-80234/12955844_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2180-W-135th-Ave-Westminster-CO-80234/12955844_zpid",
+        "snippet": "2180 W 135th Ave, Westminster CO, is a Single Family home that contains 2305 sq ft and was built in 1994.It contains 3 bedrooms and 3 bathrooms.This home last sold for $400,000 in May 2019. The Zestimate for this Single Family is $592,300, which has increased by $6,952 in the last 30 days.The Rent Zestimate for this Single Family is $2,993/mo, which has increased by $2,993/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-03T16:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

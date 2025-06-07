@@ -1,0 +1,503 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 10521, Colorado Springs CO 80932"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+10521%2c+Colorado+Springs+CO+80932",
+    "totalEstimatedMatches": 2300000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "PO Boxes | USPS",
+        "url": "https://www.usps.com/manage/po-boxes.htm",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.usps.com/manage/po-boxes.htm",
+        "snippet": "To open your PO Box online: Step 1: Search for Post Office locations near you by using the search bar under \"Find a PO Box Near You.\" Step 2: Choose a Post Office location and select your desired PO Box size and payment period. Step 3: Complete the online application form, accept the Terms & Conditions, enter your billing and payment information, and review and submit your application to ...",
+        "deepLinks": [
+          {
+            "name": "Manage Account",
+            "url": "https://poboxes.usps.com/manageAccount.html",
+            "snippet": "Create a USPS.com(registered trademark symbol) account to print shipping labels, request a Carrier Pickup, buy stamps, shop, plus much more."
+          },
+          {
+            "name": "View FAQs",
+            "url": "https://faq.usps.com/s/article/PO-Box-The-Basics",
+            "snippet": "Learn about USPS PO Boxes, including availability, size options, and account management."
+          },
+          {
+            "name": "Search",
+            "url": "https://poboxes.usps.com/findBox.html",
+            "snippet": "Holds 15+ letters, 5 rolled magazines, or 1 Small Priority Mail Flat Rate Box. Size: 5\" X 5.5\" Starting Price: $5.83/mo* Ideal for: The small PO Box is ideal for small business owners and households who receive multiple letters, bills, and a few bubble envelopes or magazines throughout the week. Select S - Size 2"
+          }
+        ],
+        "dateLastCrawled": "2025-06-05T22:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "USPS.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "ZIP Code 80932 Info, Map, Demographics for Colorado Springs, CO",
+        "url": "https://www.zip-codes.com/zip-code/80932/zip-code-80932.asp",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zip-codes.com/zip-code/80932/zip-code-80932.asp",
+        "snippet": "ZIP Code 80932 in Colorado Springs CO, El Paso County, Area Code 719, maps, population, businesses, geography, statistics, schools, home values. ... Its primary use is for Post Office box delivery. It may include some mailbox delivery as well, but this will be the minority use. 80932 is in the Mountain (GMT -07:00) timezone and does observe ...",
+        "dateLastCrawled": "2025-06-03T08:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ZIP-Codes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "ZIP Code 5: 80932 - COLORADO SPRINGS, CO",
+        "url": "https://co.postcodebase.com/zipcode5/80932",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/zipcode5/80932",
+        "snippet": "ZIP Code 80932 is the postal code in COLORADO SPRINGS, CO. Besides the basic information, it also lists the full ZIP code and the address of ZIP code 80932. Whatsmore, there is more information related to ZIP Code 80932.",
+        "dateLastCrawled": "2025-05-29T10:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "US ZIP Code 80932 - Colorado Springs, Colorado Overview ... - Zipdatamaps",
+        "url": "https://www.zipdatamaps.com/80932",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zipdatamaps.com/80932",
+        "snippet": "Colorado Springs CO ZIP Code 80932 Profile, Interactive Map, Demographics, Income, Economy, Housing and School Attendance Areas ... ZIP Code 80932 - Colorado Springs Colorado 80932 Overview. ... PO Box: Current Time: MDT: ZIP Code 80932 Map. Share: 80932 Geography. Coordinates:",
+        "dateLastCrawled": "2025-05-23T03:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Adjacent ZIP Codes"
+            },
+            "items": [
+              {
+                "text": "80909"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Coordinates"
+            },
+            "items": [
+              {
+                "text": "38.84893417,-104.77904510"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Neighborhoods in 80932"
+            },
+            "items": [
+              {
+                "text": "Divine Redeemer"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Region"
+            },
+            "items": [
+              {
+                "text": "Colorado Springs-Pueblo Area"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Zipdatamaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "MESSAGE OF THE CROSS MINISTRIES Company Profile | Colorado Springs, CO ...",
+        "url": "https://www.dnb.com/business-directory/company-profiles.message_of_the_cross_ministries.072f30931206a2bba5f6ac52e6348eb6.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.dnb.com/business-directory/company-profiles.message_of_the_cross...",
+        "snippet": "Find company research, competitor information, contact details & financial data for MESSAGE OF THE CROSS MINISTRIES of Colorado Springs, CO. Get the latest business insights from Dun & Bradstreet.",
+        "dateLastCrawled": "2025-06-02T01:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2706 Lark Dr, Colorado Springs, 80909-1127"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Occupation"
+            },
+            "items": [
+              {
+                "text": "Principal"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Dun & Bradstreet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "80932 Colorado Springs Colorado Nonprofits and 501C Organizations",
+        "url": "https://www.taxexemptworld.com/organizations/colorado_springs_co_80932.asp",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.taxexemptworld.com/organizations/colorado_springs_co_80932.asp",
+        "snippet": "View and download lists of nonprofit companies in the zip code of 80932 Colorado Springs CO with statistics on assets, income, revenues, 501c classifications, form 990s... TaxExemptWorld Updated on December 1, 2024. Search . Nonprofit Lookup by Name; Tax ID(EIN) ... PO BOX 80932: Social Welfare Organization ...",
+        "dateLastCrawled": "2025-04-29T02:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "TaxExemptWorld"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Warden Security \u00b7 PO Box 10504, Colorado Springs, CO 80932 - OpenGovCO",
+        "url": "https://opengovco.com/business/20141693906",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20141693906",
+        "snippet": "Warden Security (Entity #20141693906) is a Limited Liability Company in Colorado Springs, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on November 14, 2014 in the jurisdiction of Colorado. The registered office location is at PO Box 10504, Colorado Springs, CO 80932. The current entity status is delinquent.",
+        "dateLastCrawled": "2023-07-01T14:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "COLORADO OTOLARYNGOLOGY ASSOCIATES, LLC - NPI 1134726557 - Specialist ...",
+        "url": "https://npiprofile.com/npi/1134726557",
+        "datePublished": "2020-10-08T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 8, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1134726557",
+        "snippet": "1235 LAKE PLAZA DR STE 218 COLORADO SPRINGS, CO 80906 Location Phone (719) 867-7800 Mailing Address PO BOX 9190 COLORADO SPRINGS, CO 80932 Is Sole Proprietor? No Is Organization Subpart? No Enumeration Date 10-08-2020 Last Update Date 10-08-2020 Code Navigator View Adjacent NPI Profiles .",
+        "dateLastCrawled": "2025-05-30T08:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Leslie Ann Kyte \u00b7 PO Box 10044, Colorado Springs, CO 80932-1044 ...",
+        "url": "https://opengovco.com/license/915081",
+        "datePublished": "2012-08-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 22, 2012",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/915081",
+        "snippet": "PO Box 9134, Colorado Springs, CO 80932-0134: 2014-03-13: Qualitys Little Plumber: PC.3005: PO Box 9927, Colorado Springs, CO 80932-0927: 2012-08-24: Sharron Ann Hall: PN.24782: Po Box 9573, Colorado Springs, CO 80932-0573: 1987-07-31: Find all licenses in the same zip code: Similar Entities Licenses with similar names. License Name",
+        "dateLastCrawled": "2025-05-01T00:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "PINKYS TOWING LLC in Colorado Springs, CO - Bizapedia",
+        "url": "https://www.bizapedia.com/co/pinkys-towing-llc.html",
+        "datePublished": "2025-04-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 14, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/co/pinkys-towing-llc.html",
+        "snippet": "The company's principal address is 2225 E Platte Ave, Colorado Springs, CO 80909 and its mailing address is Po Box 9264, Colorado Springs, CO 80932. The company has 1 contact on record. The contact is Antonio Vargas from Colorado Springs CO. Company Information: Company Name: PINKYS TOWING LLC:",
+        "dateLastCrawled": "2025-04-22T14:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Penny L Frank \u00b7 PO Box 10266, Colorado Springs, CO 80932-0932 ...",
+        "url": "https://opengovco.com/license/865941",
+        "datePublished": "2003-12-03T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 3, 2003",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/865941",
+        "snippet": "PO Box 9061, Colorado Springs, CO 80932-0061: 2021-12-29: William H Murphy: MP.641: Po Box 9937, Colo Springs, CO 80932-0937: 1971-01-19: Find all licenses in the same zip code: Similar Entities Licenses with similar names. License Name License ID Address First Issue Date; Penny Jo Villalva: RN.178359:",
+        "dateLastCrawled": "2025-04-14T16:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "PO BOX 9190 COLORADO SPRINGS, CO 80932 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-9190-colorado-springs-co-80932.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-9190-colorado-springs-co-80932.html",
+        "snippet": "There are 19 companies that have an address matching Po Box 9190 Colorado Springs, CO 80932. The companies are Colorado Otolaryngology Associates LLC, Bart Knox MD PC, Hoen Ent PC, Coa Building Partnership LLP, John Cichon Jr MD PC, 3 PC, Jc Pruitt MD PC, Peak Ent And Allergy PC, Ernster Ent PC, Matthew Whinery MD PC, Caplan Allergy And Asthma PC, Keller Otolaryngology Consulting PC, Coa ...",
+        "dateLastCrawled": "2025-03-03T18:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "PO Box 9160, Colorado Springs, CO 80932-0160 - OpenGovCO",
+        "url": "https://opengovco.com/license/29044",
+        "datePublished": "2005-01-26T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 26, 2005",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/29044",
+        "snippet": "The business address is PO Box 9160, Colorado Springs, CO 80932-0160. The license first issue date is January 26, 2005. License Overview. Licensee Name: Ana L. Brown: Address: PO Box 9160 Colorado Springs CO 80932-0160: License Category: Accountancy: License Type: Certified Public Accountant: License Number: CPA.0023595:",
+        "dateLastCrawled": "2025-03-25T11:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "PO BOX 9206 COLORADO SPRINGS, CO 80932 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-9206-colorado-springs-co-80932.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-9206-colorado-springs-co-80932.html",
+        "snippet": "There are 13 companies that have an address matching Po Box 9206 Colorado Springs, CO 80932. The companies are Cascadas Financial Group LLC, Wellnitz Associates LLC, Boulder Properties 3 LLC, Boulder Properties 1 LLC, Nueva Vista Investment Club LLC, Boulder Properties 2 LLC, Cascadas Financial Group 2 LLC, Brickwall Inc, Illuminus Publishing LLC, Great West Contract Services Inc, Independent ...",
+        "dateLastCrawled": "2025-06-02T02:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2225 E Platte Ave, Colorado Springs, CO 80909 - OpenGovCO",
+        "url": "https://opengovco.com/business/20191025507",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20191025507",
+        "snippet": "PO Box 9264 Colorado Springs CO 80932: Entity Type: DLLC: Entity Status: Noncompliant: Jurisdiction: CO: Form Date: 2019-01-09: Registered Agent Information. Agent Name: ... 2225 E Platte Ave, Colorado Springs, CO 80909: Po Box 9264, Colorado Springs, CO 80932: Entity Transaction History. Effective Date Name Transaction Description Comment ...",
+        "dateLastCrawled": "2025-06-04T01:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "PO BOX 9923 COLORADO SPRINGS, CO 80932 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-9923-colorado-springs-co-80932.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-9923-colorado-springs-co-80932.html",
+        "snippet": "There are 10 companies that have an address matching Po Box 9923 Colorado Springs, CO 80932. The companies are 5420 Tennessee Pass LLC, 925 Mesa Valley LLC, A Properties Inc, 4517 Fenton LLC, 412 Arms LLC, 3765 Moose Run LLC, 4160 Carefree LLC, 2865 Richmond LLC, 1360 Legend Oak LLC, and 5090 Picturesque LLC. ...",
+        "dateLastCrawled": "2025-04-19T02:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "TrailFit Fitness LLC \u00b7 2641 E Uintah St, Po Box 9023, Colorado Springs ...",
+        "url": "https://opengovco.com/business/20211944219",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20211944219",
+        "snippet": "TrailFit Fitness LLC (Entity #20211944219) is a DLLC in Colorado Springs, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on October 14, 2021 in the jurisdiction of Colorado. The registered office location is at 2641 E Uintah St, Po Box 9023, Colorado Springs, CO 80932. The current entity status is delinquent.",
+        "dateLastCrawled": "2025-05-19T06:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "PO BOX 9041 COLORADO SPRINGS, CO 80932 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-9041-colorado-springs-co-80932.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-9041-colorado-springs-co-80932.html",
+        "snippet": "There are 4 companies that have an address matching Po Box 9041 Colorado Springs, CO 80932. The companies are 2601 W Colorado Ave LLC, Barbo Inc, Ccbawh LLC, and Bon Tons Cafe. 2601 W. COLORADO AVE., LLC: COLORADO LIMITED-LIABILITY COMPANY: WRITE REVIEW: Address: Po Box 9041 Colorado Springs, CO 80932 :",
+        "dateLastCrawled": "2025-05-19T15:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

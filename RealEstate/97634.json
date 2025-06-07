@@ -1,0 +1,495 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "397 Kennedy Blvd, Bayonne NJ 07002"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=397+Kennedy+Blvd%2c+Bayonne+NJ+07002",
+    "totalEstimatedMatches": 227000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "397 Kennedy Blvd, Bayonne, NJ 07002 - Zillow",
+        "url": "https://www.zillow.com/homedetails/397-Kennedy-Blvd-Bayonne-NJ-07002/38874920_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/397-Kennedy-Blvd-Bayonne-NJ-07002/38874920_zpid",
+        "snippet": "397 Kennedy Blvd, Bayonne, NJ 07002 is currently not for sale. The 2,260 Square Feet single family home is a -- beds, -- baths property. This home was built in 1970 and last sold on 2018-01-29 for $460,000.",
+        "dateLastCrawled": "2024-10-13T01:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "397 KENNEDY Blvd, Bayonne, NJ 07002 | Redfin",
+        "url": "https://www.redfin.com/NJ/Bayonne/397-Kennedy-Blvd-07002/home/36472061",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NJ/Bayonne/397-Kennedy-Blvd-07002/home/36472061",
+        "snippet": "7 beds, 3 baths multi-family (2-4 unit) located at 397 KENNEDY Blvd, Bayonne, NJ 07002 sold for $460,000 on Jan 29, 2018. MLS# 170017907. Great Location! Close to NYC transportation, light rail &a...",
+        "dateLastCrawled": "2025-04-23T00:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "397 Kennedy Blvd, Bayonne, NJ 07002 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/397-Kennedy-Blvd_Bayonne_NJ_07002_M54876-22568",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/397-Kennedy-Blvd_Bayonne_NJ_07002_M...",
+        "snippet": "View detailed information about property 397 Kennedy Blvd, Bayonne, NJ 07002 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App ...",
+        "dateLastCrawled": "2024-02-22T01:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "397 Kennedy Blvd, Bayonne, NJ 07002 | Homes.com",
+        "url": "https://www.homes.com/property/397-kennedy-blvd-bayonne-nj/tq874hnj7yzvg/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/397-kennedy-blvd-bayonne-nj/tq874hnj7yzvg",
+        "snippet": "Homes for Sale in Bayonne, NJ This home is located at 397 Kennedy Blvd, Bayonne, NJ 07002 and is currently estimated at $717,440, approximately $317 per square foot. 397 Kennedy Blvd is a home located in Hudson County with nearby schools including Bayonne High School and All Saints Catholic Academy.",
+        "dateLastCrawled": "2025-05-10T06:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "397 Kennedy Blvd, Bayonne, 07002, NJ"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "About Us - Annelyz",
+        "url": "https://annelyz.com/about-us/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://annelyz.com/about-us",
+        "snippet": "To serve you better, Annelyz has two locations; 397 Avenue C. Bayonne, NJ 07002, and at Family Dollar Plaza (Inside Sunflower Nail & Hair) at 1347 John F. Kennedy Blvd, Bayonne, NJ 07002. We offer the highest quality of services and use only the very best products for our clients. At our hair salon, we endeavor to make you feel comfortable.",
+        "dateLastCrawled": "2025-05-28T10:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "397 Kennedy Blvd Bayonne, NJ 07002 - Trulia",
+        "url": "https://www.trulia.com/home/397-kennedy-blvd-bayonne-nj-07002-38874920",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/397-kennedy-blvd-bayonne-nj-07002-38874920",
+        "snippet": "397 Kennedy Blvd, Bayonne, NJ 07002 is a 2,260 sqft, Studio home sold in 2018. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-04-18T16:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "397 Kennedy Blvd, #JF, Bayonne, NJ 07002 Property Record - County Office",
+        "url": "https://www.countyoffice.org/property-record-397-kennedy-blvd-jf-bayonne-nj-07002-f96/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-397-kennedy-blvd-jf-bayonne-nj-07002-f96",
+        "snippet": "View 397 Kennedy Blvd, #JF, Bayonne, NJ 07002 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... Bayonne Government Offices; Free Account Benefits: \ud83c\udfe0 Unlock property owner names, sale prices ...",
+        "dateLastCrawled": "2025-02-03T21:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "397 Kennedy Blvd #Jf Bayonne, NJ 07002 - Long & Foster",
+        "url": "https://www.longandfoster.com/realestate/397-kennedy-blvd-jf-bayonne-nj-07002-196308613",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.longandfoster.com/realestate/397-kennedy-blvd-jf-bayonne-nj-07002-196308613",
+        "snippet": "See details for 397 Kennedy Blvd #Jf, Bayonne, NJ 07002: bed, bath, sq. ft. Single Family Residence. View property data, public records, sales history and more.",
+        "dateLastCrawled": "2025-04-18T23:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Long & Foster"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "397 Jfk Kennedy Blvd, Bayonne, NJ 07002 | NJPropertyRecords",
+        "url": "https://njpropertyrecords.com/property/0901_250_8",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://njpropertyrecords.com/property/0901_250_8",
+        "snippet": "397 Jfk Kennedy Blvd, Bayonne, NJ 07002 is a 2260 sqft home sold on 09/21/2019 for $1 and is owned by Zhang,liying Etals. Search. Property. Street Map. Documents. ... 397 KENNEDY BLVD. City State Zip. BAYONNE CITY, NJ 07002. Sale Price. $1. Sale Date. 09/21/2019. Book / Page. 09455 / 00339. Owner for. 4 years. Absentee. No.",
+        "dateLastCrawled": "2024-03-05T15:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NJPropertyRecords"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "About Annelyz Hair Salon - Annelyz",
+        "url": "https://annelyz.com/2019/05/01/about-annelyz-hair-salon/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.faWXW407gfclqEnHu16eogAAAA&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2019-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2019",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://annelyz.com/2019/05/01/about-annelyz-hair-salon",
+        "snippet": "As up to 2019, we\u2019ve performed over 900 Keratin Treatments, installed more than 1,100 Hair Extensions, and Colored Hair more than 3,600 times! To better serve you, Annelyz Hair Salon is opened at two locations; 397 Avenue C. Bayonne, NJ 07002, and at Family Dollar Plaza (Inside Sunflower Nail & Hair) at 1347 John F. Kennedy Blvd, Bayonne, NJ 07002",
+        "dateLastCrawled": "2025-05-28T12:01:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.faWXW407gfclqEnHu16eogAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 250,
+          "sourceHeight": 250,
+          "imageId": "OIP.faWXW407gfclqEnHu16eogAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "397 Avenue C, Bayonne, NJ 07002 - Crexi.com",
+        "url": "https://www.crexi.com/properties/1762455/new-jersey-397-ave-c",
+        "datePublished": "2025-01-31T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 31, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.crexi.com/properties/1762455/new-jersey-397-ave-c",
+        "snippet": "Mixed Use property for sale at 397 Avenue C, Bayonne, NJ 07002. Visit Crexi.com to read property details & contact the listing broker. ... 47-51 Kennedy Boulevard. Prime time investment in an incredible location with ample opportunity . 47-51 John F. Kennedy Blvd Bayonne, NJ 07002 View Flyer. $949,999. 872 BROADWAY BAYONNE NJ 07002. Mixed Use .",
+        "dateLastCrawled": "2025-04-29T21:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Crexi.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "HUDSON COUNTY Bayonne - The Official Web Site for The State of New Jersey",
+        "url": "https://www.nj.gov/dca/codes/publications/pdf_guide_2_afford_hsg/hudson.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.nj.gov/dca/codes/publications/pdf_guide_2_afford_hsg/hudson.pdf",
+        "snippet": "9 MtL 478 Kennedy Blvd Apts 478 Kennedy Blvd family rent 3 khoq (201) 247-8808 MtL 5/27/2021 91100 10 MtL 490 Broadway Apts 490 Broadway family rent 6 web (201) 858-6076 Bayonne Community Development 630 Av C, Bayonne 07002 (201) 858-6029 The Official Website of City of Bayonne, NJ - Home (bayonnenj.org)MtL 5/27/2021 91101",
+        "dateLastCrawled": "2025-06-01T08:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "The Official Web Site for The State of New Jersey"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "397 KENNEDY BLVD Bayonne, NJ 07002 - foxroach.com",
+        "url": "https://www.foxroach.com/realestate/details/25582617/397-kennedy-blvd-bayonne-nj-07002",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.foxroach.com/realestate/details/25582617/397-kennedy-blvd-bayonne-nj-07002",
+        "snippet": "397 KENNEDY BLVD, Bayonne, NJ 07002 is a 3 baths, Multi-Family - 2 Units property. View property details, photos, school and neighborhood data, and more.",
+        "dateLastCrawled": "2024-08-13T08:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Berkshire Hathaway HomeServices Fox & Roach REALTORS\u00ae"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "399 Kennedy Blvd, Bayonne, NJ 07002 - Zillow",
+        "url": "https://www.zillow.com/homedetails/399-Kennedy-Blvd-Bayonne-NJ-07002/38874921_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/399-Kennedy-Blvd-Bayonne-NJ-07002/38874921_zpid",
+        "snippet": "399 Kennedy Blvd, Bayonne NJ, is a Single Family home that contains 1900 sq ft and was built in 1970.This home last sold for $303,000 in August 2002. The Zestimate for this Single Family is $629,800, which has increased by $645 in the last 30 days.The Rent Zestimate for this Single Family is $2,954/mo, which has increased by $2,954/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-04T03:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "387 Kennedy Blvd, Bayonne, NJ 07002 - Redfin",
+        "url": "https://www.redfin.com/NJ/Bayonne/387-Kennedy-Blvd-07002/home/36473058",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NJ/Bayonne/387-Kennedy-Blvd-07002/home/36473058",
+        "snippet": "2769 sq. ft. house located at 387 Kennedy Blvd, Bayonne, NJ 07002 sold for $310,000 on Aug 27, 2014. View sales history, tax history, home value estimates, and overhead views. APN 0100255 00012.",
+        "dateLastCrawled": "2025-03-09T20:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "776 John F. Kennedy Blvd Unit 3, Bayonne, NJ 07002 - Apartments.com",
+        "url": "https://www.apartments.com/776-john-f-kennedy-blvd-bayonne-nj/j397pc7/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/776-john-f-kennedy-blvd-bayonne-nj/j397pc7",
+        "snippet": "Transportation options available in Bayonne include 34Th Street Light Rail Station, located 0.7 mile from 776 John F. Kennedy Blvd Unit 3. 776 John F. Kennedy Blvd Unit 3 is near Newark Liberty International, located 6.7 miles or 12 minutes away, and LaGuardia, located 19.0 miles or 38 minutes away.",
+        "dateLastCrawled": "2025-05-29T06:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "675 John F. Kennedy Blvd, Bayonne, NJ 07002 | Crexi.com",
+        "url": "https://www.crexi.com/properties/1821098/new-jersey-675-kennedy-blvd",
+        "datePublished": "2025-03-04T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 4, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.crexi.com/properties/1821098/new-jersey-675-kennedy-blvd",
+        "snippet": "Multifamily property for sale at 675 John F. Kennedy Blvd, Bayonne, NJ 07002. Visit Crexi.com to read property details & contact the listing broker. www.crexi.com - The Commercial Real Estate Exchange ... 397 Avenue C Bayonne, NJ 07002 View Flyer. $4,855,000. 21-27 East 17th St.",
+        "dateLastCrawled": "2025-05-09T02:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Crexi.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "391 Kennedy Blvd, Bayonne, NJ 07002 - Office for Sale - LoopNet",
+        "url": "https://www.loopnet.com/Listing/391-Kennedy-Blvd-Bayonne-NJ/34965803/",
+        "datePublished": "2025-05-13T00:00:00.0000000",
+        "datePublishedDisplayText": "May 13, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/391-Kennedy-Blvd-Bayonne-NJ/34965803",
+        "snippet": "More public record information on 391 Kennedy Blvd, Bayonne, NJ 07002 The Constable Hook Office Property at 391 Kennedy Blvd, Bayonne , NJ 07002 is currently available. Contact Exit On The Hudson Realty for more information.",
+        "dateLastCrawled": "2025-06-04T13:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "387 Kennedy, Bayonne, NJ 07002 - Zillow",
+        "url": "https://www.zillow.com/homedetails/387-Kennedy-Bayonne-NJ-07002/2096471394_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/387-Kennedy-Bayonne-NJ-07002/2096471394_zpid",
+        "snippet": "387 Kennedy, Bayonne NJ, is a Multiple Occupancy home that contains 2769 sq ft and was built in 1920.It contains 7 bedrooms and 4 bathrooms.This home last sold for $310,000 in July 2014. The Zestimate for this Multiple Occupancy is $811,500, which has decreased by $3,133 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $2,565/mo, which has increased by $2,565/mo in the ...",
+        "dateLastCrawled": "2024-12-08T00:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1223 KENNEDY Blvd Unit 4J, Bayonne, NJ 07002 - Redfin",
+        "url": "https://www.redfin.com/NJ/Bayonne/1223-John-F-Kennedy-Blvd-07002/unit-4J/home/195988682",
+        "datePublished": "2025-06-04T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NJ/Bayonne/1223-John-F-Kennedy-Blvd-07002/unit-4J/home/195988682",
+        "snippet": "For Sale: 1 bed \u2219 675 sq. ft. \u2219 1223 KENNEDY Blvd Unit 4J, Bayonne, NJ 07002 \u2219 $269,000 \u2219 MLS# 250011240 \u2219 Welcome to your new home sweet home! Welcome to this beautiful one bedroom, one bath unit ...",
+        "dateLastCrawled": "2025-06-04T20:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "387 Kennedy Blvd #1, Bayonne, NJ 07002 - Zillow",
+        "url": "https://www.zillow.com/homedetails/387-Kennedy-Blvd-1-Bayonne-NJ-07002/443236881_zpid/",
+        "datePublished": "2025-01-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 7, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/387-Kennedy-Blvd-1-Bayonne-NJ-07002/443236881_zpid",
+        "snippet": "387 Kennedy Blvd #1, Bayonne NJ, is a Single Family home.It contains 3 bedrooms and 1 bathroom. The Zestimate for this Single Family is $531,300, which has increased by $40,307 in the last 30 days.",
+        "dateLastCrawled": "2025-04-30T06:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.21",
+        "name": "1200-1202 John F Kennedy Blvd #46 Bayonne, NJ 07002 - Trulia",
+        "url": "https://www.trulia.com/home/1200-1202-john-f-kennedy-blvd-46-bayonne-nj-07002-452989505",
+        "datePublished": "2025-06-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1200-1202-john-f-kennedy-blvd-46-bayonne-nj-07002-452989505",
+        "snippet": "1200-1202 John F Kennedy Blvd #46, Bayonne, NJ 07002 is a 1 bed, 1 bath Apartment listed for rent on Trulia for $1,650. See 9 photos, review amenities, and request a tour of the property today.",
+        "dateLastCrawled": "2025-06-06T12:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 21,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.21"
+          }
+        }
+      ]
+    }
+  }
+}

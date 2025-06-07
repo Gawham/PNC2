@@ -1,0 +1,451 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1376 N Platteville Blvd, Pueblo CO 81007"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1376+N+Platteville+Blvd%2c+Pueblo+CO+81007",
+    "totalEstimatedMatches": 79,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1376 N Platteville Blvd, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1376-N-Platteville-Blvd-Pueblo-West-CO-81007/109697298_zpid/",
+        "datePublished": "2025-05-21T00:00:00.0000000",
+        "datePublishedDisplayText": "May 21, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1376-N-Platteville-Blvd-Pueblo-West-CO-81007/...",
+        "snippet": "1376 N Platteville Blvd, Pueblo West CO, is a Single Family home that contains 1742 sq ft.It contains 3 bedrooms and 2 bathrooms.This home last sold for $417,962 in April 2022. The Zestimate for this Single Family is $437,400, which has decreased by $1,500 in the last 30 days.The Rent Zestimate for this Single Family is $2,387/mo, which has increased by $2,387/mo in the last 30 days.",
+        "dateLastCrawled": "2025-06-05T06:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1376 N Platteville Blvd, Pueblo West, CO 81007 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1376-N-Platteville-Blvd_Pueblo_CO_81007_M25121-49142",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1376-N-Platteville-Blvd_Pueblo_CO_81007_M25121-49142",
+        "snippet": "View 5 photos for 1376 N Platteville Blvd, Pueblo West, CO 81007, a 3 bed, 2 bath, 1,742 Sq. Ft. single family home built in 2022 that was last sold on 04/20/2022.",
+        "dateLastCrawled": "2024-07-31T03:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1376 N Platteville Blvd, Pueblo, CO 81007 | Redfin",
+        "url": "https://www.redfin.com/CO/Pueblo/1376-N-Platteville-Blvd-81007/home/132914192",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Pueblo/1376-N-Platteville-Blvd-81007/home/132914192",
+        "snippet": "1051 E Platteville Blvd, Pueblo, CO 81007 ... I own 1376 N Platteville Blvd. Nearby similar homes. NEW 6 HRS AGO. $424,900. 5 beds 3 baths 2,821 sq ft. 2108 Northmoor Ter, Pueblo, CO 81008. $475,000. 4 beds 3 baths 3,301 sq ft. 1677 N Cholla Ct, Pueblo, CO 81007. $425,000. 3 beds 2 baths 3,158 sq ft.",
+        "dateLastCrawled": "2025-06-05T09:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1376 N Platteville Blvd, Pueblo West, CO 81007 - Apartments.com",
+        "url": "https://www.apartments.com/1376-n-platteville-blvd-pueblo-west-co/3lrxz2g/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/1376-n-platteville-blvd-pueblo-west-co/3lrxz2g",
+        "snippet": "1376 N Platteville Blvd house in Pueblo West,CO, is available for rent. This house rental unit is available on Apartments.com, starting at $2400 monthly. Map. Menu. Add a Property ; Renter Tools ... 160 E Eads Dr, Pueblo, CO 81007. Email Apply. $2,400. 3 Beds, 2.5 Baths, 2,280 sq ft",
+        "dateLastCrawled": "2025-05-12T05:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1376 N Platteville Blvd, Pueblo, CO 81007 Property Record - County Office",
+        "url": "https://www.countyoffice.org/property-record-1376-n-platteville-blvd-pueblo-co-81007-5ba/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-1376-n-platteville-blvd-pueblo-co-81007-5ba",
+        "snippet": "1376 N Platteville Blvd, Pueblo, CO 81007 Property Record. This property is a 3 bedroom, 2 bathroom residential single family home built in 2021 sitting on a 1.23 acre lot located at 1376 N Platteville Blvd, Pueblo, CO 81007. Currently owner occupied and last sold in 2022 for $417,926, the 1,743 sq ft property has a porch. ...",
+        "dateLastCrawled": "2025-04-28T19:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1376 N Platteville Blvd, Pueblo, CO 81007 | MLS# 199630 - Homes.com",
+        "url": "https://www.homes.com/property/1376-n-platteville-blvd-pueblo-co/85cdyew3zwep5/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1376-n-platteville-blvd-pueblo-co/85cdyew3zwep5",
+        "snippet": "1376 N Platteville Blvd, Pueblo, CO 81007 - 1,742 sqft home built in 2022 . Browse photos, take a 3D tour & see transaction details about this recently sold property. MLS# 199630. ... 1376 N Platteville Blvd Pueblo, CO 81007. 3 Beds. 2 Baths. 1,742 Sq Ft. 1.23 Acres. Last Sold April 20, 2022.",
+        "dateLastCrawled": "2023-12-25T00:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1376 N Platteville Blvd, Pueblo, CO 81007 - Rental Source",
+        "url": "https://www.rentalsource.com/details/1376-n-platteville-blvd-pueblo-co-79926126/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentalsource.com/details/1376-n-platteville-blvd-pueblo-co-79926126",
+        "snippet": "House in Pueblo for $2,400 with 3 beds, 2 baths, 1,743 sqft and located at 1376 N Platteville Blvd in Pueblo, CO 81007. This house is only 2 years old. 3 bed, 2 bath, 3 car garage, rancher sitting on just over an acre.",
+        "dateLastCrawled": "2024-10-06T01:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RentalSource"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1376 N Platteville Blvd House - House Rental in Pueblo West, CO ...",
+        "url": "https://www.forrent.com/co/pueblo-west/1376-n-platteville-blvd/plrxr2v",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forrent.com/co/pueblo-west/1376-n-platteville-blvd/plrxr2v",
+        "snippet": "1376 N Platteville Blvd house in Pueblo West, CO, is available for rent. This house rental unit is available on ForRent.com, starting at $2,400 monthly.",
+        "dateLastCrawled": "2024-09-22T17:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ForRent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1376 N Platteville Blvd Pueblo West, CO 81007 - Trulia",
+        "url": "https://www.trulia.com/home/1376-n-platteville-blvd-pueblo-west-co-81007-109697298",
+        "datePublished": "2023-10-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 13, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1376-n-platteville-blvd-pueblo-west-co-81007-109697298",
+        "snippet": "1376 N Platteville Blvd, Pueblo West, CO 81007 is a 3 bedroom, 2 bathroom, 1,742 sqft single-family home built in 2021. 1376 N Platteville Blvd is located in Pueblo West, Pueblo West. This property is not currently available for sale. 1376 N Platteville Blvd was last sold on Apr 20, 2022 for $417,962 (17,686% higher than the asking price of ...",
+        "dateLastCrawled": "2025-05-11T19:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1376 N Platteville Blvd, Pueblo West, CO 81007 - Rent.com",
+        "url": "https://www.rent.com/r/1376-n-platteville-blvd-pueblo-west-co-lv1572741296",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rent.com/r/1376-n-platteville-blvd-pueblo-west-co-lv1572741296",
+        "snippet": "See photos, floor plans and more details about 1376 N Platteville Blvd in Pueblo West, Colorado. Visit Rent. now for rental rates and other information about this property. Skip to Content (Press Enter) Close navigation menu. Home; ... 81007; 1376 N Platteville Blvd (719) 284-1900 Send an Email. 24 Photos. Close. Photos (24) (719) 284-1900 ...",
+        "dateLastCrawled": "2025-05-21T16:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1376 N Platteville Blvd, Pueblo West, CO 81007 - 2 unit Rentals - Zumper",
+        "url": "https://www.zumperrentals.com/address/1376-n-platteville-blvd-pueblo-west-co-81007-usa",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zumperrentals.com/address/1376-n-platteville-blvd-pueblo-west-co-81007-usa",
+        "snippet": "View 1376 N Platteville Blvd, Pueblo West, CO 81007, USA rent availability, including the monthly rent price, and browse photos of this 3 beds, 0 baths, 1,743 sqft apartment. 1376 N Platteville Blvd, Pueblo West, CO 81007, USA offers 3+ bedroom apartments for rent or lease. There is currently 1 unit listed for rent at 1376 N Platteville Blvd, Pueblo West, CO 81007, USA.",
+        "dateLastCrawled": "2024-12-03T16:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1376 N Platteville Blvd Pueblo West, CO 81007 - ColdwellBankerHomes.com",
+        "url": "https://www.coldwellbankerhomes.com/co/pueblo-west/1376-n-platteville-blvd/pid_46035684/",
+        "datePublished": "2022-03-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 11, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbankerhomes.com/co/pueblo-west/1376-n-platteville-blvd/pid_46035684",
+        "snippet": "Sold - 1376 N Platteville Blvd, Pueblo West, CO - $417,962. View details, map and photos of this single family property with 3 bedrooms and 0 total baths. MLS# 199630.",
+        "dateLastCrawled": "2025-03-25T11:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ColdwellBankerHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "(Undisclosed Address), Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/Pueblo-West-CO-81007/109710836_zpid/",
+        "datePublished": "2025-03-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 20, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/Pueblo-West-CO-81007/109710836_zpid",
+        "snippet": "(Undisclosed Address), Pueblo West CO, is a Single Family home that contains 1897 sq ft and was built in 2020.It contains 3 bedrooms and 2 bathrooms.This home last sold for $455,000 in August 2024. The Zestimate for this Single Family is $456,500, which has decreased by $667 in the last 30 days.The Rent Zestimate for this Single Family is $2,476/mo, which has increased by $2,476/mo in the last ...",
+        "dateLastCrawled": "2025-04-21T02:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1376 N Platteville Blvd - 1376 N Platteville Blvd Pueblo West CO 81007 ...",
+        "url": "https://www.apartmentfinder.com/Colorado/Pueblo-West-Apartments/1376-N-Platteville-Blvd-Apartments-bkrlv2c",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentfinder.com/Colorado/Pueblo-West-Apartments/1376-N-Platteville...",
+        "snippet": "Find apartments for rent at 1376 N Platteville Blvd from $2,400 at 1376 N Platteville Blvd in Pueblo West, CO. Get the best value for your money with Apartment Finder. ... 1376 N Platteville Blvd, Pueblo West, CO 81007 Map Pueblo West. No Availability 3 Beds. View Nearby Apartments. Map Pueblo West. Avoid Scams 1 / 24. 24 Images ...",
+        "dateLastCrawled": "2025-02-16T01:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartment Finder"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1376 N Platteville Blvd, Pueblo West, CO 81007 | 24 Photos - Movoto",
+        "url": "https://www.movoto.com/pueblo-west-co/1376-n-platteville-blvd-pueblo-west-co-81007-525_199630/for-rent/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/pueblo-west-co/1376-n-platteville-blvd-pueblo-west-co-81007-525...",
+        "snippet": "For Rent: $2,400 ($1/Sqft) - 1376 N Platteville Blvd, Pueblo West, CO 81007 is a 3 bed, 2 bath, 1,742 Sqft, sqft lot, House built in null, with an estimated value of $2,267",
+        "dateLastCrawled": "2023-09-18T09:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1376 N Platteville Blvd, Pueblo, CO 81007 | RentalSource",
+        "url": "https://www.rentalsource.com/details/1376-n-platteville-blvd-pueblo-co-80141280/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentalsource.com/details/1376-n-platteville-blvd-pueblo-co-80141280",
+        "snippet": "House in Pueblo for $2,400 with 3 beds, 2 baths, 1,742 sqft, pet friendly and located at 1376 N Platteville Blvd in Pueblo, CO 81007. This house is only 2 years old.",
+        "dateLastCrawled": "2024-10-29T05:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RentalSource"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1376 N Platteville Blvd, Pueblo West, CO 81007, USA with 2 units ...",
+        "url": "https://www.padmapper.com/address/1376-n-platteville-blvd-pueblo-west-co-81007-usa",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.padmapper.com/address/1376-n-platteville-blvd-pueblo-west-co-81007-usa",
+        "snippet": "1376 N Platteville Blvd offers apartments for rent or lease. There are currently 0 units listed for rent at 1376 N Platteville Blvd on PadMapper. ... View more information about 1376 N Platteville Blvd, Pueblo West, CO 81007 on our partner site, Zumper. Nearby Cities.",
+        "dateLastCrawled": "2025-04-08T11:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PadMapper"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1376 N Platteville Blvd Pueblo West, CO 81007 - Alquileres en Pueblo ...",
+        "url": "https://www.apartments.com/es/1376-n-platteville-blvd-pueblo-west-co/3lrxz2g/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/es/1376-n-platteville-blvd-pueblo-west-co/3lrxz2g",
+        "snippet": "Ve todos los apartamentos disponibles para alquilar en 1376 N Platteville Blvd en Pueblo West, CO. 1376 N Platteville Blvd cuenta con apartamentos en alquiler desde $2400. Mapa Men\u00fa",
+        "dateLastCrawled": "2025-05-19T10:24:00.0000000Z",
+        "language": "es",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1491 N Platteville Blvd, Pueblo, CO 81007 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/pueblo/1491-n-platteville-blvd/lid-P00800000GtCY7TXNwQL2PqKqNUHbnR4kCckyeJc",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/pueblo/1491-n-platteville-blvd/lid-P00800000GtCY7...",
+        "snippet": "Find Property Information for 1491 N Platteville Blvd, Pueblo, CO 81007. MLS# 232551. View Photos, Pricing, Listing Status & More. Skip to main content. Buy Sell Agents & Offices. ... 1491 N Platteville Blvd. Do not miss this beautiful contemporary ranch home with a full finished basement, wonderfully set back from the road on 1.35 acres, with ...",
+        "dateLastCrawled": "2025-06-06T12:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1476 N Platteville, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1476-N-Platteville-Dr-Pueblo-West-CO-81007/447300081_zpid/",
+        "datePublished": "2025-02-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 12, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1476-N-Platteville-Dr-Pueblo-West-CO-81007/...",
+        "snippet": "1476 N Platteville, Pueblo West, CO 81007 is pending. Zillow has 40 photos of this 3 beds, 2 baths, 1,904 Square Feet single family home with a list price of $417,700. ... 848 E Platteville Blvd, Pueblo West, CO 81007. For Sale. MLS ID #2694032, Alec Ortiz, New Home Star, LLC ...",
+        "dateLastCrawled": "2025-03-31T09:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "1476 N Platteville Blvd, Pueblo West, CO 81007 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1476-N-Platteville-Blvd-Pueblo-West-CO-81007/109709524_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1476-N-Platteville-Blvd-Pueblo-West-CO-81007/...",
+        "snippet": "1476 N Platteville Blvd, Pueblo West CO, is a Single Family home that contains 1904 sq ft and was built in 2024.It contains 3 bedrooms and 2 bathrooms.This home last sold for $425,000 in May 2025. The Zestimate for this Single Family is $417,700, which has increased by $417,700 in the last 30 days.The Rent Zestimate for this Single Family is $2,615/mo, which has increased by $2,615/mo in the ...",
+        "dateLastCrawled": "2025-05-13T06:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

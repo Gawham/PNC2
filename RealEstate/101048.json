@@ -1,0 +1,380 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "215 Hidden Creek Dr, Colorado Springs CO 80906"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=215+Hidden+Creek+Dr%2c+Colorado+Springs+CO+80906",
+    "totalEstimatedMatches": 1790000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "215 Hidden Creek Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/215-Hidden-Creek-Dr-Colorado-Springs-CO-80906/13673007_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/215-Hidden-Creek-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "215 Hidden Creek Dr, Colorado Springs CO, is a Single Family home that contains 1936 sq ft and was built in 1982.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $679,900, which has increased by $13,450 in the last 30 days.The Rent Zestimate for this Single Family is $2,595/mo, which has increased by $2,595/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-23T15:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "215 Hidden Creek Dr, Colorado Springs, CO 80906 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/215-Hidden-Creek-Dr_Colorado-Springs_CO_80906_M17923-91764",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../215-Hidden-Creek-Dr_Colorado-Springs_CO_80906_M17923-91764",
+        "snippet": "See sales history and home details for 215 Hidden Creek Dr, Colorado Springs, CO 80906, a 3 bed, 2 bath, 2,926 Sq. Ft. single family home built in 1982 that was last sold on 04/13/1993.",
+        "dateLastCrawled": "2024-01-21T21:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "215 Hidden Creek Dr, Colorado Springs, CO 80906 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/215-Hidden-Creek-Dr-80906/home/34615214",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/215-Hidden-Creek-Dr-80906/home/34615214",
+        "snippet": "3 beds, 2 baths, 2926 sq. ft. house located at 215 Hidden Creek Dr, Colorado Springs, CO 80906 sold for $221,500 on Apr 13, 1993. View sales history, tax history, home value estimates, and overhead...",
+        "dateLastCrawled": "2025-02-09T06:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "215 Hidden Creek Dr, Colorado Springs, CO 80906- Homes.com",
+        "url": "https://www.homes.com/property/215-hidden-creek-dr-colorado-springs-co/m364d4hgshhn1/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/215-hidden-creek-dr-colorado-springs-co/m364d4hgshhn1",
+        "snippet": "This home is located at 215 Hidden Creek Dr, Colorado Springs, CO 80906 and is currently estimated at $603,672, approximately $145 per square foot. 215 Hidden Creek Dr is a home located in El Paso County with nearby schools including Broadmoor Elementary School, Cheyenne Mountain Junior High School, and Cheyenne Mountain High School.",
+        "dateLastCrawled": "2023-09-17T15:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "215 Hidden Creek Dr Colorado Springs CO 80906 Property Details ... - Xome",
+        "url": "https://www.xome.com/realestate/215-hidden-creek-dr-colorado-springs-co-80906-180713492",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/215-hidden-creek-dr-colorado-springs-co-80906-180713492",
+        "snippet": "215 Hidden Creek Dr Colorado Springs CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is 690195. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-05-19T19:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Property Report for 215 Hidden Creek Dr, Colorado Springs, CO 80906",
+        "url": "https://www.attomdata.com/property-reports/215-hidden-creek-dr-colorado-springs-co-80906/184392349/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.attomdata.com/.../215-hidden-creek-dr-colorado-springs-co-80906/184392349",
+        "snippet": "View property report for 215 Hidden Creek Dr, Colorado Springs, CO 80906 on ATTOM\u2019s Property Navigator. Home values, sales prices, taxes, school data, and more. Contact; Events ; Sign In . ... Property Report for 215 Hidden Creek Dr, Colorado Springs, CO 80906 Find Comparables. Last Updated: February 08, 2023. Image courtesy of Bing ...",
+        "dateLastCrawled": "2023-08-01T17:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ATTOM"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "215 Hidden Creek Dr, Colorado Springs, CO 80906 - Trulia",
+        "url": "https://www.trulia.com/home/215-hidden-creek-dr-colorado-springs-co-80906-13673007",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/215-hidden-creek-dr-colorado-springs-co-80906-13673007",
+        "snippet": "215 Hidden Creek Dr, Colorado Springs, CO 80906 is a 1,936 sqft, 3 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-10-18T23:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "215 Hidden Creek Dr Colorado Springs, CO 80906 - Xome",
+        "url": "https://www.xome.com/realestate/215-hidden-creek-dr-colorado-springs-co-80906-19487877",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/215-hidden-creek-dr-colorado-springs-co-80906-19487877",
+        "snippet": "215 Hidden Creek Dr Colorado Springs CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $698,305. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-07-17T19:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "225 Hidden Creek Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/225-Hidden-Creek-Dr-Colorado-Springs-CO-80906/13673008_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/225-Hidden-Creek-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "225 Hidden Creek Dr, Colorado Springs CO, is a Single Family home that contains 2260 sq ft and was built in 1982.It contains 4 bedrooms and 2 bathrooms.This home last sold for $430,000 in August 2020. The Zestimate for this Single Family is $775,600, which has increased by $22,614 in the last 30 days.The Rent Zestimate for this Single Family is $2,660/mo, which has increased by $2,660/mo in ...",
+        "dateLastCrawled": "2025-02-28T16:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "315 Hidden Creek Dr, Colorado Springs, CO 80906 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/315-Hidden-Creek-Dr_Colorado-Springs_CO_80906_M27575-39076",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../315-Hidden-Creek-Dr_Colorado-Springs_CO_80906_M27575-39076",
+        "snippet": "See sales history and home details for 315 Hidden Creek Dr, Colorado Springs, CO 80906, a 5 bed, 4 bath, 4,726 Sq. Ft. single family home built in 1985 that was last sold on 06/17/2019.",
+        "dateLastCrawled": "2024-02-02T23:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "315 Hidden Creek Dr, Colorado Springs, CO 80906 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/315-Hidden-Creek-Dr-80906/home/34615219",
+        "datePublished": "2008-06-16T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 16, 2008",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/315-Hidden-Creek-Dr-80906/home/34615219",
+        "snippet": "5 beds, 4 baths, 4726 sq. ft. house located at 315 Hidden Creek Dr, Colorado Springs, CO 80906 sold for $775,000 on Jun 17, 2019. View sales history, tax history, home value estimates, and overhead...",
+        "dateLastCrawled": "2025-01-18T01:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "315 Hidden Creek Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/315-Hidden-Creek-Dr-Colorado-Springs-CO-80906/13673010_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/315-Hidden-Creek-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "315 Hidden Creek Dr, Colorado Springs CO, is a Single Family home that contains 4900 sq ft and was built in 1985.It contains 5 bedrooms and 5 bathrooms.This home last sold for $775,000 in June 2019. The Zestimate for this Single Family is $1,120,900, which has increased by $27,253 in the last 30 days.The Rent Zestimate for this Single Family is $4,664/mo, which has increased by $4,664/mo in ...",
+        "dateLastCrawled": "2025-04-20T14:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "225 Hidden Creek Dr, Colorado Springs, CO 80906 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/225-Hidden-Creek-Dr_Colorado-Springs_CO_80906_M12746-45172",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../225-Hidden-Creek-Dr_Colorado-Springs_CO_80906_M12746-45172",
+        "snippet": "View 36 photos for 225 Hidden Creek Dr, Colorado Springs, CO 80906, a 4 bed, 2 bath, 3,660 Sq. Ft. single family home built in 1982 that was last sold on 08/31/2020.",
+        "dateLastCrawled": "2024-02-06T22:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "415 Hidden Creek Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/415-Hidden-Creek-Dr-Colorado-Springs-CO-80906/87931097_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/415-Hidden-Creek-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "415 Hidden Creek Dr, Colorado Springs CO, is a Single Family home that contains 4817 sq ft and was built in 2008.It contains 4 bedrooms and 4 bathrooms.This home last sold for $945,000 in January 2018. The Zestimate for this Single Family is $1,376,800, which has increased by $26,081 in the last 30 days.The Rent Zestimate for this Single Family is $4,401/mo, which has increased by $4,401/mo in ...",
+        "dateLastCrawled": "2025-04-06T02:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "325 Hidden Creek Dr, Colorado Springs, CO 80906 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/325-Hidden-Creek-Dr-80906/home/34615218",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/325-Hidden-Creek-Dr-80906/home/34615218",
+        "snippet": "325 Hidden Creek Dr is a 4,108 square foot house on a 0.46 acre lot with 5 bedrooms and 3 bathrooms. - it last sold on October 07, 1993 for $205,000. Based on Redfin's Colorado Springs data, we estimate the home's value is $819,969.",
+        "dateLastCrawled": "2025-02-07T08:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "305 Hidden Creek Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/305-Hidden-Creek-Dr-Colorado-Springs-CO-80906/13673009_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/305-Hidden-Creek-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "305 Hidden Creek Dr, Colorado Springs CO, is a Single Family home that contains 5410 sq ft and was built in 1985.It contains 5 bedrooms and 5 bathrooms.This home last sold for $585,000 in October 2019. The Zestimate for this Single Family is $1,017,700, which has decreased by $11,223 in the last 30 days.The Rent Zestimate for this Single Family is $4,300/mo, which has increased by $4,300/mo in ...",
+        "dateLastCrawled": "2024-10-10T21:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "220 Hidden Creek Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/220-Hidden-Creek-Dr-Colorado-Springs-CO-80906/13672996_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/220-Hidden-Creek-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "220 Hidden Creek Dr, Colorado Springs CO, is a Single Family home that contains 2613 sq ft and was built in 1989.It contains 4 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $771,500, which has increased by $9,640 in the last 30 days.The Rent Zestimate for this Single Family is $2,857/mo, which has increased by $2,857/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-16T14:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "230 Hidden Creek Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/230-Hidden-Creek-Dr-Colorado-Springs-CO-80906/13672997_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/230-Hidden-Creek-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "230 Hidden Creek Dr, Colorado Springs CO, is a Single Family home that contains 4858 sq ft and was built in 1984.It contains 5 bedrooms and 3.5 bathrooms.This home last sold for $420,000 in March 2014. The Zestimate for this Single Family is $883,200, which has increased by $26,397 in the last 30 days.The Rent Zestimate for this Single Family is $3,399/mo, which has increased by $3,399/mo in ...",
+        "dateLastCrawled": "2025-03-27T10:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

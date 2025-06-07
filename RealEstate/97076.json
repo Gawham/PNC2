@@ -1,0 +1,431 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1665 S Madison St, Denver CO 80210"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1665+S+Madison+St%2c+Denver+CO+80210",
+    "totalEstimatedMatches": 2090000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1665 S Madison St, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1665-S-Madison-St-Denver-CO-80210/13373587_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1665-S-Madison-St-Denver-CO-80210/13373587_zpid",
+        "snippet": "1665 S Madison St, Denver CO, is a Single Family home that contains 714 sq ft and was built in 1949.It contains 2 bedrooms and 1 bathroom. The Zestimate for this Single Family is $554,300, which has increased by $8,481 in the last 30 days.The Rent Zestimate for this Single Family is $1,654/mo, which has increased by $1,654/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "1665 S Marion St, Denver, CO 80210 - Zillow",
+            "url": "https://www.zillow.com/homedetails/1665-S-Marion-St-Denver-CO-80210/13371179_zpid/",
+            "snippet": "1665 S Marion St, Denver CO, is a Single Family home that contains 1467 sq ft and was built in 1935.It contains 3 bedrooms and 2 bathrooms.This home last sold for $315,000 in April 2009. The Zestimate for this Single Family is $734,200, which has increased by $5,200 in the last 30 days.The Rent Zestimate for this Single Family is $3,272/mo, which has increased by $3,272/mo in the last 30 days."
+          },
+          {
+            "name": "1665 Madison St, Denver, CO 80206 - Zillow",
+            "url": "https://www.zillow.com/homedetails/1665-Madison-St-Denver-CO-80206/13322184_zpid/",
+            "snippet": "1665 Madison St, Denver CO, is a Single Family home that contains 2644 sq ft and was built in 1906.It contains 3 bedrooms and 4 bathrooms.This home last sold for $510,000 in June 2008. The Zestimate for this Single Family is $1,066,100, which has decreased by $19,503 in the last 30 days.The Rent Zestimate for this Single Family is $3,965/mo, which has increased by $3,965/mo in the last 30 days."
+          },
+          {
+            "name": "1665 S Monroe St, Denver, CO 80210 - Zillow",
+            "url": "https://www.zillow.com/homedetails/1665-S-Monroe-St-Denver-CO-80210/13373609_zpid/",
+            "snippet": "1665 S Monroe St, Denver CO, is a Single Family home that contains 4499 sq ft and was built in 2007.It contains 5 bedrooms and 4 bathrooms.This home last sold for $800,000 in May 2011. The Zestimate for this Single Family is $1,500,600, which has increased by $32,365 in the last 30 days.The Rent Zestimate for this Single Family is $5,406/mo, which has increased by $5,406/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2025-03-10T07:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1665 S Madison St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1665-S-Madison-St-80210/home/34151360",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1665-S-Madison-St-80210/home/34151360",
+        "snippet": "2 beds, 1 bath, 1179 sq. ft. house located at 1665 S Madison St, Denver, CO 80210 sold for $65,000 on Aug 16, 1990. View sales history, tax history, home value estimates, and overhead views. APN 05...",
+        "dateLastCrawled": "2024-05-26T08:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1665 S Madison St, Denver, CO 80210 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1665-S-Madison-St_Denver_CO_80210_M18562-48622",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1665-S-Madison-St_Denver_CO_80210_M...",
+        "snippet": "See sales history and home details for 1665 S Madison St, Denver, CO 80210, a 2 bed, 1 bath, 1,179 Sq. Ft. single family home built in 1949 that was last sold on 08/16/1990.",
+        "dateLastCrawled": "2023-03-30T22:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1665 S Madison Street, Denver, CO 80210 Property Records - County Office",
+        "url": "https://www.countyoffice.org/property-record-1665-s-madison-st-denver-co-80210-70d/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-1665-s-madison-st-denver-co-80210-70d",
+        "snippet": "View 1665 S Madison Street, Denver, CO property records for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 1665 South Madison Street Denver, CO 80210: Carrier Code: C056: Census Tract: 3902: FIPS: 08031: Parcel ...",
+        "dateLastCrawled": "2024-08-14T05:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Michael S Ragan, (303) 756-9065 , S Madison St 1665, Denver, CO ...",
+        "url": "https://fastpeoplesearch.io/michael-ragan/colorado/michael-s-ragan-61ade5d280efc8c1fdc861f9",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://fastpeoplesearch.io/michael-ragan/colorado/michael-s-ragan-61ade5d280efc8c1fdc...",
+        "snippet": "Michael Ragan is now located at 1665 S Madison St Denver, CO 80210. For more information about Michael S Ragan, check out FastPeopleSearch.io's search results below. You may uncover Michael Ragan's phone number, email address, relatives, neighbors, and more.",
+        "dateLastCrawled": "2025-05-30T16:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Fast People Search"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1665 S Madison St, Denver, CO 80210 - Trulia",
+        "url": "https://www.trulia.com/home/1665-s-madison-st-denver-co-80210-13373587",
+        "datePublished": "2024-01-10T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 10, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1665-s-madison-st-denver-co-80210-13373587",
+        "snippet": "1665 S Madison St, Denver, CO 80210 is a 714 sqft, 2 bed, 1 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-01-10T17:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Michael S Ragan | 65+ | S Madison St, Denver, CO - Whitepages",
+        "url": "https://www.whitepages.com/name/Michael-S-Ragan/Denver-CO/PG31w217o9x",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/name/Michael-S-Ragan/Denver-CO/PG31w217o9x",
+        "snippet": "Michael S Ragan, age 78, lives in Denver, CO. Find their contact information including current home address, phone number 303-756-9065, background check reports, and property record on Whitepages People Search, the most trusted online directory. ... 1665 S Madison St, Denver, CO 80210. Monitor. Age. 65+ (Aug 24) Alias. Phone (303) 669-6948 +6 ...",
+        "dateLastCrawled": "2025-04-12T00:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1665 Madison St, Denver, CO 80206 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1665-Madison-St-Denver-CO-80206/13322184_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1665-Madison-St-Denver-CO-80206/13322184_zpid",
+        "snippet": "1665 Madison St, Denver CO, is a Single Family home that contains 2644 sq ft and was built in 1906.It contains 3 bedrooms and 4 bathrooms.This home last sold for $510,000 in June 2008. The Zestimate for this Single Family is $1,066,100, which has decreased by $19,503 in the last 30 days.The Rent Zestimate for this Single Family is $3,965/mo, which has increased by $3,965/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-20T07:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1665 Madison St, Denver, CO 80206 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1665-Madison-St_Denver_CO_80206_M19135-94610",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1665-Madison-St_Denver_CO_80206_M...",
+        "snippet": "See sales history and home details for 1665 Madison St, Denver, CO 80206, a 3 bed, 4 bath, 2,598 Sq. Ft. single family home built in 1906 that was last sold on 06/12/2008.",
+        "dateLastCrawled": "2024-06-02T13:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1665 S Emerson St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1665-S-Emerson-St-80210/home/34144956",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1665-S-Emerson-St-80210/home/34144956",
+        "snippet": "3 beds, 4 baths, 4032 sq. ft. house located at 1665 S Emerson St, Denver, CO 80210 sold for $2,175,000 on Oct 30, 2023. MLS# 4386004. Step into this breathtaking custom Victorian Era home with the ...",
+        "dateLastCrawled": "2025-04-05T05:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1675 S Madison Street, Denver, CO 80210 | MLS #1598345 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1675-S-Madison-St-Denver-CO-80210/13373586_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.lWobO1hzgAXRqUn-UrT7MQHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1675-S-Madison-St-Denver-CO-80210/13373586_zpid",
+        "snippet": "Zillow has 50 photos of this $2,150,000 5 beds, 5 baths, 4,692 Square Feet single family home located at 1675 S Madison Street, Denver, CO 80210 built in 2023. MLS #1598345.",
+        "dateLastCrawled": "2025-05-04T11:03:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.lWobO1hzgAXRqUn-UrT7MQHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.lWobO1hzgAXRqUn-UrT7MQHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1665 S Monroe St, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1665-S-Monroe-St-Denver-CO-80210/13373609_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1665-S-Monroe-St-Denver-CO-80210/13373609_zpid",
+        "snippet": "1665 S Monroe St, Denver CO, is a Single Family home that contains 4499 sq ft and was built in 2007.It contains 5 bedrooms and 4 bathrooms.This home last sold for $800,000 in May 2011. The Zestimate for this Single Family is $1,500,600, which has increased by $32,365 in the last 30 days.The Rent Zestimate for this Single Family is $5,406/mo, which has increased by $5,406/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-30T03:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1655 S Madison St, Denver, CO 80210 | MLS# 663357 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1655-S-Madison-St-80210/home/34151361",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1655-S-Madison-St-80210/home/34151361",
+        "snippet": "4 beds, 4.5 baths, 3152 sq. ft. house located at 1655 S Madison St, Denver, CO 80210 sold for $1,030,000 on Jan 30, 2007. View sales history, tax history, home value estimates, and overhead views. ...",
+        "dateLastCrawled": "2025-01-10T04:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1665 S Marion St, Denver, CO 80210 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1665-S-Marion-St-80210/home/34148019",
+        "datePublished": "2009-04-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 17, 2009",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1665-S-Marion-St-80210/home/34148019",
+        "snippet": "804 sq. ft. house located at 1665 S Marion St, Denver, CO 80210 sold for $315,000 on Apr 17, 2009. View sales history, tax history, home value estimates, and overhead views. APN 05233-11-017-000.",
+        "dateLastCrawled": "2025-04-23T08:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1665 S Marion St, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1665-S-Marion-St-Denver-CO-80210/13371179_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1665-S-Marion-St-Denver-CO-80210/13371179_zpid",
+        "snippet": "1665 S Marion St, Denver CO, is a Single Family home that contains 1467 sq ft and was built in 1935.It contains 3 bedrooms and 2 bathrooms.This home last sold for $315,000 in April 2009. The Zestimate for this Single Family is $734,200, which has increased by $5,200 in the last 30 days.The Rent Zestimate for this Single Family is $3,272/mo, which has increased by $3,272/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-23T08:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1674 S Madison Street, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1674-S-Madison-St-Denver-CO-80210/13373602_zpid/",
+        "datePublished": "2023-05-11T00:00:00.0000000",
+        "datePublishedDisplayText": "May 11, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1674-S-Madison-St-Denver-CO-80210/13373602_zpid",
+        "snippet": "1674 S Madison Street, Denver CO, is a Single Family home that contains 4971 sq ft and was built in 2022.It contains 5 bedrooms and 6 bathrooms.This home last sold for $2,450,000 in April 2023. The Zestimate for this Single Family is $2,384,300, which has increased by $14,348 in the last 30 days.The Rent Zestimate for this Single Family is $5,920/mo, which has increased by $5,920/mo in the ...",
+        "dateLastCrawled": "2025-05-13T07:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1615 S Madison St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1615-S-Madison-St-80210/home/34151358",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1615-S-Madison-St-80210/home/34151358",
+        "snippet": "5 beds, 4.5 baths, 4635 sq. ft. house located at 1615 S Madison St, Denver, CO 80210 sold for $1,535,000 on Apr 2, 2021. MLS# 8504173. Brand new, immaculate contemporary design and a fully custom a...",
+        "dateLastCrawled": "2025-04-23T06:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1645 S Madison St, Denver, CO 80210 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1645-S-Madison-St-Denver-CO-80210/13373589_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1645-S-Madison-St-Denver-CO-80210/13373589_zpid",
+        "snippet": "1645 S Madison St, Denver CO, is a Single Family home that contains 5107 sq ft and was built in 2007.It contains 4 bedrooms and 5 bathrooms.This home last sold for $1,535,000 in August 2021. The Zestimate for this Single Family is $1,761,300, which has increased by $12,653 in the last 30 days.The Rent Zestimate for this Single Family is $5,522/mo, which has increased by $5,522/mo in the last ...",
+        "dateLastCrawled": "2025-04-19T04:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1625 S Madison St, Denver, CO 80210 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/1625-S-Madison-St-80210/home/34151357",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/1625-S-Madison-St-80210/home/34151357",
+        "snippet": "3 beds, 2 baths, 1947 sq. ft. house located at 1625 S Madison St, Denver, CO 80210 sold for $725,000 on Jun 7, 2021. MLS# 7145705. Warm and cheery updated ranch home in one of Denver's premier neig...",
+        "dateLastCrawled": "2025-04-03T03:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

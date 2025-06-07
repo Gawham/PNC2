@@ -1,0 +1,419 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "4472 S Cole St, Morrison CO 80465"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=4472+S+Cole+St%2c+Morrison+CO+80465",
+    "totalEstimatedMatches": 1240000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "4472 S Cole St, Morrison, CO 80465 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4472-S-Cole-St-Morrison-CO-80465/13807976_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4472-S-Cole-St-Morrison-CO-80465/13807976_zpid",
+        "snippet": "4472 S Cole St, Morrison CO, is a Single Family home that contains 1120 sq ft and was built in 1976.It contains 3 bedrooms and 2 bathrooms.This home last sold for $217,000 in December 2003. The Zestimate for this Single Family is $552,900, which has decreased by $1,353 in the last 30 days.The Rent Zestimate for this Single Family is $2,569/mo, which has increased by $2,569/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-08T22:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "4472 S Cole St, Morrison, CO 80465 | Redfin",
+        "url": "https://www.redfin.com/CO/Morrison/4472-S-Cole-St-80465/home/34571519",
+        "datePublished": "2003-12-26T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 26, 2003",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Morrison/4472-S-Cole-St-80465/home/34571519",
+        "snippet": "3 beds, 2 baths, 1120 sq. ft. house located at 4472 S Cole St, Morrison, CO 80465 sold for $217,000 on Dec 26, 2003. View sales history, tax history, home value estimates, and overhead views. APN 3...",
+        "dateLastCrawled": "2024-08-29T18:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "4472 S Cole St, Morrison, 80465"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "4472 S Cole St, Morrison, CO 80465 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4472-S-Cole-St_Morrison_CO_80465_M28630-98970",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/4472-S-Cole-St_Morrison_CO_80465_M...",
+        "snippet": "See sales history and home details for 4472 S Cole St, Morrison, CO 80465, a 3 bed, 2 bath, 1,120 Sq. Ft. single family home built in 1976 that was last sold on 12/26/2003.",
+        "dateLastCrawled": "2023-10-02T17:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "4472 S Cole St, Morrison, CO 80465 - Homes.com",
+        "url": "https://www.homes.com/property/4472-s-cole-st-morrison-co/2e18wme2m08xd/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/4472-s-cole-st-morrison-co/2e18wme2m08xd",
+        "snippet": "4472 S Cole St, Morrison, CO 80465 - 2,658 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... CO 80465 and is currently estimated at $591,476, approximately $222 per square foot. 4472 S Cole St is a home located in Jefferson County with nearby schools including Kendallvue Elementary School, Carmody ...",
+        "dateLastCrawled": "2025-02-18T02:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "4472 S COLE ST, MORRISON, CO 80465 - RE/MAX",
+        "url": "https://www.remax.com/co/morrison/home-details/4472-s-cole-st-morrison-co-80465/9634787249941208196",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/morrison/home-details/4472-s-cole-st-morrison-co-80465/...",
+        "snippet": "View 4472 S COLE ST, MORRISON, CO 80465 property and neighbourhood details. Find out how much this listing is worth with RE/MAX's Home Value Estimator and view similar real estate listings. ... Details for 4472 S COLE ST. Built in 1976. No Info. 0.1881 acres lot. Interior. Basement. Finished.",
+        "dateLastCrawled": "2024-09-29T23:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "4472 S Cole St, Morrison, CO 80465 - Trulia",
+        "url": "https://www.trulia.com/home/4472-s-cole-st-morrison-co-80465-13807976",
+        "datePublished": "2023-12-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 5, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/4472-s-cole-st-morrison-co-80465-13807976",
+        "snippet": "4472 S Cole St, Morrison, CO 80465 is a 1,120 sqft, 3 bed, 2 bath home sold in 2003. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-05T00:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 4472 S Cole St, Morrison, CO 80465 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Morrison/4472-S-Cole-St",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Morrison/4472-S-Cole-St",
+        "snippet": "Find people by address using reverse address lookup for 4472 S Cole St, Morrison, CO 80465. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2023-07-30T10:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "4472 S Cole St Morrison, CO 80465 - Xome",
+        "url": "https://www.xome.com/realestate/4472-s-cole-st-morrison-co-80465-142891392",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/4472-s-cole-st-morrison-co-80465-142891392",
+        "snippet": "View photos, property record valuation and tax data for 4472 S Cole St Morrison CO 80465. Type: Single Family Residential, Sq. Ft: 1,120, Bedrooms: 3, Baths: 2.",
+        "dateLastCrawled": "2023-07-18T17:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "4442 S Cole Street, Morrison, CO 80465 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4442-S-Cole-St-Morrison-CO-80465/13807979_zpid/",
+        "datePublished": "2024-10-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 22, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4442-S-Cole-St-Morrison-CO-80465/13807979_zpid",
+        "snippet": "4442 S Cole Street, Morrison CO, is a Single Family home that contains 1752 sq ft and was built in 1976.It contains 4 bedrooms and 2 bathrooms.This home last sold for $570,000 in October 2024. The Zestimate for this Single Family is $570,000, which has decreased by $11,010 in the last 30 days.The Rent Zestimate for this Single Family is $3,076/mo, which has increased by $3,076/mo in the last ...",
+        "dateLastCrawled": "2024-11-13T13:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "4442 S Cole St, Morrison, CO 80465 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4442-S-Cole-St_Morrison_CO_80465_M22863-26458",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/4442-S-Cole-St_Morrison_CO_80465_M...",
+        "snippet": "4442 S Cole St, Morrison, CO 80465 is pending. View 35 photos of this 4 bed, 2 bath, 1752 sqft. single family home with a list price of $595000.",
+        "dateLastCrawled": "2024-09-30T10:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "4472 S Beech Way, Morrison, CO 80465 | Redfin",
+        "url": "https://www.redfin.com/CO/Morrison/4472-S-Beech-Way-80465/home/34573991",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Morrison/4472-S-Beech-Way-80465/home/34573991",
+        "snippet": "3 beds, 2 baths, 1848 sq. ft. house located at 4472 S Beech Way, Morrison, CO 80465 sold for $267,000 on Jul 24, 2015. MLS# 763797. Bright and open floor plan in this very clean bi-level offering u...",
+        "dateLastCrawled": "2025-03-21T07:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "4492 S Cole St, Morrison, CO 80465 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4492-S-Cole-St-Morrison-CO-80465/13807974_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4492-S-Cole-St-Morrison-CO-80465/13807974_zpid",
+        "snippet": "4492 S Cole St, Morrison CO, is a Single Family home that contains 2059 sq ft and was built in 1976.It contains 4 bedrooms and 2 bathrooms.This home last sold for $274,900 in November 2014. The Zestimate for this Single Family is $575,900, which has increased by $7,248 in the last 30 days.The Rent Zestimate for this Single Family is $3,016/mo, which has increased by $3,016/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-15T17:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "4442 S Cole St, Morrison, CO 80465 | Redfin",
+        "url": "https://www.redfin.com/CO/Morrison/4442-S-Cole-St-80465/home/34571524",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Morrison/4442-S-Cole-St-80465/home/34571524",
+        "snippet": "Sold: 4 beds, 2 baths, 1752 sq. ft. house located at 4442 S Cole St, Morrison, CO 80465 sold for $570,000 on Oct 22, 2024. MLS# 4351865. The home you've been waiting for, offering a perfect blend o...",
+        "dateLastCrawled": "2025-04-30T11:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "4482 S Cole St, Morrison, CO 80465 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4482-S-Cole-St-Morrison-CO-80465/13807975_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4482-S-Cole-St-Morrison-CO-80465/13807975_zpid",
+        "snippet": "4482 S Cole St, Morrison CO, is a Single Family home that contains 1632 sq ft and was built in 1976.This home last sold for $490,000 in October 2021. The Zestimate for this Single Family is $579,900, which has increased by $10,097 in the last 30 days.The Rent Zestimate for this Single Family is $2,941/mo, which has increased by $2,941/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T04:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "4482 S Cole St, Morrison, CO 80465 | MLS# 1585144 | Redfin",
+        "url": "https://www.redfin.com/CO/Morrison/4482-S-Cole-St-80465/home/34571520",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Morrison/4482-S-Cole-St-80465/home/34571520",
+        "snippet": "4 beds, 2 baths, 1632 sq. ft. house located at 4482 S Cole St, Morrison, CO 80465 sold for $490,000 on Oct 22, 2021. MLS# 1585144. Welcome to this beautifully updated home in Morrison featuring a g...",
+        "dateLastCrawled": "2024-12-05T21:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "4452 S Cole St, Morrison, CO 80465 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4452-S-Cole-St-Morrison-CO-80465/13807978_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4452-S-Cole-St-Morrison-CO-80465/13807978_zpid",
+        "snippet": "4452 S Cole St, Morrison CO, is a Single Family home that contains 1064 sq ft and was built in 1976.It contains 4 bedrooms and 3 bathrooms.This home last sold for $60,900 in May 1978. The Zestimate for this Single Family is $559,200, which has decreased by $2,216 in the last 30 days.The Rent Zestimate for this Single Family is $2,962/mo, which has increased by $2,962/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-24T07:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "4492 S Cole St, Morrison, CO 80465 | MLS# 5163756 | Redfin",
+        "url": "https://www.redfin.com/CO/Morrison/4492-S-Cole-St-80465/home/34571521",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Morrison/4492-S-Cole-St-80465/home/34571521",
+        "snippet": "4 beds, 2 baths, 2059 sq. ft. house located at 4492 S Cole St, Morrison, CO 80465 sold for $274,900 on Nov 24, 2014. View sales history, tax history, home value estimates, and overhead views. APN 3...",
+        "dateLastCrawled": "2024-12-03T19:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "4462 S Cole St, Morrison, CO 80465 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4462-S-Cole-St-Morrison-CO-80465/13807977_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4462-S-Cole-St-Morrison-CO-80465/13807977_zpid",
+        "snippet": "4462 S Cole St, Morrison CO, is a Single Family home that contains 828 sq ft and was built in 1976.It contains 2 bedrooms and 1 bathroom.This home last sold for $75,000 in June 1985. The Zestimate for this Single Family is $477,800, which has increased by $11,313 in the last 30 days.The Rent Zestimate for this Single Family is $2,043/mo, which has increased by $2,043/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-31T07:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "4422 S Cole St, Morrison, CO 80465 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4422-S-Cole-St-Morrison-CO-80465/13807981_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4422-S-Cole-St-Morrison-CO-80465/13807981_zpid",
+        "snippet": "4422 S Cole St, Morrison CO, is a Single Family home that contains 936 sq ft and was built in 1976.It contains 3 bedrooms and 2 bathrooms.This home last sold for $257,165 in March 2025. The Zestimate for this Single Family is $493,200, which has decreased by $36,258 in the last 30 days.The Rent Zestimate for this Single Family is $2,444/mo, which has increased by $2,444/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-21T06:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

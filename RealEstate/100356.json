@@ -1,0 +1,386 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "712 Fulton Ave, Brighton CO 80601"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=712+Fulton+Ave%2c+Brighton+CO+80601",
+    "totalEstimatedMatches": 413000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "712 Fulton Ave, Brighton, CO 80601 - Zillow",
+        "url": "https://www.zillow.com/homedetails/712-Fulton-Ave-Brighton-CO-80601/12941661_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/712-Fulton-Ave-Brighton-CO-80601/12941661_zpid",
+        "snippet": "712 Fulton Ave, Brighton, CO 80601 is currently not for sale. The 1,385 Square Feet single family home is a 3 beds, 1 bath property. This home was built in 1955 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-23T04:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "712 Fulton Ave, Brighton, CO 80601 | Redfin",
+        "url": "https://www.redfin.com/CO/Brighton/712-Fulton-Ave-80601/home/34813121",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brighton/712-Fulton-Ave-80601/home/34813121",
+        "snippet": "3 beds, 1 bath, 1385 sq. ft. house located at 712 Fulton Ave, Brighton, CO 80601. View sales history, tax history, home value estimates, and overhead views. APN R0004342.",
+        "dateLastCrawled": "2024-08-09T01:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "712 Fulton Ave, Brighton, CO 80601 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/712-Fulton-Ave_Brighton_CO_80601_M14047-95880",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/712-Fulton-Ave_Brighton_CO_80601_M...",
+        "snippet": "View detailed information about property 712 Fulton Ave, Brighton, CO 80601 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App ...",
+        "dateLastCrawled": "2024-03-04T20:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "712 Fulton Ave Brighton, CO 80601 - Trulia",
+        "url": "https://www.trulia.com/home/712-fulton-ave-brighton-co-80601-12941661",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/712-fulton-ave-brighton-co-80601-12941661",
+        "snippet": "712 Fulton Ave, Brighton, CO 80601 is a 1,385 sqft, 3 bed, 1 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-05-14T18:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "712 Fulton Avenue, Brighton, CO 80601 Property Records - County Office",
+        "url": "https://www.countyoffice.org/property-record-712-fulton-ave-brighton-co-80601-6a8/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-712-fulton-ave-brighton-co-80601-6a8",
+        "snippet": "View 712 Fulton Avenue, Brighton, CO property records for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 712 Fulton Ave Brighton, CO 80601 Owner Occupied True Property Tax Assessment & Valuations. Tax History ...",
+        "dateLastCrawled": "2024-06-06T07:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Michael Place Apartments Availability | Apartments",
+        "url": "https://www.rentbrightonco.com/mp-availability",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.8gkEEmzXaLyKxDacQ_TX-gAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentbrightonco.com/mp-availability",
+        "snippet": "Applicant has the right to provide Fulton Management, LLC with a Portable Tenant Screening Report (PTSR) that is not more than 30 days old, as defined in \u00a7 38-12-902(2.5), Colorado Revised Statutes; and 2) if Applicant provides Fulton Management, LLC with a PTSR, Fulton Management, LLC is prohibited from: a) charging Applicant a rental ...",
+        "dateLastCrawled": "2025-06-05T01:37:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.8gkEEmzXaLyKxDacQ_TX-gAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 210,
+          "sourceHeight": 180,
+          "imageId": "OIP.8gkEEmzXaLyKxDacQ_TX-gAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "712 Fulton Ave Brighton CO 80601 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/712-fulton-ave-brighton-co-80601-33336716",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/712-fulton-ave-brighton-co-80601-33336716",
+        "snippet": "712 Fulton Ave Brighton CO with 3 bedroom and 1 bath is currently not for sale. Xome's estimated value is $374,375. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-03-10T01:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Michael W Cobb, (303) 655-0472, 712 Fulton Ave, Brighton, CO",
+        "url": "https://nuwber.com/person/563a90417686b0176b7a82b6",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nuwber.com/person/563a90417686b0176b7a82b6",
+        "snippet": "712 Fulton Ave, Brighton, CO, 80601-3037 show more. YOU MAY ALSO BE INTERESTED IN THE FOLLOWING INFORMATION: Home Type Home Ownership Property Value Year Built Residence Since . VIEW FULL REPORT. ads. Sponsored by Truthfinder. Mobile Phone numbers (303) 332-9100.",
+        "dateLastCrawled": "2024-01-13T14:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Nuwber"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "People who live on Fulton Ave in Brighton, Colorado",
+        "url": "https://voterrecords.com/street/fulton+ave-brighton-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/fulton+ave-brighton-co",
+        "snippet": "There are 22 people who live on Fulton Ave in Brighton, Colorado that are registered to vote. Toggle navigation VoterRecords.com. Share 21.8K. Search; Address Search; Reverse Phone; Charts; FAQ; ... 712 Fulton Ave Brighton, CO 80601: View Details : Bertha Cobb: Unaffiliated: 712 Fulton Ave Brighton, CO 80601: View Details : Melissa Randall ...",
+        "dateLastCrawled": "2025-04-09T03:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "ABOUT - Apartments",
+        "url": "https://www.rentbrightonco.com/about",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentbrightonco.com/about",
+        "snippet": "Fulton Management/ T303.659.7809 / info@rentbrightonco.com / 600 N. 19th Ave., Brighton CO 80601 / \u00a9 2019 Fulton Management",
+        "dateLastCrawled": "2025-06-05T02:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "752 Fulton Ave, Brighton, CO 80601 | Redfin",
+        "url": "https://www.redfin.com/CO/Brighton/752-Fulton-Ave-80601/home/34813117",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brighton/752-Fulton-Ave-80601/home/34813117",
+        "snippet": "3 beds, 1 bath, 1440 sq. ft. house located at 752 Fulton Ave, Brighton, CO 80601 sold for $375,000 on Jul 27, 2022. MLS# 4180688. Welcome home to this charming ranch style house located in the hear...",
+        "dateLastCrawled": "2025-02-15T15:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "724 Fulton Ave, Brighton, CO 80601 - Zillow",
+        "url": "https://www.zillow.com/homedetails/724-Fulton-Ave-Brighton-CO-80601/12941662_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/724-Fulton-Ave-Brighton-CO-80601/12941662_zpid",
+        "snippet": "724 Fulton Ave, Brighton CO, is a Single Family home that contains 720 sq ft and was built in 1955.It contains 2 bedrooms and 1 bathroom. The Zestimate for this Single Family is $316,200, which has increased by $4,900 in the last 30 days.The Rent Zestimate for this Single Family is $1,687/mo, which has increased by $1,687/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-04T13:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "796 Fulton Avenue, Brighton, CO 80601 - Zillow",
+        "url": "https://www.zillow.com/homedetails/796-Fulton-Ave-Brighton-CO-80601/12941669_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/796-Fulton-Ave-Brighton-CO-80601/12941669_zpid",
+        "snippet": "796 Fulton Avenue, Brighton CO, is a Single Family home that contains 1023 sq ft and was built in 1955.It contains 3 bedrooms and 1 bathroom.This home last sold for $389,000 in July 2024. The Zestimate for this Single Family is $381,200, which has decreased by $5,848 in the last 30 days.The Rent Zestimate for this Single Family is $2,308/mo, which has increased by $2,308/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-28T05:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "774 Fulton Ave, Brighton, CO 80601 | Redfin",
+        "url": "https://www.redfin.com/CO/Brighton/774-Fulton-Ave-80601/home/34813119",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brighton/774-Fulton-Ave-80601/home/34813119",
+        "snippet": "2 beds, 1 bath, 1440 sq. ft. house located at 774 Fulton Ave, Brighton, CO 80601 sold for $374,900 on Jul 1, 2022. MLS# 2691755. Welcome Home to 774 Fulton Ave in the heart of Brighton Colorado. Th...",
+        "dateLastCrawled": "2025-05-05T01:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "812 Fulton Ave, Brighton, CO 80601 - Zillow",
+        "url": "https://www.zillow.com/homedetails/812-Fulton-Ave-Brighton-CO-80601/12941671_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/812-Fulton-Ave-Brighton-CO-80601/12941671_zpid",
+        "snippet": "812 Fulton Ave, Brighton CO, is a Single Family home that contains 1672 sq ft and was built in 1955.It contains 4 bedrooms and 1 bathroom. The Zestimate for this Single Family is $409,800, which has increased by $6,935 in the last 30 days.The Rent Zestimate for this Single Family is $2,465/mo, which has increased by $2,465/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T03:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "752 Fulton Avenue, Brighton, CO 80601 - Zillow",
+        "url": "https://www.zillow.com/homedetails/752-Fulton-Ave-Brighton-CO-80601/12941665_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/752-Fulton-Ave-Brighton-CO-80601/12941665_zpid",
+        "snippet": "752 Fulton Avenue, Brighton CO, is a Single Family home that contains 1440 sq ft and was built in 1955.It contains 3 bedrooms and 1 bathroom.This home last sold for $375,000 in July 2022. The Zestimate for this Single Family is $382,200, which has increased by $2,055 in the last 30 days.The Rent Zestimate for this Single Family is $2,211/mo, which has increased by $2,211/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-06T16:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "724 Fulton Ave, Brighton, CO 80601 | Redfin",
+        "url": "https://www.redfin.com/CO/Brighton/724-Fulton-Ave-80601/home/34813122",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brighton/724-Fulton-Ave-80601/home/34813122",
+        "snippet": "2 beds, 1 bath, 720 sq. ft. house located at 724 Fulton Ave, Brighton, CO 80601. View sales history, tax history, home value estimates, and overhead views. APN R0004343.",
+        "dateLastCrawled": "2025-04-10T20:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "736 Fulton Ave, Brighton, CO 80601 - Zillow",
+        "url": "https://www.zillow.com/homedetails/736-Fulton-Ave-Brighton-CO-80601/12941663_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/736-Fulton-Ave-Brighton-CO-80601/12941663_zpid",
+        "snippet": "736 Fulton Ave, Brighton CO, is a Single Family home that contains 1280 sq ft and was built in 1955.It contains 2 bedrooms and 2 bathrooms.This home last sold for $162,897 in May 2004. The Zestimate for this Single Family is $393,500, which has increased by $3,240 in the last 30 days.The Rent Zestimate for this Single Family is $2,153/mo, which has increased by $2,153/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-20T09:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

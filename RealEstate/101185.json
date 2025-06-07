@@ -1,0 +1,434 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3621 N County Road 27, Loveland CO 80538"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3621+N+County+Road+27%2c+Loveland+CO+80538",
+    "totalEstimatedMatches": 1500000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "3621 N County Road 27, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3621-N-County-Road-27-Loveland-CO-80538/13846812_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3621-N-County-Road-27-Loveland-CO-80538/13846812_zpid",
+        "snippet": "3621 N County Road 27, Loveland, CO 80538 is currently not for sale. The 1,190 Square Feet single family home is a 3 beds, 1.5 baths property. This home was built in 1968 and last sold on 1993-06-01 for $110,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-06-04T21:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3621 N County Road 27, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/3621-N-County-Road-27-80538/home/34793661",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/3621-N-County-Road-27-80538/home/34793661",
+        "snippet": "3 beds, 1.5 baths, 1598 sq. ft. house located at 3621 N County Road 27, Loveland, CO 80538. View sales history, tax history, home value estimates, and overhead views. APN R0424293.",
+        "dateLastCrawled": "2025-01-20T17:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3621 N County Road 27, Loveland, 80538"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "3621 N County Road 27, Loveland, CO 80538 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3621-N-County-Road-27_Loveland_CO_80538_M25527-24233",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3621-N-County-Road-27_Loveland_CO_80538_M25527-24233",
+        "snippet": "See sales history and home details for 3621 N County Road 27, Loveland, CO 80538, a 3 bed, 2 bath, 1,598 Sq. Ft. single family home built in 1968 that was last sold on 06/01/1993.",
+        "dateLastCrawled": "2024-06-13T19:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "3621 N County Road 27, Loveland, CO 80538 | Homes.com",
+        "url": "https://www.homes.com/property/3621-n-county-road-27-loveland-co/s2ynvcxfwb62j/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/3621-n-county-road-27-loveland-co/s2ynvcxfwb62j",
+        "snippet": "3621 N County Road 27, Loveland, CO 80538 - 2,380 sqft home . Browse photos, take a 3D tour & get detailed information about this property. Buy For Sale; Houses; Townhouses; ... 3621 N County Road 27 Loveland, CO 80538. Estimated Value: $559,783 - $665,000. 3 Beds. 2 Baths. 2,380 Sq Ft. $265 ...",
+        "dateLastCrawled": "2024-12-14T10:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "3621 N County Road 27 Loveland, CO 80538 - Trulia",
+        "url": "https://www.trulia.com/home/3621-n-county-road-27-loveland-co-80538-13846812",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/3621-n-county-road-27-loveland-co-80538-13846812",
+        "snippet": "3621 N County Road 27, Loveland, CO 80538 is a 1,190 sqft, 3 bed, 1.5 bath home sold in 1993. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-12-15T22:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Who Lives at 3621 N County Road 27, Loveland, CO 80538 - Spokeo",
+        "url": "https://www.spokeo.com/CO/Loveland/3621-N-County-Road-27",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Loveland/3621-N-County-Road-27",
+        "snippet": "Find people by address using reverse address lookup for 3621 N County Road 27, Loveland, CO 80538. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-01-09T00:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "3621 N County Road 27 Loveland, CO 80538 - Xome",
+        "url": "https://www.xome.com/realestate/3621-n-county-road-27-loveland-co-80538-31947292",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/3621-n-county-road-27-loveland-co-80538-31947292",
+        "snippet": "3621 N County Road 27 Loveland CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $562,645. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-10-08T14:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "3629 N County Road 27, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3629-N-County-Road-27-Loveland-CO-80538/82026503_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3629-N-County-Road-27-Loveland-CO-80538/82026503_zpid",
+        "snippet": "3629 N County Road 27, Loveland CO, is a Mobile / Manufactured home that contains 1008 sq ft and was built in 1972.It contains 3 bedrooms and 2 bathrooms.This home last sold for $75,000 in April 1993. The Rent Zestimate for this Mobile / Manufactured is $1,665/mo, which has increased by $1,665/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-30T22:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "3620 N County Road 27, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/3620-N-Co-Road-27-80538/home/181000849",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/3620-N-Co-Road-27-80538/home/181000849",
+        "snippet": "3 beds, 3 baths, 2748 sq. ft. house located at 3620 N County Road 27, Loveland, CO 80538 sold for $326,000 on Nov 12, 1998. MLS# 177616.",
+        "dateLastCrawled": "2025-02-26T16:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "3507 N County Road 27, Loveland, CO 80538 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3507-N-County-Road-27_Loveland_CO_80538_M12390-27154",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3507-N-County-Road-27_Loveland_CO_80538_M12390-27154",
+        "snippet": "View 39 photos for 3507 N County Road 27, Loveland, CO 80538, a 6 bed, 3.5 bath, 3,714 Sq. Ft. single family home built in 1994 that was last sold on 10/25/2023.",
+        "dateLastCrawled": "2024-12-12T08:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3621 N Colorado Ave, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3621-N-Colorado-Ave-Loveland-CO-80538/13878761_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3621-N-Colorado-Ave-Loveland-CO-80538/13878761_zpid",
+        "snippet": "3621 N Colorado Ave, Loveland CO, is a Single Family home that contains 2198 sq ft and was built in 1986.It contains 5 bedrooms and 4 bathrooms.This home last sold for $228,500 in February 2014. The Zestimate for this Single Family is $550,300, which has increased by $9,980 in the last 30 days.The Rent Zestimate for this Single Family is $2,919/mo, which has increased by $2,919/mo in the last ...",
+        "dateLastCrawled": "2025-04-21T04:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Dominic Joseph Vittorio from Loveland, Colorado | VoterRecords.com",
+        "url": "https://voterrecords.com/voter/129948954/dominic-vittorio",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/voter/129948954/dominic-vittorio",
+        "snippet": "Dominic Joseph Vittorio (born 2004) is listed at 2719 N County Road 27 Loveland, Co 80538 and has no political party affiliation. He is a male registered to vote in Larimer County, Colorado. Share. Background Report. Background Report. ... 3621 N County Road 27 ...",
+        "dateLastCrawled": "2025-06-05T09:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "3428 N County Road 27, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/3428-N-County-Road-27-80538/home/34793575",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/3428-N-County-Road-27-80538/home/34793575",
+        "snippet": "Sold: 3 beds, 2 baths, 1932 sq. ft. house located at 3428 N County Road 27, Loveland, CO 80538 sold for $790,000 on Mar 7, 2025. MLS# IR1024317. Welcome to this rare gem-a charming ranch-style home...",
+        "dateLastCrawled": "2025-03-22T06:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "3530 N County Road 27, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3530-N-County-Road-27-Loveland-CO-80538/13846759_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3530-N-County-Road-27-Loveland-CO-80538/13846759_zpid",
+        "snippet": "3530 N County Road 27, Loveland CO, is a Single Family home that contains 4568 sq ft and was built in 2014.It contains 5 bedrooms and 4 bathrooms.This home last sold for $1,328,000 in May 2024. The Zestimate for this Single Family is $1,337,600, which has decreased by $5,923 in the last 30 days.The Rent Zestimate for this Single Family is $4,527/mo, which has increased by $4,527/mo in the last ...",
+        "dateLastCrawled": "2025-03-28T15:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3507 N County Road 27, Loveland, CO 80538 | MLS# 989172 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/3507-N-County-Road-27-80538/home/34793707",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/3507-N-County-Road-27-80538/home/34793707",
+        "snippet": "6 beds, 3.5 baths, 3714 sq. ft. house located at 3507 N County Road 27, Loveland, CO 80538 sold for $830,000 on Oct 25, 2023. MLS# 989172. This home sits on over 16+ acres with amazing views of the...",
+        "dateLastCrawled": "2025-01-11T01:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "3629 N County Road 27, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3629-N-County-Road-27-Loveland-CO-80538/82021548_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3629-N-County-Road-27-Loveland-CO-80538/82021548_zpid",
+        "snippet": "3629 N County Road 27, Loveland CO, is a Mobile / Manufactured home that contains 1008 sq ft and was built in 1993.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Mobile / Manufactured is $153,500, which has decreased by $10,064 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,669/mo, which has increased by $1,669/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-04T03:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3629 N County Road 27, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/3629-N-County-Road-27-80538/home/34747127",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/3629-N-County-Road-27-80538/home/34747127",
+        "snippet": "3 beds, 2 baths, 1008 sq. ft. vacant land located at 3629 N County Road 27, Loveland, CO 80538. View sales history, tax history, home value estimates, and overhead views. APN M0990663.",
+        "dateLastCrawled": "2025-05-26T13:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3429 N County Road 27, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3429-N-County-Road-27-Loveland-CO-80538/13846813_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3429-N-County-Road-27-Loveland-CO-80538/13846813_zpid",
+        "snippet": "3429 N County Road 27, Loveland CO, is a Single Family home that contains 1776 sq ft and was built in 1965.It contains 4 bedrooms and 2 bathrooms.This home last sold for $479,000 in April 2020. The Zestimate for this Single Family is $665,700, which has increased by $5,473 in the last 30 days.The Rent Zestimate for this Single Family is $2,598/mo, which has increased by $2,598/mo in the last ...",
+        "dateLastCrawled": "2025-04-13T03:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3428 N County Road 27, Loveland, CO 80538 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3428-N-County-Road-27-Loveland-CO-80538/13846773_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3428-N-County-Road-27-Loveland-CO-80538/13846773_zpid",
+        "snippet": "3428 N County Road 27, Loveland CO, is a Single Family home that contains 1932 sq ft and was built in 1996.It contains 3 bedrooms and 2 bathrooms.This home last sold for $790,000 in March 2025. The Zestimate for this Single Family is $791,300, which has decreased by $37,455 in the last 30 days.The Rent Zestimate for this Single Family is $2,669/mo, which has increased by $2,669/mo in the last ...",
+        "dateLastCrawled": "2025-03-19T17:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3530 N County Road 27, Loveland, CO 80538 | Redfin",
+        "url": "https://www.redfin.com/CO/Loveland/3530-N-County-Road-27-80538/home/34793562",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Loveland/3530-N-County-Road-27-80538/home/34793562",
+        "snippet": "Sold: 5 beds, 4 baths, 4568 sq. ft. house located at 3530 N County Road 27, Loveland, CO 80538 sold for $1,328,000 on May 30, 2024. MLS# 9124105. This one-of-a-kind custom ranch home is a true beau...",
+        "dateLastCrawled": "2025-03-30T02:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

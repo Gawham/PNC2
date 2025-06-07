@@ -1,0 +1,439 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "69 N Ponderosa Way, Evergreen CO 80439"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=69+N+Ponderosa+Way%2c+Evergreen+CO+80439",
+    "totalEstimatedMatches": 614000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "69 Ponderosa Way, Evergreen, CO 80439 | Zillow",
+        "url": "https://www.zillow.com/homedetails/69-Ponderosa-Way-Evergreen-CO-80439/13268863_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.wx7kbHpYX4r9Y3zdBlaJIQAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/69-Ponderosa-Way-Evergreen-CO-80439/13268863_zpid",
+        "snippet": "69 Ponderosa Way, Evergreen CO, is a Single Family home that contains 3203 sq ft and was built in 1983.It contains 3 bedrooms and 3 bathrooms.This home last sold for $418,000 in August 2010. The Zestimate for this Single Family is $1,052,200, which has decreased by $15,913 in the last 30 days.The Rent Zestimate for this Single Family is $3,949/mo, which has decreased by $126/mo in the last 30 ...",
+        "dateLastCrawled": "2024-07-09T11:34:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.wx7kbHpYX4r9Y3zdBlaJIQAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 400,
+          "sourceHeight": 268,
+          "imageId": "OIP.wx7kbHpYX4r9Y3zdBlaJIQAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "69 N Ponderosa Way, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/69-N-Ponderosa-Way-80439/home/128514039",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/69-N-Ponderosa-Way-80439/home/128514039",
+        "snippet": "3 beds, 3 baths, 3136 sq. ft. house located at 69 N Ponderosa Way, Evergreen, CO 80439 sold for $418,000 on Aug 5, 2010. View sales history, tax history, home value estimates, and overhead views. A...",
+        "dateLastCrawled": "2025-04-18T15:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "69 N Ponderosa Way, Evergreen, CO 80439 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/69-N-Ponderosa-Way_Evergreen_CO_80439_M26330-09227",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../69-N-Ponderosa-Way_Evergreen_CO_80439_M26330-09227",
+        "snippet": "See sales history and home details for 69 N Ponderosa Way, Evergreen, CO 80439, a 3 bed, 3 bath, 3,136 Sq. Ft. single family home built in 1983 that was last sold on 08/05/2010.",
+        "dateLastCrawled": "2024-01-21T16:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "69 Ponderosa Way, Evergreen, CO 80439 - Trulia",
+        "url": "https://www.trulia.com/home/69-ponderosa-way-evergreen-co-80439-13268863",
+        "datePublished": "2023-11-30T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 30, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/69-ponderosa-way-evergreen-co-80439-13268863",
+        "snippet": "69 Ponderosa Way, Evergreen, CO 80439 is a 3,203 sqft, 3 bed, 3 bath home sold in 2010. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-11-30T00:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "69 N Ponderosa Way, Evergreen, CO Property Records - County Office",
+        "url": "https://www.countyoffice.org/property-record-69-n-ponderosa-way-evergreen-co-80439-36d/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-69-n-ponderosa-way-evergreen-co-80439-36d",
+        "snippet": "View 69 N Ponderosa Way, Evergreen, CO property records for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax ... 69 North Ponderosa Way Evergreen, CO 80439: Carrier Code: R007: Census Tract: 14700: FIPS: 08019: Parcel Number (APN) 2085-012-03-004: Area: 57,064 sq ft (1.31 acres) Description:",
+        "dateLastCrawled": "2024-03-22T12:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "69 N Ponderosa Way, Evergreen, CO 80439 - Homes.com",
+        "url": "https://www.homes.com/property/69-n-ponderosa-way-evergreen-co/966e3ery663xm/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/69-n-ponderosa-way-evergreen-co/966e3ery663xm",
+        "snippet": "This home is located at 69 N Ponderosa Way, Evergreen, CO 80439 and is currently estimated at $1,081,617, approximately $510 per square foot. 69 N Ponderosa Way is a home located in Clear Creek County with nearby schools including Clear Creek High School.",
+        "dateLastCrawled": "2023-10-27T00:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "69 N Ponderosa Way Evergreen CO 80439 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/69-n-ponderosa-way-evergreen-co-80439-23268513",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/69-n-ponderosa-way-evergreen-co-80439-23268513",
+        "snippet": "69 N Ponderosa Way Evergreen CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $907,275. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-06-25T13:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Ponderosa Way, Evergreen, CO 80439 - House Value & Property Details",
+        "url": "https://www.ownerly.com/co/evergreen/ponderosa-way-home-details",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ownerly.com/co/evergreen/ponderosa-way-home-details",
+        "snippet": "69 N Ponderosa Way. Evergreen, CO 80439. View . 2.5 bath(s) 1.31 acres; 1983 built yr; Last Sold: 2010; Last Sale Price: $454.9K; ... 54 properties and 54 addresses found on Ponderosa Way in Evergreen, CO. The average lot size on Ponderosa Way is 227,557 ft 2 and the average property tax is $3K/yr. The average property on Ponderosa Way was ...",
+        "dateLastCrawled": "2025-04-17T23:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Ownerly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "68 N Ponderosa Way, Evergreen, CO 80439 - Zillow",
+        "url": "https://www.zillow.com/homedetails/68-N-Ponderosa-Way-Evergreen-CO-80439/447567934_zpid/",
+        "datePublished": "2025-03-04T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 4, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/68-N-Ponderosa-Way-Evergreen-CO-80439/447567934_zpid",
+        "snippet": "68 N Ponderosa Way, Evergreen, CO 80439 is currently not for sale. The 2,036 Square Feet single family home is a 2 beds, 3 baths property. This home was built in 1978 and last sold on 2025-04-30 for $899,000. View more property details, sales history, and Zestimate data on Zillow. ... 69 Ponderosa Way, Evergreen, CO 80439. Off Market. $1,477,300.",
+        "dateLastCrawled": "2025-05-16T13:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Who Lives at 69 N Ponderosa Way, Evergreen, CO 80439 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Evergreen/69-N-Ponderosa-Way",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Evergreen/69-N-Ponderosa-Way",
+        "snippet": "Find people by address using reverse address lookup for 69 N Ponderosa Way, Evergreen, CO 80439. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2023-11-25T06:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "68 N Ponderosa Way, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/68-N-Ponderosa-Way-80439/home/128503138",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/68-N-Ponderosa-Way-80439/home/128503138",
+        "snippet": "Sold: 2 beds, 3 baths, 2036 sq. ft. house located at 68 N Ponderosa Way, Evergreen, CO 80439 sold for $899,000 on Apr 30, 2025. MLS# 5925463. Multi-gen, Well-maintained Evergreen West home with Cab...",
+        "dateLastCrawled": "2025-05-16T13:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "68 N Ponderosa Way, Evergreen, CO 80439 | Realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/68-N-Ponderosa-Way_Evergreen_CO_80439_M19581-26189",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../68-N-Ponderosa-Way_Evergreen_CO_80439_M19581-26189",
+        "snippet": "See photos and price history of this 2 bed, 3 bath, 2,036 Sq. Ft. recently sold home located at 68 N Ponderosa Way, Evergreen, CO 80439 that was sold on 04/30/2025 for $899000.",
+        "dateLastCrawled": "2025-05-06T04:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "68 N Ponderosa Way Evergreen, CO 80439 - nocomiranda.com",
+        "url": "https://nocomiranda.com/listing-detail/1153450765/68_N_Ponderosa_Way-Evergreen-CO",
+        "datePublished": "2024-12-19T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 19, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nocomiranda.com/listing-detail/1153450765/68_N_Ponderosa_Way-Evergreen-CO",
+        "snippet": "Homes for sale: 68 N Ponderosa Way, Evergreen, CO 80439 (MLS #: 5925463) with 3 beds, 3.0 baths, 2036 sqft, and listed for $910000.",
+        "dateLastCrawled": "2024-12-18T22:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "3 N Ponderosa Way, Evergreen, CO 80439 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3-N-Ponderosa-Way-Evergreen-CO-80439/448176832_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3-N-Ponderosa-Way-Evergreen-CO-80439/448176832_zpid",
+        "snippet": "3 N Ponderosa Way, Evergreen, CO 80439 is currently not for sale. The 3,434 Square Feet single family home is a 3 beds, 3 baths property. This home was built in 1979 and last sold on 2022-04-07 for $1,030,000.",
+        "dateLastCrawled": "2025-05-01T06:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3 N Ponderosa Way, Evergreen, CO 80439 | Redfin",
+        "url": "https://www.redfin.com/CO/Evergreen/3-N-Ponderosa-Way-80439/home/128527147",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Evergreen/3-N-Ponderosa-Way-80439/home/128527147",
+        "snippet": "4 beds, 3 baths, 3434 sq. ft. house located at 3 N Ponderosa Way, Evergreen, CO 80439 sold for $1,030,000 on Jul 8, 2022. View sales history, tax history, home value estimates, and overhead views. ...",
+        "dateLastCrawled": "2025-03-01T03:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "68 Ponderosa Way, Evergreen, CO 80439 - Zillow",
+        "url": "https://www.zillow.com/homedetails/68-Ponderosa-Way-Evergreen-CO-80439/13268862_zpid/",
+        "datePublished": "2024-11-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 14, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/68-Ponderosa-Way-Evergreen-CO-80439/13268862_zpid",
+        "snippet": "68 Ponderosa Way, Evergreen, CO 80439 is currently not for sale. The 800 Square Feet apartment home is a -- beds, 1 bath property. This home was built in null and last sold on 2025-05-01 for $899,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-20T07:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3 N Ponderosa Way, Evergreen, CO 80439 - Zillow",
+        "url": "https://www.zillow.com/homedetails/3-Ponderosa-Way-Evergreen-CO-80439/13268866_zpid/",
+        "datePublished": "2023-05-10T00:00:00.0000000",
+        "datePublishedDisplayText": "May 10, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3-Ponderosa-Way-Evergreen-CO-80439/13268866_zpid",
+        "snippet": "3 N Ponderosa Way, Evergreen CO, is a Single Family home that contains 3434 sq ft and was built in 1979.It contains 3 bedrooms and 3 bathrooms.This home last sold for $1,030,000 in July 2022. The Zestimate for this Single Family is $1,170,100, which has increased by $10,139 in the last 30 days.The Rent Zestimate for this Single Family is $4,974/mo, which has increased by $4,974/mo in the last ...",
+        "dateLastCrawled": "2025-04-19T01:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3 N Ponderosa Way, Evergreen, CO 80439 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3-N-Ponderosa-Way_Evergreen_CO_80439_M24806-12372",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/3-N-Ponderosa-Way_Evergreen_CO_80439...",
+        "snippet": "View 32 photos for 3 N Ponderosa Way, Evergreen, CO 80439, a 4 bed, 3 bath, 3,434 Sq. Ft. single family home built in 1979 that was last sold on 07/08/2022.",
+        "dateLastCrawled": "2024-02-08T03:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "101 Ponderosa Way, Evergreen, CO 80439 - Zillow",
+        "url": "https://www.zillow.com/homedetails/101-Ponderosa-Way-Evergreen-CO-80439/13268868_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/101-Ponderosa-Way-Evergreen-CO-80439/13268868_zpid",
+        "snippet": "101 Ponderosa Way, Evergreen CO, is a Single Family home that contains 2560 sq ft and was built in 1977.It contains 3 bedrooms and 4 bathrooms.This home last sold for $975,000 in April 2021. The Zestimate for this Single Family is $1,232,200, which has increased by $6,100 in the last 30 days.The Rent Zestimate for this Single Family is $5,200/mo, which has increased by $5,200/mo in the last 30 ...",
+        "dateLastCrawled": "2025-06-05T04:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "394 S Ponderosa Way, Evergreen, CO 80439 | MLS #5795833 - Zillow",
+        "url": "https://www.zillow.com/homedetails/394-S-Ponderosa-Way-Evergreen-CO-80439/444114604_zpid/",
+        "datePublished": "2025-05-18T00:00:00.0000000",
+        "datePublishedDisplayText": "May 18, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/394-S-Ponderosa-Way-Evergreen-CO-80439/444114604_zpid",
+        "snippet": "69 saves | Zillow last checked: 7 hours ago. Listing updated: May 13, 2025 at 10:37am. Listed by: Yvette Putt 303-882-2245, ... 398 Ponderosa Way, Evergreen, CO 80439. Off Market. Skip to the beginning of the carousel. Skip carousel. Local experts in 80439. Skip carousel. Similar homes ...",
+        "dateLastCrawled": "2025-05-15T21:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

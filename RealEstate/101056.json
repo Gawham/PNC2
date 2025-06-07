@@ -1,0 +1,462 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "639 Manitou Blvd, Colorado Springs CO 80904"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=639+Manitou+Blvd%2c+Colorado+Springs+CO+80904",
+    "totalEstimatedMatches": 1030000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "639 Manitou Blvd, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/639-Manitou-Blvd-Colorado-Springs-CO-80904/13667059_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/639-Manitou-Blvd-Colorado-Springs-CO-80904/13667059...",
+        "snippet": "639 Manitou Blvd, Colorado Springs CO, is a Single Family home that contains 1046 sq ft and was built in 1965.It contains 3 bedrooms and 3 bathrooms. The Zestimate for this Single Family is $380,300, which has decreased by $8,535 in the last 30 days.The Rent Zestimate for this Single Family is $2,351/mo, which has increased by $2,351/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-09T06:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "639 Manitou Blvd, Colorado Springs, CO 80904 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/639-Manitou-Blvd-80904/home/34598893",
+        "datePublished": "2025-03-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/639-Manitou-Blvd-80904/home/34598893",
+        "snippet": "3 beds, 2 baths, 1971 sq. ft. house located at 639 Manitou Blvd, Colorado Springs, CO 80904. View sales history, tax history, home value estimates, and overhead views. APN 7412420018.",
+        "dateLastCrawled": "2025-05-03T03:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "639 Manitou Blvd, Colorado Springs, CO 80904 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/639-Manitou-Blvd_Colorado-Springs_CO_80904_M17882-32499",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../639-Manitou-Blvd_Colorado-Springs_CO_80904_M17882-32499",
+        "snippet": "View detailed information about property 639 Manitou Blvd, Colorado Springs, CO 80904 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2025-05-03T03:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "639 Manitou Blvd Colorado Springs, CO 80904 - Trulia",
+        "url": "https://www.trulia.com/home/639-manitou-blvd-colorado-springs-co-80904-13667059",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/639-manitou-blvd-colorado-springs-co-80904-13667059",
+        "snippet": "This single-family home is located at 639 Manitou Blvd, Colorado Springs, CO. 639 Manitou Blvd is in the Old Colorado City neighborhood in Colorado Springs, CO and in ZIP code 80904. This property has 3 bedrooms, 3 bathrooms and approximately 1,046 sqft of floor space. This property has a lot size of 6621 sqft and was built in 1965.",
+        "dateLastCrawled": "2025-06-03T02:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Assessment"
+            },
+            "items": [
+              {
+                "text": "$450,154"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Tax"
+            },
+            "items": [
+              {
+                "text": "$1,317"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Year"
+            },
+            "items": [
+              {
+                "text": "2024"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "639 Manitou Blvd, Colorado Springs, CO 80904 | Homes.com",
+        "url": "https://www.homes.com/property/639-manitou-blvd-colorado-springs-co/c9lyb27dtzexx/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/639-manitou-blvd-colorado-springs-co/c9lyb27dtzexx",
+        "snippet": "This home is located at 639 Manitou Blvd, Colorado Springs, CO 80904 and is currently estimated at $398,811, approximately $381 per square foot. 639 Manitou Blvd is a home located in El Paso County with nearby schools including Bristol Elementary, School of the Arts and STEM, Holmes Middle School, and Coronado High School. ...",
+        "dateLastCrawled": "2025-05-04T14:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "639 Manitou Boulevard, Colorado Springs, CO 80904 Property Records",
+        "url": "https://www.countyoffice.org/property-record-639-manitou-blvd-colorado-springs-co-80904-453/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-639-manitou-blvd-colorado-springs-co...",
+        "snippet": "639 Manitou Blvd Colorado Springs, CO 80904 Loan Mortgage Solutions Co Llc (Mortgage Company) Amount: $86,487 Type: Federal Housing Administration Finance Type: FIXED RATE Details Type: Quit Claim Deed Document ID: 67399 Recording Date: 13 Jul 2011 Original Contract Date: 08 Jul 2011 Buyer",
+        "dateLastCrawled": "2024-08-24T18:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Rocky Mountain Gunslingers, Inc. \u00b7 639 Manitou Blvd, Colorado Springs ...",
+        "url": "https://opengovco.com/business/19971021992",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/19971021992",
+        "snippet": "ROCKY MOUNTAIN GUNSLINGERS, INC. (Entity #19971021992) is a DNC in Colorado Springs, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on February 13, 1997 in the jurisdiction of Colorado. The registered office location is at 639 Manitou Blvd, Colorado Springs, CO 80904. The current entity status is delinquent.",
+        "dateLastCrawled": "2024-09-19T12:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Manitou Blvd, Colorado Springs, CO 80904 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/Manitou-Blvd_Colorado-Springs_CO_80904_M96085-45981",
+        "datePublished": "2023-11-16T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 16, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../Manitou-Blvd_Colorado-Springs_CO_80904_M96085-45981",
+        "snippet": "View detailed information about property Manitou Blvd, Colorado Springs, CO 80904 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-04-20T18:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Manitou Blvd, Colorado Springs, CO 80904 Property Records - County Office",
+        "url": "https://www.countyoffice.org/manitou-blvd-colorado-springs-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/manitou-blvd-colorado-springs-co-property-records",
+        "snippet": "View property records for 84 addresses on Manitou Boulevard in Colorado Springs, CO 80904, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2025-01-05T14:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "639 Manitou Blvd, Colorado Springs, CO 80904-3610",
+        "url": "https://colorado.town/639-manitou-blvd-colorado-springs-co-80904-3610",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://colorado.town/639-manitou-blvd-colorado-springs-co-80904-3610",
+        "snippet": "639 Manitou Blvd, Colorado Springs, CO 80904-3610 POSSIBLE RESIDENT(S): Johnston Florence. Florence Johnston. Robin D Johnston. COLORADO SPRINGS STATS: Total population: 457,502: Males. ... Colorado Springs, CO 80904-3860: 1822 W Kiowa St, Colorado Springs, CO 80904-3557: Travel Video. ABOUT COLORADO.",
+        "dateLastCrawled": "2024-04-16T07:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Who Lives at 639 Manitou Blvd, Colorado Springs, CO 80904 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/639-Manitou-Blvd",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/639-Manitou-Blvd",
+        "snippet": "Find people by address using reverse address lookup for 639 Manitou Blvd, Colorado Springs, CO 80904. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-02-01T20:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "639 Manitou Blvd, Colorado Springs, CO Public Records - ClustrMaps",
+        "url": "https://clustrmaps.com/a/2fcj2n/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://clustrmaps.com/a/2fcj2n",
+        "snippet": "The other way to spell this address is 639 Manitou Boulv, Colorado Springs, CO 80904-3610. The ZIP code for this address is 80904 and the postal code suffix is 3610. Latitude and longitude for the address: 38.84031,-104.837468. Renting a two bedroom apartment in the ZIP code 80904 may cost you $1,200 per month, PD&R says.",
+        "dateLastCrawled": "2023-07-21T23:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "643 Manitou Blvd, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/643-Manitou-Blvd-Colorado-Springs-CO-80904/13667058_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/643-Manitou-Blvd-Colorado-Springs-CO-80904/13667058...",
+        "snippet": "643 Manitou Blvd, Colorado Springs CO, is a Single Family home that contains 1900 sq ft and was built in 1956.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $396,000, which has decreased by $710 in the last 30 days.The Rent Zestimate for this Single Family is $2,154/mo, which has increased by $2,154/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-21T06:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "619 Manitou Blvd, Colorado Springs, CO 80904 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/619-Manitou-Blvd-80904/home/34598919",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/619-Manitou-Blvd-80904/home/34598919",
+        "snippet": "4 beds, 5 baths, 1376 sq. ft. multi-family (2-4 unit) located at 619 Manitou Blvd, Colorado Springs, CO 80904 sold for $625,000 on Jul 23, 2021. MLS# 5081674. Great opportunity to either start a re...",
+        "dateLastCrawled": "2025-02-08T07:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "831 Manitou Blvd, Colorado Springs, CO 80904 - Zillow",
+        "url": "https://www.zillow.com/homedetails/831-Manitou-Blvd-Colorado-Springs-CO-80904/63189868_zpid/",
+        "datePublished": "2025-05-04T00:00:00.0000000",
+        "datePublishedDisplayText": "May 4, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/831-Manitou-Blvd-Colorado-Springs-CO-80904/63189868...",
+        "snippet": "Welcome to 831 Manitou Blvd, a one-of-a-kind retreat perched perfectly between Downtown Colorado Springs and historic Old Colorado City. Set on an oversized R-2 zoned lot just shy of 11,000 sqft, this property offers a rare blend of charm, flexibility, and future development potential.",
+        "dateLastCrawled": "2025-05-12T04:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "633 Manitou Blvd, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/633-Manitou-Blvd-Colorado-Springs-CO-80904/13667061_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/633-Manitou-Blvd-Colorado-Springs-CO-80904/13667061...",
+        "snippet": "633 Manitou Blvd, Colorado Springs CO, is a Single Family home that contains 1092 sq ft and was built in 1974.It contains 3 bedrooms and 1 bathroom.This home last sold for $148,900 in August 2002. The Zestimate for this Single Family is $367,600, which has increased by $3,106 in the last 30 days.The Rent Zestimate for this Single Family is $2,270/mo, which has increased by $2,270/mo in the ...",
+        "dateLastCrawled": "2025-04-03T16:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "739 Manitou Blvd APT B, Colorado Springs, CO 80904 | Zillow",
+        "url": "https://www.zillow.com/homedetails/739-Manitou-Blvd-APT-B-Colorado-Springs-CO-80904/2094469484_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/739-Manitou-Blvd-APT-B-Colorado-Springs-CO-80904/...",
+        "snippet": "739 Manitou Blvd APT B, Colorado Springs, CO 80904 is an apartment unit listed for rent at $1,295 /mo. The 800 Square Feet unit is a 2 beds, 2 baths apartment unit. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-21T06:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "640 Manitou Blvd, Colorado Springs, Colorado - MapQuest - Official MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/colorado-springs/80904-3611/640-manitou-blvd-38.83975,-104.83846",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/colorado-springs/80904-3611/640-manitou-blvd-38...",
+        "snippet": "Get more information for 640 Manitou Blvd in Colorado Springs, Colorado. See reviews, map, get the address, and find directions. ... Search MapQuest. Hotels Food Shopping Coffee Grocery Gas. 640 Manitou Blvd. Share. More. Directions. Advertisement. Advertisement. 640 Manitou Blvd. Colorado Springs, Colorado 80904-3611. See a problem? Let us ...",
+        "dateLastCrawled": "2025-05-19T00:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1407 Manitou Blvd, Colorado Springs, CO 80904 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1407-Manitou-Blvd-Colorado-Springs-CO-80904/126325046_zpid/?mmlb=g,7",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1407-Manitou-Blvd-Colorado-Springs-CO-80904/...",
+        "snippet": "Zillow has 41 photos of this $640,000 3 beds, 4 baths, 2,650 Square Feet single family home located at 1407 Manitou Blvd, Colorado Springs, CO 80904 built in 2015. MLS #2234672.",
+        "dateLastCrawled": "2025-06-05T21:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "619 Manitou Blvd, Colorado Springs, CO 80905 - Zillow",
+        "url": "https://www.zillow.com/homedetails/619-Manitou-Blvd-Colorado-Springs-CO-80905/13667064_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/619-Manitou-Blvd-Colorado-Springs-CO-80905/13667064...",
+        "snippet": "619 Manitou Blvd, Colorado Springs CO, is a Townhouse home that contains 1376 sq ft.It contains 2 bedrooms and 3 bathrooms.This home last sold for $625,000 in August 2021. The Zestimate for this Townhouse is $706,500, which has increased by $6,684 in the last 30 days.The Rent Zestimate for this Townhouse is $2,160/mo, which has increased by $2,160/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-19T06:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

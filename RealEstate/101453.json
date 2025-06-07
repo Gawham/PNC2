@@ -1,0 +1,435 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 388, Loveland CO 80539"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+388%2c+Loveland+CO+80539",
+    "totalEstimatedMatches": 1870000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Contact \u2013 Kuck Mechanical",
+        "url": "https://kuckmechanical.com/contact/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://kuckmechanical.com/contact",
+        "snippet": "Loveland, CO 80538. P.O. Box 388 Loveland, CO 80539. Name (Required) First Last. Phone. Email (Required) Enter Email Confirm Email. Message (Required) Contact Us! 451 west 69th street, CO 80538 (970) 461-3553 (970) 461-3443. Additional Links. Review Us On Google! Safety; Testimonials; Jobs; About Us.",
+        "dateLastCrawled": "2025-06-04T07:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "PO BOX 388 LOVELAND, CO 80539 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-388-loveland-co-80539.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-388-loveland-co-80539.html",
+        "snippet": "There are 9 companies that have an address matching Po Box 388 Loveland, CO 80539. The companies are Kuck Mechanical Contractors LLC, Kuck Properties LLC, Looney Toons LLC, Kuck Mechanical Contractors LLC, Kuck Land And Cattle LLC, Tak Holdings LLC, Shadow Mountain Equities LLC, Kuck Enterprises LLC, and Goldie Investments LLC.",
+        "dateLastCrawled": "2025-05-19T02:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Find USPS Locations | USPS",
+        "url": "https://tools.usps.com/locations/details/1371037",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://tools.usps.com/locations/details/1371037",
+        "snippet": "PO Box. Free Boxes. Click-N-Ship. Skip Send Links Send. Tools; ... For facility accessibility, please call the Post Office. 1-800-ASK-USPS\u00ae (800-275-8777) Can't find what you're looking for? Visit FAQs for answers to common questions about USPS locations and services. FAQs \u2122 2 ...",
+        "dateLastCrawled": "2025-06-06T05:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "USPS.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "KUCK PROPERTIES, LLC in Loveland, CO | Company Info & Reviews - Bizapedia",
+        "url": "https://www.bizapedia.com/co/kuck-properties-llc.html",
+        "datePublished": "2025-04-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 20, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/co/kuck-properties-llc.html",
+        "snippet": "The Registered Agent on file for this company is Theodore Alvin Kuck and is located at 395 W 67th Street, Loveland, CO 80538. The company's principal address is 395 W 67th St, Loveland, CO 80538 and its mailing address is Po Box 388, Loveland, CO 80539. The company has 1 contact on record. The contact is Theodore Alvin Kuck from Loveland CO.",
+        "dateLastCrawled": "2025-05-10T07:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "ZIP Code 80539 Info, Map, Demographics for Loveland, CO",
+        "url": "https://www.zip-codes.com/zip-code/80539/zip-code-80539.asp",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zip-codes.com/zip-code/80539/zip-code-80539.asp",
+        "snippet": "ZIP Code 80539 is located in the city of Loveland, Colorado and covers 0 square miles of land area. It is also located within Larimer County. 80539 is classified as a PO Box ZIP Code. Its primary use is for Post Office box delivery. It may include some mailbox delivery as well, but this will be the minority use.",
+        "dateLastCrawled": "2025-05-27T01:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ZIP-Codes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "LOVELAND, Colorado ZIP Codes",
+        "url": "https://zipcodes-us.com/zip/co/loveland",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://zipcodes-us.com/zip/co/loveland",
+        "snippet": "ZIP Codes for LOVELAND, Colorado. Use our address lookup or code list to find the correct 5-digit or 9-digit (ZIP+4) code for your postal mails destination. ... 80539: PO BOX \u2013 Post offices. JOHNSTOWN \u2014 Post Office \u2122 121 CASTLE PINES AVE JOHNSTOWN, CO 80534-9998. LOVELAND \u2014 Post Office ...",
+        "dateLastCrawled": "2025-06-04T08:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "United States ZIP Codes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Address: PO BOX 361 (From 361 To 388), LOVELAND, CO 80539-0361, USA",
+        "url": "https://co.postcodebase.com/zipcode/80539-0361",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/zipcode/80539-0361",
+        "snippet": "What's 80539-0361? 80539-0361 is a ZIP Code 5 Plus 4 number of PO BOX 361 (From 361 To 388), LOVELAND, CO, USA. Below is detail information.",
+        "dateLastCrawled": "2024-02-06T06:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "LOVELAND US Post Office | 446 E 29TH ST LOVELAND, CO 80538 - 9998",
+        "url": "https://postofficefinder.org/co/larimer/loveland/80538/loveland/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficefinder.org/co/larimer/loveland/80538/loveland",
+        "snippet": "The LOVELAND Post Office is located at 446 E 29TH ST LOVELAND, CO 80538 - 9998. What is the phone number for the LOVELAND Post Office? The phone number for the LOVELAND Post Office is 970-663-3010 .",
+        "dateLastCrawled": "2025-05-24T03:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PostOfficeFinder.org"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Hach Company \u00b7 Po Box 389, Loveland, CO 80539-0539 - OpenGovCO",
+        "url": "https://opengovco.com/license/372458",
+        "datePublished": "1991-07-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 15, 1991",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/372458",
+        "snippet": "The business address is Po Box 389, Loveland, CO 80539-0539. The license first issue date is July 15, 1991. License Overview. Entity Name: Hach Company: Address: Po Box 389 Loveland CO 80539-0539: License Category: Electrical: License Type: Electrical Contractor: License Number: EC.0003403: First Issue Date: 1991-07-15: Last Renewed Date:",
+        "dateLastCrawled": "2025-06-03T18:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "US ZIP Code 80539 - Loveland, Colorado Overview and Interactive Map",
+        "url": "https://www.zipdatamaps.com/80539",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zipdatamaps.com/80539",
+        "snippet": "ZIP Code 80539 - Loveland Colorado 80539 Overview. ZIP Code 80539 is located in Loveland Colorado. 80539 is entirely within Larimer County ... Loveland: Primary County: Larimer County: ZIP Code Type: PO Box: Current Time: MDT: ZIP Code 80539 Map. Share: 80539 Geography. Coordinates: 40.42166519,-105.07058716: Adjacent ZIP Codes: 80538 ...",
+        "dateLastCrawled": "2025-06-01T22:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zipdatamaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Contact \u2013 Loveland Habitat for Humanity",
+        "url": "https://www.lovelandhabitat.org/about/contact-us/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.lovelandhabitat.org/about/contact-us",
+        "snippet": "108 W. 29th St., Unit D Loveland, CO 80538 (970) 669-9769 Mon-Fri: 8 a.m. - 5 p.m. Sat-Sun: Closed",
+        "dateLastCrawled": "2025-05-19T04:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "HACH COMPANY - eam.firstlightpower.com",
+        "url": "https://eam.firstlightpower.com/CarrollCountyEnergy/cceprd/DOCLINKS/ATTACHMENTS/Ack320077533.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://eam.firstlightpower.com/CarrollCountyEnergy/cceprd/DOCLINKS/ATTACHMENTS/Ack...",
+        "snippet": "PO Box 608 Loveland, CO 80539-0608 Web Site: www.hach.com U.S.A. Phone: 800-227-4224 Fax: 970-669-2932 Email: orders@hach.com Wire Transfersquotes@hach.com ... P.O. Number PO-CVEC-220179-0 Payment Terms Net 30 Currency USD Freight Terms Prepay And Bill Customer Ship Method RPS-RPS**FedEx- -Ground",
+        "dateLastCrawled": "2025-04-21T14:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "ZIP Code 5: 80539 - LOVELAND, CO | Colorado United States ZIP Code 5 ...",
+        "url": "https://co.postcodebase.com/zipcode5/80539",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/zipcode5/80539",
+        "snippet": "ZIP Code 5: 80539 - LOVELAND, CO . ZIP Code 80539 is the postal code in LOVELAND, CO. Besides the basic information, it also lists the full ZIP code and the address of ZIP code 80539. Whatsmore, there is more information related to ZIP Code 80539. For example, nearby ZIP code around ZIP Code 80539, etc.",
+        "dateLastCrawled": "2025-06-01T05:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Page 1 of 2 Date: 09/28/2018 HACH COMPANY - David H. Paul, Inc.",
+        "url": "https://dhptraining.com/nx/purchaseorders/receipts/20430315385568280.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://dhptraining.com/nx/purchaseorders/receipts/20430315385568280.pdf",
+        "snippet": "P. O. Box 389 5600 Lindbergh Drive Loveland, CO 80539-0389 Purchase Orders PO Box 608 Loveland, CO 80539-0608 Web Site: www.hach.com U.S.A. Phone: 800-227-4224 Fax: 970-669-2932 Email: orders@hach.com ... PO BOX 2590 FARMINGTON,NM,87499-2590 /United States 1972609 DAVID H PAUL INC",
+        "dateLastCrawled": "2025-04-22T21:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Post Office Loveland (CO) - Opening Hours of USPS Post Offices",
+        "url": "https://www.hourspostoffice.com/USPS%20Post%20Office%20Loveland%20%28CO%29/80538/Loveland/23629",
+        "datePublished": "2025-05-19T00:00:00.0000000",
+        "datePublishedDisplayText": "May 19, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hourspostoffice.com/USPS Post Office Loveland (CO)/80538/Loveland/23629",
+        "snippet": "Opening Hours of Post Office Loveland (CO) in Loveland, CO on 446 E 29th St. Location, phone number, operating hours, services available and other post offices near you. ... PO Box Online; Sure Money; Parking: Lot Parking Available Contacts. Phone support: 1-800-ASK-USPS\u00ae (800-275-8777) TTY: 877-889-2457; Phone: 970-663-3010;",
+        "dateLastCrawled": "2025-05-24T13:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Opening Hours of USPS Post Offices"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Morris Construction Co. \u00b7 P.O. Box 1776, Loveland, CO 80539-0539 ...",
+        "url": "https://opengovco.com/license/372024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/372024",
+        "snippet": "Po Box 85, Loveland, CO 80539-0085: 1976-04-09: Edwin D Litter: MT.3460: PO Box 433, Loveland, CO 80539-0433: 2009-04-01: Find all licenses in the same zip code: Similar Entities Licenses with similar names. License Name License ID Address First Issue Date; M3 Construction LLC: EC.100852:",
+        "dateLastCrawled": "2025-03-11T16:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "48571 - kitsap.gov",
+        "url": "https://www.kitsap.gov/das/Sole%20Source%20Library/Hach%20Company%20-%20PO%2048571.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.kitsap.gov/das/Sole Source Library/Hach Company - PO 48571.pdf",
+        "snippet": "P.O. Box 389 5600 Lindbergh Drive Loveland, CO 80539-0389 Purchase Orders PO Box 608 Loveland, CO 80539-0608 WebSite: www.hach.com Phone: 800-227-4224 Fax: 970-669-2932 E-Mail: orders@hach.com quotes@hach.com techhelp@hach.com Export Phone: 970-669-3050 Fax: 970-461-3939 Email: intl@hach.com 2207 Collections Center Drive",
+        "dateLastCrawled": "2025-05-23T23:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Kitsap County"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Direcci\u00f3n: PO BOX 361 (From 361 To 388), LOVELAND, CO 80539-0361, USA",
+        "url": "https://co.postcodebase.com/es/zipcode/80539-0361",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/es/zipcode/80539-0361",
+        "snippet": "\u00bfQu\u00e9 es 80539-0361? 80539-0361 es un C\u00f3gido Postal 5 M\u00e1s 4 de PO BOX 361 (From 361 To 388), LOVELAND, CO, USA. La informaci\u00f3n detallada se muestra abajo.",
+        "dateLastCrawled": "2024-02-09T08:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Contact \u2013 Be The Gift",
+        "url": "https://www.bethegift.com/contact/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bethegift.com/contact",
+        "snippet": "Northern Colorado. 970.545.GIFT (4438) info@bethegift.com . Headquarter Address: PO Box 1285 Loveland, CO 80539 \" *\" indicates required fields. Do not fill this form out if you're a solicitor. Name * First Last. Phone * Email * Questions / Comments. Comments. This field is for validation purposes and should be left unchanged.",
+        "dateLastCrawled": "2025-05-18T11:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Po Box 678, Loveland, CO 80539-0678 - OpenGovCO",
+        "url": "https://opengovco.com/license/14013",
+        "datePublished": "1997-08-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 27, 1997",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/14013",
+        "snippet": "The business address is Po Box 678, Loveland, CO 80539-0678. The license first issue date is August 27, 1997. License Overview. Licensee Name: Carol Marie Cochrane: Address: Po Box 678 Loveland CO 80539-0678: License Category: Accountancy: License Type: Certified Public Accountant: License Number: CPA.0017618: First Issue Date:",
+        "dateLastCrawled": "2025-05-22T02:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

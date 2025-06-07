@@ -1,0 +1,475 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "4505 S Yosemite St, Unit 410, Denver CO 80237"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=4505+S+Yosemite+St%2c+Unit+410%2c+Denver+CO+80237",
+    "totalEstimatedMatches": 1560000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "4505 S Yosemite St UNIT 410, Denver, CO 80237 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-410-Denver-CO-80237/13426351_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-410-Denver-CO-80237/...",
+        "snippet": "4505 S Yosemite St UNIT 410, Denver, CO 80237 is currently not for sale. The 2,291 Square Feet single family home is a 3 beds, 2 baths property. This home was built in 1976 and last sold on 2000-11-28 for $335,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "deepLinks": [
+          {
+            "name": "4505 S Yosemite St, Denver, CO 80237 - Zillow",
+            "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-Denver-CO-80237/110555239_zpid/",
+            "snippet": "4505 S Yosemite St, Denver CO, is a Condo home that contains 4025 sq ft and was built in 1978.It contains 4 bedrooms and 4 bathrooms. The Zestimate for this Condo is $794,800, which has increased by $1,058 in the last 30 days.The Rent Zestimate for this Condo is $4,572/mo, which has increased by $4,572/mo in the last 30 days."
+          },
+          {
+            "name": "4505 S Yosemite St UNIT 415, Denver, CO 80237 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-415-Denver-CO-80237/13426355_zpid/",
+            "snippet": "4505 S Yosemite St Unit 415, Denver CO, is a Single Family home that contains 2512 sq ft and was built in 1976.It contains 3 bedrooms and 3 bathrooms.This home last sold for $195,000 in September 1985. The Zestimate for this Single Family is $637,800, which has decreased by $2,294 in the last 30 days.The Rent Zestimate for this Single Family is $3,189/mo, which has increased by $3,189/mo in ..."
+          },
+          {
+            "name": "4505 S Yosemite Street Unit 360, Denver, CO 80237 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-360-Denver-CO-80237/13426388_zpid/",
+            "snippet": "4505 S Yosemite Street Unit 360, Denver CO, is a Townhouse home that contains 4582 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $795,000 in October 2024. The Zestimate for this Townhouse is $792,500, which has decreased by $6,020 in the last 30 days.The Rent Zestimate for this Townhouse is $3,735/mo, which has increased by $3,735/mo in the last 30 ..."
+          },
+          {
+            "name": "4505 S Yosemite Street S #371, Denver, CO 80237 - Zillow",
+            "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-371-Denver-CO-80237/13426421_zpid/",
+            "snippet": "Zillow has 46 photos of this $650,000 2 beds, 2 baths, 3,434 Square Feet townhouse home located at 4505 S Yosemite Street S #371, Denver, CO 80237 built in 1978. MLS #6656064."
+          }
+        ],
+        "dateLastCrawled": "2024-08-02T16:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "4505 S Yosemite St #410, Denver, CO 80237 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-410/home/34211537",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-410/home/34211537",
+        "snippet": "3 beds, 2 baths, 2291 sq. ft. townhouse located at 4505 S Yosemite St #410, Denver, CO 80237 sold for \u00a4335,000 on Nov 28, 2000. View sales history, tax history, home value estimates, and overhead v...",
+        "dateLastCrawled": "2024-08-02T19:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "4505 S Yosemite St, Denver, CO 80237 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4505-S-Yosemite-St_Denver_CO_80237_M18404-27196",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/4505-S-Yosemite-St_Denver_CO_80237_M...",
+        "snippet": "Address Estimate Bed Bath Sq Ft Lot (Sq Ft) This Home: 4505 S Yosemite St: $548,100: 198: 4505 S Yosemite St Unit 430, Denver, CO 80237: $632,000: 2-3519: 3924",
+        "dateLastCrawled": "2024-01-01T17:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "4505 S Yosemite St #410, Denver, CO 80237 - Trulia",
+        "url": "https://www.trulia.com/home/4505-s-yosemite-st-410-denver-co-80237-13426351",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/4505-s-yosemite-st-410-denver-co-80237-13426351",
+        "snippet": "4505 S Yosemite St #410, Denver, CO 80237 is a 2,291 sqft, 3 bed, 2 bath home sold in 2000. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-11-13T13:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "4505 S Yosemite St, Denver, CO 80237 - Apartments.com",
+        "url": "https://www.apartments.com/4505-s-yosemite-st-denver-co/qjwndtz/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.J13LHemA3jMCbvXz5gro5wHaHa&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/4505-s-yosemite-st-denver-co/qjwndtz",
+        "snippet": "See all available townhome rentals at 4505 S Yosemite St in Denver, CO. 4505 S Yosemite Sthas rental units starting at $1200. Map. Menu. ... Walkability Near 4505 S Yosemite St Denver, CO 80237. ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tour Video Property Site Map Location Map Unit ...",
+        "dateLastCrawled": "2025-05-19T01:22:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.J13LHemA3jMCbvXz5gro5wHaHa&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 474,
+          "imageId": "OIP.J13LHemA3jMCbvXz5gro5wHaHa"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "4505 S Yosemite St, Denver, CO 80237 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-Denver-CO-80237/110555239_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.y_nyiEo1yg35y_wunHEMxgHaFI&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-Denver-CO-80237/110555239_zpid",
+        "snippet": "4505 S Yosemite St, Denver CO, is a Condo home that contains 4025 sq ft and was built in 1978.It contains 4 bedrooms and 4 bathrooms. The Zestimate for this Condo is $794,800, which has increased by $1,058 in the last 30 days.The Rent Zestimate for this Condo is $4,572/mo, which has increased by $4,572/mo in the last 30 days.",
+        "dateLastCrawled": "2025-06-06T02:37:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.y_nyiEo1yg35y_wunHEMxgHaFI&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 328,
+          "imageId": "OIP.y_nyiEo1yg35y_wunHEMxgHaFI"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "4505 S Yosemite St Unit 371, Denver, CO 80237 | realtor.com\u00ae",
+        "url": "https://pro.realtor.com/realestateandhomes-detail/4505-S-Yosemite-St-Unit-371_Denver_CO_80237_M25238-59758",
+        "datePublished": "2024-09-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 17, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://pro.realtor.com/.../4505-S-Yosemite-St-Unit-371_Denver_CO_80237_M25238-59758",
+        "snippet": "4505 S Yosemite St Unit 371, Denver, CO 80237 is for sale. View 46 photos of this 2 bed, 2 bath, 3434 sqft. townhome with a list price of $674000. ... 410. Below Grade Unfinished Area: 957.00. Common Walls: End Unit, 1 Common Wall. Construction Materials: Concrete, Frame, Stone, Wood Siding.",
+        "dateLastCrawled": "2025-02-11T02:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "4505 S Yosemite St #350, Denver, CO 80237 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-350/home/34211422",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.fL3j5JtKXdUAY8riawEeCAHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-350/home/34211422",
+        "snippet": "4 beds, 4 baths, 3840 sq. ft. townhouse located at 4505 S Yosemite St #350, Denver, CO 80237 sold for $778,000 on Dec 29, 2022. MLS# 4280224. Picturesque home nestled in the quiet, idyllic neighbor...",
+        "dateLastCrawled": "2025-04-04T09:09:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.fL3j5JtKXdUAY8riawEeCAHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.fL3j5JtKXdUAY8riawEeCAHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "4505 S Yosemite Street #433, Denver, CO 80237 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-433-Denver-CO-80237/13426466_zpid/",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-433-Denver-CO-80237/...",
+        "snippet": "Zillow has 50 photos of this $974,000 4 beds, 4 baths, 4,025 Square Feet townhouse home located at 4505 S Yosemite Street #433, Denver, CO 80237 built in 1981. MLS #2279705.",
+        "dateLastCrawled": "2025-05-04T18:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "4505 S Yosemite St Unit 350, Denver, CO 80237 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4505-S-Yosemite-St-Unit-350_Denver_CO_80237_M26177-62932",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4505-S-Yosemite-St-Unit-350_Denver_CO_80237_M26177-62932",
+        "snippet": "View 40 photos for 4505 S Yosemite St Unit 350, Denver, CO 80237, a 4 bed, 4 bath, 3,840 Sq. Ft. townhomes home built in 1978 that was last sold on 12/18/2006.",
+        "dateLastCrawled": "2024-02-28T18:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "4505 S Yosemite St UNIT 415, Denver, CO 80237 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-415-Denver-CO-80237/13426355_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-415-Denver-CO-80237/...",
+        "snippet": "4505 S Yosemite St Unit 415, Denver CO, is a Single Family home that contains 2512 sq ft and was built in 1976.It contains 3 bedrooms and 3 bathrooms.This home last sold for $195,000 in September 1985. The Zestimate for this Single Family is $637,800, which has decreased by $2,294 in the last 30 days.The Rent Zestimate for this Single Family is $3,189/mo, which has increased by $3,189/mo in ...",
+        "dateLastCrawled": "2025-01-26T15:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "4505 S Yosemite St #375, Denver, CO 80237 | MLS# 4499963 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-375/home/34211629",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-375/home/34211629",
+        "snippet": "3 beds, 3.5 baths, 3689 sq. ft. townhouse located at 4505 S Yosemite St #375, Denver, CO 80237 sold for $775,850 on Nov 12, 2020. MLS# 4499963. The perfect combination of location and a professiona...",
+        "dateLastCrawled": "2025-02-02T09:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "4505 S Yosemite Street Unit 360, Denver, CO 80237 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-360-Denver-CO-80237/13426388_zpid/",
+        "datePublished": "2024-10-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 29, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-360-Denver-CO-80237/...",
+        "snippet": "4505 S Yosemite Street Unit 360, Denver CO, is a Townhouse home that contains 4582 sq ft and was built in 1978.It contains 3 bedrooms and 3 bathrooms.This home last sold for $795,000 in October 2024. The Zestimate for this Townhouse is $792,500, which has decreased by $6,020 in the last 30 days.The Rent Zestimate for this Townhouse is $3,735/mo, which has increased by $3,735/mo in the last 30 ...",
+        "dateLastCrawled": "2025-05-01T07:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "4505 S Yosemite St S #371, Denver, CO 80237 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-371/home/34211376",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-371/home/34211376",
+        "snippet": "For Sale: 2 beds, 2 baths \u2219 3434 sq. ft. \u2219 4505 S Yosemite St S #371, Denver, CO 80237 \u2219 $650,000 \u2219 MLS# 6656064 \u2219 Nestled in the heart of Stoney Brook, this bright and airy home features the Beauj...",
+        "dateLastCrawled": "2025-06-04T09:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "4505 S Yosemite St, Denver, CO 80237 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-Denver-CO-80237/118268242_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-Denver-CO-80237/118268242_zpid",
+        "snippet": "4505 S Yosemite St, Denver, CO 80237 is currently not for sale. The -- sqft single family home is a -- beds, 6 baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow. ... 4505 S Yosemite St UNIT 410, Denver, CO 80237. Off Market. $595,600.",
+        "dateLastCrawled": "2025-04-21T10:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "4505 S Yosemite Street S #371, Denver, CO 80237 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-371-Denver-CO-80237/13426421_zpid/",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4505-S-Yosemite-St-UNIT-371-Denver-CO-80237/...",
+        "snippet": "Zillow has 46 photos of this $650,000 2 beds, 2 baths, 3,434 Square Feet townhouse home located at 4505 S Yosemite Street S #371, Denver, CO 80237 built in 1978. MLS #6656064.",
+        "dateLastCrawled": "2025-06-01T06:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "4505 S Yosemite St Unit 371, Denver, CO",
+        "url": "https://www.4505syosemitestunit371.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.4505syosemitestunit371.com",
+        "snippet": "4505 S Yosemite St Unit 371 Denver, CO Active. $ 674,000 2 Beds 2 Baths Townhome Traditional 3,434 sq ft 2-Car Garage with 2 Driveway Spaces Storage Room on Deck ... Denver, CO 80237. 2 Bed | 2 Baths. Request Info THANKS! Your message was sent. We'll be in touch soon. Send another. Your name. Email. Phone. Message. Send Message",
+        "dateLastCrawled": "2025-04-27T04:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "4505 S Yosemite St Unit 106, Denver, CO 80237 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4505-S-Yosemite-St-Unit-106_Denver_CO_80237_M18132-17615",
+        "datePublished": "2025-05-17T00:00:00.0000000",
+        "datePublishedDisplayText": "May 17, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4505-S-Yosemite-St-Unit-106_Denver_CO_80237_M18132-17615",
+        "snippet": "4505 S Yosemite St Unit 106, Denver, CO 80237 is for sale. View 34 photos of this 3 bed, 3 bath, 3128 sqft. townhome with a list price of $785000.",
+        "dateLastCrawled": "2025-05-15T12:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "4505 S Yosemite St #141, Denver, CO 80237 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-141/home/34211210",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-141/home/34211210",
+        "snippet": "Sold: 3 beds, 3 baths, 3128 sq. ft. townhouse located at 4505 S Yosemite St #141, Denver, CO 80237 sold for $775,000 on Apr 24, 2024. MLS# 8048390. Welcome to this beautiful Stoney Brook home in a ...",
+        "dateLastCrawled": "2025-03-05T23:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "4505 S Yosemite St #130, Denver, CO 80237 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-130/home/34211300",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/4505-S-Yosemite-St-80237/unit-130/home/34211300",
+        "snippet": "3 beds, 3 baths, 4582 sq. ft. townhouse located at 4505 S Yosemite St #130, Denver, CO 80237 sold for $1,150,000 on Dec 28, 2023. MLS# 1837848. New price, same amazing home! ... 8500 E Jefferson Unit 3C, Denver, CO 80237. Listing provided by REColorado as Distributed by MLS Grid. $305,000. 2 beds 2 baths 1,186 sq ft. 7420 E Quincy Ave #304 ...",
+        "dateLastCrawled": "2025-05-28T02:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

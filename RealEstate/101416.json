@@ -1,0 +1,436 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "353 Poe Pl, Colorado Springs CO 80910"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=353+Poe+Pl%2c+Colorado+Springs+CO+80910",
+    "totalEstimatedMatches": 944000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "353 Poe Pl, Colorado Springs, CO 80910 - Zillow",
+        "url": "https://www.zillow.com/homedetails/353-Poe-Pl-Colorado-Springs-CO-80910/13613981_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/353-Poe-Pl-Colorado-Springs-CO-80910/13613981_zpid",
+        "snippet": "353 Poe Pl, Colorado Springs CO, is a Single Family home that contains 943 sq ft and was built in 1969.It contains 4 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $317,800, which has increased by $200 in the last 30 days.The Rent Zestimate for this Single Family is $2,009/mo, which has increased by $2,009/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-05T15:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "353 Poe Pl, Colorado Springs, CO 80910 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/353-Poe-Pl-80910/home/34462160",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/353-Poe-Pl-80910/home/34462160",
+        "snippet": "4 beds, 2 baths, 1798 sq. ft. house located at 353 Poe Pl, Colorado Springs, CO 80910 sold for $18,400 on May 1, 1970. View sales history, tax history, home value estimates, and overhead views. ... 353 Poe Pl is a 1,798 square foot house on a 8,400 square foot lot with 4 bedrooms and 2 bathrooms. - it last sold on May 01, 1970 for $18,400.",
+        "dateLastCrawled": "2025-05-27T21:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "353 Poe Pl, Colorado Springs, 80910"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "353 Poe Pl, Colorado Springs, CO 80910 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/353-Poe-Pl_Colorado-Springs_CO_80910_M16649-19496",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/353-Poe-Pl_Colorado-Springs_CO_80910...",
+        "snippet": "View detailed information about property 353 Poe Pl, Colorado Springs, CO 80910 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-06-05T14:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "353 Poe Place, Colorado Springs, CO 80910 - Homes.com",
+        "url": "https://www.homes.com/property/353-poe-place-colorado-springs-co/1hf6y2bwejlgt/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/353-poe-place-colorado-springs-co/1hf6y2bwejlgt",
+        "snippet": "This home is located at 353 Poe Place, Colorado Springs, CO 80910 and is currently estimated at $357,946, approximately $150 per square foot. 353 Poe Place is a home located in El Paso County with nearby schools including Monroe Elementary School, Jack Swigert Aerospace Academy, and Mitchell High School. ...",
+        "dateLastCrawled": "2023-12-11T13:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "353 Poe Pl Colorado Springs CO 80910 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/353-poe-pl-colorado-springs-co-80910-180875321",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/353-poe-pl-colorado-springs-co-80910-180875321",
+        "snippet": "353 Poe Pl Colorado Springs CO with 4 bedroom and 2 bath is currently not for sale. Xome's estimated value is $347,922. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-03-19T06:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Poe Pl, Colorado Springs, CO 80910 Property Records",
+        "url": "https://www.countyoffice.org/poe-pl-colorado-springs-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/poe-pl-colorado-springs-co-property-records",
+        "snippet": "View property records for 11 addresses on Poe Place in Colorado Springs, CO 80910, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2025-05-07T02:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives at 353 Poe Pl, Colorado Springs, CO 80910 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/353-Poe-Pl",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/353-Poe-Pl",
+        "snippet": "Find people by address using reverse address lookup for 353 Poe Pl, Colorado Springs, CO 80910. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-04-28T01:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "353 Poe Pl, Colorado Springs, CO 80910 - Trulia",
+        "url": "https://www.trulia.com/home/353-poe-pl-colorado-springs-co-80910-13613981",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/353-poe-pl-colorado-springs-co-80910-13613981",
+        "snippet": "353 Poe Pl, Colorado Springs, CO 80910 is a 943 sqft, 4 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-05T20:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Who Lives on Poe Pl, Colorado Springs, CO 80910 | Spokeo",
+        "url": "https://www.spokeo.com/Poe+Pl+Colorado+Springs+CO+addresses",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/Poe+Pl+Colorado+Springs+CO+addresses",
+        "snippet": "Find out who lives on Poe Pl, Colorado Springs, CO 80910. Uncover property values, resident history, neighborhood safety score, and more! 11 records found for Poe Pl, Colorado Springs, CO 80910.",
+        "dateLastCrawled": "2024-04-18T19:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "341 Poe Pl, Colorado Springs, CO 80910 - Zillow",
+        "url": "https://www.zillow.com/homedetails/341-Poe-Pl-Colorado-Springs-CO-80910/13613982_zpid/",
+        "datePublished": "2025-04-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 29, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/341-Poe-Pl-Colorado-Springs-CO-80910/13613982_zpid",
+        "snippet": "341 Poe Pl, Colorado Springs CO, is a Single Family home that contains 1886 sq ft and was built in 1969.It contains 5 bedrooms and 2 bathrooms.This home last sold for $310,000 in April 2025. The Zestimate for this Single Family is $310,000, which has increased by $13,360 in the last 30 days.The Rent Zestimate for this Single Family is $2,373/mo, which has increased by $2,373/mo in the last 30 ...",
+        "dateLastCrawled": "2025-05-05T21:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "335 Poe Pl, Colorado Springs, CO 80910 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/335-Poe-Pl_Colorado-Springs_CO_80910_M11075-55538",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/335-Poe-Pl_Colorado-Springs_CO_80910...",
+        "snippet": "View detailed information about property 335 Poe Pl, Colorado Springs, CO 80910 including listing details, property photos, school and neighborhood data, and much more. ... 353 Poe Pl, Colorado ...",
+        "dateLastCrawled": "2024-02-28T13:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "335 Poe Pl, Colorado Springs, CO 80910 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/335-Poe-Pl-80910/home/34462175",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/335-Poe-Pl-80910/home/34462175",
+        "snippet": "3 beds, 1 bath, 1101 sq. ft. house located at 335 Poe Pl, Colorado Springs, CO 80910. View sales history, tax history, home value estimates, and overhead views. APN 6414315005.",
+        "dateLastCrawled": "2025-03-15T14:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "335 Poe Pl, Colorado Springs, CO 80910 - Zillow",
+        "url": "https://www.zillow.com/homedetails/335-Poe-Pl-Colorado-Springs-CO-80910/13613983_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/335-Poe-Pl-Colorado-Springs-CO-80910/13613983_zpid",
+        "snippet": "335 Poe Pl, Colorado Springs CO, is a Single Family home that contains 1101 sq ft and was built in 1969.It contains 3 bedrooms and 1 bathroom. The Zestimate for this Single Family is $271,300, which has increased by $1,561 in the last 30 days.The Rent Zestimate for this Single Family is $1,785/mo, which has increased by $1,785/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-30T16:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "341 Poe Pl, Colorado Springs, CO 80910 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/341-Poe-Pl_Colorado-Springs_CO_80910_M29737-35255",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/341-Poe-Pl_Colorado-Springs_CO_80910...",
+        "snippet": "See photos and price history of this 5 bed, 2 bath, 1,886 Sq. Ft. recently sold home located at 341 Poe Pl, Colorado Springs, CO 80910 that was sold on 04/29/2025 for $310000.",
+        "dateLastCrawled": "2025-05-07T17:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "323 Poe Place, Colorado Springs, CO 80910 | Homes.com",
+        "url": "https://www.homes.com/property/323-poe-place-colorado-springs-co/q04evk19kdhlv/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/323-poe-place-colorado-springs-co/q04evk19kdhlv",
+        "snippet": "This home is located at 323 Poe Place, Colorado Springs, CO 80910 since 18 December 2020 and is currently estimated at $354,881, approximately $272 per square foot. This property was built in 1969. 323 Poe Place is a home located in El Paso County with nearby schools including Monroe Elementary School, Jack Swigert Aerospace Academy, and ...",
+        "dateLastCrawled": "2025-05-14T02:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "323 Poe Pl, Colorado Springs, CO 80910 | MLS# 7095464 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/323-Poe-Pl-80910/home/34462176",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/323-Poe-Pl-80910/home/34462176",
+        "snippet": "3 beds, 2 baths, 1302 sq. ft. house located at 323 Poe Pl, Colorado Springs, CO 80910 sold for $310,000 on Jan 20, 2021. MLS# 7095464. Home Sweet Home, with updates at every turn, plus an oversized...",
+        "dateLastCrawled": "2024-11-30T13:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "311 Poe Pl, Colorado Springs, CO 80910 - Zillow",
+        "url": "https://www.zillow.com/homedetails/311-Poe-Pl-Colorado-Springs-CO-80910/13613979_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/311-Poe-Pl-Colorado-Springs-CO-80910/13613979_zpid",
+        "snippet": "311 Poe Pl, Colorado Springs CO, is a Single Family home that contains 1779 sq ft and was built in 1969.It contains 4 bedrooms and 2 bathrooms.This home last sold for $365,000 in July 2024. The Zestimate for this Single Family is $365,700, which has decreased by $277 in the last 30 days.The Rent Zestimate for this Single Family is $2,058/mo, which has increased by $2,058/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-03T12:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "336 Poe Pl, Colorado Springs, CO 80910 - Zillow",
+        "url": "https://www.zillow.com/homedetails/336-Poe-Pl-Colorado-Springs-CO-80910/13613805_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/336-Poe-Pl-Colorado-Springs-CO-80910/13613805_zpid",
+        "snippet": "336 Poe Pl, Colorado Springs, CO 80910 is currently not for sale. The 920 Square Feet apartment home is a 2 beds, 1 bath property. This home was built in 1969 and last sold on 2012-04-04 for $94,900. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-21T10:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "323 Poe Pl, Colorado Springs, CO 80910 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/323-Poe-Pl_Colorado-Springs_CO_80910_M12560-05383",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/323-Poe-Pl_Colorado-Springs_CO_80910...",
+        "snippet": "View 25 photos for 323 Poe Pl, Colorado Springs, CO 80910, a 3 bed, 2 bath, 1,302 Sq. Ft. single family home built in 1969 that was last sold on 01/20/2021.",
+        "dateLastCrawled": "2024-10-23T04:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "323 Poe Pl, Colorado Springs, CO 80910 - Zillow",
+        "url": "https://www.zillow.com/homedetails/323-Poe-Pl-Colorado-Springs-CO-80910/13613984_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/323-Poe-Pl-Colorado-Springs-CO-80910/13613984_zpid",
+        "snippet": "323 Poe Pl, Colorado Springs CO, is a Single Family home that contains 1302 sq ft and was built in 1969.It contains 3 bedrooms and 2 bathrooms.This home last sold for $310,000 in January 2021. The Zestimate for this Single Family is $356,700, which has increased by $5,258 in the last 30 days.The Rent Zestimate for this Single Family is $2,029/mo, which has increased by $2,029/mo in the last 30 ...",
+        "dateLastCrawled": "2025-03-13T22:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

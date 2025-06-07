@@ -1,0 +1,444 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 38604, Colorado Springs CO 80937"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+38604%2c+Colorado+Springs+CO+80937",
+    "totalEstimatedMatches": 2340000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "PO Boxes | USPS",
+        "url": "https://www.usps.com/manage/po-boxes.htm",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.usps.com/manage/po-boxes.htm",
+        "snippet": "To open your PO Box online: Step 1: Search for Post Office locations near you by using the search bar under \"Find a PO Box Near You.\" Step 2: Choose a Post Office location and select your desired PO Box size and payment period. Step 3: Complete the online application form, accept the Terms & Conditions, enter your billing and payment information, and review and submit your application to ...",
+        "deepLinks": [
+          {
+            "name": "Manage Account",
+            "url": "https://poboxes.usps.com/manageAccount.html",
+            "snippet": "Create a USPS.com(registered trademark symbol) account to print shipping labels, request a Carrier Pickup, buy stamps, shop, plus much more."
+          },
+          {
+            "name": "View FAQs",
+            "url": "https://faq.usps.com/s/article/PO-Box-The-Basics",
+            "snippet": "Learn about USPS PO Boxes, including availability, size options, and account management."
+          },
+          {
+            "name": "Search",
+            "url": "https://poboxes.usps.com/findBox.html",
+            "snippet": "Holds 15+ letters, 5 rolled magazines, or 1 Small Priority Mail Flat Rate Box. Size: 5\" X 5.5\" Starting Price: $5.83/mo* Ideal for: The small PO Box is ideal for small business owners and households who receive multiple letters, bills, and a few bubble envelopes or magazines throughout the week. Select S - Size 2"
+          }
+        ],
+        "dateLastCrawled": "2025-06-05T22:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "USPS.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Find USPS Locations | USPS",
+        "url": "https://tools.usps.com/locations/details/1439566",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://tools.usps.com/locations/details/1439566",
+        "snippet": "PO Box. Free Boxes. Click-N-Ship. Skip Send Links Send. Tools; ... For facility accessibility, please call the Post Office. 1-800-ASK-USPS\u00ae (800-275-8777) Can't find what you're looking for? Visit FAQs for answers to common questions about USPS locations and services. FAQs \u2122 2 ...",
+        "dateLastCrawled": "2025-06-05T15:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "USPS.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "80937 (CO) Post Office - Hours, Passport Appointments",
+        "url": "https://postallocationsnearme.com/colorado/80937/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postallocationsnearme.com/colorado/80937",
+        "snippet": "USPS Post Offices Near Me \u00bb Colorado Post Office \u00bb 80937 Post Office. ... address, phone numbers, passport services, PO box services, and other services provided by the USPS. Post Office. Cheyenne Mountain Post Office 1540 S 8th St Colorado Springs, CO ... Antares Post Office 2641 E Uintah St Colorado Springs, CO ; Post Office Near 80937 ...",
+        "dateLastCrawled": "2025-05-24T04:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Post Office Near Me"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "DR. JACOB THOMAS CROSS JR. M.D. - NPI 1720317746 - NPI Profile",
+        "url": "https://npiprofile.com/npi/1720317746",
+        "datePublished": "2009-12-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 22, 2009",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1720317746",
+        "snippet": "NPI Profile for Jacob Cross internist in 4320 Grantham Ct Colorado Springs, Co 80906. Phone: (719) 538-0006 and 37 years of experience. Taxonomy 207RI0200X. Search. Home; NPI Lookup; Lookup Tools; Doctors; ... PO BOX 38744 COLORADO SPRINGS, CO 80937 Mailing Phone (719) 538-0006 Mailing Fax (855) 722-7677 Medical School Name TULANE UNIVERSITY ...",
+        "dateLastCrawled": "2025-06-04T08:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "ZIP Code 80937 Info, Map, Demographics for Colorado Springs, CO",
+        "url": "https://www.zip-codes.com/zip-code/80937/zip-code-80937.asp",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zip-codes.com/zip-code/80937/zip-code-80937.asp",
+        "snippet": "ZIP Code 80937 in Colorado Springs CO, El Paso County, Area Code 719, maps, population, businesses, geography, statistics, schools, home values. ... Its primary use is for Post Office box delivery. It may include some mailbox delivery as well, but this will be the minority use. 80937 is in the Mountain (GMT -07:00) timezone and does observe ...",
+        "dateLastCrawled": "2025-05-28T01:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ZIP-Codes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "US ZIP Code 80937 - Colorado Springs, Colorado Overview ... - Zipdatamaps",
+        "url": "https://www.zipdatamaps.com/80937",
+        "datePublished": "2025-06-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "5 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zipdatamaps.com/80937",
+        "snippet": "Colorado Springs CO ZIP Code 80937 Profile, Interactive Map, Demographics, Income, Economy, Housing and School Attendance Areas ... ZIP Code 80937 - Colorado Springs Colorado 80937 Overview. ... PO Box: Current Time: MDT: ZIP Code 80937 Map. Share: 80937 Geography. Coordinates:",
+        "dateLastCrawled": "2025-06-02T23:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zipdatamaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Babcock Hole Ranch, LLC - Colorado Company",
+        "url": "https://colorado-corp.com/co/babcock-hole-ranch-llc",
+        "datePublished": "2016-12-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 27, 2016",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://colorado-corp.com/co/babcock-hole-ranch-llc",
+        "snippet": "Business Details of Babcock Hole Ranch, LLC in Colorado. Home; A-Z List; Contact; Babcock Hole Ranch, LLC. Babcock Hole ... PO Box 38429, Colorado Springs, CO 80937, US. Added: 2020-01-06 15:50 Updated: 2025-05-09 00:44. Principal Office Address Main Address: 2380 County Road 388, Wetmore, CO 81253, US ...",
+        "dateLastCrawled": "2025-05-11T15:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Colorado Company Directory"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Stonewall Hunt Club LLC \u00b7 PO Box 38506, Colorado Springs, CO 80937-8506 ...",
+        "url": "https://opengovco.com/license/1379485",
+        "datePublished": "2021-06-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 17, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/1379485",
+        "snippet": "The business address is PO Box 38506, Colorado Springs, CO 80937-8506. The license first issue date is June 17, 2021. License Overview. Entity Name: Stonewall Hunt Club LLC: Address: PO Box 38506 Colorado Springs CO 80937-8506: License Category: Outfitters: License Type: Outfitter: License Number: OUT.0003421: First Issue Date:",
+        "dateLastCrawled": "2025-06-03T12:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "PO BOX 38506 COLORADO SPRINGS, CO 80937 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-38506-colorado-springs-co-80937.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-38506-colorado-springs-co-80937.html",
+        "snippet": "There are 9 companies that have an address matching Po Box 38506 Colorado Springs, CO 80937. The companies are Summer Property Services Inc, The Woodburn Bungalows LLC, Whispering Pines At The Broadmoor LLC, Navajo Bungalow LLC, Cheyenne Road Bungalows LLC, Cheyenne Creek Bungalow LLC, Stonewall Hunt Club LLC, Cheyenne Valley Bungalow LLC, and Southwest Cs Bungalows LLC.",
+        "dateLastCrawled": "2024-08-14T00:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Adresse: PO BOX 38541 (From 38541 To 38658), COLORADO SPRINGS, CO 80937 ...",
+        "url": "https://co.postcodebase.com/fr/zipcode/80937-8541",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/fr/zipcode/80937-8541",
+        "snippet": "Qu'est-ce que 80937-8541? 80937-8541 est un code postal \u00e0 5 Plus 4 chiffres de PO BOX 38541 (From 38541 To 38658), COLORADO SPRINGS, CO, USA. Les informations d\u00e9taill\u00e9es sont ci-dessous.",
+        "dateLastCrawled": "2025-03-06T08:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Donald Ellsworth La Mora \u00b7 Donald E La Mora \u00b7 Po Box 38609, Colorado ...",
+        "url": "https://opengovco.com/attorney/1541",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/attorney/1541",
+        "snippet": "Overview . Donald Ellsworth La Mora is an attorney registered with Office of Attorney Regulation Counsel of the Colorado Supreme Court, admitted in March 20, 1950. The current status is Deceased. The firm name is DONALD E LA MORA. The business address is Po Box 38609, Colorado Springs, CO 80937-8609.",
+        "dateLastCrawled": "2025-05-30T06:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "LivingGodMinistries",
+        "url": "https://www.livinggodministries.net/newsletters/2025_06_01_newsletter.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.livinggodministries.net/newsletters/2025_06_01_newsletter.pdf",
+        "snippet": "Living God Ministries PO Box 38353 Colorado Springs, CO 80937 www.livinggodministries.net June 1, 2025 New Radio Programs Four new programs on the First Book to the ... Colorado Springs, CO 100.7 FM 7:00 \u2013 7:30 pm Sacramento, CA KCBC 770 AM 8:30 \u2013 9:00 am Los Angeles, CA KBRT 740 AM 5:30 \u2013 6:00 pm",
+        "dateLastCrawled": "2025-06-02T20:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Living God Ministries"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "PO BOX 38669 COLORADO SPRINGS, CO 80937 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-38669-colorado-springs-co-80937.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-38669-colorado-springs-co-80937.html",
+        "snippet": "Po Box 38669 Colorado Springs, CO 80937 : Address Types: Mailing: Registered Agent: Robert T Shonkwiler: Filed: February 01, 1996: File Number: 19961015388: Contact Us About The Company Profile For Tourtellot And Squires LLC. 4451 LENNOX AVENUE, LLC: COLORADO LIMITED-LIABILITY COMPANY: WRITE REVIEW:",
+        "dateLastCrawled": "2025-05-24T04:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Postcard Production LLC \u00b7 PO Box 38535 Colorado Springs CO 80937",
+        "url": "https://opengovco.com/business/20191143531",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20191143531",
+        "snippet": "Postcard Production LLC (Entity #20191143531) is a DLLC in Colorado Springs, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on February 19, 2019 in the jurisdiction of Colorado. The registered office location is at PO Box 38535Colorado SpringsCO 80937. The current entity status is delinquent. The registered agent of the entity is Emily Johnston .",
+        "dateLastCrawled": "2024-12-06T01:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "PO BOX 38014 COLORADO SPRINGS, CO 80937 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-38014-colorado-springs-co-80937.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-38014-colorado-springs-co-80937.html",
+        "snippet": "There are 13 companies that have an address matching Po Box 38014 Colorado Springs, CO 80937. The companies are Academy Investments LLC, Level 9 Mountain Homes LLC, 9 Properties LLC, 6 Properties LLC, Helton Helton LLC, Load And Lock Storage LLC, Satellite Nine LLC, Clubview Ventures LLC, The Hot Rod Store Inc, Happy Tap, Load And Lock Storage II, Load And Lock Downtown, and Costilla Ventures LLC.",
+        "dateLastCrawled": "2024-12-03T04:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "PO Box 38334, Colorado Springs, CO 80937 - OpenGovCO",
+        "url": "https://opengovco.com/business/20181025976",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20181025976",
+        "snippet": "Integrative Psychiatric Care (Entity #20181025976) is a DLLC in Colorado Springs, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on January 9, 2018 in the jurisdiction of Colorado. The registered office location is at PO Box 38334, Colorado Springs, CO 80937. The current entity status is voluntarily dissolved.",
+        "dateLastCrawled": "2025-04-14T10:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "PO BOX 38308 COLORADO SPRINGS, CO 80937 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-38308-colorado-springs-co-80937.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-38308-colorado-springs-co-80937.html",
+        "snippet": "Po Box 38308 Colorado Springs, CO 80937 : Address Types: Mailing: Registered Agent: Gregory J Traceski: Filed: November 28, 2001: File Number: 20011225943: Contact Us About The Company Profile For The Core Electric Group, LLC: AGAPE MANAGEMENT SERVICES, LLC: COLORADO LIMITED-LIABILITY COMPANY:",
+        "dateLastCrawled": "2025-05-31T18:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Kristen Lee Hoffecker \u00b7 Kristen Hoffecker PC \u00b7 PO Box 38176, Colorado ...",
+        "url": "https://opengovco.com/attorney/31936",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/attorney/31936",
+        "snippet": "The business address is PO Box 38176, Colorado Springs, CO 80937. Registration Bar Number: 31936: Full Name: KRISTEN LEE HOFFECKER: First Name: KRISTEN: Last Name: HOFFECKER: Firm Name: Kristen Hoffecker PC: Address: PO Box 38176 Colorado Springs CO 80937: Telephone: 719-434-5650: Fax Number (719) 434-5652: License Status: Active:",
+        "dateLastCrawled": "2025-05-15T20:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "PO BOX 38208 COLORADO SPRINGS, CO 80937 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-38208-colorado-springs-co-80937.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-38208-colorado-springs-co-80937.html",
+        "snippet": "There are 3 companies that have an address matching Po Box 38208 Colorado Springs, CO 80937. The companies are Junebug Enterprises LLC, Strategic Fm Inc, and Dwc Colorado LLC. JUNEBUG ENTERPRISES LLC: COLORADO LIMITED-LIABILITY COMPANY: WRITE REVIEW: Address: Po Box 38208 Colorado Springs, CO 80937 : Address Types:",
+        "dateLastCrawled": "2025-05-19T09:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "PO Box 38429, Colorado Springs, CO 80937-8429 - OpenGovCO",
+        "url": "https://opengovco.com/business/20221659184",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20221659184",
+        "snippet": "Armadillo Viejo, LLC (Entity #20221659184) is a Limited Liability Company in Colorado Springs, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on July 5, 2022 in the jurisdiction of Colorado. The registered office location is at PO Box 38429, Colorado Springs, CO 80937-8429. The current entity status is noncompliant.",
+        "dateLastCrawled": "2023-10-22T07:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "3108 S Calle Madrid, Green Valley AZ 85622"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=3108+S+Calle+Madrid%2c+Green+Valley+AZ+85622",
+    "totalEstimatedMatches": 24,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3108-S-Calle-Madrid-Green-Valley-AZ-85622/8656861_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3108-S-Calle-Madrid-Green-Valley-AZ-85622/8656861_zpid",
+        "snippet": "3108 S Calle Madrid, Green Valley AZ, is a Condo home that contains 1591 sq ft and was built in 1982.It contains 2 bedrooms and 2 bathrooms.This home last sold for $145,000 in October 2015. The Zestimate for this Condo is $285,400, which has decreased by $732 in the last 30 days.The Rent Zestimate for this Condo is $1,920/mo, which has increased by $1,920/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-07T00:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3108-S-Calle-Madrid_Green-Valley_AZ_85622_M25681-07119",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3108-S-Calle-Madrid_Green-Valley_AZ_85622_M25681-07119",
+        "snippet": "View 36 photos for 3108 S Calle Madrid, Green Valley, AZ 85622, a 2 bed, 2 bath, 1,591 Sq. Ft. condo townhome rowhome coop home built in 1982 that was last sold on 10/27/2015.",
+        "dateLastCrawled": "2025-01-16T12:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 | MLS# 3056675 | Redfin",
+        "url": "https://www.redfin.com/AZ/Green-Valley/3108-S-Calle-Madrid-85622/home/50620309",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/AZ/Green-Valley/3108-S-Calle-Madrid-85622/home/50620309",
+        "snippet": "2 beds, 2 baths, 1591 sq. ft. townhouse located at 3108 S Calle Madrid, Green Valley, AZ 85622 sold for $145,000 on Oct 27, 2015. MLS# 3056675. This home is move in ready and comes complete with fu...",
+        "dateLastCrawled": "2024-03-04T13:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "3108 S Calle Madrid, Green Valley, 85622, AZ"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 - Apartments.com",
+        "url": "https://www.apartments.com/3108-s-calle-madrid-green-valley-az/1fhbfz4/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/3108-s-calle-madrid-green-valley-az/1fhbfz4",
+        "snippet": "See all available condos for rent at 3108 S Calle Madrid in Green Valley, AZ. 3108 S Calle Madridhas rental units starting at $2600. Map. Menu. Add a Property ; Renter Tools Favorites ; Saved Searches ... Walkability Near 3108 S Calle Madrid Green Valley, AZ 85622. Car-Dependent. 8.",
+        "dateLastCrawled": "2025-06-06T05:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 - Homes.com",
+        "url": "https://www.homes.com/property/3108-s-calle-madrid-green-valley-az/05kmtg7m2xm09/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/3108-s-calle-madrid-green-valley-az/05kmtg7m2xm09",
+        "snippet": "3108 S Calle Madrid, Green Valley, AZ 85622 - 1,591 sqft home built in 1982 . Browse photos, take a 3D tour & see transaction details about this recently sold property. MLS# 21523817.",
+        "dateLastCrawled": "2025-02-24T02:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 | Long Realty",
+        "url": "https://www.longrealty.com/realestate/details/666655/3108-s-calle-madrid-green-valley-az-85622",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.longrealty.com/.../details/666655/3108-s-calle-madrid-green-valley-az-85622",
+        "snippet": "3108 S Calle Madrid, Green Valley, AZ 85622 is a 2 beds, 2 baths, 1591 SqFt Townhouse home. View property details, photos, school and neighborhood data, and more.",
+        "dateLastCrawled": "2025-03-04T18:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Long Realty Company"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "3108 s Calle Madrid, Green Valley, AZ 85622 - Movoto - Movoto by OJO",
+        "url": "https://www.movoto.com/green-valley-az/3108-s-calle-madrid-green-valley-az-85622-472_3046519/",
+        "datePublished": "2024-02-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 13, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/green-valley-az/3108-s-calle-madrid-green-valley-az-85622-472...",
+        "snippet": "3108 s Calle Madrid is a 2 baths, 1,591 Sqft condo built in 1982 and located in the Green Valley Desert Hills neighborhood in Green Valley. View the property estimate, details, and search for more land and homes nearby on Movoto. ... Our agents specialize in selling homes in 85622.",
+        "dateLastCrawled": "2024-02-13T05:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "3108 S Calle Madrid Green Valley, AZ 85622 - Trulia",
+        "url": "https://www.trulia.com/home/3108-s-calle-madrid-green-valley-az-85622-8656861",
+        "datePublished": "1994-09-06T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 6, 1994",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/3108-s-calle-madrid-green-valley-az-85622-8656861",
+        "snippet": "3108 S Calle Madrid, Green Valley, AZ 85622 is a 2 bedroom, 2 bathroom, 1,591 sqft condo built in 1982. This property is not currently available for sale. 3108 S Calle Madrid was last sold on Oct 27, 2015 for $145,000.",
+        "dateLastCrawled": "2025-05-13T22:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "S Calle Madrid Green Valley Arizona 85622 | Foreclosure.com",
+        "url": "https://www.foreclosure.com/address/3108-S-Calle-Madrid-Green-Valley-AZ-85622",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.foreclosure.com/address/3108-S-Calle-Madrid-Green-Valley-AZ-85622",
+        "snippet": "View all the latest property details for homes in Green Valley, to get a feel for real estate in the neighborhood and/or surrounding area(s). THIS IS NOT AN ACTIVE DISTRESSED LISTING. ... 3108 S Calle Madrid, Green Valley, AZ 85622. Overview. This is located at S Calle Madrid, Green Valley, AZ 85622. It has 2 Beds, 2 Baths.",
+        "dateLastCrawled": "2021-06-07T05:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Foreclosure.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 2 Bedroom Apartment for ...",
+        "url": "https://www.zumperrentals.com/address/3108-s-calle-madrid-green-valley-az-85622-usa",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zumperrentals.com/address/3108-s-calle-madrid-green-valley-az-85622-usa",
+        "snippet": "View 3108 S Calle Madrid 85622 rent availability including the monthly rent price and browse photos of this 2 bed, 2 bath, 1591 Sq. Ft. apartment. 3108 S Calle Madrid, Green Valley, AZ 85622 2 Bedroom Apartment for $2,600/month - Zumper Rentals",
+        "dateLastCrawled": "2025-04-21T19:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "3108 S Calle Madrid Green Valley, AZ 85622 - Xome",
+        "url": "https://www.xome.com/realestate/3108-s-calle-madrid-green-valley-az-85622-6570066",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/3108-s-calle-madrid-green-valley-az-85622-6570066",
+        "snippet": "3108 S Calle Madrid Green Valley AZ with 0 bedroom and 2 bath is currently not for sale. Xome's estimated value is $323,058. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-01-01T18:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "3107 S Calle Madrid, Green Valley, AZ 85622 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/3107-S-Calle-Madrid_Green-Valley_AZ_85622_M25889-76047",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../3107-S-Calle-Madrid_Green-Valley_AZ_85622_M25889-76047",
+        "snippet": "View detailed information about property 3107 S Calle Madrid, Green Valley, AZ 85622 including listing details, property photos, school and neighborhood data, and much more. ... 3108 S Calle ...",
+        "dateLastCrawled": "2024-09-27T17:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "3120 S Calle Madrid, Green Valley, AZ 85622 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3120-S-Calle-Madrid-Green-Valley-AZ-85622/8656859_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3120-S-Calle-Madrid-Green-Valley-AZ-85622/8656859_zpid",
+        "snippet": "3120 S Calle Madrid, Green Valley AZ, is a Townhouse home that contains 1200 sq ft and was built in 1984.It contains 2 bedrooms and 2 bathrooms.This home last sold for $279,000 in March 2024. The Zestimate for this Townhouse is $274,100, which has decreased by $3,271 in the last 30 days.The Rent Zestimate for this Townhouse is $1,759/mo, which has increased by $1,759/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-14T20:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "3108 S CALLE MADRID Green Valley AZ 85622-3284 APN: 304630710",
+        "url": "https://www.crexi.com/property-records/3108-CALLE-MADRID-GREEN-VALLEY-AZ-85622-3284/58b3c03ce4ced754fb9425f617d895e01214f189",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.crexi.com/property-records/3108-CALLE-MADRID-GREEN-VALLEY-AZ-85622-3284/58...",
+        "snippet": "Explore property records for 3108 S CALLE MADRID Green Valley AZ 85622-3284 APN: 304630710 on Crexi.com. Get instant access to ownership info, location details, and more. www.crexi.com - The Commercial Real Estate Exchange Comps & Records. Enter a location or keyword. Search. Sale. SEARCH. All Properties ...",
+        "dateLastCrawled": "2024-11-11T17:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Crexi.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "3108 S Calle Madrid, Green Valley, AZ 85622 - MapLiv",
+        "url": "https://mapliv.com/us/address/3108-south-calle-madrid-green-valley-az-85622",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mapliv.com/us/address/3108-south-calle-madrid-green-valley-az-85622",
+        "snippet": "For rent at $2,600, 3108 S Calle Madrid is a 2-bedroom property in the Green Valley Desert Hills neighborhood of Green Valley, with postal code of 85622. The property listing is published on November 13, 2016 via our syndication parter .",
+        "dateLastCrawled": "2024-10-02T16:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapLiv"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "3107 S Calle Madrid, Green Valley, AZ 85622 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3107-S-Calle-Madrid-Green-Valley-AZ-85622/8656826_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3107-S-Calle-Madrid-Green-Valley-AZ-85622/8656826_zpid",
+        "snippet": "3107 S Calle Madrid, Green Valley AZ, is a Townhouse home that contains 1531 sq ft and was built in 1981.It contains 2 bedrooms and 2 bathrooms.This home last sold for $74,500 in August 1992. The Zestimate for this Townhouse is $245,800, which has decreased by $280 in the last 30 days.The Rent Zestimate for this Townhouse is $2,409/mo, which has increased by $2,409/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-17T02:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3101 S Calle Madrid, Green Valley, AZ 85622 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3101-S-Calle-Madrid-Green-Valley-AZ-85622/8656825_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3101-S-Calle-Madrid-Green-Valley-AZ-85622/8656825_zpid",
+        "snippet": "3101 S Calle Madrid, Green Valley AZ, is a Single Family home that contains 1884 sq ft and was built in 1981.It contains 2 bedrooms and 2 bathrooms.This home last sold for $224,900 in June 2017. The Zestimate for this Single Family is $347,600, which has increased by $2,477 in the last 30 days.The Rent Zestimate for this Single Family is $2,302/mo, which has increased by $2,302/mo in the last ...",
+        "dateLastCrawled": "2025-03-30T09:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "3114 S Calle Madrid, Green Valley, AZ 85622 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3114-S-Calle-Madrid-Green-Valley-AZ-85622/8656860_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3114-S-Calle-Madrid-Green-Valley-AZ-85622/8656860_zpid",
+        "snippet": "3114 S Calle Madrid, Green Valley AZ, is a Single Family home that contains 1348 sq ft and was built in 1981.It contains 2 bedrooms and 2 bathrooms.This home last sold for $185,000 in June 2020. The Zestimate for this Single Family is $271,200, which has decreased by $1,961 in the last 30 days.The Rent Zestimate for this Single Family is $2,341/mo, which has increased by $2,341/mo in the last ...",
+        "dateLastCrawled": "2025-01-16T11:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3155 S Calle Madrid, Green Valley, AZ 85622 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3155-S-Calle-Madrid-Green-Valley-AZ-85622/8656834_zpid/",
+        "datePublished": "2023-06-30T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 30, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3155-S-Calle-Madrid-Green-Valley-AZ-85622/8656834_zpid",
+        "snippet": "3155 S Calle Madrid, Green Valley AZ, is a Townhouse home that contains 1528 sq ft and was built in 1981.It contains 2 bedrooms and 2 bathrooms.This home last sold for $349,000 in June 2023. The Zestimate for this Townhouse is $351,600, which has decreased by $7,887 in the last 30 days.The Rent Zestimate for this Townhouse is $1,884/mo, which has increased by $1,884/mo in the last 30 days.",
+        "dateLastCrawled": "2024-10-25T09:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "3143 S Calle Madrid, Green Valley, AZ 85622 | Zillow",
+        "url": "https://www.zillow.com/homedetails/3143-S-Calle-Madrid-Green-Valley-AZ-85622/8656832_zpid/",
+        "datePublished": "2025-02-25T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 25, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/3143-S-Calle-Madrid-Green-Valley-AZ-85622/8656832_zpid",
+        "snippet": "3143 S Calle Madrid, Green Valley AZ, is a Townhouse home that contains 1627 sq ft and was built in 1981.It contains 2 bedrooms and 2 bathrooms.This home last sold for $330,000 in February 2025. The Zestimate for this Townhouse is $329,000, which has decreased by $913 in the last 30 days.The Rent Zestimate for this Townhouse is $3,153/mo, which has increased by $3,153/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-31T04:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

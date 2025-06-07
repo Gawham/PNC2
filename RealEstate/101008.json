@@ -1,0 +1,448 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 951, Lake City CO 81235"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+951%2c+Lake+City+CO+81235",
+    "totalEstimatedMatches": 2980000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Post Office in Lake City, CO - Hours and Location - Postal Locations",
+        "url": "https://www.postallocations.com/co/lake-city/lake-city",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postallocations.com/co/lake-city/lake-city",
+        "snippet": "Post Office in Lake City, Colorado on Gunnison Ave. Operating ... Search; Links; Contact; Postal Locations. Colorado Lake City. Lake City Post Office. 803 Gunnison Ave, Lake City, CO 81235. Contact Numbers Phone: 970-944-2560 Fax: 970-944-2949 TTY: 877-889-2457 ... PO Box rentals and fees, and Available Jobs. *Please call to verify information. ...",
+        "dateLastCrawled": "2025-06-02T01:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "PostalLocations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "LAKE CITY US Post Office | 803 GUNNISON AVE LAKE CITY, CO 81235 - 9707",
+        "url": "https://postofficefinder.org/co/hinsdale/lake-city/81235/lake-city/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficefinder.org/co/hinsdale/lake-city/81235/lake-city",
+        "snippet": "803 GUNNISON AVE LAKE CITY, CO 81235 - 9707. Parking: Lot Parking Available",
+        "dateLastCrawled": "2025-05-20T21:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "803 GUNNISON AVE, Lake City, 81235, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(970) 944-2560"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "PostOfficeFinder.org"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Find USPS Locations | USPS",
+        "url": "https://tools.usps.com/locations/details/1369554",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://tools.usps.com/locations/details/1369554",
+        "snippet": "PO Box. Free Boxes. Click-N-Ship. Skip Send Links Send. Tools; ... For facility accessibility, please call the Post Office. 1-800-ASK-USPS\u00ae (800-275-8777) Can't find what you're looking for? Visit FAQs for answers to common questions about USPS locations and services. FAQs \u2122 2 ...",
+        "dateLastCrawled": "2025-05-14T20:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "USPS.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "803 Gunnison Ave Lake City CO 81235 | Post Office Location",
+        "url": "https://www.postofficelocations.net/details/803-Gunnison-Ave-Lake-City-CO-81235/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficelocations.net/details/803-Gunnison-Ave-Lake-City-CO-81235",
+        "snippet": "Lake City, CO 81235: Phone: (970) 944-2560: This is the post office location for the Lake City Post Office in Hinsdale County. View all post offices in and around Lake City, CO for the closest office near you. Get your mail done today by finding out the information you need right here before you head out the door. ...",
+        "dateLastCrawled": "2024-09-17T03:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Post Office Locations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "United States Postal Service, 803 Gunnison Ave, Lake City, CO 81235, US ...",
+        "url": "https://www.mapquest.com/us/colorado/united-states-postal-service-351274051",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/united-states-postal-service-351274051",
+        "snippet": "Get more information for United States Postal Service in Lake City, CO. See reviews, map, get the address, and find directions. ... More. Directions. Advertisement. Advertisement. Photos View gallery. LOGO. 803 Gunnison Ave. Lake City, CO 81235 +1 (800) 275-8777. https://tools.usps.com. Visit your local Post Office\u2122 at 803 Gunnison Ave! The U ...",
+        "dateLastCrawled": "2025-04-20T09:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Lake City Post Office 803 Gunnison Ave Lake City Colorado 81235",
+        "url": "https://www.uspostofficelocations.com/lake-city-post-office-colorado-pl12479",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.uspostofficelocations.com/lake-city-post-office-colorado-pl12479",
+        "snippet": "Lake City post office location at 803 Gunnison Ave Lake City Colorado 81235. View hours of operations, phone number, services provides including money orders, stamps, passports and PO boxes. US Post Offices-Locations- ... PO Box Hours; Mon-Sun: 12:01am - 11:59pm. Except on Federal Holidays. Nearby Post Offices. Powderhorn Post Office.",
+        "dateLastCrawled": "2024-09-17T00:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "USPostOfficeLocations.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Lake City Post Office - Lake city,CO | Mailbox Locate",
+        "url": "https://mailboxlocate.com/offices/1369554-lake-city/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mailboxlocate.com/offices/1369554-lake-city",
+        "snippet": "803 Gunnison Ave Lake City, CO 81235 9709442560. ... (USPS) facility in Lake City, CO. This post office offers a full array of services, including package delivery and first class mail. Call now 9709442560 Get Directions Mailboxes in Lake City Postage Stamp in Lake City. Post Office Lobby Hours. Monday.",
+        "dateLastCrawled": "2024-12-16T15:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Mailbox Locate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Post Office Lake City (CO) - Opening Hours of USPS Post Offices",
+        "url": "https://www.hourspostoffice.com/USPS%20Post%20Office%20Lake%20City%20%28CO%29/81235/Lake%20City/22399",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hourspostoffice.com/USPS Post Office Lake City (CO)/81235/Lake City/22399",
+        "snippet": "Opening Hours of Post Office Lake City (CO) in Lake City, CO on 803 Gunnison Ave. Location, phone number, operating hours, services available and other post offices near you. ... 803 Gunnison Ave: Town/City: Lake City: State: CO: ZIP : 81235-9707: Phone: 970-944-2560: The Post Office is open Monday to Friday from 8:30 am to 11:30 am and from 12 ...",
+        "dateLastCrawled": "2024-06-01T06:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Opening Hours of USPS Post Offices"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "USPS, 803 Gunnison Ave, Lake City, CO 81235, US - MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/usps-459590276",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/usps-459590276",
+        "snippet": "Get more information for USPS in Lake City, CO. See reviews, map, get the address, and find directions. ... USPS +1 (970) 944-2560. Website. More. Directions. Advertisement. Advertisement. 803 Gunnison Ave. Lake City, CO 81235 +1 (970) 944-2560 ... and advanced parcel tracking systems. The network of post office branches scattered throughout ...",
+        "dateLastCrawled": "2025-06-01T07:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Contact - with staff - Town of Lake City, CO",
+        "url": "https://www.townoflakecityco.gov/contact---with-staff.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.townoflakecityco.gov/contact---with-staff.html",
+        "snippet": "National Holidays Observed by the Town of Lake City New Year\u2019s Day, Martin Luther King, Jr.Day , Presidents Day, Memorial Day, Independence Day, Labor Day, Columbus Day, Thanksgiving Day, Day after Thanksgiving, Christmas Day Contact the Town Office Office Phone: 970-944-2333 Fax: 970-944-2337 Mail: PO BOX 544, Lake City, CO 81235",
+        "dateLastCrawled": "2025-06-06T02:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Lake City Post Office | 803 Gunnison Ave, Lake City, CO 81235 | US Post ...",
+        "url": "https://www.uspostofficehours.org/location/co_803_lake-city-post-office",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.uspostofficehours.org/location/co_803_lake-city-post-office",
+        "snippet": "Lake City Post Office, 803 Gunnison Ave, Lake City, CO 81235",
+        "dateLastCrawled": "2025-06-01T09:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "US Post Office Hours"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Hinsdale County Property Records Explained | U.S. Title Records",
+        "url": "https://www.ustitlerecords.com/online-access-hinsdale-county-colorado-co-property-records-deeds-for-title-and-lien-searches/",
+        "datePublished": "2025-06-06T00:00:00.0000000",
+        "datePublishedFreshnessText": "1 day ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ustitlerecords.com/online-access-hinsdale-county-colorado-co-property...",
+        "snippet": "The office is located at 317 North Henson Street, PO Box 9, Lake City, CO 81235, and can be reached at 970-944-2225 ext: 120. The Clerk and Recorder\u2019s office maintains permanent records of all property transactions and provides public access to these documents during regular business hours, Monday through Friday from 8 AM to 5 PM.",
+        "dateLastCrawled": "2025-06-06T20:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "U.S. Title Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Po Box 491, Lake City, CO 81235-1235 - OpenGovCO",
+        "url": "https://opengovco.com/license/359679",
+        "datePublished": "1994-09-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 21, 1994",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/359679",
+        "snippet": "The business address is Po Box 491, Lake City, CO 81235-1235. The license first issue date is September 21, 1994. License Overview. Licensee Name: Bradford L Smith: Address: Po Box 491 Lake City CO 81235-1235: License Category: Electrical: License Type: Journeyman Electrician: License Number: JW.0012142: First Issue Date: 1994-09-21:",
+        "dateLastCrawled": "2025-05-09T22:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Contact Us - Lake City Community School",
+        "url": "https://www.lakecityschool.org/about-us/contact-us",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.lakecityschool.org/about-us/contact-us",
+        "snippet": "General Inquiries. Lake City Community School PO Box 39 614 N. Silver Street Lake City, CO 81235 Phone 970-944-2314 Fax 970-944-2662",
+        "dateLastCrawled": "2025-05-21T12:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "ZIP Code 81235 Info, Map, Demographics for Lake City, CO",
+        "url": "https://www.zip-codes.com/zip-code/81235/zip-code-81235.asp",
+        "datePublished": "2025-02-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zip-codes.com/zip-code/81235/zip-code-81235.asp",
+        "snippet": "ZIP Code 81235 is located in the city of Lake City, Colorado and covers 534.605 square miles of land area. It is also located within Hinsdale County. According to the 2020 U.S. Census, there are 728 people in 355 households. ZIP-Codes.com estimates that the current population is 75. It has a population density of 1.4 people per square mile.",
+        "dateLastCrawled": "2025-02-24T03:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ZIP-Codes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Contact - Town of Lake City, CO",
+        "url": "https://www.townoflakecityco.gov/contact.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.townoflakecityco.gov/contact.html",
+        "snippet": "Lake City Town offices are located at 230 N Bluff Street, in the historic Armory Building, at the back of the building, off of the alley, behind the bank. ... Mail: PO Box 544, Lake City, CO 81235 Contact the Town Staff Alexander Mulhall, Town Manager | 970-944-2333, email Grant Massey, Town Clerk/Treasurer/Municipal Court Clerk | 970-944-2333 ...",
+        "dateLastCrawled": "2025-05-31T22:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Riverview Cabin - Wood Lake RV Park",
+        "url": "https://www.woodlakervpark.com/riverview.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.woodlakervpark.com/riverview.html",
+        "snippet": "Nestled among the pine trees not far from the Lake Fork River sits the Riverview Cabin. This cabin sleeps up to four, is fully equipped with linens, utensils, dishes, and all the conveniences of a full working kitchen. ... PO Box 400, Lake City, CO 81235. 2690 Hwy 149 South, Lake City, CO 81235. Phone: 970-901-6713 ...",
+        "dateLastCrawled": "2025-06-04T02:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Wood Lake RV Park"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Quinn Specialty, 1181 OCEAN WAVE DR, LAKE CITY, CO | FFLs.com",
+        "url": "https://www.ffls.com/ffl/584053017g04205/quinn-robert-g",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ffls.com/ffl/584053017g04205/quinn-robert-g",
+        "snippet": "Quinn Specialty, 1181 OCEAN WAVE DR, LAKE CITY, CO 81235 FFL Number 5-84-053-01-7G-04205 expires 7/1/2027. Home; Search by State; Login; Home; Search by State; Colorado; LAKE CITY; ... LAKE CITY, CO 81235 Mailing Address: PO BOX 1184 LAKE CITY, CO 81235. Phone: 970-901-6813. FFL Definition IRS Region: 5 District: 84 FIPS Code: 053",
+        "dateLastCrawled": "2025-04-06T03:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Town Hall - Town of Lake City, CO",
+        "url": "https://www.townoflakecityco.gov/town-hall.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.townoflakecityco.gov/town-hall.html",
+        "snippet": "National Holidays Observed by the Town of Lake City New Year\u2019s Day, Martin Luther King, Jr.Day , Presidents Day, Veterans Day, Memorial Day, Independence Day, Labor Day, Columbus Day, Thanksgiving Day, Day after Thanksgiving, Christmas Day Contact Town Hall Office Phone: 970-944-2333 Mail: PO Box 544, Lake City, CO 81235 Contact the Town Staff",
+        "dateLastCrawled": "2025-06-02T21:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "PO BOX 57 LAKE CITY, CO 81235 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-57-lake-city-co-81235.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-57-lake-city-co-81235.html",
+        "snippet": "Po Box 57 Lake City, CO 81235 - Lake City Cafe Inc, San Juan Coffee Company Inc, San Juan Holdings Inc. PO BOX 57 LAKE CITY, CO 81235: Sponsored Links. ... Po Box 57 Lake City, CO 81235 : Address Types: Mailing: Registered Agent: Drew Mcspadden Paschall: Filed: January 09, 2016: File Number:",
+        "dateLastCrawled": "2025-05-19T05:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

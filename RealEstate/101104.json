@@ -1,0 +1,441 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "159 El Lobo Ln, Fairplay CO 80440"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=159+El+Lobo+Ln%2c+Fairplay+CO+80440",
+    "totalEstimatedMatches": 227000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "159 El Lobo Ln, Fairplay, CO 80440 - Zillow",
+        "url": "https://www.zillow.com/homedetails/159-El-Lobo-Ln-Fairplay-CO-80440/225396168_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/159-El-Lobo-Ln-Fairplay-CO-80440/225396168_zpid",
+        "snippet": "159 El Lobo Ln, Fairplay, CO 80440 is currently not for sale. The 2,063 Square Feet single family home is a 2 beds, 2 baths property. This home was built in 1998 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-02T18:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "159 El Lobo Ln, Fairplay, CO 80440 | Redfin",
+        "url": "https://www.redfin.com/CO/Fairplay/159-El-Lobo-Ln-80440/home/111029514",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fairplay/159-El-Lobo-Ln-80440/home/111029514",
+        "snippet": "2 beds, 2 baths, 3482 sq. ft. house located at 159 El Lobo Ln, Fairplay, CO 80440 sold for $250,000 on May 14, 2004. View sales history, tax history, home value estimates, and overhead views. APN 1...",
+        "dateLastCrawled": "2025-01-13T03:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "159 El Lobo Ln, Fairplay, 80440, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "159 El Lobo Ln, Fairplay, CO 80440 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/159-El-Lobo-Ln_Fairplay_CO_80440_M21287-53120",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/159-El-Lobo-Ln_Fairplay_CO_80440_M...",
+        "snippet": "See sales history and home details for 159 El Lobo Ln, Fairplay, CO 80440, a 2 bed, 2 bath, 3,482 Sq. Ft. single family home built in 1998 that was last sold on 05/14/2004.",
+        "dateLastCrawled": "2024-07-22T14:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "159 El Lobo Ln, Fairplay, CO 80440 | Homes.com",
+        "url": "https://www.homes.com/property/159-el-lobo-ln-fairplay-co/g1bp78zjtwvbx/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/159-el-lobo-ln-fairplay-co/g1bp78zjtwvbx",
+        "snippet": "This home is located at 159 El Lobo Ln, Fairplay, CO 80440 and is currently estimated at $966,535, approximately $468 per square foot. 159 El Lobo Ln is a home with nearby schools including Edith Teter Elementary School, South Park Middle School, and South Park High School.",
+        "dateLastCrawled": "2025-05-15T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "159 el Lobo Lane, Fairplay, CO 80440 Property Records - County Office",
+        "url": "https://www.countyoffice.org/property-record-159-el-lobo-ln-fairplay-co-80440-582/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-159-el-lobo-ln-fairplay-co-80440-582",
+        "snippet": "View 159 el Lobo Lane, Fairplay, CO property records for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 159 El Lobo Lane Fairplay, CO 80440: Census Tract: 300: FIPS: 08093: Parcel Number (APN) R0011828: Area ...",
+        "dateLastCrawled": "2024-06-15T21:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "159 El Lobo Ln Fairplay CO 80440 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/159-el-lobo-ln-fairplay-co-80440-120427325",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/159-el-lobo-ln-fairplay-co-80440-120427325",
+        "snippet": "159 El Lobo Ln Fairplay CO with 2 bedroom and 2 bath is currently not for sale. Xome's estimated value is $1,110,393. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-09-16T11:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "159 El Lobo Cir Fairplay CO - Zillow",
+        "url": "https://www.zillow.com/b/159-el-lobo-cir-fairplay-co-9pn8c3/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/b/159-el-lobo-cir-fairplay-co-9pn8c3",
+        "snippet": "Looking for pros? Real estate agents; Property managers; Home inspectors; Other pros; Home improvement pros; Home builders; Real estate photographers; I'm a pro",
+        "dateLastCrawled": "2025-04-11T12:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "el Lobo Ln, Fairplay, CO 80440 Property Records",
+        "url": "https://www.countyoffice.org/el-lobo-ln-fairplay-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/el-lobo-ln-fairplay-co-property-records",
+        "snippet": "el Lobo Ln in Fairplay, CO 80440 has 21 properties with an average market value of $62,000. These homes, built between 1998 and 2022, typically offer 2 and 3 bedrooms and 1-3 bathrooms. ... 159 el Lobo Ln, Fairplay, CO 80440: $1,169,335: 2: $250k (May 2004) 2,063 sq ft: 189 el Lobo Ln, Fairplay, CO 80440: $60,301--$62.7k (January 2022)--",
+        "dateLastCrawled": "2024-10-06T13:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "People who live on El Lobo Ln in Fairplay, Colorado",
+        "url": "https://voterrecords.com/street/el+lobo+ln-fairplay-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/el+lobo+ln-fairplay-co",
+        "snippet": "There are 2 people who live on El Lobo Ln in Fairplay, Colorado that are registered to vote. Toggle navigation VoterRecords.com. ... 159 El Lobo Ln Fairplay, CO 80440: ... Unaffiliated: 408 El Lobo Ln Fairplay, CO 80440: View Details : Research More People. View Voters from Fairplay, CO View All Voters. Search for yourself or someone you know ...",
+        "dateLastCrawled": "2025-05-29T17:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "159 El Lobo Ln, Fairplay, CO 80440 - Trulia",
+        "url": "https://www.trulia.com/home/159-el-lobo-ln-fairplay-co-80440-225396168",
+        "datePublished": "2023-12-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 11, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/159-el-lobo-ln-fairplay-co-80440-225396168",
+        "snippet": "159 El Lobo Ln, Fairplay, CO 80440 is a 2,063 sqft, 2 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-11T05:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "153 El Lobo Cir, Fairplay, CO 80440 | Redfin",
+        "url": "https://www.redfin.com/CO/Fairplay/153-El-Lobo-Ln-80440/home/111002607",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fairplay/153-El-Lobo-Ln-80440/home/111002607",
+        "snippet": "3 beds, 1.5 baths, 2100 sq. ft. house located at 153 El Lobo Cir, Fairplay, CO 80440 sold for $309,950 on Sep 14, 2020. MLS# 3956724. Enjoy your own Private Pond from this Renovated Chalet! This ho...",
+        "dateLastCrawled": "2025-03-22T03:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "226 El Lobo Ln, Fairplay, CO 80440 - Zillow",
+        "url": "https://www.zillow.com/homedetails/226-El-Lobo-Ln-Fairplay-CO-80440/87811862_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/226-El-Lobo-Ln-Fairplay-CO-80440/87811862_zpid",
+        "snippet": "226 El Lobo Ln, Fairplay CO, is a Single Family home that contains 1708 sq ft and was built in 2006.It contains 3 bedrooms and 2 bathrooms.This home last sold for $317,801 in February 2007. The Zestimate for this Single Family is $868,100, which has increased by $13,660 in the last 30 days.The Rent Zestimate for this Single Family is $3,052/mo, which has increased by $3,052/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-17T03:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "182 El Lobo Ln, Fairplay, CO 80440 - Redfin",
+        "url": "https://www.redfin.com/CO/Fairplay/182-El-Lobo-Ln-80440/home/192824748",
+        "datePublished": "2024-09-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 29, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fairplay/182-El-Lobo-Ln-80440/home/192824748",
+        "snippet": "Sold: Vacant land located at 182 El Lobo Ln, Fairplay, CO 80440 sold for $56,500 on Jan 17, 2025. MLS# 5445409. Welcome to this beautifully wooded lot in Fairplay perfect for your future dream home...",
+        "dateLastCrawled": "2025-04-18T00:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "632 El Lobo Ln, Fairplay, CO 80440 [Updated 2/24] - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/632-El-Lobo-Ln_Fairplay_CO_80440_M97770-69201",
+        "datePublished": "2024-12-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 7, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/632-El-Lobo-Ln_Fairplay_CO_80440_M...",
+        "snippet": "632 El Lobo Ln, Fairplay, CO 80440 is for sale. View 33 photos of this 1.01 acre lot land with a list price of $62000.",
+        "dateLastCrawled": "2025-05-23T11:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "182 El Lobo Ln, Fairplay, CO 80440 - Zillow",
+        "url": "https://www.zillow.com/homedetails/182-El-Lobo-Ln-Fairplay-CO-80440/386125768_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/182-El-Lobo-Ln-Fairplay-CO-80440/386125768_zpid",
+        "snippet": "182 El Lobo Ln, Fairplay, CO 80440 is currently not for sale. The vacant lot last sold on 2025-01-17 for $56,500, with a recorded lot size of 1 acres (43560 sq. ft.). View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-20T16:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "586 El Lobo Ln, Fairplay, CO 80440 - Redfin",
+        "url": "https://www.redfin.com/CO/Fairplay/586-El-Lobo-Ln-80440/home/178540938",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fairplay/586-El-Lobo-Ln-80440/home/178540938",
+        "snippet": "For Sale: 586 El Lobo Ln, Fairplay, CO 80440 \u2219 $79,000 \u2219 MLS# S1055303 \u2219 This beautifully treed lot is the ideal destination for the avid skier and outdoorsman. Located in Valley of the Sun, it is ...",
+        "dateLastCrawled": "2025-03-26T01:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "189 El Lobo Cir, Fairplay, CO 80440 - Zillow",
+        "url": "https://www.zillow.com/homedetails/189-El-Lobo-Cir-Fairplay-CO-80440/225396009_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/189-El-Lobo-Cir-Fairplay-CO-80440/225396009_zpid",
+        "snippet": "189 El Lobo Cir, Fairplay, CO 80440 is currently not for sale. The vacant lot last sold on 2022-01-12 for $62,700, with a recorded lot size of 1.02 acres (44431 sq. ft.). ... (189), just West of house at 153 El Lobo Lane, on the left side. only approx 22 miles from Breckenridge. Make this your vacation get away with a cabin in the woods on this ...",
+        "dateLastCrawled": "2025-03-31T03:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "189 El Lobo Cir, FAIRPLAY, CO 80440 - Redfin",
+        "url": "https://www.redfin.com/CO/Fairplay/189-El-Lobo-Ln-80440/home/165104536",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fairplay/189-El-Lobo-Ln-80440/home/165104536",
+        "snippet": "Vacant land located at 189 El Lobo Cir, FAIRPLAY, CO 80440 sold for $62,700 on Jan 12, 2022. MLS# S1027399. A beautiful Treed 1.02 acres on El Lobo, (189), just West of house at 153 El Lobo Lane, o...",
+        "dateLastCrawled": "2025-04-30T22:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "134 El Lobo Ln, Fairplay, CO 80440 | MLS #S1053492 | Zillow",
+        "url": "https://www.zillow.com/homedetails/134-El-Lobo-Ln-Fairplay-CO-80440/386125576_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/134-El-Lobo-Ln-Fairplay-CO-80440/386125576_zpid",
+        "snippet": "Zillow has 16 photos of this $75,000 1.01 Acres lot located at 134 El Lobo Ln, Fairplay, CO 80440 MLS #S1053492. Skip main navigation. Sign In. Join; Homepage. Buy Open Buy sub-menu. Homes for sale. Homes for sale; Foreclosures; For sale by owner; Open houses; ... 159 El Lobo Ln, Fairplay, CO 80440.",
+        "dateLastCrawled": "2025-01-25T11:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "134 El Lobo Ln, Fairplay, CO 80440 | MLS# 4791569 | Redfin",
+        "url": "https://www.redfin.com/CO/Fairplay/134-El-Lobo-Ln-80440/home/192824747",
+        "datePublished": "2024-09-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 29, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fairplay/134-El-Lobo-Ln-80440/home/192824747",
+        "snippet": "For Sale: 134 El Lobo Ln, Fairplay, CO 80440 \u2219 $72,000 \u2219 MLS# 4791569 \u2219 Welcome to this beautifully wooded lot in Fairplay perfect for your future dream home! Nearly 1 acre nestled on a picturesque...",
+        "dateLastCrawled": "2024-11-06T12:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

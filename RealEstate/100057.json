@@ -1,0 +1,437 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "624 Zuni Cir, Fort Collins CO 80526"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=624+Zuni+Cir%2c+Fort+Collins+CO+80526",
+    "totalEstimatedMatches": 442000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "624 Zuni Cir, Fort Collins, CO 80526 - Zillow",
+        "url": "https://www.zillow.com/homedetails/624-Zuni-Cir-Fort-Collins-CO-80526/13917294_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/624-Zuni-Cir-Fort-Collins-CO-80526/13917294_zpid",
+        "snippet": "624 Zuni Cir, Fort Collins CO, is a Single Family home that contains 1765 sq ft and was built in 1978.It contains 3 bedrooms and 2.25 bathrooms. The Zestimate for this Single Family is $545,200, which has increased by $15,240 in the last 30 days.The Rent Zestimate for this Single Family is $2,350/mo, which has increased by $2,350/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-14T22:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "624 Zuni Cir, Fort Collins, CO 80526 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/624-Zuni-Cir_Fort-Collins_CO_80526_M21996-08426",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/624-Zuni-Cir_Fort-Collins_CO_80526_M...",
+        "snippet": "See sales history and home details for 624 Zuni Cir, Fort Collins, CO 80526, a 3 bed, 3 bath, 1,765 Sq. Ft. single family home built in 1978 that was last sold on 05/01/1992.",
+        "dateLastCrawled": "2024-04-11T14:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "624 Zuni Cir, Fort Collins, CO 80526 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/624-Zuni-Cir-80526/home/35050074",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/624-Zuni-Cir-80526/home/35050074",
+        "snippet": "3 beds, 2.5 baths, 1765 sq. ft. house located at 624 Zuni Cir, Fort Collins, CO 80526 sold for \u00a4108,500 on May 1, 1992. View sales history, tax history, home value estimates, and overhead views. AP...",
+        "dateLastCrawled": "2024-08-19T19:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "624 Zuni Cir, Fort Collins, 80526"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "624 Zuni Cir, Fort Collins, CO 80526 Property Record - County Office",
+        "url": "https://www.countyoffice.org/property-record-624-zuni-cir-fort-collins-co-80526-804/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-624-zuni-cir-fort-collins-co-80526-804",
+        "snippet": "This property is a 3 bedroom, 3 bathroom residential single family home built in 1978 sitting on a 0.26 acre lot located at 624 Zuni Cir, Fort Collins, CO 80526. The 1,765 sq ft property has a porch and fireplace.",
+        "dateLastCrawled": "2024-10-09T22:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "624 Zuni Cir, Fort Collins, CO 80526 - Homes.com",
+        "url": "https://www.homes.com/property/624-zuni-cir-fort-collins-co/fkzpvpsjsj9pb/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/624-zuni-cir-fort-collins-co/fkzpvpsjsj9pb",
+        "snippet": "This home is located at 624 Zuni Cir, Fort Collins, CO 80526 and is currently estimated at $553,160, approximately $191 per square foot. 624 Zuni Cir is a home located in Larimer County with nearby schools including Beattie Elementary School, Blevins Middle School, and Rocky Mountain High School.",
+        "dateLastCrawled": "2024-04-17T04:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "624 Zuni Cir Fort Collins CO 80526 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/624-zuni-cir-fort-collins-co-80526-29304150",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/624-zuni-cir-fort-collins-co-80526-29304150",
+        "snippet": "624 Zuni Cir Fort Collins CO with 3 bedroom and 3 bath is currently not for sale. Xome's estimated value is $564,957. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-05-20T06:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "624 Zuni Cir, Fort Collins, CO 80526 - Trulia",
+        "url": "https://www.trulia.com/home/624-zuni-cir-fort-collins-co-80526-13917294",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/624-zuni-cir-fort-collins-co-80526-13917294",
+        "snippet": "624 Zuni Cir, Fort Collins, CO 80526 is a 1,765 sqft, 3 bed, 3 bath home sold in 1992. See the estimate, review home details, and search for homes nearby. Fort Collins. Buy. 80526.",
+        "dateLastCrawled": "2023-12-10T22:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Zuni Cir, Fort Collins, CO 80526 Property Records",
+        "url": "https://www.countyoffice.org/zuni-cir-fort-collins-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/zuni-cir-fort-collins-co-property-records",
+        "snippet": "Property reports for 25 properties on Zuni Cir in Fort Collins, CO 80526. Records indicate that Zuni Circle mainly consists of 2 to 4 bedrooms with 1 to 4 bathrooms. The average building is 1,679 sq ft, and properties range from about 1,450 sq ft to 2,300 sq ft. ... 624 Zuni Cir, Fort Collins, CO 80526: $558,600: 3--1,765 sq ft: 630 Zuni Cir ...",
+        "dateLastCrawled": "2024-09-15T16:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "612 Zuni Cir, Fort Collins, CO 80526 - Zillow",
+        "url": "https://www.zillow.com/homedetails/612-Zuni-Cir-Fort-Collins-CO-80526/13917296_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/612-Zuni-Cir-Fort-Collins-CO-80526/13917296_zpid",
+        "snippet": "612 Zuni Cir, Fort Collins CO, is a Single Family home that contains 3120 sq ft and was built in 1979.It contains 4 bedrooms and 4 bathrooms.This home last sold for $640,000 in April 2022. The Zestimate for this Single Family is $697,500, which has increased by $2,479 in the last 30 days.The Rent Zestimate for this Single Family is $3,215/mo, which has increased by $3,215/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-07T09:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "664 Zuni Cir, Fort Collins, CO 80526 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/664-Zuni-Cir-80526/home/35050080",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/664-Zuni-Cir-80526/home/35050080",
+        "snippet": "3 beds, 2 baths, 2200 sq. ft. house located at 664 Zuni Cir, Fort Collins, CO 80526 sold for $411,000 on Oct 15, 2020. MLS# 923358. \"FALL\" in love with this single-family home in Central ...",
+        "dateLastCrawled": "2025-03-04T05:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "642 Zuni Cir, Fort Collins, CO 80526 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/642-Zuni-Cir_Fort-Collins_CO_80526_M18061-75607",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/642-Zuni-Cir_Fort-Collins_CO_80526_M...",
+        "snippet": "View 29 photos for 642 Zuni Cir, Fort Collins, CO 80526, a 4 bed, 1 bath, 2,381 Sq. Ft. single family home built in 1979 that was last sold on 05/27/2020.",
+        "dateLastCrawled": "2024-02-24T18:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "642 Zuni Cir, Fort Collins, CO 80526 | MLS# 9016719 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/642-Zuni-Cir-80526/home/35050084",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/642-Zuni-Cir-80526/home/35050084",
+        "snippet": "4 beds, 2 baths, 2381 sq. ft. house located at 642 Zuni Cir, Fort Collins, CO 80526 sold for $455,000 on May 27, 2020. MLS# 9016719. Beautiful ranch home in Fort Collins. Excellent Location, open f...",
+        "dateLastCrawled": "2025-01-23T17:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "654 Zuni Cir, Fort Collins, CO 80526 - Zillow",
+        "url": "https://www.zillow.com/homedetails/654-Zuni-Cir-Fort-Collins-CO-80526/13917289_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/654-Zuni-Cir-Fort-Collins-CO-80526/13917289_zpid",
+        "snippet": "654 Zuni Cir, Fort Collins CO, is a Single Family home that contains 2200 sq ft and was built in 1979.It contains 4 bedrooms and 3 bathrooms.This home last sold for $317,500 in June 2018. The Zestimate for this Single Family is $561,400, which has increased by $17,119 in the last 30 days.The Rent Zestimate for this Single Family is $2,761/mo, which has increased by $2,761/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-30T02:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "636 Zuni Cir, Fort Collins, CO 80526 - Zillow",
+        "url": "https://www.zillow.com/homedetails/636-Zuni-Cir-Fort-Collins-CO-80526/13917292_zpid/",
+        "datePublished": "2025-01-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 15, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/636-Zuni-Cir-Fort-Collins-CO-80526/13917292_zpid",
+        "snippet": "636 Zuni Cir, Fort Collins CO, is a Single Family home that contains 2172 sq ft and was built in 1979.It contains 4 bedrooms and 3 bathrooms.This home last sold for $268,000 in May 2019. The Zestimate for this Single Family is $583,600, which has increased by $5,400 in the last 30 days.The Rent Zestimate for this Single Family is $2,824/mo, which has increased by $2,824/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-28T20:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "618 Zuni Cir, Fort Collins, CO 80526 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/618-Zuni-Cir-80526/home/35050075",
+        "datePublished": "2014-06-25T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 25, 2014",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/618-Zuni-Cir-80526/home/35050075",
+        "snippet": "3 beds, 3 baths, 2200 sq. ft. house located at 618 Zuni Cir, Fort Collins, CO 80526 sold for $269,500 on Jun 12, 2014. MLS# 735274. NEW carpet throughout and cabinetry, counter tops, appliances, fu...",
+        "dateLastCrawled": "2025-03-02T02:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "724 Zuni Cir, Fort Collins, CO 80526 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/724-Zuni-Cir-80526/home/35050289",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/724-Zuni-Cir-80526/home/35050289",
+        "snippet": "724 Zuni Cir is a 2,329 square foot house on a 0.34 acre lot with 3 bedrooms and 2.5 bathrooms. - it last sold on August 01, 1987 for $87,000. Based on Redfin's Fort Collins data, we estimate the home's value is $587,646.",
+        "dateLastCrawled": "2025-03-25T19:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "618 Zuni Cir, Fort Collins, CO 80526 - Zillow",
+        "url": "https://www.zillow.com/homedetails/618-Zuni-Cir-Fort-Collins-CO-80526/13917295_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/618-Zuni-Cir-Fort-Collins-CO-80526/13917295_zpid",
+        "snippet": "618 Zuni Cir, Fort Collins CO, is a Single Family home that contains 2200 sq ft and was built in 1979.It contains 3 bedrooms and 2 bathrooms.This home last sold for $269,500 in June 2014. The Zestimate for this Single Family is $545,200, which has increased by $15,961 in the last 30 days.The Rent Zestimate for this Single Family is $2,354/mo, which has increased by $2,354/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-01T04:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "630 Zuni Cir, Fort Collins, CO 80526 - Zillow",
+        "url": "https://www.zillow.com/homedetails/630-Zuni-Cir-Fort-Collins-CO-80526/13917293_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/630-Zuni-Cir-Fort-Collins-CO-80526/13917293_zpid",
+        "snippet": "630 Zuni Cir, Fort Collins CO, is a Single Family home that contains 1672 sq ft and was built in 1979.It contains 3 bedrooms and 1.75 bathrooms.This home last sold for $209,900 in May 2005. The Zestimate for this Single Family is $549,800, which has increased by $14,253 in the last 30 days.The Rent Zestimate for this Single Family is $1,940/mo, which has increased by $1,940/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-18T05:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "612 Zuni Cir, Fort Collins, CO 80526 | MLS# 5689411 | Redfin",
+        "url": "https://www.redfin.com/CO/Fort-Collins/612-Zuni-Cir-80526/home/35050072",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/612-Zuni-Cir-80526/home/35050072",
+        "snippet": "(REColorado as Distributed by MLS Grid) 4 beds, 4 baths, 3120 sq. ft. house located at 612 Zuni Cir, Fort Collins, CO 80526 sold for $640,000 on Apr 15, 2022. MLS# 5689411. You'll positively love this Wonderful and Stately home, right in...",
+        "dateLastCrawled": "2024-12-04T20:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "724 Zuni Cir, Fort Collins, CO 80526 - Zillow",
+        "url": "https://www.zillow.com/homedetails/724-Zuni-Cir-Fort-Collins-CO-80526/13917029_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/724-Zuni-Cir-Fort-Collins-CO-80526/13917029_zpid",
+        "snippet": "724 Zuni Cir, Fort Collins CO, is a Single Family home that contains 1996 sq ft and was built in 1979.It contains 3 bedrooms and 2.25 bathrooms.This home last sold for $87,000 in August 1987. The Zestimate for this Single Family is $586,000, which has increased by $13,153 in the last 30 days.The Rent Zestimate for this Single Family is $2,809/mo, which has increased by $2,809/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-10T18:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

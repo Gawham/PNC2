@@ -1,0 +1,447 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1451 Territory Trl, Colorado Springs CO 80919"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1451+Territory+Trl%2c+Colorado+Springs+CO+80919",
+    "totalEstimatedMatches": 667000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1451 Territory Trl, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1451-Territory-Trl-Colorado-Springs-CO-80919/13656034_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1451-Territory-Trl-Colorado-Springs-CO-80919/...",
+        "snippet": "Zillow has 4 photos of this $-- 2 beds, 2 baths, 1,088 Square Feet condo home located at 1451 Territory Trl, Colorado Springs, CO 80919 built in 1986.",
+        "dateLastCrawled": "2025-04-16T00:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1451 Territory Trl, Colorado Springs, CO 80919 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1451-Territory-Trl_Colorado-Springs_CO_80919_M20495-21692",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1451-Territory-Trl_Colorado-Springs_CO_80919_M20495-21692",
+        "snippet": "See sales history and home details for 1451 Territory Trl, Colorado Springs, CO 80919, a 2 bed, 2 bath, 1,152 Sq. Ft. townhomes home built in 1986 that was last sold on 04/20/2007.",
+        "dateLastCrawled": "2024-02-10T18:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1451 Territory Trl, Colorado Springs, CO 80919 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1451-Territory-Trl-80919/home/34562987",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1451-Territory-Trl-80919/home/34562987",
+        "snippet": "2 beds, 2 baths, 1152 sq. ft. townhouse located at 1451 Territory Trl, Colorado Springs, CO 80919 sold for $115,000 on Oct 3, 2002. View sales history, tax history, home value estimates, and overhe...",
+        "dateLastCrawled": "2025-05-14T00:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1451 Territory Trail, Colorado Springs, CO 80919 | Homes.com",
+        "url": "https://www.homes.com/property/1451-territory-trail-colorado-springs-co/3kgry9cy497jn/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1451-territory-trail-colorado-springs-co/3kgry9cy497jn",
+        "snippet": "1451 Territory Trail, Colorado Springs, CO 80919 - 1,600 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... 1451 Territory Trail Colorado Springs, CO 80919 Pinon Valley Neighborhood. Estimated Value: $305,972. 2 Beds. 2 Baths. 1,600 Sq Ft. $191/Sq Ft ...",
+        "dateLastCrawled": "2024-10-05T09:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Who Lives at 1451 Territory Trl, Colorado Springs, CO 80919 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/1451-Territory-Trl",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/1451-Territory-Trl",
+        "snippet": "Find people by address using reverse address lookup for 1451 Territory Trl, Colorado Springs, CO 80919. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-08-02T14:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1451 Territory Trl, Colorado Springs, CO 80919 - Trulia",
+        "url": "https://www.trulia.com/home/1451-territory-trl-colorado-springs-co-80919-13656034",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1451-territory-trl-colorado-springs-co-80919-13656034",
+        "snippet": "1451 Territory Trl, Colorado Springs, CO 80919 is a 1,088 sqft, 2 bed, 1.5 bath home sold in 2007. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-11-05T11:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Territory Trail, Colorado Springs, CO Property Records - County Office",
+        "url": "https://www.countyoffice.org/territory-trl-colorado-springs-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/territory-trl-colorado-springs-co-property-records",
+        "snippet": "View property records for 89 addresses located on Territory Trail in Colorado Springs, Colorado, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2024-08-29T03:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1431 Territory Trl, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1431-Territory-Trl-Colorado-Springs-CO-80919/13655973_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.BNcWatGCLioHb_I6fidbqwHaFN&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1431-Territory-Trl-Colorado-Springs-CO-80919/...",
+        "snippet": "1431 Territory Trl, Colorado Springs, CO 80919 is a townhouse listed for rent at $2,500 /mo. The 1,258 Square Feet townhouse is a 2 beds, 2 baths townhouse. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-09-24T21:12:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.BNcWatGCLioHb_I6fidbqwHaFN&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 333,
+          "imageId": "OIP.BNcWatGCLioHb_I6fidbqwHaFN"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1453 Territory Trl, Colorado Springs, CO 80919 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1453-Territory-Trl_Colorado-Springs_CO_80919_M20650-11546",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1453-Territory-Trl_Colorado-Springs_CO_80919_M20650-11546",
+        "snippet": "View 4 photos for 1453 Territory Trl, Colorado Springs, CO 80919, a 2 bed, 2 bath, 1,152 Sq. Ft. townhomes home built in 1986 that was last sold on 05/28/2021.",
+        "dateLastCrawled": "2023-12-05T15:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1459 Territory Trl, Colorado Springs, CO 80919 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1459-Territory-Trl-80919/home/34562983",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1459-Territory-Trl-80919/home/34562983",
+        "snippet": "1459 Territory Trl is a 1,152 square foot townhouse on a 672 square foot lot with 2 bedrooms and 2 bathrooms. - it last sold on August 01, 2000 for $115,000. Based on Redfin's Colorado Springs data, we estimate the home's value is $291,942.",
+        "dateLastCrawled": "2025-06-02T01:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "23 Best Fun Unique Things to Do In Colorado Springs CO",
+        "url": "https://lifesuccessjournal.com/unique-things-to-do-in-colorado-springs-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://lifesuccessjournal.com/unique-things-to-do-in-colorado-springs-co",
+        "snippet": "Address: 8605 Explorer Dr, Colorado Springs, CO 80920. 20. Explore the historic district of Old Colorado City. Old Colorado City is a charming historic district worth exploring. Once the capital of the Colorado Territory, it features unique shops, art galleries, and delightful eateries.",
+        "dateLastCrawled": "2025-06-05T12:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1455 Territory Trl, Colorado Springs, CO 80919 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1455-Territory-Trl-Colorado-Springs-CO-80919/13656036_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1455-Territory-Trl-Colorado-Springs-CO-80919/...",
+        "snippet": "1455 Territory Trl, Colorado Springs CO, is a Townhouse home that contains 1070 sq ft and was built in 1986.It contains 2 bedrooms and 2 bathrooms.This home last sold for $270,000 in September 2021. The Zestimate for this Townhouse is $300,700, which has increased by $3,607 in the last 30 days.The Rent Zestimate for this Townhouse is $1,685/mo, which has increased by $1,685/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-15T17:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1459 Territory Trl, Colorado Springs, CO 80919 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1459-Territory-Trl_Colorado-Springs_CO_80919_M12758-71279",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1459-Territory-Trl_Colorado-Springs_CO_80919_M12758-71279",
+        "snippet": "See sales history and home details for 1459 Territory Trl, Colorado Springs, CO 80919, a 2 bed, 2 bath, 1,152 Sq. Ft. townhomes home built in 1986 that was last sold on 08/01/2000.",
+        "dateLastCrawled": "2023-11-05T18:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1438 Territory Trl, Colorado Springs, CO 80919 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1438-Territory-Trl-80919/home/34563216",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1438-Territory-Trl-80919/home/34563216",
+        "snippet": "2 beds, 3 baths, 1600 sq. ft. townhouse located at 1438 Territory Trl, Colorado Springs, CO 80919 sold for $287,500 on Jan 25, 2023. MLS# 8494159. This unique townhome is tucked away on a quiet hil...",
+        "dateLastCrawled": "2025-05-16T05:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1457 Territory Trl, Colorado Springs, CO 80919 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1457-Territory-Trl-Colorado-Springs-CO-80919/13656037_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1457-Territory-Trl-Colorado-Springs-CO-80919/...",
+        "snippet": "1457 Territory Trl, Colorado Springs CO, is a Condo home that contains 1090 sq ft and was built in 1986.It contains 2 bedrooms and 2 bathrooms.This home last sold for $110,000 in December 2005. The Zestimate for this Condo is $279,300, which has increased by $897 in the last 30 days.The Rent Zestimate for this Condo is $1,691/mo, which has increased by $1,691/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-27T20:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1426 Territory Trl, Colorado Springs, CO 80919",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1426-Territory-Trl_Colorado-Springs_CO_80919_M12805-66788",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1426-Territory-Trl_Colorado-Springs_CO_80919_M12805-66788",
+        "snippet": "1426 Territory Trl, Colorado Springs, CO 80919 is for sale. View 31 photos of this 2 bed, 3 bath, 1440 sqft. townhome with a list price of $325000.",
+        "dateLastCrawled": "2025-05-31T16:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1419 Territory Trl, Colorado Springs, CO 80919 - Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1419-Territory-Trl-80919/home/34563176",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1419-Territory-Trl-80919/home/34563176",
+        "snippet": "1419 Territory Trl, Colorado Springs, CO 80919. Listing provided by REColorado as Distributed by MLS Grid. NEW 12 HRS AGO 3D WALKTHROUGH. $745,000. 4 beds 3 baths 3,366 sq ft. 720 Popes Valley Dr, Colorado Springs, CO 80919. NEW 19 HRS AGO. $609,900. 4 beds 3 baths 2,323 sq ft. 275 Raven Hills Rd, Colorado Springs, CO 80919.",
+        "dateLastCrawled": "2025-06-02T18:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1455 Territory Trl, Colorado Springs, CO 80919 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1455-Territory-Trl_Colorado-Springs_CO_80919_M23501-31529",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../1455-Territory-Trl_Colorado-Springs_CO_80919_M23501-31529",
+        "snippet": "View 25 photos for 1455 Territory Trl, Colorado Springs, CO 80919, a 2 bed, 2 bath, 1,020 Sq. Ft. townhomes home built in 1986 that was last sold on 09/07/2021.",
+        "dateLastCrawled": "2024-03-08T20:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1461 Territory Trl, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1461-Territory-Trl-Colorado-Springs-CO-80919/13656039_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1461-Territory-Trl-Colorado-Springs-CO-80919/...",
+        "snippet": "1461 Territory Trl, Colorado Springs CO, is a Townhouse home that contains 960 sq ft and was built in 1986.It contains 2 bedrooms and 1.5 bathrooms.This home last sold for $98,500 in May 2000. The Zestimate for this Townhouse is $277,900, which has decreased by $1,693 in the last 30 days.The Rent Zestimate for this Townhouse is $1,646/mo, which has increased by $1,646/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-08T16:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "1447 Territory Trl, Colorado Springs, CO 80919 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1447-Territory-Trl-Colorado-Springs-CO-80919/13656032_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1447-Territory-Trl-Colorado-Springs-CO-80919/...",
+        "snippet": "1447 Territory Trl, Colorado Springs CO, is a Townhouse home that contains 1200 sq ft and was built in 1986.It contains 2 bedrooms and 1.5 bathrooms.This home last sold for $80,000 in December 1995. The Zestimate for this Townhouse is $280,200, which has decreased by $800 in the last 30 days.The Rent Zestimate for this Townhouse is $1,913/mo, which has increased by $1,913/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-08T18:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "1459 Territory Trl, Colorado Springs, CO 80919 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1459-Territory-Trl-Colorado-Springs-CO-80919/13656038_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1459-Territory-Trl-Colorado-Springs-CO-80919/...",
+        "snippet": "1459 Territory Trl, Colorado Springs CO, is a Townhouse home that contains 1088 sq ft and was built in 1986.It contains 2 bedrooms and 1.5 bathrooms.This home last sold for $115,000 in August 2000. The Zestimate for this Townhouse is $291,100, which has increased by $1,781 in the last 30 days.The Rent Zestimate for this Townhouse is $1,801/mo, which has increased by $1,801/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-06T10:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

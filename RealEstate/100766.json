@@ -1,0 +1,417 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "484 S Wright St, Unit 109, Lakewood CO 80228"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=484+S+Wright+St%2c+Unit+109%2c+Lakewood+CO+80228",
+    "totalEstimatedMatches": 1620000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "484 S Wright St, Lakewood, CO 80228 - Zillow",
+        "url": "https://www.zillow.com/homedetails/484-S-Wright-St-Lakewood-CO-80228/108381195_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/484-S-Wright-St-Lakewood-CO-80228/108381195_zpid",
+        "snippet": "484 S Wright St, Lakewood, CO 80228 is currently not for sale. The 19,526 Square Feet apartment home is a -- beds, -- baths property. This home was built in 1974 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow. ... 474 S Wright St #484-109, Denver, CO 80228. Off Market. $1,184. 1 bd | 1 ba ...",
+        "dateLastCrawled": "2025-04-30T08:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "484 S Wright St, Lakewood, CO 80228 - Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/484-S-Wright-St-80228/home/34494980",
+        "datePublished": "2023-04-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 12, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/484-S-Wright-St-80228/home/34494980",
+        "snippet": "19526 sq. ft. vacant land located at 484 S Wright St, Lakewood, CO 80228. View sales history, tax history, home value estimates, and overhead views. APN 047918. ... 430 Zang St Unit 4-102, Lakewood, CO 80228. Listing provided by REColorado as Distributed by MLS Grid. Home values near 484 S Wright St. Data from public records.",
+        "dateLastCrawled": "2025-04-12T04:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "484 S Wright St, Lakewood, 80228, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Lakewood, CO Apartments | Mountain Vista",
+        "url": "https://www.mountainvistaapts.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mountainvistaapts.com",
+        "snippet": "474 South Wright Street Lakewood, CO 80228. Opens in a new tab. Phone Number (303) 987-8800. Closed Detail ... Lakewood, CO 80228. Opens in a new tab. Schedule A Tour. Floor Plan Assistant ...",
+        "dateLastCrawled": "2025-06-05T08:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Drew James Johnson from Lakewood, Colorado | VoterRecords.com",
+        "url": "https://voterrecords.com/voter/78519997/drew-johnson",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/voter/78519997/drew-johnson",
+        "snippet": "Drew James Johnson (born 1986) is listed at 484 S Wright St #109 Lakewood, Co 80228 and has no political party affiliation. He is a male registered to vote in Jefferson County, Colorado. He is a male registered to vote in Jefferson County, Colorado.",
+        "dateLastCrawled": "2025-05-10T18:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "454 S Wright St Unit 109, Lakewood, CO 80228 - Apartments.com",
+        "url": "https://www.apartments.com/454-s-wright-st-lakewood-co-unit-109/02y94t0/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/454-s-wright-st-lakewood-co-unit-109/02y94t0",
+        "snippet": "454 S Wright St Unit 109 is within 7 minutes or 2.2 miles from Red Rocks C.C., Lakewood. It is also near Colorado Christian University and Colorado School of Mines. Transportation. ... Walkability Near 454 S Wright St Lakewood, CO 80228. Very Walkable. 70.",
+        "dateLastCrawled": "2025-05-24T18:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Who Lives at 484 S Wright St, Lakewood, CO 80228 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Lakewood/484-S-Wright-St",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Lakewood/484-S-Wright-St",
+        "snippet": "Find people by address using reverse address lookup for 484 S Wright St, Lakewood, CO 80228. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-03-24T16:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "484 Wright St, Denver, CO 80228 owner and property records",
+        "url": "https://hudwayglass.com/house/484+WRIGHT+ST,+Denver+CO",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hudwayglass.com/house/484+WRIGHT+ST,+Denver+CO",
+        "snippet": "484 Wright St Denver ... Contact an Agent On this page Information about property on 484 Wright St, Denver CO, 80228-2615. Find out owner contacts, building history, price, neighborhood at Homemetry Address Directory. ... #103 #104. Select apt / unit ...",
+        "dateLastCrawled": "2025-05-23T21:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "484 S WRIGHT ST, LAKEWOOD, CO 80228 - RE/MAX",
+        "url": "https://www.remax.com/co/lakewood/home-details/484-s-wright-st-lakewood-co-80228/8096151204884766812",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/co/lakewood/home-details/484-s-wright-st-lakewood-co-80228/...",
+        "snippet": "View 484 S WRIGHT ST, LAKEWOOD, CO 80228 property and neighborhood details. Find out how much this listing is worth with RE/MAX's Home Value Estimator and view similar real estate listings. ... Details for 484 S WRIGHT ST. Built in 1974. No Info. 1.0486 acres lot. Building And Construction. Exterior Finish. Wood Siding. Property Type ...",
+        "dateLastCrawled": "2025-03-31T12:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Mountain Vista - 474 S Wright St Lakewood CO | Zillow",
+        "url": "https://www.zillow.com/apartments/lakewood-co-mountain-vista-5Z8dDM/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/apartments/lakewood-co-mountain-vista-5Z8dDM",
+        "snippet": "Mountain Vista apartment community at 474 S Wright St Lakewood CO, offers units from 500 - 850 sqft, a Pet-friendly, and Shared laundry. Explore availability. ... 474 S Wright St, Lakewood, CO 80228. Visit Mountain Vista website (1) Special offer! ... $1,306 Available: Available Oct 16 2024 Unit: Unit 484-216. Price: $1,310 Available: Available ...",
+        "dateLastCrawled": "2024-09-26T01:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Mediha LLC \u00b7 484 S Wright St Apt 104, Lakewood, CO 80228 - OpenGovCO",
+        "url": "https://opengovco.com/business/20241028036",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20241028036",
+        "snippet": "Mediha LLC (Entity #20241028036) is a Limited Liability Company in Lakewood, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on January 6, 2024 in the jurisdiction of Colorado. The registered office location is at 484 S Wright St Apt 104, Lakewood, CO 80228. The current entity status is good standing.",
+        "dateLastCrawled": "2024-04-12T12:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "414 Wright St #109, Lakewood, CO 80228 | Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/414-Wright-St-80228/unit-109/home/34476359",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/414-Wright-St-80228/unit-109/home/34476359",
+        "snippet": "2 beds, 1.5 baths, 1226 sq. ft. condo located at 414 Wright St #109, Lakewood, CO 80228 sold for $84,103 on Nov 6, 1991. View sales history, tax history, home value estimates, and overhead views. A...",
+        "dateLastCrawled": "2025-03-26T12:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "484 S Wright St, Lakewood, CO 80228 - Trulia",
+        "url": "https://www.trulia.com/home/484-s-wright-st-lakewood-co-80228-108381195",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/484-s-wright-st-lakewood-co-80228-108381195",
+        "snippet": "484 S Wright St, Lakewood, CO 80228 is a 19,526 sqft, Studio home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-02-12T21:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "484 S WRIGHT ST APT 104 LAKEWOOD, CO 80228 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/484-s-wright-st-apt-104-lakewood-co-80228.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/484-s-wright-st-apt-104-lakewood-co-80228.html",
+        "snippet": "There are 3 companies that have an address matching 484 S Wright St Apt 104 Lakewood, CO 80228. The companies are M J S Classic LLC, M J S Freedom LLC, and Mediha LLC. M J S CLASSIC, LLC: COLORADO LIMITED-LIABILITY COMPANY: WRITE REVIEW: Address: 484 S Wright St Apt 104 Lakewood, CO 80228 : Address Types:",
+        "dateLastCrawled": "2025-05-09T01:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "484 S Wright St, Lakewood, CO 80228 - LoopNet",
+        "url": "https://www.loopnet.com/property/484-s-wright-st-lakewood-co-80228/08059-4917202004/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/property/484-s-wright-st-lakewood-co-80228/08059-4917202004",
+        "snippet": "View information about 484 S Wright St, Lakewood, CO 80228, APN/Parcel ID: 49-172-02-004. See if the property is available for sale or lease. View photos, public assessor data, maps and county tax information. Find properties near 484 S Wright St.",
+        "dateLastCrawled": "2025-05-25T06:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Robert Loren Carlson \u00b7 484 S Wright St Apt 101, Lakewood, CO 80228-2626 ...",
+        "url": "https://opengovco.com/license/75968",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/75968",
+        "snippet": "The business address is 484 S Wright St Apt 101, Lakewood, CO 80228-2626. The license first issue date is August 24, 1983. License Overview. Licensee Name: Robert Loren Carlson: Address: 484 S Wright St Apt 101 Lakewood CO 80228-2626: License Category: Architects, Engineers and Land Surveyors: License Type:",
+        "dateLastCrawled": "2025-05-08T02:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "474 S Wright St # 434-109, Lakewood, CO 80228 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/474-S-Wright-St-434-109_Lakewood_CO_80228_M91614-42619",
+        "datePublished": "2023-04-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 20, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../474-S-Wright-St-434-109_Lakewood_CO_80228_M91614-42619",
+        "snippet": "View detailed information about property 474 S Wright St # 434-109, Lakewood, CO 80228 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-03-12T17:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "454 S Wright St #109, Denver, CO 80228 - Zillow",
+        "url": "https://www.zillow.com/homedetails/454-S-Wright-St-109-Denver-CO-80228/2080243417_zpid/",
+        "datePublished": "2020-04-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 1, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/454-S-Wright-St-109-Denver-CO-80228/2080243417_zpid",
+        "snippet": "454 S Wright St #109, Denver, CO 80228 is currently not for sale. The 500 Square Feet apartment home is a 1 bed, 1 bath property. This home was built in null and last sold on 2020-05-02 for $1,063. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-10T05:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "429 Wright St #104, Lakewood, CO 80228 | Redfin",
+        "url": "https://www.redfin.com/CO/Lakewood/429-Wright-St-80228/unit-104/home/34475358",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/429-Wright-St-80228/unit-104/home/34475358",
+        "snippet": "1 bed, 1 bath, 812 sq. ft. townhouse located at 429 Wright St #104, Lakewood, CO 80228 sold for $206,000 on Mar 24, 2020. MLS# 9310607. This condo is at ground level and faces open space with a goo...",
+        "dateLastCrawled": "2025-04-24T10:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "209 Wright St, Lakewood, CO 80228 - Apartments.com",
+        "url": "https://www.apartments.com/209-wright-st-lakewood-co/b0yxzf8/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/209-wright-st-lakewood-co/b0yxzf8",
+        "snippet": "See all available townhome rentals at 209 Wright St in Lakewood, CO. 209 Wright Sthas rental units starting at $1500. Map. Menu. ... Updated garden level unit. Modern Kitchen, stainless steel appliances, spacious bedroom, walk in closet, large restroom. ... Walkability Near 209 Wright St Lakewood, CO 80228.",
+        "dateLastCrawled": "2025-01-30T14:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

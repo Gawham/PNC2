@@ -1,0 +1,627 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2201 S Lemay Ave, Unit 103, Fort Collins CO 80525"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2201+S+Lemay+Ave%2c+Unit+103%2c+Fort+Collins+CO+80525",
+    "totalEstimatedMatches": 64,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Parkwood Estates Senior Apartments - 2201 S Lemay Ave Fort Collins, CO ...",
+        "url": "https://www.apartments.com/parkwood-estates-senior-apartments-fort-collins-co/81spjc2/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/parkwood-estates-senior-apartments-fort-collins-co/81spjc2",
+        "snippet": "2201 S Lemay Ave, Fort Collins, CO 80525. Property Rating. 4.0. Great. Out of 5. ... 2201 S Lemay Ave. Fort Collins, CO 80525. Email Copy Link. ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tour Video Property Site Map Location Map Unit Map ...",
+        "dateLastCrawled": "2025-06-05T05:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2201 S Lemay Ave, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(540) 792-4779"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$2,250 - $4,700"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Parkwood Estates (UPDATED) - Get Pricing, See 11 Photos ... - Seniorly",
+        "url": "https://www.seniorly.com/independent-living/colorado/fort-collins/parkwood-estates",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.RpBrTmhA0dA-BefUxRxSmAAAAA&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 9.9,
+              "bestRating": 10,
+              "reviewCount": 87
+            }
+          }
+        ],
+        "datePublished": "2025-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/independent-living/colorado/fort-collins/parkwood-estates",
+        "snippet": "Parkwood Estates is an Independent Living community located at 2201 South Lemay Avenue in Fort Collins, CO. See pricing, photos & reviews on Seniorly.com! ... 2201 South Lemay Avenue, Fort Collins, CO 80525 Calculate travel time. Independent Living. 9.9. Community score ... UCHealth Neonatal Intensive Care Unit - Poudre Valley Hospital (0.9. mi ...",
+        "dateLastCrawled": "2025-06-04T05:02:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.RpBrTmhA0dA-BefUxRxSmAAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 320,
+          "sourceHeight": 213,
+          "imageId": "OIP.RpBrTmhA0dA-BefUxRxSmAAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2201 South Lemay Avenue, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(970) 482-3924"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Parkwood Estates\ufeff | Sky Activing Living | Independent Living in Fort ...",
+        "url": "https://skyactive.sunriseseniorliving.com/communities/parkwood-estates",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.Dej2Gc96uAC-9bTdc26KRgHaE7&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://skyactive.sunriseseniorliving.com/communities/parkwood-estates",
+        "snippet": "Our welcoming community in Fort Collins, CO, offers older adults the chance to enjoy a fulfilling, low-maintenance lifestyle. ... Tour & Gallery. Experience. Parkwood Estates\ufeff 2201 S Lemay Ave, Fort Collins, CO, 80525. Situated in a convenient Fort Collins location, our community is the perfect place to continue enjoying the local area while ...",
+        "dateLastCrawled": "2025-06-05T04:06:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.Dej2Gc96uAC-9bTdc26KRgHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.Dej2Gc96uAC-9bTdc26KRgHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2201 S Lemay Ave, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(970) 372-6554"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Parkwood Estates - April 2025 Pricing (UPDATED) - Family Assets",
+        "url": "https://www.familyassets.com/independent-living/colorado/fort-collins/parkwood-estates",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 8.1,
+              "bestRating": 10,
+              "reviewCount": 23
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/independent-living/colorado/fort-collins/parkwood-estates",
+        "snippet": "2201 S Lemay Ave, Fort Collins CO, 80525. Resident Review Score. 8.1 | Loved. See Gallery (36) Starting price. $2,179. For this area $$ $ Get Personalized Pricing. See Gallery (36) ... 2101 South Lemay Avenue, Fort Collins. Distance: 0.2 miles. Kami Temple. 1100-1124 East Drake Road, Fort Collins. Distance: 0.4 miles.",
+        "dateLastCrawled": "2025-04-19T18:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2201 S Lemay Ave, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Parkwood Estates - 12 Reviews - Fort Collins, CO - Caring.com",
+        "url": "https://www.caring.com/senior-living/colorado/fort-collins/parkwood-estates",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.-dUB2OoPcY98-POjn3_RYAHaE8&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4,
+              "bestRating": 5,
+              "reviewCount": 11
+            }
+          }
+        ],
+        "datePublished": "2021-06-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 24, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.caring.com/senior-living/colorado/fort-collins/parkwood-estates",
+        "snippet": "2201 S Lemay Ave, Fort Collins, CO 80525 (800) 558-0653 Verified Partner. 4.0 (12 reviews) Starting Price. $2,800. ... Parkwood Estates is located in Fort Collins, CO, providing a vibrant backdrop for your new life as a valued member of our caring community. ... Cable/Satellite In Unit; Financing & Payment Options. Private Pay Accepted ...",
+        "dateLastCrawled": "2025-05-31T08:26:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.-dUB2OoPcY98-POjn3_RYAHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.-dUB2OoPcY98-POjn3_RYAHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2201 S Lemay Ave, Fort Collins, 80525, Colorado"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Caring.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Holiday Parkwood Estates - 2025 Pricing, Photos, 30 Reviews in Fort ...",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/fort-collins/holiday-parkwood-estates-80525/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/.../co/fort-collins/holiday-parkwood-estates-80525",
+        "snippet": "2201 S Lemay Ave, Fort Collins, CO 80525. 4.5 / 5.0 46 Reviews . Pricing & Availability (800) 755-1458 . Contact Resident ... Holiday Parkwood Estates calculates pricing for independent living units based on the unit's size and floorplan as well as the inclusion of services and amenities. Every resident\u2019s needs are unique, and costs are ...",
+        "dateLastCrawled": "2025-06-03T15:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Fort Collins CO Retirement Community | Parkwood Estates",
+        "url": "https://www.seniorlivingguide.com/communities/parkwood-estates-2201-s-lemay-avenue-fort-collins-co-80525/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.FmoVkJdBcrYIzOrhXS8iXgHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorlivingguide.com/communities/parkwood-estates-2201-s-lemay-avenue...",
+        "snippet": "Fort Collins CO Retirement Community at Parkwood Estates information: pictures, floor plans, amenities, services and contact info ... 2201 S Lemay Avenue, Fort Collins, CO 80525 $ Check Availability Get Pricing . Our welcoming community in Fort Collins, CO, offers older adults the chance to enjoy a fulfilling, low-maintenance lifestyle ...",
+        "dateLastCrawled": "2025-06-02T13:49:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.FmoVkJdBcrYIzOrhXS8iXgHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.FmoVkJdBcrYIzOrhXS8iXgHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Senior Living Guide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Parkwood Estates | Independent Living | Fort Collins, CO 80525 | 53 Reviews",
+        "url": "https://www.aplaceformom.com/community/parkwood-estates-93474",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.-L-6q-xV8z4nFhGUcU8GlAHaE7&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-31T00:00:00.0000000",
+        "datePublishedDisplayText": "May 31, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/parkwood-estates-93474",
+        "snippet": "2201 South Lemay Avenue, Fort Collins, CO 80525. For pricing & availability: (866) 374-4058. ... 2201 South Lemay Avenue, Fort Collins, CO 80525. Get pricing. Rigden Farm Senior Living. 2350 Limon Drive, Fort Collins, CO 80525. Get pricing. Sugar Valley Estates. 4320 Georgetown Drive, Loveland, CO 80538.",
+        "dateLastCrawled": "2025-05-30T09:29:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.-L-6q-xV8z4nFhGUcU8GlAHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.-L-6q-xV8z4nFhGUcU8GlAHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Parkwood Estates | 2201 S Lemay Ave, Fort Collins, CO 80525",
+        "url": "https://www.redfin.com/CO/Fort-Collins/Parkwood-Estates/apartment/177408016",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/Parkwood-Estates/apartment/177408016",
+        "snippet": "See photos, floor plans and more details about Parkwood Estates at 2201 S Lemay Ave, Fort Collins, CO 80525. Parkwood Estates - 2201 S Lemay Ave, Fort Collins, CO 80525 | Redfin Search",
+        "dateLastCrawled": "2025-05-01T13:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Parkwood Estates Senior Apartments - Fort Collins, CO - ForRent.com",
+        "url": "https://www.forrent.com/co/fort-collins/parkwood-estates-senior-apartments/x1sppcp",
+        "datePublished": "2025-03-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forrent.com/co/fort-collins/parkwood-estates-senior-apartments/x1sppcp",
+        "snippet": "View the available apartments for rent at Parkwood Estates Senior Apartments in Fort Collins, CO. Parkwood Estates Senior Apartments has rental units ranging from - sq ft starting at $2,250. Skip to content. ... 2201 S Lemay Ave, Fort Collins, CO 80525 . Phone Number: (540) 792-3268 . Office Hours. Sunday 7:30 AM - 7:30 PM; Monday 7:30 AM - 7: ...",
+        "dateLastCrawled": "2025-03-02T05:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ForRent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Parkwood Estates \u2013 Fort Collins, CO \u2013 SeniorHousingNet.com",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/parkwood-estates_2201-s-lemay-ave_fort-collins_co_80525-622854",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/parkwood-estates_2201-s-lemay-ave...",
+        "snippet": "Parkwood Estates - Independent Living facility located at 2201 S Lemay Ave, Fort Collins, CO, 80525, seniorhousingnet.com 800-304-7152 Talk to a local advisor for free",
+        "dateLastCrawled": "2025-05-26T20:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "2201 S Lemay Ave, Fort Collins, CO 80525 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2201-S-Lemay-Ave_Fort-Collins_CO_80525_M95715-69542",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2201-S-Lemay-Ave_Fort-Collins_CO_80525_M95715-69542",
+        "snippet": "View detailed information about property 2201 S Lemay Ave, Fort Collins, CO 80525 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2023-12-20T14:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Parkwood Estates - Fort Collins, CO 80525 | ApartmentGuide.com",
+        "url": "https://www.apartmentguide.com/rent/Parkwood-Estates-Fort-Collins-CO-179773/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentguide.com/rent/Parkwood-Estates-Fort-Collins-CO-179773",
+        "snippet": "2201 S Lemay Ave, Fort Collins, CO 80525. Close. Studio\u20132 Beds 1\u20132 Baths 418-848 Sqft. Dogs OK. Cats OK. View Available Properties. Similar Properties. 13 Photos. Close. ... 511 S Grant Ave unit 511 S. Grant Ave.-G511; 2008 W Plum St; 4444 Stover St unit 4444 Stover St Unit 3; 519 S Meldrum St unit 312; 915 James Ct;",
+        "dateLastCrawled": "2025-04-30T07:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentGuide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2201 S Lemay Ave, Fort Collins, CO 80525 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2201-S-Lemay-Ave-Fort-Collins-CO-80525/339881133_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2201-S-Lemay-Ave-Fort-Collins-CO-80525/339881133_zpid",
+        "snippet": "2201 S Lemay Ave, Fort Collins CO, is a Single Family home that was built in 1987. The Rent Zestimate for this Single Family is $2,650/mo, which has increased by $2,650/mo in the last 30 days.",
+        "dateLastCrawled": "2024-08-17T14:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Parkwood Estates Senior Apartments - Fort Collins, Colorado - After55",
+        "url": "https://www.after55.com/co/fort-collins/parkwood-estates-senior-apartments/x1sppcp",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.after55.com/co/fort-collins/parkwood-estates-senior-apartments/x1sppcp",
+        "snippet": "2201 S Lemay Ave, Fort Collins, CO 80525. Last Updated: 2 Wks Ago. INDEPENDENT LIVING 55+ Parkwood Estates Senior Apartments. Favorite. 2201 S Lemay Ave, Fort Collins, CO 80525. Last Updated: 2 Wks Ago. INDEPENDENT LIVING 55+ Floor Plan Summary ; Monthly Rent Bedrooms Bathrooms Sq. Ft. $2,250 - $4,700: Studio - 2 Beds: Studio - 2 :",
+        "dateLastCrawled": "2025-05-23T16:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "After55"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Parkwood Estates | Independent Living in Fort Collins | US News",
+        "url": "https://health.usnews.com/best-senior-living/parkwood-estates-632",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://health.usnews.com/best-senior-living/parkwood-estates-632",
+        "snippet": "Parkwood Estates is a senior living facility in Fort Collins, CO that provides Independent Living. ... 2201 South Lemay Avenue, Fort Collins, Colorado 80525 ... 2201 South Lemay Avenue, Fort ...",
+        "dateLastCrawled": "2025-05-30T04:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "US News Health"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Holiday Parkwood Estates - Fort Collins, CO - Yelp",
+        "url": "https://www.yelp.com/biz/holiday-parkwood-estates-fort-collins",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/holiday-parkwood-estates-fort-collins",
+        "snippet": "2201 S Lemay Ave Fort Collins, CO 80525. Suggest an edit. People Also Viewed. MacKenzie Place - Fort Collins. 11. Retirement Homes, Assisted Living Facilities, Memory Care. Aspens at Fort Collins. 2. Memory Care, Retirement Homes, Assisted Living Facilities. Holiday Greeley Place. 1. Retirement Homes.",
+        "dateLastCrawled": "2025-01-18T01:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Parkwood Estates, Retirement home, Fort Collins, CO, Senior Living ...",
+        "url": "https://www.liveyourretirement.com/home/parkwood-estates",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.liveyourretirement.com/home/parkwood-estates",
+        "snippet": "2201 S Lemay Ave, Fort Collins, CO 80525, United States; View Map; Get a callback. Print. ... Summary Presentation. Parkwood Estates is a retirement home, located in Fort Collins, Colorado at 2201 S Lemay Ave. It offers residents independent living options as well as a variety of amenities and services. Contact Parkwood Estates to learn more ...",
+        "dateLastCrawled": "2025-06-02T02:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Live your retirement"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Parkwood Estates - 2201 S Lemay Ave | Fort Collins, CO Apartments for ...",
+        "url": "https://www.rent.com/colorado/fort-collins-apartments/parkwood-estates-4-45191774",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rent.com/colorado/fort-collins-apartments/parkwood-estates-4-45191774",
+        "snippet": "See photos, floor plans and more details about Parkwood Estates in Fort Collins, Colorado. Visit Rent. now for rental rates and other information about this property. Skip to Content (Press Enter) Close navigation menu. Home; ... 2201 S Lemay Ave, Fort Collins, CO 80525. Mission Hills. 2201 S Lemay Ave, Fort Collins, CO 80525 ...",
+        "dateLastCrawled": "2024-12-26T04:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Holiday Parkwood Estates, 2201 S Lemay Ave, Fort Collins, CO 80525, US ...",
+        "url": "https://www.mapquest.com/us/colorado/holiday-parkwood-estates-10039623",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/holiday-parkwood-estates-10039623",
+        "snippet": "Get more information for Holiday Parkwood Estates in Fort Collins, CO. See reviews, map, get the address, and find directions. Advertisement. Advertisement. ... More. Directions. Advertisement. Advertisement. Photos View gallery. 2201 S Lemay Ave. Fort Collins, CO 80525 +1 (970) 528-5810.",
+        "dateLastCrawled": "2025-04-29T21:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1116 Maclean Ct, Dacono CO 80514"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1116+Maclean+Ct%2c+Dacono+CO+80514",
+    "totalEstimatedMatches": 96200,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "1116 Mac Lean Ct, Dacono, CO 80514 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1116-Mac-Lean-Ct-Dacono-CO-80514/63548280_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1116-Mac-Lean-Ct-Dacono-CO-80514/63548280_zpid",
+        "snippet": "1116 Mac Lean Ct, Dacono CO, is a Mobile / Manufactured home that contains 1456 sq ft and was built in 2002.It contains 3 bedrooms and 2 bathrooms.This home last sold for $75,200 in July 2008. The Zestimate for this Mobile / Manufactured is $349,700, which has increased by $620 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $2,183/mo, which has increased by $2,183/mo ...",
+        "dateLastCrawled": "2025-04-09T06:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "1116 Maclean Ct, Dacono, CO 80514 | Redfin",
+        "url": "https://www.redfin.com/CO/Dacono/1116-Maclean-Ct-80514/home/35314587",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Dacono/1116-Maclean-Ct-80514/home/35314587",
+        "snippet": "3 beds, 2 baths, 1456 sq. ft. mobile/manufactured home located at 1116 Maclean Ct, Dacono, CO 80514 sold for $56,000 on Dec 30, 2002. View sales history, tax history, home value estimates, and over...",
+        "dateLastCrawled": "2024-04-29T05:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1116 Maclean Ct, Dacono, 80514"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "1116 Maclean Ct, Dacono, CO 80514 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1116-Maclean-Ct_Dacono_CO_80514_M22757-78972",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1116-Maclean-Ct_Dacono_CO_80514_M...",
+        "snippet": "See sales history and home details for 1116 Maclean Ct, Dacono, CO 80514, a 3 bed, 2 bath, 1,456 Sq. Ft. mobile home built in 2002 that was last sold on 07/22/2008.",
+        "dateLastCrawled": "2024-05-27T16:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1116 Maclean Ct, Dacono, CO 80514 Property Record - County Office",
+        "url": "https://www.countyoffice.org/property-record-1116-maclean-ct-dacono-co-80514-c5d/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-1116-maclean-ct-dacono-co-80514-c5d",
+        "snippet": "View 1116 Maclean Ct, Dacono, CO 80514 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2025-01-23T22:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "1116 Maclean St, Dacono, CO 80514 - Homes.com",
+        "url": "https://www.homes.com/property/1116-maclean-st-dacono-co/c86xn0q8fpr3k/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/1116-maclean-st-dacono-co/c86xn0q8fpr3k",
+        "snippet": "This home is located at 1116 Maclean St, Dacono, CO 80514. 1116 Maclean St is a home located in Weld County with nearby schools including Thunder Valley K-8 and Frederick Senior High School.",
+        "dateLastCrawled": "2024-10-10T11:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "1116 Maclean Ct Dacono CO 80514 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/1116-maclean-ct-dacono-co-80514-145368862",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/1116-maclean-ct-dacono-co-80514-145368862",
+        "snippet": "1116 Maclean Ct Dacono CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $328,013. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-02-01T16:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1116 Mac Lean Ct Dacono, CO 80514 - Trulia",
+        "url": "https://www.trulia.com/home/1116-mac-lean-ct-dacono-co-80514-63548280",
+        "datePublished": "2002-12-30T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 30, 2002",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1116-mac-lean-ct-dacono-co-80514-63548280",
+        "snippet": "1116 Mac Lean Ct, Dacono, CO 80514 is a 1,456 sqft, 3 bed, 2 bath home sold in 2008. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-05-30T10:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "1116 MacLean St, Dacono, CO 80514 - Redfin",
+        "url": "https://www.redfin.com/CO/Dacono/1116-MacLean-St-80514/home/39957187",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Dacono/1116-MacLean-St-80514/home/39957187",
+        "snippet": "House located at 1116 MacLean St, Dacono, CO 80514. View sales history, tax history, home value estimates, and overhead views. ... 3643 Crested Owl Ct, Dacono, CO 80514. Lisa Breternitz \u2022 RE/MAX Elevate. NEW CONSTRUCTION. $546,900. 4 beds 3 baths 2,030 sq ft. 7302 Arkansas St, Frederick, CO 80530.",
+        "dateLastCrawled": "2025-03-11T11:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1122 Maclean Ct, Dacono, CO 80514 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1122-Maclean-Ct_Dacono_CO_80514_M18143-71486",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1122-Maclean-Ct_Dacono_CO_80514_M...",
+        "snippet": "View detailed information about property 1122 Maclean Ct, Dacono, CO 80514 including listing details, property photos, school and neighborhood data, and much more. ... 1116 Maclean Ct, Dacono, CO ...",
+        "dateLastCrawled": "2023-11-28T17:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "1116 Mac Davidson Cir, Dacono, CO 80514 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1116-Mac-Davidson-Cir-Dacono-CO-80514/14091026_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1116-Mac-Davidson-Cir-Dacono-CO-80514/14091026_zpid",
+        "snippet": "1116 Mac Davidson Cir, Dacono CO, is a Mobile / Manufactured home that contains 1322 sq ft and was built in 1980.It contains 3 bedrooms and 1 bathroom. The Zestimate for this Mobile / Manufactured is $267,900, which has increased by $5,294 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,798/mo, which has increased by $1,798/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-06T05:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1126 Mac Lean Ct, Dacono, CO 80514 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1126-Mac-Lean-Ct-Dacono-CO-80514/14091161_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1126-Mac-Lean-Ct-Dacono-CO-80514/14091161_zpid",
+        "snippet": "1126 Mac Lean Ct, Dacono CO, is a Mobile / Manufactured home that contains 1207 sq ft and was built in 1973.It contains 2 bedrooms and 1 bathroom.This home last sold for $265,000 in July 2021. The Zestimate for this Mobile / Manufactured is $298,000, which has decreased by $1,220 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,566/mo, which has increased by $1,566 ...",
+        "dateLastCrawled": "2025-04-20T04:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1126 Maclean Ct, Dacono, CO 80514 | Redfin",
+        "url": "https://www.redfin.com/CO/Dacono/1126-Maclean-Ct-80514/home/35470907",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Dacono/1126-Maclean-Ct-80514/home/35470907",
+        "snippet": "2 beds, 1 bath, 1207 sq. ft. mobile/manufactured home located at 1126 Maclean Ct, Dacono, CO 80514 sold for $265,000 on Jul 9, 2021. MLS# 9518941. Come and see this beautiful fully renovated Dacono...",
+        "dateLastCrawled": "2025-04-20T04:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "1116 Glen Dale Cir, Dacono, CO 80514 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/1116-Glen-Dale-Cir_Dacono_CO_80514_M25104-94736",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/1116-Glen-Dale-Cir_Dacono_CO_80514_M...",
+        "snippet": "View 21 photos for 1116 Glen Dale Cir, Dacono, CO 80514, a 3 bed, 2 bath, 1,230 Sq. Ft. mobile home built in 1986 that was last sold on 08/31/2020.",
+        "dateLastCrawled": "2024-01-08T23:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1130 Mac Lean Ct, Dacono, CO 80514 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1130-Mac-Lean-Ct-Dacono-CO-80514/14091159_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1130-Mac-Lean-Ct-Dacono-CO-80514/14091159_zpid",
+        "snippet": "1130 Mac Lean Ct, Dacono CO, is a Mobile / Manufactured home that contains 1088 sq ft and was built in 2019.It contains 3 bedrooms and 2 bathrooms.This home last sold for $183,099 in July 2020. The Zestimate for this Mobile / Manufactured is $339,100, which has increased by $4,160 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $2,196/mo, which has increased by $2,196 ...",
+        "dateLastCrawled": "2025-04-08T20:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1124 Maclean Ct, Dacono, CO 80514 | Redfin",
+        "url": "https://www.redfin.com/CO/Dacono/1124-Maclean-Ct-80514/home/35470903",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Dacono/1124-Maclean-Ct-80514/home/35470903",
+        "snippet": "3 beds, 2 baths, 1850 sq. ft. house located at 1124 Maclean Ct, Dacono, CO 80514 sold for $260,000 on Feb 27, 2024. MLS# 8758827. Unbeatable opportunity below $300K! This home in Dacono boasts 3 be...",
+        "dateLastCrawled": "2025-03-31T05:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1124 Maclean Court, Dacono, CO 80514 | MLS #5221901 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1124-Maclean-Ct-Dacono-CO-80514/14091148_zpid/?mmlb=g,3",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1124-Maclean-Ct-Dacono-CO-80514/14091148_zpid/?mmlb=g,3",
+        "snippet": "Zillow has 24 photos of this $335,000 3 beds, 2 baths, 1,850 Square Feet manufactured home located at 1124 Maclean Court, Dacono, CO 80514 built in 1974. MLS #5221901.",
+        "dateLastCrawled": "2023-09-05T22:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1136 Maclean Street, Dacono, CO 80514 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1136-Mac-Lean-St-Dacono-CO-80514/14091170_zpid/",
+        "datePublished": "2025-02-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 21, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1136-Mac-Lean-St-Dacono-CO-80514/14091170_zpid",
+        "snippet": "1136 Maclean Street, Dacono CO, is a Mobile / Manufactured home that contains 1216 sq ft and was built in 2000.It contains 3 bedrooms and 2 bathrooms.This home last sold for $345,000 in February 2025. The Zestimate for this Mobile / Manufactured is $345,000, which has increased by $4,500 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $2,056/mo, which has increased by ...",
+        "dateLastCrawled": "2025-03-08T04:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1136 Maclean St, Dacono, CO 80514 | Redfin",
+        "url": "https://www.redfin.com/CO/Dacono/1136-Maclean-St-80514/home/35470914",
+        "datePublished": "2014-09-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 11, 2014",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Dacono/1136-Maclean-St-80514/home/35470914",
+        "snippet": "Sold: 3 beds, 2 baths, 1216 sq. ft. house located at 1136 Maclean St, Dacono, CO 80514 sold for $345,000 on Feb 19, 2025. MLS# 2614302. Welcome to your dream retreat in Dacono! This beautifully ren...",
+        "dateLastCrawled": "2025-05-02T05:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1132 Maclean Ct, Dacono, CO 80514 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1132-Maclean-Ct-Dacono-CO-80514/246631165_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1132-Maclean-Ct-Dacono-CO-80514/246631165_zpid",
+        "snippet": "1132 Maclean Ct, Dacono CO, is a Mobile / Manufactured home that contains 672 sq ft and was built in 1972.It contains 2 bedrooms and 1 bathroom. The Rent Zestimate for this Mobile / Manufactured is $1,340/mo, which has increased by $1,340/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-27T23:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

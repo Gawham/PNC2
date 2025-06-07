@@ -1,0 +1,659 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "11001 W 15th Pl, Unit 16, Lakewood CO 80215"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=11001+W+15th+Pl%2c+Unit+16%2c+Lakewood+CO+80215",
+    "totalEstimatedMatches": 962000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Senior Living Apartments in Lakewood, CO | Solana Lakewood",
+        "url": "https://solanalakewood.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://solanalakewood.com",
+        "snippet": "11001 W 15th Place Lakewood, CO 80215 (303) 970-1530. Pet Policy. 1. The prospective tenant has the right to provide to the landlord a portable screening report, as defined in Section 38-12-902(2.5), Colorado Revised Statutes; and 2. If the prospective tenant provides the landlord with a portable tenant screening report, the landlord is ...",
+        "deepLinks": [
+          {
+            "name": "Amenities",
+            "url": "https://solanalakewood.com/amenities/",
+            "snippet": "Amenities - Senior Living Apartments in Lakewood, CO | Solana Lakewood"
+          },
+          {
+            "name": "Floor Plans",
+            "url": "https://solanalakewood.com/floorplans/",
+            "snippet": "Floor Plans - Senior Living Apartments in Lakewood, CO | Solana Lakewood",
+            "deepLinks": [
+              {
+                "name": "B2B",
+                "url": "https://solanalakewood.com/floorplans/b2b/"
+              },
+              {
+                "name": "B2a",
+                "url": "https://solanalakewood.com/floorplans/b2a/"
+              },
+              {
+                "name": "A3 ADA",
+                "url": "https://solanalakewood.com/floorplans/a3-ada/"
+              }
+            ]
+          },
+          {
+            "name": "Neighborhood",
+            "url": "https://solanalakewood.com/neighborhood/",
+            "snippet": "Neighborhood - Senior Living Apartments in Lakewood, CO | Solana Lakewood"
+          },
+          {
+            "name": "Gallery",
+            "url": "https://solanalakewood.com/gallery/",
+            "snippet": "Gallery - Senior Living Apartments in Lakewood, CO | Solana Lakewood"
+          },
+          {
+            "name": "Residents",
+            "url": "https://solanalakewood.com/residents/",
+            "snippet": "Residents - Senior Living Apartments in Lakewood, CO | Solana Lakewood"
+          },
+          {
+            "name": "Live Healthy",
+            "url": "https://solanalakewood.com/p/live-healthy/",
+            "snippet": "Live Healthy - Senior Living Apartments in Lakewood, CO | Solana Lakewood"
+          },
+          {
+            "name": "Contact",
+            "url": "https://solanalakewood.com/contact/",
+            "snippet": "11001 W 15th Place Lakewood, CO 80215 11001 W 15th Place Lakewood, CO 80215 (303) 970-1530; Get Directions. Office Hours . Monday - Friday . 8:00 AM - 5:00 PM . Saturday . 9:00 AM - 4:00 PM . Sunday . Closed . Get in Touch! First Name. Last Name. Email. Phone. Message. Submit. Your new home awaits. Book a Tour Find Your Home ..."
+          },
+          {
+            "name": "Book a Tour",
+            "url": "https://solanalakewood.com/schedule-a-tour/",
+            "snippet": "Book a Tour - Senior Living Apartments in Lakewood, CO | Solana Lakewood"
+          },
+          {
+            "name": "Accessibility Statement",
+            "url": "https://solanalakewood.com/accessibility/",
+            "snippet": "11001 W 15th Place, Lakewood, CO 80215 // (303) 970-1530. Book a Tour; Amenities; Floorplans; Neighborhood; Gallery; Residents; Live Healthy; Contact; Find Your Home; Accessibility Statement. Our community strives to improve the usability and accessibility of its website and mobile application for all users, including those with disabilities ..."
+          }
+        ],
+        "dateLastCrawled": "2025-06-05T20:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "11001 W 15th Pl Lakewood, CO 80215 - Apartments.com",
+        "url": "https://www.apartments.com/solana-lakewood-lakewood-co/84dq2l0/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.6yvGVsK8TnoBX-UQ9pe0RAHaE8&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.8,
+              "bestRating": 5,
+              "reviewCount": 35
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/solana-lakewood-lakewood-co/84dq2l0",
+        "snippet": "1-3 Br $1,908-$5,171 16.8 mi. Frequently Asked Questions. Which floor plans are available, and what are the price ranges? ... 11001 W 15th Pl. Lakewood, CO 80215. Email Copy Link. ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tours Video Property Site Map Location Map Unit Map View ...",
+        "dateLastCrawled": "2025-06-04T03:40:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.6yvGVsK8TnoBX-UQ9pe0RAHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.6yvGVsK8TnoBX-UQ9pe0RAHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "11001 W 15th Pl, Lakewood, 80215, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(720) 637-5891"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$2,082 - $3,005"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Solana Lakewood 55+ in Lakewood - Greystar",
+        "url": "https://www.greystar.com/properties/lakewood-co/solana-lakewood-55",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.BENRlgIVKn2vHCJVjW9T8AHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.greystar.com/properties/lakewood-co/solana-lakewood-55",
+        "snippet": "11001 W. 15th Place Lakewood CO 80215. Solana Lakewood 55+ 11001 W. 15th Place Lakewood CO 80215. Solana Lakewood 55+ 11001 W. 15th Place Lakewood CO 80215. Community Highlights. Balcony or Patio; Fitness Center; Pet Friendly; Swimming Pool(s) Washer/Dryer Available; Smoke Free Community; Features;",
+        "dateLastCrawled": "2025-06-04T03:03:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.BENRlgIVKn2vHCJVjW9T8AHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.BENRlgIVKn2vHCJVjW9T8AHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "11001 W. 15th Place, Lakewood, 80215, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(303) 970-1513"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Greystar"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Lakewood Retirement Community | Solana Lakewood Apartments",
+        "url": "https://solanalakewood.com/floorplans/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.ek5iDlxF4Ly1n4CZfkQHJgHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://solanalakewood.com/floorplans",
+        "snippet": "11001 W 15th Place Lakewood, CO 80215 (303) 970-1530. Pet Policy. 1. The prospective tenant has the right to provide to the landlord a portable screening report, as defined in Section 38-12-902(2.5), Colorado Revised Statutes; and 2. If the prospective tenant provides the landlord with a portable tenant screening report, the landlord is ...",
+        "dateLastCrawled": "2025-06-05T20:04:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.ek5iDlxF4Ly1n4CZfkQHJgHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.ek5iDlxF4Ly1n4CZfkQHJgHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "11001 W 15th Place, Lakewood, 80215, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "3039701530"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Contact | Senior Housing in Lakewood, CO | Solana Lakewood",
+        "url": "https://solanalakewood.com/contact/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://solanalakewood.com/contact",
+        "snippet": "11001 W 15th Place Lakewood, CO 80215 11001 W 15th Place Lakewood, CO 80215 (303) 970-1530; Get Directions. Office Hours . Monday - Friday . 8:00 AM - 5:00 PM . Saturday . 9:00 AM - 4:00 PM . Sunday . Closed . Get in Touch! First Name. Last Name. Email. Phone. Message. Submit. Your new home awaits. Book a Tour Find Your Home ...",
+        "dateLastCrawled": "2025-06-03T10:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "11001 W 15th Place, Lakewood, 80215, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "3039701530"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Solana Lakewood 55+ Active Adult Apartment Homes - 11001 W 15th Pl ...",
+        "url": "https://www.zillow.com/apartments/lakewood-co/solana-lakewood-55+-active-adult-apartment-homes/CkBbd2/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/apartments/lakewood-co/solana-lakewood-55+-active-adult...",
+        "snippet": "11001 W 15th Pl, Lakewood, CO 80215. Special offer! Price shown is Base Rent, does not include non-optional fees and utilities. Review Building overview for details. ... This building has monthly fee of $35 for dogs. A maximum of 2 cats are allowed per unit. To have a cat at Solana Lakewood 55+ Active Adult Apartment Homes there is a required ...",
+        "dateLastCrawled": "2025-05-23T08:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Solana Lakewood Apartments - Lakewood, Colorado - 21 units ... - After55",
+        "url": "https://www.after55.com/co/lakewood/solana-lakewood/x4dq5lm",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.apF_2UoaMNpJpQhdYGLVEgHaE7&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2025-05-31T00:00:00.0000000",
+        "datePublishedDisplayText": "May 31, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.after55.com/co/lakewood/solana-lakewood/x4dq5lm",
+        "snippet": "11001 W 15th Pl, Lakewood, CO 80215. Last Updated: 1 Day Ago. ACTIVE ADULT 55+ Solana Lakewood Apartments. Favorite. 11001 W 15th Pl, Lakewood, CO 80215. Last Updated: 1 Day Ago. ACTIVE ADULT 55+ Floor Plan Summary ; ... Storage Unit . Refundable deposit. $65/mo. $0. Property Fee Disclaimer: ...",
+        "dateLastCrawled": "2025-06-06T08:55:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.apF_2UoaMNpJpQhdYGLVEgHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.apF_2UoaMNpJpQhdYGLVEgHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "After55"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "11001 W 15th Pl Lakewood CO 80215 - Apartment Finder",
+        "url": "https://www.apartmentfinder.com/Colorado/Lakewood-Apartments/Solana-Lakewood-Apartments-15ds6l4",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.cWD2Oir44R2JZg-rOlfI7wHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentfinder.com/Colorado/Lakewood-Apartments/Solana-Lakewood...",
+        "snippet": "Find apartments for rent at Solana Lakewood from $2,008 at 11001 W 15th Pl in Lakewood, CO. Solana Lakewood has rentals available ranging from 798-1234 sq ft. ... 11001 W 15th Pl, Lakewood, CO 80215 Map Lakewood/West Corridor. $2,008 ... 1 Unit Available. Hide Floor Plan Details Show Floor Plan Details. Highlights.",
+        "dateLastCrawled": "2025-05-30T12:46:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.cWD2Oir44R2JZg-rOlfI7wHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.cWD2Oir44R2JZg-rOlfI7wHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartment Finder"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "11001 W 15th Pl #16, Denver, CO 80215 - Zillow",
+        "url": "https://www.zillow.com/homedetails/11001-W-15th-Pl-16-Denver-CO-80215/2061493261_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/11001-W-15th-Pl-16-Denver-CO-80215/2061493261_zpid",
+        "snippet": "11001 W 15th Pl #16, Denver CO, is a Apartment home that contains 798 sq ft.It contains 1 bedroom and 1 bathroom. The Rent Zestimate for this Apartment is $2,157/mo, which has increased by $2,157/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-27T08:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Solana Lakewood - Lakewood CO 55+ Retirement Communities",
+        "url": "https://activeadultliving.com/CO/colorado/55-plus-communities/lakewood/80215/solana-lakewood",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://activeadultliving.com/CO/colorado/55-plus-communities/lakewood/80215/solana...",
+        "snippet": "11001 W 15th Place, Lakewood, CO 80215. 720-705-0055. Request More Info. ... Plus, with washer/dryer facilities and central air/heat installed in every unit, your comfort is ensured. Embrace the enriched retirement lifestyle you deserve at Solana Lakewood Apartments. Contact us today to schedule a tour and find your new home!",
+        "dateLastCrawled": "2025-04-29T22:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Active Adult Living"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Solana Lakewood 55+ Active Adult Apartment Homes - 11001 W 15th Pl ...",
+        "url": "https://www.rent.com/apartment/solana-lakewood-55-active-adult-apartment-homes-lakewood-co-lc5923845",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rent.com/apartment/solana-lakewood-55-active-adult-apartment-homes...",
+        "snippet": "11001 W 15th Pl, Lakewood, CO 80215. Applewood Valley. 11001 W 15th Pl, Lakewood, CO 80215. Close. Solana Lakewood 55+ Active Adult Apartment Homes (720) 905-4853 Email. 1\u20132 Beds; ... 5395 W 3rd Pl unit Unit 6; 184 Young Ct; The Village Green Apartments; 3550 S Harlan St unit 12-298; 1495 Vrain St; 8355 W 9th Ave; 1333 S Xavier St;",
+        "dateLastCrawled": "2025-06-03T16:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Solana Lakewood 55+ Active Adult Apartment Homes - Lakewood, CO - Trulia",
+        "url": "https://www.trulia.com/building/solana-lakewood-55-active-adult-apartment-homes-11001-w-15th-pl-lakewood-co-80215-2750822417",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/building/solana-lakewood-55-active-adult-apartment-homes-11001...",
+        "snippet": "Solana Lakewood 55+ Active Adult Apartment Homes offers 1-2 bedroom rentals starting at $2,008/month. Solana Lakewood 55+ Active Adult Apartment Homes is located at 11001 W 15th Pl, Lakewood, CO 80215. See 7 floorplans, review amenities, and request a tour of the building today.",
+        "dateLastCrawled": "2025-05-03T17:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Solana Lakewood 55+ Active Adult Apartment Homes | 11001 W 15th Pl ...",
+        "url": "https://www.redfin.com/CO/Lakewood/Solana-Lakewood-55-Active-Adult-Apartment-Homes/apartment/125769835",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Lakewood/Solana-Lakewood-55-Active-Adult-Apartment-Homes/...",
+        "snippet": "Solana Lakewood 55+ Active Adult Apartment Homes has 23 units. Solana Lakewood 55+ Active Adult Apartment Homes is located in Lakewood, the 80215 zipcode, and the Jeffco Public Schools. The full address of this building is 11001 W 15th Pl Lakewood, CO 80215.",
+        "dateLastCrawled": "2025-06-05T17:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "55+ Luxury Communities in Lakewood, CO | Solana Lakewood",
+        "url": "https://solanalakewood.com/amenities/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://solanalakewood.com/amenities",
+        "snippet": "11001 W 15th Place Lakewood, CO 80215 (303) 970-1530. Pet Policy. 1. The prospective tenant has the right to provide to the landlord a portable screening report, as defined in Section 38-12-902(2.5), Colorado Revised Statutes; and 2. If the prospective tenant provides the landlord with a portable tenant screening report, the landlord is ...",
+        "dateLastCrawled": "2025-05-31T12:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Solana Lakewood Apartments in Lakewood, CO - ApartmentHomeLiving.com",
+        "url": "https://www.apartmenthomeliving.com/apartment-finder/Solana-Lakewood-Lakewood-CO-80215-7490028",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmenthomeliving.com/apartment-finder/Solana-Lakewood-Lakewood-CO-80215...",
+        "snippet": "ApartmentHomeLiving.com's new Interactive Property Map allows you to see where every available unit is located at this community. Try It Now > 1 Bedrooms; 2 Bedrooms ... 11001 W 15th Pl, Lakewood, CO 80215. Shopping; Colleges; Grocery; Medical; Parks; Transportation; Map. Explore Nearby. ... Solana Lakewood is located at 11001 W 15th Pl near ...",
+        "dateLastCrawled": "2025-06-02T05:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentHomeLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Solana Lakewood - 11001 W 15th Place, Lakewood, CO - Homes.com",
+        "url": "https://www.homes.com/property/solana-lakewood-lakewood-co/sd1wpleb6301q/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/solana-lakewood-lakewood-co/sd1wpleb6301q",
+        "snippet": "Solana Lakewood - 11001 W 15th Place, Lakewood, CO 80215 - 1,234 sqft home built in 2019 . Browse photos, take a 3D tour & see rental costs & information about this property for rent. ... Unit Price Sq Ft Availability; 148: $2,430: 1,093: Now: 350: $2,600: 1,093: Now: 224: $2,700: 1,093: Now: 214: ... This apartment is located at 11001 W 15th ...",
+        "dateLastCrawled": "2025-04-26T10:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Solana Lakewood | SeniorLiving.com",
+        "url": "https://www.seniorliving.com/senior-community/solana-lakewood",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorliving.com/senior-community/solana-lakewood",
+        "snippet": "11001 W 15th Place. Lakewood, CO 80215. shn_senior_apartments. Welcome to Solana Lakewood Apartments, where convenience, style, and comfort enhance your retirement living experience. Our 55+ apartments in Lakewood, CO, have everything you need to both live simply and thrive in a setting that naturally feels like home. Enjoy access to a variety ...",
+        "dateLastCrawled": "2025-05-19T19:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Solana Lakewood Apartments - Lakewood, CO | ForRent.com",
+        "url": "https://www.forrent.com/co/lakewood/solana-lakewood/x4dq5lm",
+        "datePublished": "2025-05-09T00:00:00.0000000",
+        "datePublishedDisplayText": "May 9, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forrent.com/co/lakewood/solana-lakewood/x4dq5lm",
+        "snippet": "55+ active adult living community in lakewood, co! Nestled between Downtown Denver and the Rocky Mountains, Solana Lakewood offers a new kind of senior apartment living. Our community is tailor-made for active adults ages 55 and better seeking a maintenance-free, service-enriched lifestyle.",
+        "dateLastCrawled": "2025-05-11T04:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ForRent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Solana Lakewood 55+ Active Adult Apartment Homes",
+        "url": "https://www.apartmentguide.com/a/Solana-Lakewood-55+-Active-Adult-Apartment-Homes-Lakewood-CO-5923845/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentguide.com/a/Solana-Lakewood-55+-Active-Adult-Apartment-Homes...",
+        "snippet": "11001 W 15th Pl, Lakewood, CO 80215. Close. Solana Lakewood 55+ Active Adult Apartment Homes (720) 973-7836 Email. 1\u20132 Beds 1\u20132 Baths 798-1,234 Sqft. ... 10371 W 6th Pl unit 10371 W 6th Place; The Windsor CO; 518 22nd St unit 518 22nd St Unit 4; 29X; 1055 N Raleigh St unit 1055; Westwood Green;",
+        "dateLastCrawled": "2025-06-04T14:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentGuide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Solana Lakewood | Senior Apartments | Lakewood, CO 80215 - A Place for Mom",
+        "url": "https://www.aplaceformom.com/community/solana-lakewood-1443207",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/solana-lakewood-1443207",
+        "snippet": "Located in Lakewood, Colorado, their community is tailor-made for active adults age 55 and better seeking a maintenance-free, service-enriched lifestyle.<br><br>Their one and two bedroom 55+ apartments for rent in Lakewood feature all the luxurious details and contemporary conveniences you expect and deserve.",
+        "dateLastCrawled": "2025-06-05T02:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2368 Research Pkwy, Unit 315, Colorado Springs CO 80920"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2368+Research+Pkwy%2c+Unit+315%2c+Colorado+Springs+CO+80920",
+    "totalEstimatedMatches": 856000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Assisted Living and Memory Care | Legend of Colorado Springs",
+        "url": "https://legendseniorliving.com/find-a-community/colorado/legend-of-colorado-springs.html",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.81-aStcxXuxBJszLNWMY2QHaEK&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://legendseniorliving.com/find-a-community/colorado/legend-of-colorado-springs.html",
+        "snippet": "2368 Research Pkwy | Colorado Springs, CO 80920 PH: 719-309-0070. Legend of Colorado Springs 2368 Research Pkwy | Colorado Springs, CO 80920 PH: 719-309-0070. Request a Visit. Join other recent inquiries. Contact Us. Legend of Colorado Springs; Photo Galleries; Events; Floor Plans;",
+        "dateLastCrawled": "2025-06-04T13:26:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.81-aStcxXuxBJszLNWMY2QHaEK&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 266,
+          "imageId": "OIP.81-aStcxXuxBJszLNWMY2QHaEK"
+        },
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2368 Research Pkwy, Colorado Springs, 80920"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(719) 309-0070"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Legend Senior Living"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Legend Of Colorado Springs (UPDATED) - Get Pricing, See 48 ... - Seniorly",
+        "url": "https://www.seniorly.com/assisted-living/colorado/colorado-springs/legend-of-colorado-springs",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.NGUA5ve5QbnoMcl38LCQ5gAAAA&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 9.8,
+              "bestRating": 10,
+              "reviewCount": 28
+            }
+          }
+        ],
+        "datePublished": "2025-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/assisted-living/colorado/colorado-springs/legend-of-colorado...",
+        "snippet": "Legend Of Colorado Springs is an Assisted Living community located at 2368 Research Parkway in Colorado Springs, CO. See pricing, photos & reviews on Seniorly.com! ... 2368 Research Parkway, Colorado Springs, CO 80920 Calculate travel time. Assisted Living \u00b7 Memory Care. 9.8. Community score. Write a review. For residents and staff",
+        "dateLastCrawled": "2025-06-04T08:23:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.NGUA5ve5QbnoMcl38LCQ5gAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 320,
+          "sourceHeight": 213,
+          "imageId": "OIP.NGUA5ve5QbnoMcl38LCQ5gAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2368 Research Parkway, Colorado Springs, 80920"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(719) 309-0070"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Legend of Colorado Springs - 2025 Pricing, Photos, Reviews in Colorado ...",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/colorado-springs/legend-of-colorado-springs-80920/",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5,
+              "reviewCount": 23
+            }
+          }
+        ],
+        "datePublished": "2024-05-02T00:00:00.0000000",
+        "datePublishedDisplayText": "May 2, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/facilities/co/colorado-springs/legend-of-colorado...",
+        "snippet": "2368 Research Pkwy, Colorado Springs, CO 80920. 4.9 / 5.0 23 Reviews . Pricing & Availability (800) 755-1458 ... 2368 Research Pkwy, Colorado Springs, CO 80920. Pricing & Availability (800) 755-1458 . Available Living Options. ... The memory care unit did an excellent job and my mother in law bounced back and improved much to the surprise of ...",
+        "dateLastCrawled": "2025-05-29T15:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Legend of Colorado Springs - Legend Senior Living",
+        "url": "https://info.legendseniorliving.com/legend-of-colorado-springs-2",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.WBli7UAtyHalyNZnB0GdAwHaEm&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://info.legendseniorliving.com/legend-of-colorado-springs-2",
+        "snippet": "2368 Research Pkwy., Colorado Springs, CO 80920. Legend of Colorado Springs Premier Assisted Living and Memory Care Residence in Colorado Springs. ABOUT US. Legend of Colorado Springs offers more than just beautiful Pikes Peak views and convenient proximity to the Briargate area. Our residence provides exceptional care and a vibrant lifestyle ...",
+        "dateLastCrawled": "2025-06-01T14:11:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.WBli7UAtyHalyNZnB0GdAwHaEm&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 294,
+          "imageId": "OIP.WBli7UAtyHalyNZnB0GdAwHaEm"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Legend of Colorado Springs - May 2025 Pricing (UPDATED) - Family Assets",
+        "url": "https://www.familyassets.com/assisted-living/colorado/colorado-springs/legend-of-colorado-springs",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.WjvwoV2aSXrD7BqQb_jdlQHaDt&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 8.5,
+              "bestRating": 10,
+              "reviewCount": 36
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/assisted-living/colorado/colorado-springs/legend-of...",
+        "snippet": "Legend of Colorado Springs is an assisted living facility in Colorado Springs, Colorado.This community offers a memory care unit for residents with dementia. Hospice services are available on-site for residents who need them. Legend of Colorado Springs offers dental care to its residents. Costs at this community start at $5,120 and range up to ...",
+        "dateLastCrawled": "2025-05-29T09:23:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.WjvwoV2aSXrD7BqQb_jdlQHaDt&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 237,
+          "imageId": "OIP.WjvwoV2aSXrD7BqQb_jdlQHaDt"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "2368 Research Pkwy, Colorado Springs, 80920"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Legend of Colorado Springs \u2013 Colorado Springs, CO - SeniorHousingNet",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/legend-of-colorado-springs_2368-research-pkwy_colorado-springs_co_80920-651664",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.FkeFzdv8XhvdK7L0O7r2JQHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/legend-of-colorado-springs_2368...",
+        "snippet": "Legend of Colorado Springs - Assisted Living facility located at 2368 Research Pkwy, Colorado Springs, CO, 80920, seniorhousingnet.com . 800-304-7152. Talk to a local advisor for free. Assisted Living; Alzheimer\u2019s Care; ... 2368 Research Pkwy, Colorado Springs, CO 80920. Overview.",
+        "dateLastCrawled": "2025-03-08T12:31:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.FkeFzdv8XhvdK7L0O7r2JQHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.FkeFzdv8XhvdK7L0O7r2JQHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Legend of Colorado Springs | Senior Housing in Colorado Springs, Colorado",
+        "url": "https://seniorsbluebook.com/senior-housing/legend-at-colorado-springs",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://seniorsbluebook.com/senior-housing/legend-at-colorado-springs",
+        "snippet": "2368 Research Parkway, Colorado Springs, Colorado, 80920. Assisted Living. Pricing starts from ... Secured Memory Care Unit; Pets All Pets Considered; Assisted Living. Website https: ... Memory Care 2368 Research Parkway, El Paso, Colorado Springs, Colorado, 80920.",
+        "dateLastCrawled": "2025-04-01T07:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Seniors Blue Book"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Senior Living in Colorado Springs | Legend of Colorado Springs",
+        "url": "https://www.seniorlivingguide.com/communities/legend-of-colorado-springs-2368-research-pkwy-colorado-springs-co-80920/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.gHfrFNfmOZ2FTeutErC0ygHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorlivingguide.com/communities/legend-of-colorado-springs-2368-research...",
+        "snippet": "2368 Research Pkwy, Colorado Springs, CO 80920 $$$ Check ... Unit Amenities. Kitchenettes; Private; Private Bathroom; Walk In Closets; Types of Services. ... 9112 Grand Cordera Parkway, Colorado Springs, CO 80924. Sunrise at University Park 2105 University Park Blvd., Colorado Springs, CO 80918 ...",
+        "dateLastCrawled": "2025-04-22T12:38:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.gHfrFNfmOZ2FTeutErC0ygHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.gHfrFNfmOZ2FTeutErC0ygHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Senior Living Guide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Legend of Colorado Springs Assisted Living in Colorado Springs, CO",
+        "url": "https://www.seniorcare.com/assisted-living/co/colorado-springs/legend-of-colorado-springs/54521/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorcare.com/assisted-living/co/colorado-springs/legend-of-colorado...",
+        "snippet": "2368 Research Pkwy Colorado Springs, CO 80920 Phone: (316) 616-6288. Detailed Facility Reports | Payment Options | Get Pricing Information | Update This Listing. Full Name Phone Number Email Address ... 2368 Research Pkwy: City: Colorado Springs: State: CO: Zip: 80920: Phone (316) 616-6288:",
+        "dateLastCrawled": "2025-05-22T11:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorCare.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Legend of Colorado Springs | Colorado Springs, CO - Where You Live Matters",
+        "url": "https://www.whereyoulivematters.org/find-a-community/legend-of-colorado-springs/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.C6mMAkSAquWrk6eQLXTw4wHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whereyoulivematters.org/find-a-community/legend-of-colorado-springs",
+        "snippet": "Legend of Colorado Springs 2368 Research Pkwy, Colorado Springs, CO 80920. Contact Call Website . View All Photos. Facts & Features; Care; Reviews; ... Colorado Springs, CO 80921 3.1 miles away. Save this Remove from favorites. Solista Colorado Springs. 5820 Flintridge Dr ...",
+        "dateLastCrawled": "2025-06-01T08:23:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.C6mMAkSAquWrk6eQLXTw4wHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.C6mMAkSAquWrk6eQLXTw4wHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Where You Live Matters"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Legend of Colorado Springs in Colorado Springs, CO 80920 - 719-309...",
+        "url": "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/assisted-living-facility/2012628158-legend-of-colorado-springs",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chamberofcommerce.com/business-directory/colorado/colorado-springs/...",
+        "snippet": "Legend of Colorado Springs located at 2368 Research Pkwy, Colorado Springs, CO 80920 - reviews, ratings, hours, phone number, directions, and more. Search ... 2368 Research Pkwy Colorado Springs, CO 80920 719-309-0070; Owner Verified . Owner Verified . Listing Incorrect? Listing Incorrect? About; Hours; Details; Reviews; Hours. Thursday:",
+        "dateLastCrawled": "2025-04-04T02:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Chamber of Commerce"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Legend of Colorado Springs - Starting at 5,590/mo - Colorado Springs ...",
+        "url": "https://www.seniorhomes.com/colorado/colorado-springs/legend-of-colorado-springs",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhomes.com/colorado/colorado-springs/legend-of-colorado-springs",
+        "snippet": "2368 Research Pkwy, Colorado Springs, CO 80920 (833) 816-0049 to call a Family Advisor. Assisted Living. Memory Care. ... 2368 Research Pkwy, Colorado Springs, Colorado 80920 $ 5,590. Bonaventure of Colorado Springs. 9112 Grand Cordera Parkway, Colorado Springs, Colorado 80924. 4.0 (1 review) $ 3,395.",
+        "dateLastCrawled": "2025-05-17T08:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Seniorhomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Legend of Colorado Springs, 2368 Research Pkwy, Colorado Springs, CO",
+        "url": "https://www.mapquest.com/us/colorado/legend-of-colorado-springs-430826705",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/legend-of-colorado-springs-430826705",
+        "snippet": "Legend of Colorado Springs is not your typical senior living residence. With a 2-story design featuring floor-to-ceiling windows and a range of amenities, including a bistro, Gold Leaf dining program, and group exercise classes, residents can maintain a healthy and social lifestyle.",
+        "dateLastCrawled": "2024-07-07T11:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Legend of Colorado Springs - Colorado Springs, Colorado",
+        "url": "https://retirementcare.org/senior-living/colorado/colorado-springs-co/legend-of-colorado-springs-20535/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://retirementcare.org/senior-living/colorado/colorado-springs-co/legend-of...",
+        "snippet": "Welcome to Legend of Colorado Springs! The facility is located in 2368 Research Pkwy, Colorado Springs, CO 80920. Residents are able to enjoy their amenities such as Health Care Services: Memory Care, Ambulatory Care, Incontinence Care, Staffing & Ancillary Services, High Acuity Care, Medication Management , Meals & Dining: Meals Provided ...",
+        "dateLastCrawled": "2024-07-20T13:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2368 Research Pkwy, Colorado Springs, CO 80920 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2368-Research-Pkwy_Colorado-Springs_CO_80920_M92605-77672",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2368-Research-Pkwy_Colorado-Springs_CO_80920_M92605-77672",
+        "snippet": "View detailed information about property 2368 Research Pkwy, Colorado Springs, CO 80920 including listing details, property photos, school and neighborhood data, and much more. ... View detailed ...",
+        "dateLastCrawled": "2025-04-02T04:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Legend of Colorado Springs | Assisted Living & Memory Care | Colorado ...",
+        "url": "https://www.aplaceformom.com/community/legend-of-colorado-springs-1445552",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/legend-of-colorado-springs-1445552",
+        "snippet": "Liberty Heights at Northgate is an assisted living community in the city of Colorado Springs, El Paso County, Colorado for those seniors who are seeking memory care services. When a senior is seeking a great place to live in the city of Colorado Springs, they will find that in this community.",
+        "dateLastCrawled": "2025-05-28T22:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Legend Senior Living - Colorado Springs, CO 80920 - (719)358-9335 ...",
+        "url": "https://www.showmelocal.com/31786005-legend-senior-living-colorado-springs",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.showmelocal.com/31786005-legend-senior-living-colorado-springs",
+        "snippet": "Legend Senior Living, assisted living facility, listed under \"Assisted Living Facilities\" category, is located at 2368 Research Pkwy, Colorado Springs, CO 80920 and can be reached by 7193589335 phone number. Legend Senior Living has currently 0 reviews.",
+        "dateLastCrawled": "2025-03-03T02:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ShowMeLocal.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Assisted Living in Colorado Springs - US News",
+        "url": "https://health.usnews.com/best-senior-living/legend-of-colorado-springs-2114",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://health.usnews.com/best-senior-living/legend-of-colorado-springs-2114",
+        "snippet": "2368 Research Parkway, Colorado Springs, Colorado 80920 ... 2368 Research Parkway, Colorado Springs, Colorado 80920. Services. ... Senior Living Options in Colorado Springs, CO.",
+        "dateLastCrawled": "2025-05-30T16:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "US News Health"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "2368 Research Pkwy #F320A52C6, Colorado Springs, CO 80920",
+        "url": "https://www.zillow.com/homedetails/2368-Research-Pkwy-F320A52C6-Colorado-Springs-CO-80920/449106913_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2368-Research-Pkwy-F320A52C6-Colorado-Springs-CO...",
+        "snippet": "2368 Research Pkwy #F320A52C6, Colorado Springs, CO 80920 is currently not for sale. The -- sqft apartment home is a 2 beds, 2 baths property. This home was built in 2021 and last sold on 2025-04-02 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-14T23:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "2368 Research Pkwy, Colorado Springs, CO 80920 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2368-Research-Pkwy-80920/home/169081498",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2368-Research-Pkwy-80920/home/169081498",
+        "snippet": "86591 sq. ft. property located at 2368 Research Pkwy, Colorado Springs, CO 80920. View sales history, tax history, home value estimates, and overhead views. APN 6233311003.",
+        "dateLastCrawled": "2025-05-29T14:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

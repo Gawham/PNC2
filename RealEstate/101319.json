@@ -1,0 +1,392 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2612 Tall Meadow Ct, Bedford TX 76021"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2612+Tall+Meadow+Ct%2c+Bedford+TX+76021",
+    "totalEstimatedMatches": 204000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "2612 Tall Meadow Ct, Bedford, TX 76021 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2612-Tall-Meadow-Ct-Bedford-TX-76021/29250105_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2612-Tall-Meadow-Ct-Bedford-TX-76021/29250105_zpid",
+        "snippet": "2612 Tall Meadow Ct, Bedford TX, is a Single Family home that contains 1922 sq ft and was built in 1988.It contains 4 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $396,500, which has increased by $987 in the last 30 days.The Rent Zestimate for this Single Family is $2,646/mo, which has increased by $2,646/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "2616 Tall Meadow Ct, Bedford, TX 76021 | Zillow",
+            "url": "https://www.zillow.com/homedetails/2616-Tall-Meadow-Ct-Bedford-TX-76021/29250104_zpid/",
+            "snippet": "2616 Tall Meadow Ct, Bedford TX, is a Single Family home that contains 1965 sq ft and was built in 1988.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $433,100, which has decreased by $4,760 in the last 30 days.The Rent Zestimate for this Single Family is $2,817/mo, which has increased by $2,817/mo in the last 30 days."
+          },
+          {
+            "name": "2620 Tall Meadow Ct, Bedford, TX 76021 | Zillow",
+            "url": "https://www.zillow.com/homedetails/2620-Tall-Meadow-Ct-Bedford-TX-76021/29250103_zpid/",
+            "snippet": "2620 Tall Meadow Ct, Bedford TX, is a Single Family home that contains 1578 sq ft and was built in 1987.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $356,700, which has increased by $6,874 in the last 30 days.The Rent Zestimate for this Single Family is $2,322/mo, which has increased by $2,322/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2025-04-08T14:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "2612 Tall Meadow Ct, Bedford, TX 76021 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2612-Tall-Meadow-Ct_Bedford_TX_76021_M87029-05583",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2612-Tall-Meadow-Ct_Bedford_TX_76021...",
+        "snippet": "View detailed information about property 2612 Tall Meadow Ct, Bedford, TX 76021 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2025-04-12T08:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "2612 Tall Meadow Ct, Bedford, TX 76021 | Redfin",
+        "url": "https://www.redfin.com/TX/Bedford/2612-Tall-Meadow-Ct-76021/home/32382436",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/TX/Bedford/2612-Tall-Meadow-Ct-76021/home/32382436",
+        "snippet": "4 beds, 2 baths, 1922 sq. ft. house located at 2612 Tall Meadow Ct, Bedford, TX 76021. View sales history, tax history, home value estimates, and overhead views. APN 06000487.",
+        "dateLastCrawled": "2024-08-06T18:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "2612 Tall Meadow Ct, Bedford, TX 76021 - Homes.com",
+        "url": "https://www.homes.com/property/2612-tall-meadow-ct-bedford-tx/0wd514lxqlwwc/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/2612-tall-meadow-ct-bedford-tx/0wd514lxqlwwc",
+        "snippet": "This home is located at 2612 Tall Meadow Ct, Bedford, TX 76021 and is currently estimated at $425,015, approximately $221 per square foot. 2612 Tall Meadow Ct is a home located in Tarrant County with nearby schools including Meadow Creek Elementary School, Harwood Junior High School, and Trinity High School. ...",
+        "dateLastCrawled": "2025-06-06T00:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "2612 Tall Meadow Ct, BEDFORD, TX 76021 - HAR.com",
+        "url": "https://www.har.com/homedetail/2612-tall-meadow-ct-bedford-tx-76021/6364208",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.har.com/homedetail/2612-tall-meadow-ct-bedford-tx-76021/6364208",
+        "snippet": "2612 Tall Meadow Ct, BEDFORD, TX 76021 \u2219 $374,575 \u2219 View more.",
+        "dateLastCrawled": "2024-05-26T13:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HAR.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "2612 Tall Meadow Ct Bedford, TX 76021 - Trulia",
+        "url": "https://www.trulia.com/home/2612-tall-meadow-ct-bedford-tx-76021-29250105",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/2612-tall-meadow-ct-bedford-tx-76021-29250105",
+        "snippet": "2612 Tall Meadow Ct, Bedford, TX 76021 is a 1,922 sqft, 4 bed, 2 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-04-22T04:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "2612 Tall Meadow Ct Bedford TX 76021 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/2612-tall-meadow-ct-bedford-tx-76021-129786385",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/2612-tall-meadow-ct-bedford-tx-76021-129786385",
+        "snippet": "2612 Tall Meadow Ct Bedford TX with 4 bedroom and 2 bath is currently not for sale. Xome's estimated value is $405,441. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-07-04T22:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "2616 Tall Meadow Ct, Bedford, TX 76021 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2616-Tall-Meadow-Ct_Bedford_TX_76021_M89791-13932",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2616-Tall-Meadow-Ct_Bedford_TX_76021...",
+        "snippet": "See sales history and home details for 2616 Tall Meadow Ct, Bedford, TX 76021, a 3 bed, 2 bath, 1,965 Sq. Ft. single family home built in 1988 that was last sold on 12/01/2021.",
+        "dateLastCrawled": "2024-07-02T01:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "2613 Tall Meadow Ct, Bedford, TX 76021 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2613-Tall-Meadow-Ct-Bedford-TX-76021/29250101_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2613-Tall-Meadow-Ct-Bedford-TX-76021/29250101_zpid",
+        "snippet": "2613 Tall Meadow Ct, Bedford TX, is a Single Family home that contains 1659 sq ft and was built in 1986.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $383,000, which has increased by $2,952 in the last 30 days.The Rent Zestimate for this Single Family is $2,380/mo, which has increased by $2,380/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T10:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "2620 Tall Meadow Ct, Bedford, TX 76021 | MLS# 10037418 - Redfin",
+        "url": "https://www.redfin.com/TX/Bedford/2620-Tall-Meadow-Ct-76021/home/32382438",
+        "datePublished": "2004-03-31T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 31, 2004",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/TX/Bedford/2620-Tall-Meadow-Ct-76021/home/32382438",
+        "snippet": "3 beds, 2 baths, 1578 sq. ft. house located at 2620 Tall Meadow Ct, Bedford, TX 76021. View sales history, tax history, home value estimates, and overhead views. APN 06000460.",
+        "dateLastCrawled": "2024-12-13T19:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "2613 Tall Meadow Ct, Bedford TX 76021 - HAR.com",
+        "url": "https://www.har.com/homedetail/2613-tall-meadow-ct-bedford-tx-76021/6363253",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.har.com/homedetail/2613-tall-meadow-ct-bedford-tx-76021/6363253",
+        "snippet": "2613 Tall Meadow Ct Bedford TX 76021 was recently sold. It is a 0.18 Acre(s) Lot, 1,659 SQFT, 3 Beds, 2 Full Bath(s) in Bedford. View photos, map, tax, nearby homes for sale, home values, school info ...",
+        "dateLastCrawled": "2023-01-01T10:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HAR.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "2608 Tall Meadow Ct, Bedford, TX 76021 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2608-Tall-Meadow-Ct_Bedford_TX_76021_M76586-21154",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2608-Tall-Meadow-Ct_Bedford_TX_76021...",
+        "snippet": "View 19 photos for 2608 Tall Meadow Ct, Bedford, TX 76021, a 3 bed, 2 bath, 1,786 Sq. Ft. single family home built in 1987 that was last sold on 11/11/2014.",
+        "dateLastCrawled": "2024-01-01T08:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "2620 Tall Meadow Ct, Bedford, TX 76021 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2620-Tall-Meadow-Ct-Bedford-TX-76021/29250103_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2620-Tall-Meadow-Ct-Bedford-TX-76021/29250103_zpid",
+        "snippet": "2620 Tall Meadow Ct, Bedford TX, is a Single Family home that contains 1578 sq ft and was built in 1987.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $356,700, which has increased by $6,874 in the last 30 days.The Rent Zestimate for this Single Family is $2,322/mo, which has increased by $2,322/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-27T06:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2617 Tall Meadow Ct, BEDFORD TX 76021 - HAR.com",
+        "url": "https://www.har.com/homedetail/2617-tall-meadow-ct-bedford-tx-76021/6363702",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.har.com/homedetail/2617-tall-meadow-ct-bedford-tx-76021/6363702",
+        "snippet": "2617 Tall Meadow Ct BEDFORD TX 76021. It is in BEDFORD. View photos, map, tax, nearby homes for sale, home values, school info ...",
+        "dateLastCrawled": "2022-12-03T05:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HAR.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "2616 Tall Meadow Ct, Bedford, TX 76021 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2616-Tall-Meadow-Ct-Bedford-TX-76021/29250104_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2616-Tall-Meadow-Ct-Bedford-TX-76021/29250104_zpid",
+        "snippet": "2616 Tall Meadow Ct, Bedford TX, is a Single Family home that contains 1965 sq ft and was built in 1988.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $433,100, which has decreased by $4,760 in the last 30 days.The Rent Zestimate for this Single Family is $2,817/mo, which has increased by $2,817/mo in the last 30 days.",
+        "dateLastCrawled": "2024-11-06T04:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "2612 Classic Ct E, Bedford, TX 76021 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2612-Classic-Ct-E-Bedford-TX-76021/29250094_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2612-Classic-Ct-E-Bedford-TX-76021/29250094_zpid",
+        "snippet": "2612 Classic Ct E, Bedford TX, is a Single Family home that contains 2061 sq ft and was built in 1988.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $415,600, which has increased by $7,277 in the last 30 days.The Rent Zestimate for this Single Family is $2,598/mo, which has increased by $2,598/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T00:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "2608 Tall Meadow Ct, BEDFORD, TX 76021 - HAR.com",
+        "url": "https://www.har.com/homedetail/2608-tall-meadow-ct-bedford-tx-76021/6363275",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.har.com/homedetail/2608-tall-meadow-ct-bedford-tx-76021/6363275",
+        "snippet": "2608 Tall Meadow Ct, BEDFORD, TX 76021 \u2219 $358,126 \u2219 View more.",
+        "dateLastCrawled": "2025-02-21T13:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HAR.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "2616 Tall Meadow Ct, BEDFORD, TX 76021 - HAR.com",
+        "url": "https://www.har.com/homedetail/2616-tall-meadow-ct-bedford-tx-76021/8497028",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.har.com/homedetail/2616-tall-meadow-ct-bedford-tx-76021/8497028",
+        "snippet": "Explore 2616 Tall Meadow Ct, BEDFORD, TX 76021. View features, schools, taxes & similar listings.",
+        "dateLastCrawled": "2025-06-01T02:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HAR.com"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

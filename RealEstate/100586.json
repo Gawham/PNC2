@@ -1,0 +1,465 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "405 Milwaukee St, Denver CO 80206"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=405+Milwaukee+St%2c+Denver+CO+80206",
+    "totalEstimatedMatches": 1470000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "405 Milwaukee St, Denver, CO 80206 | Zillow",
+        "url": "https://www.zillow.com/homedetails/405-Milwaukee-St-Denver-CO-80206/13348663_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/405-Milwaukee-St-Denver-CO-80206/13348663_zpid",
+        "snippet": "405 Milwaukee St, Denver CO, is a Single Family home that contains 4553 sq ft and was built in 2003.It contains 2 bedrooms and 3.5 bathrooms.This home last sold for $625,000 in November 2001. The Zestimate for this Single Family is $3,271,300, which has increased by $83,964 in the last 30 days.The Rent Zestimate for this Single Family is $5,815/mo, which has increased by $5,815/mo in the last ...",
+        "deepLinks": [
+          {
+            "name": "405 N Harrison St #3, Denver, CO 80206 - Zillow",
+            "url": "https://www.zillow.com/homedetails/405-N-Harrison-St-3-Denver-CO-80206/318398640_zpid/",
+            "snippet": "405 N Harrison St #3, Denver, CO 80206 is a townhouse listed for rent at $4,495 /mo. The 1,771 Square Feet townhouse is a 4 beds, 4 baths townhouse. View more property details, sales history, and Zestimate data on Zillow."
+          }
+        ],
+        "dateLastCrawled": "2025-02-14T03:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "405 Milwaukee St, Denver, CO 80206 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/405-Milwaukee-St-80206/home/34122196",
+        "datePublished": "2001-11-06T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 6, 2001",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/405-Milwaukee-St-80206/home/34122196",
+        "snippet": "4553 sq. ft. house located at 405 Milwaukee St, Denver, CO 80206 sold for $625,000 on Nov 6, 2001. View sales history, tax history, home value estimates, and overhead views. APN 05122-03-009-000.",
+        "dateLastCrawled": "2025-04-23T21:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "405 Milwaukee St, Denver, CO 80206 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/405-Milwaukee-St_Denver_CO_80206_M22944-09499",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/405-Milwaukee-St_Denver_CO_80206_M...",
+        "snippet": "See sales history and home details for 405 Milwaukee St, Denver, CO 80206, a 2 bed, 4 bath, 5,978 Sq. Ft. single family home built in 2003 that was last sold on 11/06/2001.",
+        "dateLastCrawled": "2023-08-01T22:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "405 Milwaukee St, Denver, CO 80206 | Trulia",
+        "url": "https://www.trulia.com/home/405-milwaukee-st-denver-co-80206-13348663",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/405-milwaukee-st-denver-co-80206-13348663",
+        "snippet": "405 Milwaukee St, Denver, CO 80206 is a 4,553 sqft, 2 bed, 3.5 bath home sold in 2001. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2023-12-22T17:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Milwaukee Street Tavern",
+        "url": "https://milwaukeestreettavern.com/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.fGuc0LJztFvGLXA7ewzc_gHaKz&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://milwaukeestreettavern.com",
+        "snippet": "Milwaukee Street Tavern has been a neighborhood favorite Sports Bar in Cherry Creek North since 1986. Serving grub pub, a large selection of beer, wine, and spirits, an open-feel patio, and a collection of hi-def TVs perfect for catching any game you want! ... 201 Milwaukee Street Denver, CO 80206. Hours. Everyday 11 am \u2013 2 am. Contact (303 ...",
+        "dateLastCrawled": "2025-06-04T13:02:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.fGuc0LJztFvGLXA7ewzc_gHaKz&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 691,
+          "imageId": "OIP.fGuc0LJztFvGLXA7ewzc_gHaKz"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Milwaukee St Tavern"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "400 Milwaukee Street, Denver, CO 80206 - Zillow",
+        "url": "https://www.zillow.com/homedetails/400-Milwaukee-St-Denver-CO-80206/2057071861_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.1yiTctWSB4QH6uHkSOWL5gHaFG&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2024-10-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 7, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/400-Milwaukee-St-Denver-CO-80206/2057071861_zpid",
+        "snippet": "400 Milwaukee Street, Denver CO, is a Townhouse home that contains 3526 sq ft and was built in 1995.It contains 3 bedrooms and 4 bathrooms.This home last sold for $2,200,000 in October 2024. The Zestimate for this Townhouse is $2,207,900, which has increased by $30,723 in the last 30 days.The Rent Zestimate for this Townhouse is $5,926/mo, which has increased by $5,926/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-04T15:35:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.1yiTctWSB4QH6uHkSOWL5gHaFG&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 326,
+          "imageId": "OIP.1yiTctWSB4QH6uHkSOWL5gHaFG"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "400 Milwaukee St, Denver, CO 80206 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/400-Milwaukee-St-80206/home/190244166",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/400-Milwaukee-St-80206/home/190244166",
+        "snippet": "Sold: 3 beds, 4 baths, 3526 sq. ft. condo located at 400 Milwaukee St, Denver, CO 80206 sold for $2,200,000 on Oct 7, 2024. MLS# 8138507. Sophistication, quality and French country style on one of ...",
+        "dateLastCrawled": "2025-04-09T06:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "425 Milwaukee St, Denver, CO 80206 - Zillow",
+        "url": "https://www.zillow.com/homedetails/425-Milwaukee-St-Denver-CO-80206/13348665_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/425-Milwaukee-St-Denver-CO-80206/13348665_zpid",
+        "snippet": "425 Milwaukee St, Denver, CO 80206 is currently not for sale. The 3,616 Square Feet townhouse home is a 4 beds, 6 baths property. This home was built in 2018 and last sold on 2021-02-05 for $2,200,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-01T21:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Directions to 244 Milwaukee St - MapQuest - Official MapQuest",
+        "url": "https://www.mapquest.com/directions/to/us/co/denver/80206-5006/244-milwaukee-st",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/directions/to/us/co/denver/80206-5006/244-milwaukee-st",
+        "snippet": "Driving directions to 244 Milwaukee St, Denver, CO including road conditions, live traffic updates, and reviews of local businesses along the way.",
+        "dateLastCrawled": "2024-10-29T21:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "405 N Harrison St #3, Denver, CO 80206 - Zillow",
+        "url": "https://www.zillow.com/homedetails/405-N-Harrison-St-3-Denver-CO-80206/318398640_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.gyPX_XvSMSEfQbMQrKYtBAHaFN&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/405-N-Harrison-St-3-Denver-CO-80206/318398640_zpid",
+        "snippet": "405 N Harrison St #3, Denver, CO 80206 is a townhouse listed for rent at $4,495 /mo. The 1,771 Square Feet townhouse is a 4 beds, 4 baths townhouse. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-06-06T06:59:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.gyPX_XvSMSEfQbMQrKYtBAHaFN&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 333,
+          "imageId": "OIP.gyPX_XvSMSEfQbMQrKYtBAHaFN"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "404 Milwaukee St, Denver, CO 80206 - Redfin",
+        "url": "https://www.redfin.com/CO/Denver/404-Milwaukee-St-80206/home/34122191",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/404-Milwaukee-St-80206/home/34122191",
+        "snippet": "2691 sq. ft. condo located at 404 Milwaukee St, Denver, CO 80206 sold for $448,000 on Jun 25, 1996. View sales history, tax history, home value estimates, and overhead views. APN 05122-02-031-031.",
+        "dateLastCrawled": "2025-04-09T06:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "242 Milwaukee Street, Denver, CO 80206 - LoopNet",
+        "url": "https://www.loopnet.com/Listing/242-Milwaukee-Street-Denver-CO/26439571/",
+        "datePublished": "2025-05-30T00:00:00.0000000",
+        "datePublishedDisplayText": "May 30, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.loopnet.com/Listing/242-Milwaukee-Street-Denver-CO/26439571",
+        "snippet": "242 Milwaukee Street, Denver, CO 80206. This Office space is available for lease. \u2022 New 94,260 RSF Class AA office building with 10,233 RSF of",
+        "dateLastCrawled": "2025-05-31T03:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "LoopNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "404 N Milwaukee St, Denver, CO 80206 - Zillow",
+        "url": "https://www.zillow.com/homedetails/404-N-Milwaukee-St-Denver-CO-80206/13348659_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/404-N-Milwaukee-St-Denver-CO-80206/13348659_zpid",
+        "snippet": "404 N Milwaukee St, Denver CO, is a Condo home that contains 2691 sq ft and was built in 1995.It contains 3 bedrooms and 3.5 bathrooms.This home last sold for $448,000 in June 1996. The Zestimate for this Condo is $1,820,000, which has increased by $45,355 in the last 30 days.The Rent Zestimate for this Condo is $5,335/mo, which has increased by $5,335/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-08T05:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "415 Milwaukee St, Denver, CO 80206 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/415-Milwaukee-St-80206/home/34122181",
+        "datePublished": "2001-03-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 5, 2001",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/415-Milwaukee-St-80206/home/34122181",
+        "snippet": "3 beds, 2.5 baths, 2416 sq. ft. townhouse located at 415 Milwaukee St, Denver, CO 80206 sold for $427,000 on Mar 5, 2001. View sales history, tax history, home value estimates, and overhead views. ...",
+        "dateLastCrawled": "2024-12-04T13:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "417 N Madison Street, Denver, CO 80206 | MLS #9414773 | Zillow",
+        "url": "https://www.zillow.com/homedetails/417-N-Madison-St-Denver-CO-80206/452657805_zpid/",
+        "datePublished": "2025-05-28T00:00:00.0000000",
+        "datePublishedDisplayText": "May 28, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/417-N-Madison-St-Denver-CO-80206/452657805_zpid",
+        "snippet": "Zillow has 47 photos of this $3,100,000 3 beds, 5 baths, 3,873 Square Feet single family home located at 417 N Madison Street, Denver, CO 80206 built in 2025. MLS #9414773.",
+        "dateLastCrawled": "2025-06-07T02:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "240 S Milwaukee St, Denver, CO 80209 - Zillow",
+        "url": "https://www.zillow.com/homedetails/240-S-Milwaukee-St-Denver-CO-80209/13349421_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/240-S-Milwaukee-St-Denver-CO-80209/13349421_zpid",
+        "snippet": "240 S Milwaukee St, Denver CO, is a Single Family home that contains 3072 sq ft and was built in 1960.It contains 4 bedrooms and 3 bathrooms.This home last sold for $1,000,000 in November 2017. The Zestimate for this Single Family is $1,714,200, which has increased by $49,307 in the last 30 days.The Rent Zestimate for this Single Family is $3,945/mo, which has increased by $3,945/mo in the ...",
+        "dateLastCrawled": "2025-04-09T01:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "425 Milwaukee St, Denver, CO 80206 | Redfin",
+        "url": "https://www.redfin.com/CO/Denver/425-Milwaukee-St-80206/home/160485198",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Denver/425-Milwaukee-St-80206/home/160485198",
+        "snippet": "4 beds, 4.5 baths, 3616 sq. ft. townhouse located at 425 Milwaukee St, Denver, CO 80206 sold for $2,200,000 on Jun 10, 2021. MLS# 5640569.",
+        "dateLastCrawled": "2025-05-11T16:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1560 Milwaukee St UNIT 140, Denver, CO 80206 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1560-Milwaukee-St-APT-140-Denver-CO-80206/72294499_zpid/",
+        "datePublished": "2025-02-19T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 19, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1560-Milwaukee-St-APT-140-Denver-CO-80206/72294499_zpid",
+        "snippet": "1560 Milwaukee St Unit 140, Denver CO, is a Townhouse home that contains 1173 sq ft and was built in 2006.It contains 2 bedrooms and 2 bathrooms.This home last sold for $475,000 in February 2025. The Zestimate for this Townhouse is $475,000, which has decreased by $33,564 in the last 30 days.The Rent Zestimate for this Townhouse is $2,646/mo, which has increased by $2,646/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-16T03:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "1022 Milwaukee St, Denver, CO 80206 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1022-Milwaukee-St-Denver-CO-80206/13326588_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1022-Milwaukee-St-Denver-CO-80206/13326588_zpid",
+        "snippet": "1022 Milwaukee St, Denver CO, is a Single Family home that contains 1887 sq ft and was built in 1910.It contains 3 bedrooms and 3 bathrooms.This home last sold for $755,000 in October 2017. The Zestimate for this Single Family is $1,037,200, which has increased by $12,600 in the last 30 days.The Rent Zestimate for this Single Family is $3,768/mo, which has increased by $3,768/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-11T07:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "355 Steele Street, Denver, CO 80206 | MLS #4642170 | Zillow",
+        "url": "https://www.zillow.com/homedetails/355-Steele-St-Denver-CO-80206/444132212_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/355-Steele-St-Denver-CO-80206/444132212_zpid",
+        "snippet": "Zillow has 32 photos of this $1,589,000 3 beds, 4 baths, 3,256 Square Feet single family home located at 355 Steele Street, Denver, CO 80206 built in 1996. MLS #4642170.",
+        "dateLastCrawled": "2025-06-07T02:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

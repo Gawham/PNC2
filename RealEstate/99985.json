@@ -1,0 +1,487 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 4423, Vail CO 81658"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+4423%2c+Vail+CO+81658",
+    "totalEstimatedMatches": 64,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Patient Billing & Financial Services | Vail Health in Vail, Colorado",
+        "url": "https://www.vailhealth.org/patients-and-visitors/billing-and-insurance",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.vailhealth.org/patients-and-visitors/billing",
+        "snippet": "Mail: PO BOX 1150 | Vail, CO 81658 . Call: (833) 270-4530 . Deliver: Vail Health Hospital Admissions in Vail; Patient Accounts Office at 410 McGregor Drive in Gypsum. Office hours are 8:00AM \u2013 4:30PM, Monday - Friday. ... Vail, CO 81657. Mail: PO Box 40,000 Vail, CO 81658; Ver en Espa\u00f1ol; Vail Health is a nonprofit 501(c)(3) organization ...",
+        "dateLastCrawled": "2025-06-06T02:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Vail Health"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Contact - Vail Health",
+        "url": "https://www.vailhealth.org/contact-us",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.vailhealth.org/contact-us",
+        "snippet": "For all Vail Health media inquiries, including media inquiries for Colorado Mountain Medical, Vail Health Behavioral Health, Shaw Cancer Center, and Howard Head Sports Medicine, please contact Sally Welsh using the form below. ... CO 81657. Mail: PO Box 40,000 Vail, CO 81658; Ver en Espa\u00f1ol; Vail Health is a nonprofit 501(c)(3) organization ...",
+        "dateLastCrawled": "2025-05-31T05:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Vail Health"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Complex Construction LLC \u00b7 4040 Fall Line Rd B, Vail, CO 81658 - OpenGovCO",
+        "url": "https://opengovco.com/business/20251385182",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251385182",
+        "snippet": "Complex Construction LLC (Entity #20251385182) is a DLLC in Vail, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on April 1, 2025 in the jurisdiction of Colorado. The registered office location is at 4040 Fall Line Rd B, Vail, CO 81658. The current entity status is good standing. The registered agent of the entity is Alan J Kessloff .",
+        "dateLastCrawled": "2025-06-04T02:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Post Office in Vail, CO - Hours and Location - Postal Locations",
+        "url": "https://www.postallocations.com/co/vail/vail",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 1.6,
+              "bestRating": 5
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postallocations.com/co/vail/vail",
+        "snippet": "Post Office in Vail, Colorado on N Frontage Rd W. Operating hours, phone number, ... VAIL PO Box holder. ... It is not the first time that the post office in Vail decides to send back my packages for NO REASON! and also they've been loosing my packages SO OFTEN. For this year 2018 they've lost 6 packages already.",
+        "dateLastCrawled": "2025-06-04T06:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PostalLocations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "US ZIP Code 81658 - Vail, Colorado Overview and Interactive Map",
+        "url": "https://www.zipdatamaps.com/81658",
+        "datePublished": "2025-06-02T00:00:00.0000000",
+        "datePublishedFreshnessText": "5 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zipdatamaps.com/81658",
+        "snippet": "ZIP Code 81658 - Vail Colorado 81658 Overview. ZIP Code 81658 is located in Vail Colorado. 81658 is entirely within Eagle County ... Primary County: Eagle County: ZIP Code Type: PO Box: Current Time: MDT: ZIP Code 81658 Map. Share: 81658 Geography. Coordinates: 39.63982010,-106.40232086: Adjacent ZIP Codes: 81657. Region: Colorado Rockies ...",
+        "dateLastCrawled": "2025-06-02T16:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Adjacent ZIP Codes"
+            },
+            "items": [
+              {
+                "text": "81657"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Coordinates"
+            },
+            "items": [
+              {
+                "text": "39.63982010,-106.40232086"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Metropolitan/Micropolitan Stat Area"
+            },
+            "items": [
+              {
+                "text": "Edwards, CO"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          },
+          {
+            "label": {
+              "text": "Region"
+            },
+            "items": [
+              {
+                "text": "Colorado Rockies Region"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Zipdatamaps"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "ZIP Code 81658 Info, Map, Demographics for Vail, CO",
+        "url": "https://www.zip-codes.com/zip-code/81658/zip-code-81658.asp",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zip-codes.com/zip-code/81658/zip-code-81658.asp",
+        "snippet": "ZIP Code 81658 is located in the city of Vail, Colorado and covers 0 square miles of land area. It is also located within Eagle County. 81658 is classified as a PO Box ZIP Code. Its primary use is for Post Office box delivery. It may include some mailbox delivery as well, but this will be the minority use.",
+        "dateLastCrawled": "2025-06-02T08:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ZIP-Codes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "ZIP Code 81658 map, cities, demographics and stats - United States ZIP ...",
+        "url": "https://zipcodes-us.com/zip5/81658",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://zipcodes-us.com/zip5/81658",
+        "snippet": "81658: City: VAIL: State: CO: Type: PO BOX: Post offices count: 1 ... 1300 N FRONTAGE RD W VAIL, CO 81657-9998. More VAIL \u2014 Post Office\u2122 1300 N FRONTAGE RD W VAIL, CO 81657-9998 Lot Parking Available. For facility accessibility, please call the Post Office. 1-800-ASK-USPS\u00ae (800-275-8777) Phone 970-476-1494 Fax 970-476-1065 TTY 970-476-1065.",
+        "dateLastCrawled": "2025-04-21T12:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "United States ZIP Codes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Vail Health - Vail Valley Partnership",
+        "url": "https://members.vailvalleypartnership.com/vvpmemberdirectory/Details/vail-health-2637554",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://members.vailvalleypartnership.com/vvpmemberdirectory/Details/vail-health-2637554",
+        "snippet": "PO Box 40000 , Vail, CO, 81658 ... Vail Health, formerly Vail Valley Medical Center, is a nonprofit community health care system serving patients and guests from around the world. Vail Health provides a wide array of services and access points including a 56-bed hospital, a 24/7 emergency department, (Level III Trauma Center) with a nearby ...",
+        "dateLastCrawled": "2025-05-22T23:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "ZIP Code 5: 81658 - VAIL, CO | Colorado United States ZIP Code 5 Plus 4 \ufe0f",
+        "url": "https://co.postcodebase.com/zipcode5/81658",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/zipcode5/81658",
+        "snippet": "ZIP Code 5: 81658 - VAIL, CO . ZIP Code 81658 is the postal code in VAIL, CO. Besides the basic information, it also lists the full ZIP code and the address of ZIP code 81658. Whatsmore, there is more information related to ZIP Code 81658. For example, nearby ZIP code around ZIP Code 81658, etc.",
+        "dateLastCrawled": "2025-06-01T20:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "VAIL CLINIC, INC. NPI 1497302749 Clinic/Center in Gypsum, CO - NPI Profile",
+        "url": "https://npiprofile.com/npi/1497302749",
+        "datePublished": "2019-08-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 21, 2019",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1497302749",
+        "snippet": "NPI Profile for Vail Clinic, Inc. in 410 Mcgregor Road Gypsum, Co 81637. Phone: (970) 476-2451 . Taxonomy 261Q00000X. Search. Home; NPI Lookup; Lookup Tools; Doctors; ... PO BOX 40,000 VAIL, CO 81658 Mailing Phone (970) 479-7272 Is Sole Proprietor? No Is Organization Subpart? No Enumeration Date 08-21-2019 Last Update Date 08-21-2019",
+        "dateLastCrawled": "2025-05-30T02:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Building 6, LLC - Colorado Company",
+        "url": "https://colorado-corp.com/co/building-6-llc",
+        "datePublished": "2017-04-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 14, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://colorado-corp.com/co/building-6-llc",
+        "snippet": "Business Details of Building 6, LLC in Colorado. Home; A-Z List; Contact; Building 6, LLC. Building 6 ... PO Box 4578, Vail, CO 81658, US. Added: 2020-01-06 16:26 Updated: 2024-04-22 19:08. Principal Office Address Main Address: 101 Eagle Road, Avon, CO 81620, US. Agent Information ...",
+        "dateLastCrawled": "2025-05-28T13:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Colorado Company Directory"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "1300 N Frontage Rd W Vail CO 81657 | Post Office Location",
+        "url": "https://www.postofficelocations.net/details/1300-N-Frontage-Rd-W-Vail-CO-81657/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficelocations.net/details/1300-N-Frontage-Rd-W-Vail-CO-81657",
+        "snippet": "View this post office location located at 1300 N Frontage Rd W Vail CO 81657. Find the hours of operation and all contact information to get your mail done today. Home; Post Offices By State ... Below are the open and close hours for the Vail Post Office along with the holiday closure dates. Monday: 8:30AM-5:00PM. Tuesday: 8:30AM-5 :00PM ...",
+        "dateLastCrawled": "2025-06-06T11:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Post Office Locations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Peak Management Solutions, LLC \u00b7 1300 N Frontage Rd W # 2672, Vail, CO ...",
+        "url": "https://opengovco.com/business/20251361317",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251361317",
+        "snippet": "The agent office address is 1300 N Frontage Rd W # 2672, Vail, CO 81658. OPEN GOV CO. Business Business Corporations; Charities, Paid Solicitors; Professional and Occupational Licenses; License Attorneys; Trade Names; Liquor Licenses ... PO Box 1161, Vail, CO 81658: Sunrise Snow Removal LLC: 2024-10-20: Gifted Connections LLC: 1149 Sandstone Dr ...",
+        "dateLastCrawled": "2025-06-04T02:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "PO BOX 483 VAIL, CO 81658 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-483-vail-co-81658.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-483-vail-co-81658.html",
+        "snippet": "There are 3 companies that have an address matching Po Box 483 Vail, CO 81658. The companies are Padilla Constructions LLC, Nino Interceramic Inc, and Plp Tile Installs. PADILLA CONSTRUCTIONS LLC: COLORADO LIMITED-LIABILITY COMPANY: WRITE REVIEW: Address: Po Box 483 Vail, CO 81658 : Address Types: Mailing:",
+        "dateLastCrawled": "2024-07-03T23:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Medical Records | Vail Health in Vail, Colorado",
+        "url": "https://www.vailhealth.org/patients-and-visitors/medical-records",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.vailhealth.org/patients-and-visitors/medical-records",
+        "snippet": "Email Vail Health; Main Entrance & Emergency Department: 180 South Frontage Road West, Vail, CO 81657; Delivery & Pedestrian Entrances: 181 West Meadow Drive, Vail, CO 81657. Mail: PO Box 40,000 Vail, CO 81658; Ver en Espa\u00f1ol",
+        "dateLastCrawled": "2025-06-01T09:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Vail Health"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "Mach Chicken LLC \u00b7 1813 Shasta Pl, Unit A, Vail, CO 81657 - OpenGovCO",
+        "url": "https://opengovco.com/business/20251274063",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251274063",
+        "snippet": "PO Box 4774 Vail CO 81658: Entity Transaction History. Effective Date Name Transaction Description Comment; 2025-03-06: Mach Chicken LLC: Form a Limited Liability Company (LLC) Location Information . Street Address: 1813 Shasta Pl Unit A City: Vail: State: CO: Zip Code: 81657: Country: US: Businesses in the same zip code. Business Name",
+        "dateLastCrawled": "2025-06-04T02:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "PO BOX 4550 VAIL, CO 81658 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/po-box-4550-vail-co-81658.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/po-box-4550-vail-co-81658.html",
+        "snippet": "There are 14 companies that have an address matching Po Box 4550 Vail, CO 81658. The companies are Highline Sports Entertainment Inc, Bump Run LLC, Highline Luxury Real Estate LLC, Gfy Equities LLC, Highline Medical Solutions LLC, Highline Real Estate LLC, Rocky Mountain Sound, Speed Cross, Flavors Of Colorado, The North American Snowshoe Championships, Highline Medical Products LLC, Highline ...",
+        "dateLastCrawled": "2025-05-26T16:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1700 Po Box, Vail, CO 81658 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1700-Po-Box-Vail-CO-81658/2141895583_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1700-Po-Box-Vail-CO-81658/2141895583_zpid",
+        "snippet": "1700 Po Box, Vail, CO 81658 is currently not for sale. The -- sqft condo home is a 2 beds, 1.5 baths property. This home was built in null and last sold on 2008-10-12 for $3,300. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-05T04:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Apex Stays LLC \u00b7 1300 N Frontage Rd W # 1609, Vail, CO 81658 - OpenGovCO",
+        "url": "https://opengovco.com/business/20251523957",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251523957",
+        "snippet": "The agent office address is 1300 N Frontage Rd W # 1609, Vail, CO 81658. OPEN GOV CO. Business Business Corporations; Charities, Paid Solicitors; Professional and Occupational Licenses; License Attorneys ... PO Box 1871, Vail, CO 81658: Meredith Ringler: 2023-09-06: Truly Locale LLC: 1300 N Frontage Rd W # 5142, Vail, CO 81658: Danielle Bell ...",
+        "dateLastCrawled": "2025-06-04T02:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "316 Golden Eagle, LLC \u00b7 2840 Aspen Ct, Unit A, Vail, CO 81657 - OpenGovCO",
+        "url": "https://opengovco.com/business/20251413285",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251413285",
+        "snippet": "PO Box 88 Vail CO 81658: Entity Transaction History. Effective Date Name Transaction Description Comment; 2025-04-09: 316 Golden Eagle, LLC: Form a Limited Liability Company (LLC) Location Information . Street Address: 2840 Aspen Ct Unit A City: Vail: State: CO: Zip Code: 81657: Country: US: Businesses in the same location. Business Name",
+        "dateLastCrawled": "2025-06-02T15:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

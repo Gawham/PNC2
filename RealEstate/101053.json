@@ -1,0 +1,450 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 774, West Warwick RI 02893"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+774%2c+West+Warwick+RI+02893",
+    "totalEstimatedMatches": 1610000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Post Office in West Warwick, RI - Hours and Location - Postal Locations",
+        "url": "https://www.postallocations.com/ri/west-warwick/west-warwick",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postallocations.com/ri/west-warwick/west-warwick",
+        "snippet": "PO Box Online; Lobby has Copier; Lot Parking; Visit our Links Page for Holiday Schedule, Change of Address, Hold Mail/Stop Delivery, ... Complaint: I live at 1 Home Street Unit 1 Package Deliveries Are All to be \"PUT INSIDE BACK SIDE DOOR\" West Warwick, RI 02893 DELIVERY INSTRUCTIONS ARE NOT BEING FOLLOWED!!! REPEDITLY MY PACKAGES ARE BEING ...",
+        "dateLastCrawled": "2025-06-03T02:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "PostalLocations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Find USPS Locations | USPS",
+        "url": "https://tools.usps.com/locations/details/1386937",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://tools.usps.com/locations/details/1386937",
+        "snippet": "PO Box. Free Boxes. Click-N-Ship. Skip Send Links Send. Tools; ... For facility accessibility, please call the Post Office. 1-800-ASK-USPS\u00ae (800-275-8777) Can't find what you're looking for? Visit FAQs for answers to common questions about USPS locations and services. FAQs \u2122 2 ...",
+        "dateLastCrawled": "2025-06-05T02:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "USPS.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "West Warwick Post Office, RI 02893 - Hours Phone Service and Location",
+        "url": "https://us-postoffice.com/ri/west-warwick/west-warwick-post-office",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://us-postoffice.com/ri/west-warwick/west-warwick-post-office",
+        "snippet": "West Warwick Post Office in Rhode Island, RI 02893. Operating hours, phone number, services information, and other locations near you. ... 100 Washington St, West Warwick RI 02893. About. Address: 100 Washington St, West Warwick RI 02893 Large Map & Directions ; Phone: 401-828-0592; Fax: 401-828-5274; TTY: 877-889-2457; Toll-Free: 1-800-Ask ...",
+        "dateLastCrawled": "2025-06-02T11:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Postoffice of US"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Business Tax Delinquents | RI Division of Taxation - Rhode Island",
+        "url": "https://tax.ri.gov/guidance/reports/delinquent-taxpayers/business-tax-delinquents",
+        "datePublished": "2025-05-23T00:00:00.0000000",
+        "datePublishedDisplayText": "May 23, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://tax.ri.gov/guidance/reports/delinquent-taxpayers/business-tax-delinquents",
+        "snippet": "c/o ronald a loparto po box 337 lincoln, ri 02865 $168,217.66 bballisall inc 35 christie murphy dr stoughton, ma 02072 $167,400.70 warwick reinsurance ... west warwick, ri 02893 $69,403.30 alere inc 100 abbott park rd # 349-4 north chicago, il 60064 $69,289.67 costa companies inc ...",
+        "dateLastCrawled": "2025-06-03T15:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RI Division of Taxation"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "West Warwick Post Office - 100 Washington St West warwick, RI",
+        "url": "https://mailboxlocate.com/offices/1386937-west-warwick/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mailboxlocate.com/offices/1386937-west-warwick",
+        "snippet": "West Warwick Post Office in 100 Washington St West warwick, RI, offers USPS services like package delivery, first-class mail, ... PO box rental, stamps and supplies, and mail holding services. ... The West Warwick Post Office is located at 100 Washington St West Warwick, RI 02893. You can find directions and a map in the location details ...",
+        "dateLastCrawled": "2025-05-28T05:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Mailbox Locate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "WEST WARWICK US Post Office | 100 WASHINGTON ST WEST WARWICK, RI 02893 ...",
+        "url": "https://postofficefinder.org/ri/kent/west-warwick/02893/west-warwick/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficefinder.org/ri/kent/west-warwick/02893/west-warwick",
+        "snippet": "WEST WARWICK. 100 WASHINGTON ST WEST WARWICK, RI 02893 - 9998. Phone: 401-828-0592. Hours: Mon-Fri: 08:30 AM - 05:00 PM | Sat: 08:30 AM - 12:00 PM | Sun: Closed. PostOfficeFinder.org ... PO Box Online; Which post offices are located close to the WEST WARWICK Post Office?",
+        "dateLastCrawled": "2025-05-27T01:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PostOfficeFinder.org"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Post Office West Warwick (RI) - Opening Hours of USPS Post Offices",
+        "url": "https://www.hourspostoffice.com/USPS%20Post%20Office%20West%20Warwick%20%28RI%29/02893/West%20Warwick/35772",
+        "datePublished": "2025-05-12T00:00:00.0000000",
+        "datePublishedDisplayText": "May 12, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hourspostoffice.com/USPS Post Office West Warwick (RI)/02893/West Warwick...",
+        "snippet": "Opening Hours of Post Office West Warwick (RI) in West Warwick, RI on 100 Washington St. Location, phone number, operating hours, services available and other post offices near you. ... West Warwick: State: RI: ZIP : 02893-9998: Phone: 401-828-0592: ... PO Box Online; Parking: Lot Parking Available Contacts. Phone support: 1-800-ASK-USPS\u00ae (800 ...",
+        "dateLastCrawled": "2025-05-16T14:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Opening Hours of USPS Post Offices"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "West Warwick Post Office Hours and Phone Number",
+        "url": "https://www.postlocations.com/west-warwick-post-office-829b-in-west-warwick-ri/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postlocations.com/west-warwick-post-office-829b-in-west-warwick-ri",
+        "snippet": "West Warwick, Rhode Island, 02893 Phone 401-828-0592 Hours Monday:: ... Money Orders (International) Pickup Accountable Mail Pickup Hold Mail PO Box Online Priority Mail International ... West Warwick RI. View map of West Warwick Post Office, and get driving directions from your location. Post Offices Nearby. Post Offices",
+        "dateLastCrawled": "2025-05-31T19:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Post Locations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "US Post Office - West Warwick, RI - Yelp",
+        "url": "https://www.yelp.com/biz/us-post-office-west-warwick",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.5xm-u5rWUm5CTl97tKR91wHaJ4&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/us-post-office-west-warwick",
+        "snippet": "West Warwick, RI 02893. Get directions. Mon. 8:30 AM - 5:00 PM. Closed now: Tue. 8:30 AM - 5:00 PM. Wed. 8:30 AM - 5:00 PM. Thu. 8:30 AM - 5:00 PM. ... these people how to read english and follow directions can't get much easier then to read address and put mail in that box in front of a home and repeat simple right ya not for the post office ...",
+        "dateLastCrawled": "2025-06-02T07:39:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.5xm-u5rWUm5CTl97tKR91wHaJ4&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 0,
+          "sourceHeight": 0,
+          "imageId": "OIP.5xm-u5rWUm5CTl97tKR91wHaJ4"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "100 Washington St West Warwick, RI 02893"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "West warwick, RI Mailboxes and post offices | Mailbox Locate",
+        "url": "https://mailboxlocate.com/states/RI/cities/WEST%20WARWICK/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mailboxlocate.com/states/RI/cities/WEST WARWICK",
+        "snippet": "West Warwick Post Office: West Warwick, RI 02893: 100 Washington St: 4018280592: View Details Get Directions: Public Collection Box: West Warwick, RI 02893: 1 Tina Dr--Get Directions: Public Collection Box: West Warwick, RI 02893: 1021 Main St--Get Directions: Public Collection Box: West Warwick, RI 02893:",
+        "dateLastCrawled": "2025-05-31T01:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Mailbox Locate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "ZIP Code 02893 Info, Map, Demographics for West Warwick, RI",
+        "url": "https://www.zip-codes.com/zip-code/02893/zip-code-02893.asp",
+        "datePublished": "2025-06-01T00:00:00.0000000",
+        "datePublishedFreshnessText": "6 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zip-codes.com/zip-code/02893/zip-code-02893.asp",
+        "snippet": "Bar Chart showing Employment Status that compares the 02893 ZIP Code to West Warwick, RI, Kent County, the State of Rhode Island, and United States National Average. Load Chart Source: U.S. Census 2019-2023 American Community Survey 5-Year Estimates.",
+        "dateLastCrawled": "2025-06-06T13:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ZIP-Codes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "US Post Office, 100 Washington St, West Warwick, RI 02893, US - MapQuest",
+        "url": "https://www.mapquest.com/us/rhode-island/us-post-office-409315323",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/rhode-island/us-post-office-409315323",
+        "snippet": "Get more information for US Post Office in West Warwick, RI. See reviews, map, get the address, and find directions. ... West Warwick, RI 02893 +1 (401) 828-0592. ... USPS Blue Collection Box. Find related places. Post Office. Shipping Store. Own this business? Claim it.",
+        "dateLastCrawled": "2025-02-17T11:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Public Motor Vehicle - Rhode Island",
+        "url": "https://ripuc.ri.gov/sites/g/files/xkgbur841/files/utilityinfo/motorcarriers/PMV_List_3_14_22.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://ripuc.ri.gov/sites/g/files/xkgbur841/files/utilityinfo/motorcarriers/PMV_List...",
+        "snippet": "PMV-373 Awuah, Akwasi dba Atlantis PO Box 3324 Worcester, MA 01613 (774) 253-2279. Transportation Services PMV-513 Barron, Kananga 353 Montgomery Ave. Providence, RI 02905 (401) 347-8939 ... LLC 16 Westly Street West Warwick, RI 02893 (401) 692-2011. PMV-314 Elsharkawy, Mahmoud dba Moe's Limo 2008 Mineral Spring Avenue, Unit 7 North Providence ...",
+        "dateLastCrawled": "2025-05-31T19:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "RIPUC"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "USPS - Post Office - 100 WASHINGTON ST - West Warwick RI",
+        "url": "https://www.mailinglocations.com/usps-1386937-100-washington-st-post-office-west-warwick-ri",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mailinglocations.com/usps-1386937-100-washington-st-post-office-west...",
+        "snippet": "The 100 WASHINGTON ST USPS location is classified as a Post Office: Main Post Office. They are located in WEST WARWICK, RI. Their profile includes traditional and mobile directions, maps, reviews, drop-off and pick up hours (where available), and their phone number.",
+        "dateLastCrawled": "2024-03-04T09:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "West Warwick Post Office, 100 Washington St , RI 02893 | Post Office ...",
+        "url": "https://postofficepage.com/unitedstates/rhode-island/west-warwick-post-office",
+        "datePublished": "2024-06-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 17, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficepage.com/unitedstates/rhode-island/west-warwick-post-office",
+        "snippet": "A comprehensive contact information for the West Warwick Post Office in Rhode Island, United States with phone number, address, email, services and working hours. ... Address: 100 Washington St , RI 02893; Phone: 401-828-0592; Fax: 401-828-5274; TTY: 877-889-2457; Toll: 1-800-Ask-USPS\u00ae (275-8777) ... PO Box Online; Lobby has Copier; Lot ...",
+        "dateLastCrawled": "2024-06-17T08:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Postofficepage.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "West Warwick Post Office | 100 Washington St, West Warwick, RI 02893 ...",
+        "url": "https://www.uspostofficehours.org/location/ri_100_west-warwick-post-office",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.uspostofficehours.org/location/ri_100_west-warwick-post-office",
+        "snippet": "West Warwick Post Office, 100 Washington St, West Warwick, RI 02893. Navigation. Home. US Postal Service. ... West Warwick Post Office West Warwick, RI. Contact Information. 100 Washington St West Warwick, RI - 02893. 401-828-0592 Click to call There are no comments. Be the first to leave one below.",
+        "dateLastCrawled": "2025-05-09T18:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "US Post Office Hours"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "TOWN OF WEST WARWICK TAX BILL INFORMATION THE TOWN OF WEST WARWICK WILL ...",
+        "url": "https://www.westwarwickri.org/vertical/sites/%7B7B7C7E47-F7C1-4511-8CF3-EA8EBAF7D539%7D/uploads/2024_TAX_BILL_INFO__WEBSITE.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.westwarwickri.org/vertical/sites/{7B7C7E47-F7C1-4511-8CF3-EA8EBAF7D539...",
+        "snippet": "please mail to: town of west warwick . po box 981404 . boston, ma 02298-1404 . you may pay in person at the tax collector\u2019s office at 1170 main street, west warwick, ri 02893. you may pay online with a credit card, or set-up quarterly ach direct payments. we have 2 drop box locations there is one in the parking lot behind the town",
+        "dateLastCrawled": "2025-06-06T02:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Official Website of the Town of West Warwick"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Robert E Odonnell | 55 | Post Rd Apt 407, Warwick, RI | Whitepages ...",
+        "url": "https://www.whitepages.com/name/Robert-E-Odonnell/Warwick-RI/PE3Eq7mdN03",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/name/Robert-E-Odonnell/Warwick-RI/PE3Eq7mdN03",
+        "snippet": "Po Box 735 North Kingstown, RI 02852 from 2024 - 2024. Copied to clipboard! ... West Warwick, RI 02893 from 1997 - 1998. Copied to clipboard! Click to copy Phone Numbers for Robert E Odonnell ... (774) 266-1334 Copied to clipboard! Click to copy (401) 215-0318 Copied to clipboard! ...",
+        "dateLastCrawled": "2025-05-31T19:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Public Motor Vehicle - Rhode Island",
+        "url": "https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2023-01/PMV_List_1_31_23.pdf",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://ripuc.ri.gov/sites/g/files/xkgbur841/files/2023-01/PMV_List_1_31_23.pdf",
+        "snippet": "PMV-373 Awuah, Akwasi dba Atlantis PO Box 3324 Worcester, MA 01613 (774) 253-2279 Transportation Services PMV-576 Bach Transport LLC 27 Mawney St. Providence, RI 02907 (401) 536-0765 ... LLC 16 Westly Street West Warwick, RI 02893 (401) 692-2011 PMV-573 El Elyon LLC 168 Rounds Ave. 2nd floor Providence, RI 02907 (401) 219-6445.",
+        "dateLastCrawled": "2025-06-06T11:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "RIPUC"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "60 | PO Box 815, West Warwick, RI - Whitepages",
+        "url": "https://www.whitepages.com/name/Fernando-J-Santos/West-Warwick-RI/Pg3b5bJlJy6",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/name/Fernando-J-Santos/West-Warwick-RI/Pg3b5bJlJy6",
+        "snippet": "Fernando J Santos, age 60, lives in West Warwick, RI. Find their contact information including current home address, phone number 401-823-7601, background check reports, and property record on Whitepages People Search, the most trusted online directory. ... PO Box 815, West Warwick, RI 02893. Monitor. Age. 60 years old (May, 1965) Alias. Phone ...",
+        "dateLastCrawled": "2025-06-04T05:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

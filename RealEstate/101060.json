@@ -1,0 +1,459 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "134 Cobblestone Dr, Colorado Springs CO 80906"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=134+Cobblestone+Dr%2c+Colorado+Springs+CO+80906",
+    "totalEstimatedMatches": 1380000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "134 Cobblestone Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/134-Cobblestone-Dr-Colorado-Springs-CO-80906/13637123_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/134-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "134 Cobblestone Dr, Colorado Springs CO, is a Townhouse home that contains 1351 sq ft and was built in 1981.It contains 2 bedrooms and 2 bathrooms.This home last sold for $186,220 in October 1996. The Zestimate for this Townhouse is $413,600, which has increased by $8,611 in the last 30 days.The Rent Zestimate for this Townhouse is $1,921/mo, which has increased by $1,921/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-03T13:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "134 Cobblestone Dr, Colorado Springs, CO 80906 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/134-Cobblestone-Dr_Colorado-Springs_CO_80906_M15064-72932",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../134-Cobblestone-Dr_Colorado-Springs_CO_80906_M15064-72932",
+        "snippet": "See sales history and home details for 134 Cobblestone Dr, Colorado Springs, CO 80906, a 2 bed, 2 bath, 2,462 Sq. Ft. townhomes home built in 1981 that was last sold on 10/29/1996.",
+        "dateLastCrawled": "2024-02-25T15:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "134 Cobblestone Dr, Colorado Springs, CO 80906 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/134-Cobblestone-Dr-80906/home/34513804",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/134-Cobblestone-Dr-80906/home/34513804",
+        "snippet": "134 Cobblestone Dr is a 2,462 square foot townhouse on a 1,830 square foot lot with 2 bedrooms and 2 bathrooms. - it last sold on October 29, 1996 for $186,200. Based on Redfin's Colorado Springs data, we estimate the home's value is $453,462.",
+        "dateLastCrawled": "2025-03-26T06:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "134 Cobblestone Dr, Colorado Springs, CO 80906 | Homes.com",
+        "url": "https://www.homes.com/property/134-cobblestone-dr-colorado-springs-co/ljkrdv0hs8xtx/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/134-cobblestone-dr-colorado-springs-co/ljkrdv0hs8xtx",
+        "snippet": "134 Cobblestone Dr, Colorado Springs, CO 80906 - 3,142 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... 134 Cobblestone Dr Colorado Springs, CO 80906 Broadmoor Resort Community Neighborhood. Estimated Value: $313,000 - $544,000. 2 Beds. 3 Baths. 3,142 Sq Ft. $143/Sq ...",
+        "dateLastCrawled": "2025-02-03T18:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "134 Cobblestone Dr, Colorado Springs, CO 80906 Property Record (FREE)",
+        "url": "https://www.countyoffice.org/property-record-134-cobblestone-dr-colorado-springs-co-80906-fa0/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-134-cobblestone-dr-colorado-springs-co...",
+        "snippet": "View 134 Cobblestone Dr, Colorado Springs, CO 80906 property record for FREE including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 134 Cobblestone Drive, Colorado Springs, CO 80906 80906 Property Records. This page details ...",
+        "dateLastCrawled": "2025-04-10T08:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "134 Cobblestone Dr Colorado Springs, CO 80906 - Xome",
+        "url": "https://www.xome.com/realestate/134-cobblestone-dr-colorado-springs-co-80906-34237591",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/134-cobblestone-dr-colorado-springs-co-80906-34237591",
+        "snippet": "134 Cobblestone Dr Colorado Springs CO with 2 bedroom and 2 bath is currently not for sale. Xome's estimated value is $510,364. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-07-02T15:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "134 Cobblestone Dr, Colorado Springs, CO 80906 - Property Summary ...",
+        "url": "https://www.diedinhouse.com/property/details/134-cobblestone-dr-colorado-springs-co",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.diedinhouse.com/property/details/134-cobblestone-dr-colorado-springs-co",
+        "snippet": "This home is 1 story tall. This property is located in the COBBLESTONE AT CHEYENNE MOUNTA subdivision. The entire market value of this property is $296,504. The land is valued at $31,000. Use Diedinhouse.com to learn of any stigmatized details and history about 134 COBBLESTONE DR.",
+        "dateLastCrawled": "2025-05-11T02:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Died in House"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "134 Cobblestone Dr, Colorado Springs, CO 80906 - Trulia",
+        "url": "https://www.trulia.com/home/134-cobblestone-dr-colorado-springs-co-80906-13637123",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/134-cobblestone-dr-colorado-springs-co-80906-13637123",
+        "snippet": "134 Cobblestone Dr, Colorado Springs, CO 80906 is a 1,351 sqft, 2 bed, 2 bath home sold in 1996. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-05-21T01:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "136 Cobblestone Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/136-Cobblestone-Dr-Colorado-Springs-CO-80906/13637122_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.iuFxhOKxjbyd4QMkaUeUIAHaE7&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/136-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "136 Cobblestone Dr, Colorado Springs CO, is a Townhouse home that contains 2288 sq ft and was built in 1981.It contains 3 bedrooms and 3 bathrooms.This home last sold for $495,000 in November 2024. The Zestimate for this Townhouse is $495,000, which has decreased by $2,520 in the last 30 days.The Rent Zestimate for this Townhouse is $2,087/mo, which has increased by $2,087/mo in the last 30 days.",
+        "dateLastCrawled": "2024-11-12T08:39:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.iuFxhOKxjbyd4QMkaUeUIAHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.iuFxhOKxjbyd4QMkaUeUIAHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "COBBLESTONE DR, COLORADO SPRINGS, CO ZIP Code - United States ZIP Codes",
+        "url": "https://zipcodes-us.com/zip/co/colorado-springs/cobblestone-dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://zipcodes-us.com/zip/co/colorado-springs/cobblestone-dr",
+        "snippet": "ZIP Codes for COBBLESTONE DR, COLORADO SPRINGS, Colorado. Use our address lookup or code list to find the correct 9-digit (ZIP+4) code for your postal mails destination. ... From 100 To 134 Even: 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134 ... 414 COBBLESTONE DR COLORADO SPRINGS CO 80906-7631. 268 ...",
+        "dateLastCrawled": "2025-05-25T14:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "United States ZIP Codes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "234 Cobblestone Dr, Colorado Springs, CO 80906",
+        "url": "https://www.realtor.com/realestateandhomes-detail/M1882919481",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/M1882919481",
+        "snippet": "234 Cobblestone Dr, Colorado Springs, CO 80906 is for sale. View 45 photos of this 3 bed, 3 bath, 2742 sqft. townhome with a list price of $500000.",
+        "dateLastCrawled": "2025-01-14T19:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "138 Cobblestone Dr, Colorado Springs, CO 80906 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/138-Cobblestone-Dr-80906/home/34513819",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/138-Cobblestone-Dr-80906/home/34513819",
+        "snippet": "4 beds, 3 baths, 2702 sq. ft. townhouse located at 138 Cobblestone Dr, Colorado Springs, CO 80906 sold for $675,000 on Jun 16, 2023. MLS# 8905559. Beautifully remodeled throughout. Ideal location b...",
+        "dateLastCrawled": "2025-04-02T07:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "134 Pierce Drive, Colorado Springs, CO 80906 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/colorado-springs/134-pierce-dr/lid-P00800000GtAseOuJW0F21OYccuprXHgFi7IXC4o",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/colorado-springs/134-pierce-dr/lid-P00800000...",
+        "snippet": "Find Property Information for 134 Pierce Drive, Colorado Springs, CO 80906. MLS# 9468479. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2025-06-06T21:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "412 Cobblestone Dr, Colorado Springs, CO 80906 - Zillow",
+        "url": "https://www.zillow.com/homedetails/412-Cobblestone-Dr-Colorado-Springs-CO-80906/13637040_zpid/",
+        "datePublished": "2025-05-28T00:00:00.0000000",
+        "datePublishedDisplayText": "May 28, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/412-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "Zillow has 28 photos of this $324,000 2 beds, 3 baths, 2,197 Square Feet townhouse home located at 412 Cobblestone Dr, Colorado Springs, CO 80906 built in 1979. MLS #6865178.",
+        "dateLastCrawled": "2025-05-29T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "384 Cobblestone Dr, Colorado Springs, CO 80906",
+        "url": "https://www.realtor.com/realestateandhomes-detail/384-Cobblestone-Dr_Colorado-Springs_CO_80906_M14867-59248",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../384-Cobblestone-Dr_Colorado-Springs_CO_80906_M14867-59248",
+        "snippet": "384 Cobblestone Dr, Colorado Springs, CO 80906 is for sale. View 47 photos of this 3 bed, 3 bath, 2206 sqft. townhome with a list price of $370000. ... 145 W Cheyenne Rd # 134. Colorado Springs ...",
+        "dateLastCrawled": "2025-03-09T21:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "134 Pierce Dr, Colorado Springs, CO 80906 | MLS #9468479 - Zillow",
+        "url": "https://www.zillow.com/homedetails/134-Pierce-Dr-Colorado-Springs-CO-80906/13628185_zpid/",
+        "datePublished": "2025-06-04T00:00:00.0000000",
+        "datePublishedFreshnessText": "3 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/134-Pierce-Dr-Colorado-Springs-CO-80906/13628185_zpid",
+        "snippet": "Zillow has 31 photos of this $539,900 5 beds, 3 baths, 2,208 Square Feet single family home located at 134 Pierce Dr, Colorado Springs, CO 80906 built in 1954. MLS #9468479.",
+        "dateLastCrawled": "2025-06-06T05:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "130 Cobblestone Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/130-Cobblestone-Dr-Colorado-Springs-CO-80906/13637125_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/130-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "130 Cobblestone Dr, Colorado Springs CO, is a Townhouse home that contains 2288 sq ft and was built in 1981.It contains 5 bedrooms and 3 bathrooms.This home last sold for $385,000 in July 2020. The Zestimate for this Townhouse is $468,100, which has increased by $5,484 in the last 30 days.The Rent Zestimate for this Townhouse is $2,554/mo, which has increased by $2,554/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-18T14:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "334 Cobblestone Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/334-Cobblestone-Dr-Colorado-Springs-CO-80906/13637084_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/334-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "334 Cobblestone Dr, Colorado Springs CO, is a Townhouse home that contains 1227 sq ft and was built in 1979.It contains 2 bedrooms and 2 bathrooms.This home last sold for $167,500 in May 2005. The Zestimate for this Townhouse is $329,200, which has increased by $2,245 in the last 30 days.The Rent Zestimate for this Townhouse is $1,784/mo, which has increased by $1,784/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-28T21:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "384 Cobblestone Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/384-Cobblestone-Dr-Colorado-Springs-CO-80906/13637059_zpid/",
+        "datePublished": "2025-05-27T00:00:00.0000000",
+        "datePublishedDisplayText": "May 27, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/384-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "384 Cobblestone Dr, Colorado Springs, CO 80906 is pending. Zillow has 49 photos of this 3 beds, 3 baths, 2,206 Square Feet townhouse home with a list price of $335,000.",
+        "dateLastCrawled": "2025-06-01T03:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "234 Cobblestone Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/234-Cobblestone-Dr-Colorado-Springs-CO-80906/13637137_zpid/",
+        "datePublished": "2025-02-10T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 10, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/234-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "234 Cobblestone Dr, Colorado Springs CO, is a Townhouse home that contains 2742 sq ft and was built in 1981.It contains 3 bedrooms and 3 bathrooms.This home last sold for $490,000 in February 2025. The Zestimate for this Townhouse is $489,400, which has decreased by $833 in the last 30 days.The Rent Zestimate for this Townhouse is $2,585/mo, which has increased by $2,585/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-10T21:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20",
+        "name": "330 Cobblestone Dr, Colorado Springs, CO 80906 | Zillow",
+        "url": "https://www.zillow.com/homedetails/330-Cobblestone-Dr-Colorado-Springs-CO-80906/13637086_zpid/",
+        "datePublished": "2023-07-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 5, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/330-Cobblestone-Dr-Colorado-Springs-CO-80906/...",
+        "snippet": "330 Cobblestone Dr, Colorado Springs CO, is a Townhouse home that contains 2058 sq ft and was built in 1979.It contains 3 bedrooms and 3 bathrooms.This home last sold for $375,000 in July 2023. The Zestimate for this Townhouse is $368,400, which has increased by $2,010 in the last 30 days.The Rent Zestimate for this Townhouse is $2,338/mo, which has increased by $2,338/mo in the last 30 days.",
+        "dateLastCrawled": "2025-06-04T07:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 20,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.20"
+          }
+        }
+      ]
+    }
+  }
+}

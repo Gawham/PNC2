@@ -1,0 +1,543 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "14055 E Quincy Ave, Aurora CO 80015"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=14055+E+Quincy+Ave%2c+Aurora+CO+80015",
+    "totalEstimatedMatches": 1050000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "14055 E Quincy Ave, Aurora, CO 80015 - Zillow",
+        "url": "https://www.zillow.com/homedetails/14055-E-Quincy-Ave-Aurora-CO-80015/124748890_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/14055-E-Quincy-Ave-Aurora-CO-80015/124748890_zpid",
+        "snippet": "14055 E Quincy Ave, Aurora CO, is a Single Family home that contains 31600 sq ft and was built in 2014.It contains 48 bedrooms and 48 bathrooms.This home last sold for $850,000 in September 2013. The Zestimate for this Single Family is $6,925,700, which has decreased by $418,780 in the last 30 days.The Rent Zestimate for this Single Family is $2,325/mo, which has increased by $2,325/mo in the ...",
+        "dateLastCrawled": "2025-04-12T00:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Memory Care Aurora, CO | Chelsea Place",
+        "url": "https://www.anthemmemorycare.com/communities/colorado/aurora-co/chelsea-place",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.nVsphd_iLb-snCBnMWEoZQHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.anthemmemorycare.com/communities/colorado/aurora-co/chelsea-place",
+        "snippet": "14055 E Quincy Ave, Aurora, CO 80015 303.680.4422. Read Reviews. Alzheimer\u2019s Care in Aurora, CO: Our Approach. At Chelsea Place Memory Care, residents are treated with dignity and respect. Our staff is dedicated to creating a person-centered approach, recognizing that each resident has unique strengths and preferences.",
+        "dateLastCrawled": "2025-06-03T01:08:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.nVsphd_iLb-snCBnMWEoZQHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.nVsphd_iLb-snCBnMWEoZQHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Anthem Memory Care"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "14055 E Quincy Ave, Aurora, CO 80015 | Redfin",
+        "url": "https://www.redfin.com/CO/Aurora/14055-E-Quincy-Ave-80015/home/96327504",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Aurora/14055-E-Quincy-Ave-80015/home/96327504",
+        "snippet": "48 beds, 31600 sq. ft. house located at 14055 E Quincy Ave, Aurora, CO 80015. View sales history, tax history, home value estimates, and overhead views. APN 207306386001. ... 14055 E Quincy Ave is a 31,600 square foot house on a 2.04 acre lot with 48 bedrooms.. Based on Redfin's Aurora data, we estimate the home's value is $3,552,306. ...",
+        "dateLastCrawled": "2025-03-28T21:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "14055 E Quincy Ave, Aurora, 80015, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Chelsea Place Memory Care | Aurora, CO 80015 | 64 Reviews - A Place for Mom",
+        "url": "https://www.aplaceformom.com/community/chelsea-place-memory-care-1370224",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.1urSfCTRc8ETIhBM_QTyBAHaE8&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.8,
+              "bestRating": 5,
+              "reviewCount": 63
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/chelsea-place-memory-care-1370224",
+        "snippet": "14055 E Quincy Avenue, Aurora, CO 80015. For pricing & availability: (866) 374-4058. Call Now Close . This phone number connects you with a local advisor from A Place For Mom. Call us (866) 374-4058. 9.0. Review score. 64 reviews. Add review. 9.0. Review score. 64 reviews. 5 star. 83%. 4 star. 13%. 3 star. 2%. 2 star. 2%. 1 star. 0%.",
+        "dateLastCrawled": "2025-06-04T06:25:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.1urSfCTRc8ETIhBM_QTyBAHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.1urSfCTRc8ETIhBM_QTyBAHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "14055 E Quincy Avenue, Aurora, 80015, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-16T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          },
+          {
+            "label": {
+              "text": "Start Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-15T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:STARTDATE"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Chelsea Place - 2025 Pricing, Photos, 29 Reviews in Aurora, CO",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/aurora/chelsea-place-memory-care-80015/",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5,
+              "reviewCount": 47
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/facilities/co/aurora/chelsea-place-memory-care-80015",
+        "snippet": "14055 E Quincy Ave, Aurora, CO 80015. Pricing & Availability (800) 755-1458 . Available Living Options. Memory Care; Contact Us to Get Pricing & Schedule Tours * Required Fields. First Name * Last Name * Phone * Email * Request Free Info. By clicking Request Free Info, you ...",
+        "dateLastCrawled": "2025-05-25T08:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Chelsea Place",
+        "url": "https://www.seniorly.com/memory-care/colorado/aurora/chelsea-place",
+        "datePublished": "2025-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/memory-care/colorado/aurora/chelsea-place",
+        "snippet": "Chelsea Place is a Memory Care community located at 14055 East Quincy Avenue in Aurora, CO. See pricing, photos & reviews on Seniorly.com! Talk with a local advisor for free855 ... 14055 East Quincy Avenue, Aurora, CO 80015 Calculate travel time. Memory Care. 9.5. Community score. Write a review. For residents and staff (720) 689-0665.",
+        "dateLastCrawled": "2025-06-04T10:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Chelsea Place Memory Care - 33 Reviews - Aurora, CO - Caring.com",
+        "url": "https://www.caring.com/senior-living/colorado/aurora/chelsea-place-memory-care-80015",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.Sm1RrQNk86xoHlrsTXMycAAAAA&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2021-11-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 13, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.caring.com/senior-living/colorado/aurora/chelsea-place-memory-care-80015",
+        "snippet": "I would be pleased to address your needs for your loved one personally, or answer any questions. Again, thank you for sharing your experience, David A. Hoppe , A.C.S.W. Executive Director Chelsea Place Memory Care 14055 East Quincy Ave. Aurora, CO. 80015 Office: 303-680-4422 Cell: 720-427-9071 Fax: 720-639-5500 dhoppe@chelseaplacememorycare.com",
+        "dateLastCrawled": "2025-06-04T06:14:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.Sm1RrQNk86xoHlrsTXMycAAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.Sm1RrQNk86xoHlrsTXMycAAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Caring.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "CHELSEA PLACE MEMORY CARE - Updated May 2025 - 14055 E Quincy Ave ...",
+        "url": "https://www.yelp.com/biz/chelsea-place-memory-care-aurora",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/chelsea-place-memory-care-aurora",
+        "snippet": "CHELSEA PLACE MEMORY CARE, 14055 E Quincy Ave, Aurora, CO 80015, 8 Photos, Mon - Open 24 hours, Tue - Open 24 hours, Wed - Open 24 hours, Thu - Open 24 hours, Fri - Open 24 hours, Sat - Open 24 hours, Sun - Open 24 hours",
+        "dateLastCrawled": "2025-05-29T17:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "14055 E Quincy Ave Aurora, CO 80015"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Chelsea Place in Aurora, CO 80015 - 303-578... - Chamber of Commerce",
+        "url": "https://www.chamberofcommerce.com/business-directory/colorado/aurora/assisted-living-facility/2004627604-chelsea-place",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chamberofcommerce.com/business-directory/colorado/aurora/assisted-living...",
+        "snippet": "Chelsea Place located at 14055 E Quincy Ave, Aurora, CO 80015 - reviews, ratings, hours, phone number, directions, and more. Search Find a Business; Add Your Business; Jobs; Advice; ... Chelsea Place is located at 14055 E Quincy Ave in Aurora, Colorado 80015. Chelsea Place can be contacted via phone at 303-578-0996 for pricing, hours and ...",
+        "dateLastCrawled": "2025-05-05T23:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Chamber of Commerce"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Chelsea Place Memory Care, 14055 E Quincy Ave, Aurora, CO 80015, US ...",
+        "url": "https://www.mapquest.com/us/colorado/chelsea-place-memory-care-358936732",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/chelsea-place-memory-care-358936732",
+        "snippet": "Get more information for Chelsea Place Memory Care in Aurora, CO. See reviews, map, get the address, and find directions. Advertisement. Advertisement. ... Directions. Advertisement. Advertisement. Photos View gallery. 14055 E Quincy Ave. Aurora, CO 80015 +1 (303) 680-4729.",
+        "dateLastCrawled": "2025-05-13T14:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "Chelsea Place Assisted Living in Aurora, CO - SeniorCare.com",
+        "url": "https://www.seniorcare.com/assisted-living/co/aurora/chelsea-place/54452/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorcare.com/assisted-living/co/aurora/chelsea-place/54452",
+        "snippet": "14055 E Quincy Avenue Aurora, CO 80015 Phone: (303) 929-3709. Detailed Facility Reports | Payment Options | Get Pricing Information | Update This Listing. Full Name Phone Number ... 14055 E Quincy Avenue: City: Aurora: State: CO: Zip: 80015: Phone (303) 929-3709: State Issued Unique Id: 23N217:",
+        "dateLastCrawled": "2025-06-04T04:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorCare.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Chelsea Place Memory Care \u2013 Aurora, CO \u2013 SeniorHousingNet.com",
+        "url": "https://www.seniorhousingnet.com/seniorliving-detail/chelsea-place-memory-care_14055-e-quincy-ave_aurora_co_80015-636208",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorhousingnet.com/seniorliving-detail/chelsea-place-memory-care_14055-e...",
+        "snippet": "Chelsea Place Memory Care - Alzheimer's Care facility located at 14055 E. Quincy Ave., Aurora, CO, 80015, seniorhousingnet.com 800-304-7152 Talk to a local advisor for free",
+        "dateLastCrawled": "2025-02-07T20:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorHousingNet"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Chelsea Place in Aurora | US News - US News Health",
+        "url": "https://health.usnews.com/best-senior-living/chelsea-place-631",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://health.usnews.com/best-senior-living/chelsea-place-631",
+        "snippet": "Chelsea Place is a senior living facility in Aurora, CO that provides Memory Care. Read ratings and reviews from residents. ... 14055 E. Quincy Avenue, Aurora, Colorado 80015 ... 14055 E. Quincy ...",
+        "dateLastCrawled": "2025-05-31T09:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "US News Health"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Chelsea Place Memory Care in Colorado - Care Changes",
+        "url": "https://www.carechanges.com/living-communities/chelsea-place-memory-care_aurora_colorado/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.carechanges.com/living-communities/chelsea-place-memory-care_aurora_colorado",
+        "snippet": "14055 E. Quincy Ave., Aurora, CO, 80015. Welcome to Chelsea Place Memory Care, a memory care facility located in Aurora, Colorado. The cost of memory care at Chelsea Place Memory Care starts at a monthly rate of $4,705 to $6,640. There may be some additional services that could increase the cost of care, depending on the services that you may need.",
+        "dateLastCrawled": "2024-12-31T02:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "14055 E Quincy Ave Aurora, CO 80015 - Trulia",
+        "url": "https://www.trulia.com/home/14055-e-quincy-ave-aurora-co-80015-124748890",
+        "datePublished": "2000-02-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 22, 2000",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/14055-e-quincy-ave-aurora-co-80015-124748890",
+        "snippet": "14055 E Quincy Ave, Aurora, CO 80015 is a 31,600 sqft, 48 bed, 48 bath home sold in 2013. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-05-12T09:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "ANTHEM AURORA MANAGEMENT LLC - NPI 1750983433 - Alzheimer Center ...",
+        "url": "https://npiprofile.com/npi/1750983433",
+        "datePublished": "2020-11-09T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 9, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1750983433",
+        "snippet": "NPI Profile for Anthem Aurora Management Llc in 14055 E Quincy Avenue Aurora, Co 80015. Phone: (303) 680-4422 . Taxonomy 311500000X",
+        "dateLastCrawled": "2025-03-14T03:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Chelsea Place - May 2025 Pricing (UPDATED) - Family Assets",
+        "url": "https://www.familyassets.com/memory-care/colorado/aurora/chelsea-place",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/memory-care/colorado/aurora/chelsea-place",
+        "snippet": "14055 E. Quincy Ave., Aurora CO, 80015. Resident Review Score. 6.5 | Good. See Gallery (16) Starting price. $4,000. For this area. Get Personalized Pricing. See Gallery (16) Preferred Provider. memory care; Chelsea Place is a memory care facility in Aurora, Colorado. This community does not offer a level of care outside of memory care.",
+        "dateLastCrawled": "2025-05-23T08:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Chelsea Place Memory Care | SeniorLiving.com",
+        "url": "https://www.seniorliving.com/senior-community/chelsea-place-memory-care",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorliving.com/senior-community/chelsea-place-memory-care",
+        "snippet": "14055 E. Quincy Ave. Aurora, CO 80015. Alzheimer\u2019s and Memory Care. Each resident of Chelsea Place is unique. They come to us with history, triumphs, tragedies; and like all of us, they need an enduring human connection. At Chelsea Place, we are specialized caretakers with extensive training in advanced memory care. We will welcome your loved ...",
+        "dateLastCrawled": "2025-04-17T14:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "Chelsea Place Memory Care Assisted Living in Aurora, CO 80015",
+        "url": "https://www.wellness.com/dir/6962575/assisted-living-homes/co/aurora/chelsea-place-memory-care",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.wellness.com/dir/6962575/assisted-living-homes/co/aurora/chelsea-place...",
+        "snippet": "Chelsea Place Memory Care is an Assisted Living Community at 14055 E Quincy Ave, Aurora, CO 80015. Wellness.com provides reviews, contact information, driving directions and the phone number for Chelsea Place Memory Care in Aurora, CO and other assisted living resources.",
+        "dateLastCrawled": "2024-08-15T01:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Wellness.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "Chelsea Place Memory Care Community - SeniorAdvice.com",
+        "url": "https://www.senioradvice.com/providers/view/chelsea-place-memory-care-aurora-co",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.senioradvice.com/providers/view/chelsea-place-memory-care-aurora-co",
+        "snippet": "Read information about Chelsea Place Memory Care Community at 14055 E Quincy Ave in Aurora, Colorado, including amenities, ratings, reviews, complaints, and more. ... 14055 E Quincy Ave, Aurora, CO 80015. 1-855-229-7494. Pricing Estimates; General Information; Services & Amenities; ... 13801 E Yale Ave, Aurora, CO 80014. Ashley Manor Care ...",
+        "dateLastCrawled": "2025-05-11T22:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorAdvice.com"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

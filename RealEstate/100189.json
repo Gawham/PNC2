@@ -1,0 +1,433 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "6978 Silvergrass Dr, Colorado Springs CO 80927"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=6978+Silvergrass+Dr%2c+Colorado+Springs+CO+80927",
+    "totalEstimatedMatches": 1130000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "6978 Silvergrass Dr, Colorado Springs, CO 80927 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6978-Silvergrass-Dr-Colorado-Springs-CO-80927/402789157_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6978-Silvergrass-Dr-Colorado-Springs-CO-80927/...",
+        "snippet": "6978 Silvergrass Dr, Colorado Springs, CO 80927 is currently not for sale. The 1,407 Square Feet single family home is a 2 beds, 2 baths property. This home was built in 2021 and last sold on 2022-04-29 for $428,474. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-08-02T01:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "6978 Silvergrass Dr, Colorado Springs, CO 80927 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6978-Silvergrass-Dr-80927/home/176624615",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6978-Silvergrass-Dr-80927/home/176624615",
+        "snippet": "2 beds, 2 baths, 1407 sq. ft. house located at 6978 Silvergrass Dr, Colorado Springs, CO 80927. View sales history, tax history, home value estimates, and overhead views. APN 5310411008.",
+        "dateLastCrawled": "2025-04-21T18:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "6978 Silvergrass Dr, Colorado Springs, CO 80927 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6978-Silvergrass-Dr_Colorado-Springs_CO_80927_M99457-10069",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6978-Silvergrass-Dr_Colorado-Springs_CO_80927_M99457-10069",
+        "snippet": "View detailed information about property 6978 Silvergrass Dr, Colorado Springs, CO 80927 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-07-12T15:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "6978 Silvergrass Dr, Colorado Springs, CO 80927 | Homes.com",
+        "url": "https://www.homes.com/property/6978-silvergrass-dr-colorado-springs-co/xq8qwgvw5ty9q/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/6978-silvergrass-dr-colorado-springs-co/xq8qwgvw5ty9q",
+        "snippet": "This home is located at 6978 Silvergrass Dr, Colorado Springs, CO 80927 and is currently estimated at $416,209, approximately $295 per square foot. 6978 Silvergrass Dr is a home with nearby schools including Falcon Elementary School Of Technology, Falcon Middle School, and Falcon High School.",
+        "dateLastCrawled": "2025-05-18T00:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "6978 Silvergrass Dr, Colorado Springs, CO 80927 - Trulia",
+        "url": "https://www.trulia.com/home/6978-silvergrass-dr-colorado-springs-co-80927-402789157",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/6978-silvergrass-dr-colorado-springs-co-80927-402789157",
+        "snippet": "6978 Silvergrass Dr, Colorado Springs, CO 80927 is a 1,407 sqft, 2 bed, 2 bath home sold in 2022. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-08-04T00:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Silvergrass Dr, Colorado Springs, CO 80927 Property Records - County Office",
+        "url": "https://www.countyoffice.org/silvergrass-dr-colorado-springs-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/silvergrass-dr-colorado-springs-co-property-records",
+        "snippet": "View property records for 37 addresses on Silvergrass Drive in Colorado Springs, CO 80927, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more.",
+        "dateLastCrawled": "2025-02-07T20:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Silvergrass Dr, 80927 CO property records - realtor.com",
+        "url": "https://www.realtor.com/propertyrecord-search/80927/Silvergrass-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/propertyrecord-search/80927/Silvergrass-Dr",
+        "snippet": "Find home property records near Silvergrass Dr, Colorado Springs CO on realtor.com\u00ae. ... 6978 Silvergrass Dr, Colorado Springs, 80927, CO; Off market; $410,200 est. 7010 Silvergrass Dr, Colorado ...",
+        "dateLastCrawled": "2024-02-03T13:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "6974 Silvergrass Dr, Colorado Springs, CO 80927 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6974-Silvergrass-Dr_Colorado-Springs_CO_80927_M91108-79841",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP._IAljaSSI6iJIDaY4qZ-JgHaE7&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6974-Silvergrass-Dr_Colorado-Springs_CO_80927_M91108-79841",
+        "snippet": "6974 Silvergrass Dr, Colorado Springs, CO 80927 is pending. View 33 photos of this 2 bed, 3 bath, 1488 sqft. single family home with a list price of $418900.",
+        "dateLastCrawled": "2024-09-12T01:08:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP._IAljaSSI6iJIDaY4qZ-JgHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP._IAljaSSI6iJIDaY4qZ-JgHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "6974 Silvergrass Dr, Colorado Springs, CO 80927 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6974-Silvergrass-Dr-80927/home/176624614",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6974-Silvergrass-Dr-80927/home/176624614",
+        "snippet": "Sold: 2 beds, 2.5 baths, 1488 sq. ft. house located at 6974 Silvergrass Dr, Colorado Springs, CO 80927 sold for $413,900 on Oct 8, 2024. MLS# 2054627. Like new Oakwood home with modern luxury upgra...",
+        "dateLastCrawled": "2025-04-02T23:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "6974 Silvergrass Dr, Colorado Springs, CO 80927 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6974-Silvergrass-Dr-Colorado-Springs-CO-80927/402789156_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6974-Silvergrass-Dr-Colorado-Springs-CO-80927/...",
+        "snippet": "6974 Silvergrass Dr, Colorado Springs CO, is a Single Family home that contains 1488 sq ft and was built in 2021.It contains 2 bedrooms and 3 bathrooms.This home last sold for $413,900 in October 2024. The Zestimate for this Single Family is $415,200, which has decreased by $4,600 in the last 30 days.",
+        "dateLastCrawled": "2025-03-05T15:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "6918 Silvergrass Drive, Colorado Springs, CO 80927 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/colorado-springs/6918-silvergrass-dr/lid-P00800000GtBjsy59zfc2DI1LKdnDikVcoKNQFRh",
+        "datePublished": "2025-06-05T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/colorado-springs/6918-silvergrass-dr/lid-P00800000...",
+        "snippet": "Find Property Information for 6918 Silvergrass Drive, Colorado Springs, CO 80927. MLS# 8753555. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2025-06-06T20:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "6998 Silvergrass Dr, Colorado Springs, CO 80927 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6998-Silvergrass-Dr-Colorado-Springs-CO-80927/2057445247_zpid/",
+        "datePublished": "2023-09-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 13, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6998-Silvergrass-Dr-Colorado-Springs-CO-80927/...",
+        "snippet": "6998 Silvergrass Dr, Colorado Springs, CO 80927 is currently not for sale. The 2,152 Square Feet single family home is a 3 beds, 3 baths property. This home was built in 2022 and last sold on 2023-09-13 for $475,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-10-28T17:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "6994 Silvergrass Dr, Colorado Springs, CO 80927 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6994-Silvergrass-Dr-80927/home/176624611",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6994-Silvergrass-Dr-80927/home/176624611",
+        "snippet": "Sold: 3 beds, 3 baths, 1932 sq. ft. house located at 6994 Silvergrass Dr, Colorado Springs, CO 80927 sold for $475,000 on Jul 19, 2024. MLS# 2266163.",
+        "dateLastCrawled": "2025-03-27T07:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "6958 Silvergrass Dr, Colorado Springs, CO 80927 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6958-Silvergrass-Dr_Colorado-Springs_CO_80927_M95994-45196",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6958-Silvergrass-Dr_Colorado-Springs_CO_80927_M95994-45196",
+        "snippet": "View detailed information about property 6958 Silvergrass Dr, Colorado Springs, CO 80927 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-01-18T00:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "7038 Silvergrass Dr, Colorado Springs, CO 80927 | Zillow",
+        "url": "https://www.zillow.com/homedetails/7038-Silvergrass-Dr-Colorado-Springs-CO-80927/2064231052_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/7038-Silvergrass-Dr-Colorado-Springs-CO-80927/...",
+        "snippet": "7038 Silvergrass Dr, Colorado Springs CO, is a Single Family home that contains 1407 sq ft and was built in 2022.It contains 2 bedrooms and 2 bathrooms.This home last sold for $400,000 in June 2024. The Zestimate for this Single Family is $396,500, which has decreased by $9,600 in the last 30 days.The Rent Zestimate for this Single Family is $2,331/mo, which has increased by $2,331/mo in the ...",
+        "dateLastCrawled": "2025-02-23T04:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "6990 Silvergrass Dr, Colorado Springs, CO 80927 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6990-Silvergrass-Dr-Colorado-Springs-CO-80927/344031997_zpid/",
+        "datePublished": "2024-12-10T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 10, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6990-Silvergrass-Dr-Colorado-Springs-CO-80927/...",
+        "snippet": "6990 Silvergrass Dr, Colorado Springs CO, is a Single Family home that contains 1488 sq ft and was built in 2022.It contains 3 bedrooms and 3 bathrooms.This home last sold for $420,000 in December 2024. The Zestimate for this Single Family is $428,200, which has increased by $428,200 in the last 30 days.The Rent Zestimate for this Single Family is $2,416/mo, which has increased by $2,416/mo in ...",
+        "dateLastCrawled": "2024-12-12T06:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "6994 Silvergrass Dr, Colorado Springs, CO 80927 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6994-Silvergrass-Dr_Colorado-Springs_CO_80927_M92986-47553",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6994-Silvergrass-Dr_Colorado-Springs_CO_80927_M92986-47553",
+        "snippet": "See photos and price history of this 3 bed, 3 bath, 1,932 Sq. Ft. recently sold home located at 6994 Silvergrass Dr, Colorado Springs, CO 80927 that was sold on 07/19/2024 for $475000.",
+        "dateLastCrawled": "2024-08-01T11:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "6938 Silvergrass Dr, Colorado Springs, CO 80927 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6938-Silvergrass-Dr-80927/home/176624625",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6938-Silvergrass-Dr-80927/home/176624625",
+        "snippet": "4 beds, 3 baths, 1960 sq. ft. house located at 6938 Silvergrass Dr, Colorado Springs, CO 80927. View sales history, tax history, home value estimates, and overhead views. APN 5310411018.",
+        "dateLastCrawled": "2025-03-13T05:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "6954 Silvergrass Dr, Colorado Springs, CO 80927 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6954-Silvergrass-Dr-80927/home/176624621",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6954-Silvergrass-Dr-80927/home/176624621",
+        "snippet": "3 beds, 3 baths, 1498 sq. ft. house located at 6954 Silvergrass Dr, Colorado Springs, CO 80927 sold for $430,000 on Mar 27, 2024. MLS# 5459757. Welcome to your dream home! Nestled in a prime locati...",
+        "dateLastCrawled": "2025-04-02T00:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "6990 Silvergrass Dr, Colorado Springs, CO 80927 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6990-Silvergrass-Dr-80927/home/176624610",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6990-Silvergrass-Dr-80927/home/176624610",
+        "snippet": "Sold: 3 beds, 2.5 baths, 1488 sq. ft. house located at 6990 Silvergrass Dr, Colorado Springs, CO 80927 sold for $420,000 on Dec 10, 2024. MLS# 7409828. Located in the sought-after Banning Lewis Ran...",
+        "dateLastCrawled": "2025-04-09T02:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

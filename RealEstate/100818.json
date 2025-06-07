@@ -1,0 +1,399 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "10 W 22nd St, La Junta CO 81050"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=10+W+22nd+St%2c+La+Junta+CO+81050",
+    "totalEstimatedMatches": 135,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "10 W 22nd St, La Junta, CO 81050 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10-W-22nd-St-La-Junta-CO-81050/113275476_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10-W-22nd-St-La-Junta-CO-81050/113275476_zpid",
+        "snippet": "10 W 22nd St, La Junta, CO 81050 is currently not for sale. The 4,100 Square Feet single family home is a 4 beds, 3 baths property. This home was built in 1961 and last sold on 2024-04-11 for $399,990. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-14T11:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "10 W 22nd St, La Junta, CO 81050 | Redfin",
+        "url": "https://www.redfin.com/CO/La-Junta/10-W-22nd-St-81050/home/131676568",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/La-Junta/10-W-22nd-St-81050/home/131676568",
+        "snippet": "4 beds, 2 baths, 2070 sq. ft. house located at 10 W 22nd St, La Junta, CO 81050. View sales history, tax history, home value estimates, and overhead views. APN 464314201002.",
+        "dateLastCrawled": "2025-04-18T07:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "10 W 22nd St, La Junta, CO 81050 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/10-W-22nd-St_La-Junta_CO_81050_M27607-91086",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/10-W-22nd-St_La-Junta_CO_81050_M...",
+        "snippet": "View detailed information about property 10 W 22nd St, La Junta, CO 81050 including listing details, property photos, school and neighborhood data, and much more. ... 10 W 22nd St, is a single ...",
+        "dateLastCrawled": "2023-06-11T21:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "10 W 22nd St La Junta CO 81050 Property Record & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/10-w-22nd-st-la-junta-co-81050-24485847",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/10-w-22nd-st-la-junta-co-81050-24485847",
+        "snippet": "View photos, property record valuation and tax data for 10 W 22nd St La Junta CO 81050. Type: Single Family Residential, Sq. Ft: 2,070, Bedrooms: 4, Baths: 1.",
+        "dateLastCrawled": "2023-08-27T11:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "10 W 22nd St, La Junta, CO 81050 - Trulia",
+        "url": "https://www.trulia.com/home/10-w-22nd-st-la-junta-co-81050-113275476",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/10-w-22nd-st-la-junta-co-81050-113275476",
+        "snippet": "10 W 22nd St, La Junta, CO 81050 is a 4,100 sqft, 4 bed, 3 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-01-14T18:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "People who live on W 22nd St in La Junta, Colorado",
+        "url": "https://voterrecords.com/street/w+22nd+st-la+junta-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/w+22nd+st-la+junta-co",
+        "snippet": "There are 18 people who live on W 22nd St in La Junta, Colorado that are registered to vote. Toggle navigation VoterRecords.com. Share 21.8K. Search; Address Search; Reverse Phone; Charts; FAQ; Register To Vote; Search ... 10 W 22nd St La Junta, CO 81050: View Details : Robert Fowler: Colorado Republican Party: 15 W 22nd St La Junta, CO 81050 ...",
+        "dateLastCrawled": "2025-04-17T11:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "10 W 22nd St La Junta, CO 81050 - property.whitepages.com",
+        "url": "https://property.whitepages.com/property/70726f2d524e7a6257354c77673377",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://property.whitepages.com/property/70726f2d524e7a6257354c77673377",
+        "snippet": "Find out how much 10 W 22nd St La Junta, CO is worth, including rental income and investment insights. Compare property values, appreciation trends, & look up owners for free with Property Intel by Whitepages.",
+        "dateLastCrawled": "2025-05-07T11:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "105 W 22nd St, La Junta, CO 81050 - Zillow",
+        "url": "https://www.zillow.com/homedetails/105-W-22nd-St-La-Junta-CO-81050/113274982_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/105-W-22nd-St-La-Junta-CO-81050/113274982_zpid",
+        "snippet": "105 W 22nd St, La Junta CO, is a Single Family home that contains 1792 sq ft and was built in 1955.It contains 3 bedrooms and 2 bathrooms.This home last sold for $205,000 in July 2018. The Zestimate for this Single Family is $290,700, which has increased by $3,707 in the last 30 days.The Rent Zestimate for this Single Family is $1,720/mo, which has increased by $1,720/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-12T00:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "10 W 14th St, La Junta, CO 81050 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/10-W-14th-St_La-Junta_CO_81050_M27512-13738",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/10-W-14th-St_La-Junta_CO_81050_M...",
+        "snippet": "View detailed information about property 10 W 14th St, La Junta, CO 81050 including listing details, property photos, school and neighborhood data, and much more. ... 214 E 22nd St. La Junta, CO ...",
+        "dateLastCrawled": "2024-03-11T00:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "403 W 22nd St, La Junta, CO 81050 - Zillow",
+        "url": "https://www.zillow.com/homedetails/403-W-22nd-St-La-Junta-CO-81050/113275622_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/403-W-22nd-St-La-Junta-CO-81050/113275622_zpid",
+        "snippet": "403 W 22nd St, La Junta CO, is a Single Family home that contains 1943 sq ft and was built in 1962.It contains 4 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $218,100, which has decreased by $11,435 in the last 30 days.The Rent Zestimate for this Single Family is $1,991/mo, which has increased by $1,991/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-13T08:09:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "15 W 22nd St, La Junta, CO 81050 | Redfin",
+        "url": "https://www.redfin.com/CO/La-Junta/15-W-22nd-St-81050/home/131752966",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/La-Junta/15-W-22nd-St-81050/home/131752966",
+        "snippet": "3 beds, 3 baths, 2398 sq. ft. house located at 15 W 22nd St, La Junta, CO 81050. View sales history, tax history, home value estimates, and overhead views. APN 464311333013.",
+        "dateLastCrawled": "2025-03-31T12:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "15 W 22nd St, La Junta, CO 81050 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/15-W-22nd-St_La-Junta_CO_81050_M27576-23481",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/15-W-22nd-St_La-Junta_CO_81050_M...",
+        "snippet": "View detailed information about property 15 W 22nd St, La Junta, CO 81050 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2024-08-21T01:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "110 W 22nd St, La Junta, CO 81050 - Zillow",
+        "url": "https://www.zillow.com/homedetails/110-W-22nd-St-La-Junta-CO-81050/113275555_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/110-W-22nd-St-La-Junta-CO-81050/113275555_zpid",
+        "snippet": "110 W 22nd St, La Junta CO, is a Single Family home that contains 1216 sq ft and was built in 1952.It contains 3 bedrooms and 1 bathroom.This home last sold for $90,000 in August 2020. The Zestimate for this Single Family is $158,600, which has decreased by $580 in the last 30 days.The Rent Zestimate for this Single Family is $1,525/mo, which has increased by $1,525/mo in the last 30 days.",
+        "dateLastCrawled": "2024-10-06T20:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "110 W 22nd St, La Junta, CO 81050 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/110-W-22nd-St_La-Junta_CO_81050_M27604-18426",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/110-W-22nd-St_La-Junta_CO_81050_M...",
+        "snippet": "View 9 photos for 110 W 22nd St, La Junta, CO 81050, a 3 bed, 1 bath, 1,216 Sq. Ft. single family home built in 1952 that was last sold on 08/18/2020.",
+        "dateLastCrawled": "2024-02-21T01:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "105 W 22nd St, La Junta, CO 81050 | Redfin",
+        "url": "https://www.redfin.com/CO/La-Junta/105-W-22nd-St-81050/home/131742633",
+        "datePublished": "2018-07-20T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 20, 2018",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/La-Junta/105-W-22nd-St-81050/home/131742633",
+        "snippet": "3 beds, 2 baths, 1792 sq. ft. house located at 105 W 22nd St, La Junta, CO 81050 sold for $205,000 on Jul 20, 2018. View sales history, tax history, home value estimates, and overhead views. APN 46...",
+        "dateLastCrawled": "2024-12-17T09:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "21 W 22nd St, La Junta, CO 81050 - Zillow",
+        "url": "https://www.zillow.com/homedetails/21-W-22nd-St-La-Junta-CO-81050/113274985_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/21-W-22nd-St-La-Junta-CO-81050/113274985_zpid",
+        "snippet": "21 W 22nd St, La Junta CO, is a Single Family home that contains 1190 sq ft and was built in 1959.It contains 2 bedrooms and 1 bathroom. The Zestimate for this Single Family is $166,600, which has decreased by $4,932 in the last 30 days.The Rent Zestimate for this Single Family is $1,147/mo, which has increased by $1,147/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-01T10:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "3 W 22nd St, La Junta, CO 81050 | Redfin",
+        "url": "https://www.redfin.com/CO/La-Junta/3-W-22nd-St-81050/home/131758790",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/La-Junta/3-W-22nd-St-81050/home/131758790",
+        "snippet": "3 beds, 3 baths, 1767 sq. ft. house located at 3 W 22nd St, La Junta, CO 81050 sold for $90,000 on Dec 1, 2014. MLS# 147312. Wonderful, Immaculate Home in a great Location!",
+        "dateLastCrawled": "2025-03-22T11:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "24 W 22nd St, La Junta, CO 81050 - Zillow",
+        "url": "https://www.zillow.com/homedetails/24-W-22nd-St-La-Junta-CO-81050/122689059_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/24-W-22nd-St-La-Junta-CO-81050/122689059_zpid",
+        "snippet": "24 W 22nd St, La Junta CO, is a Single Family home that contains 3664 sq ft and was built in 2013.It contains 3 bedrooms and 3 bathrooms. The Zestimate for this Single Family is $550,800, which has increased by $4,200 in the last 30 days.The Rent Zestimate for this Single Family is $2,438/mo, which has increased by $2,438/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-05T23:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "2 W 22nd St, La Junta, CO 81050 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2-W-22nd-St_La-Junta_CO_81050_M27601-94831",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/2-W-22nd-St_La-Junta_CO_81050_M27601...",
+        "snippet": "View detailed information about property 2 W 22nd St, La Junta, CO 81050 including listing details, property photos, school and neighborhood data, and much more. Realtor.com\u00ae Real Estate App 314,000+",
+        "dateLastCrawled": "2024-05-15T03:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

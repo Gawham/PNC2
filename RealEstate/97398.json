@@ -1,0 +1,638 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "4855 S Niagara St, Unit 304, Denver CO 80237"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=4855+S+Niagara+St%2c+Unit+304%2c+Denver+CO+80237",
+    "totalEstimatedMatches": 1930000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Carillon at Belleview Station | Senior Living Community Denver",
+        "url": "https://carillonatbelleviewstation.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://carillonatbelleviewstation.com",
+        "snippet": "Offering assisted living, independent living, and memory care in Denver CO. Book a tour today! Skip to primary navigation; Skip to main content; Skip to footer; ... Our memory care facility in Denver follows our unique Touchpoints ... 4855 South Niagara Street Denver, Colorado 80237 Phone: (720) 440-8200 About Us. Management; Leadership; Levels ...",
+        "deepLinks": [
+          {
+            "name": "Plans and Pricing",
+            "url": "https://carillonatbelleviewstation.com/plans-and-pricing/",
+            "snippet": "And it feels good to know that our community\u2019s rooftop solar panels are generating clean electricity from the sun. We welcome you home! ... Memory Care Unit 2A. Footer. Carillon at Belleview Station 4855 South Niagara Street Denver, Colorado 80237 Phone: (720) 440-8200 About Us. Management; Leadership; Levels Of Care. Independent Living;"
+          },
+          {
+            "name": "About US",
+            "url": "https://carillonatbelleviewstation.com/about-us/",
+            "snippet": "He is a member of the Board of Trustees for Havern School, a nationally recognized school serving students with diagnosed learning disabilities since 1967. He holds a Bachelor\u2019s Degree in Accounting from the University of Arkansas, and a Master\u2019s Degree in Taxation from the University of Denver, and is a certified public accountant (inactive)."
+          },
+          {
+            "name": "INDEPENDENT LIVING",
+            "url": "https://carillonatbelleviewstation.com/independent-living/",
+            "snippet": "Independent Living in Denver, CO. Denver\u2019s Most Distinctive Location Near Cherry Hills & Greenwood Village. ... 4855 South Niagara Street Denver, Colorado 80237 Phone: (720) 440-8200 About Us. Management; Leadership; Levels Of Care. Independent Living; Assisted Living; Bridge To Belonging;"
+          },
+          {
+            "name": "MEMORY CARE",
+            "url": "https://carillonatbelleviewstation.com/memory-care/",
+            "snippet": "Memory Care in Denver, CO. in the Greenwood Village & Cherry Hills area. ... Gourmet dining is one of life\u2019s little pleasures and a delicious experience awaits at the Carillon at Belleview Station. Our exceptional culinary staff takes pride in satisfying our Memory Care residents\u2019 appetites for fresh, expertly prepared food with ever ..."
+          },
+          {
+            "name": "CONTACT US",
+            "url": "https://carillonatbelleviewstation.com/contact/",
+            "snippet": "4855 South Niagara Street Denver, Colorado 80237. Phone (720) 440-8200. Contact Form. We\u2019d love to speak with you! Fill out the contact form below and someone will be in touch shortly! ... 4855 South Niagara Street Denver, Colorado 80237 Phone: (720) 440-8200 About Us. Management; Leadership; Levels Of Care. Independent Living; Assisted ..."
+          },
+          {
+            "name": "GALLERY",
+            "url": "https://carillonatbelleviewstation.com/gallery/",
+            "snippet": "View photos of Carillon at Belleview Station's senior living community. We offer quality amenities for seniors. For further inquires, call us at 720-440-8200."
+          },
+          {
+            "name": "BLOG & EVENTS",
+            "url": "https://carillonatbelleviewstation.com/blog-events/",
+            "snippet": "Caring for an aging loved one often comes with difficult decisions, including finding the right living environment that supports their needs while offering safety and\u2026"
+          }
+        ],
+        "dateLastCrawled": "2025-06-05T02:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Carillon At Belleview Station - Seniorly",
+        "url": "https://www.seniorly.com/assisted-living/colorado/denver/the-carillon-at-belleview-station",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.wZDCL43jx4QZ2QYEu88YCwAAAA&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 8.4,
+              "bestRating": 10,
+              "reviewCount": 51
+            }
+          }
+        ],
+        "datePublished": "2025-05-24T00:00:00.0000000",
+        "datePublishedDisplayText": "May 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorly.com/assisted-living/colorado/denver/the-carillon-at-belleview-station",
+        "snippet": "Carillon At Belleview Station is an Assisted Living community located at 4855 South Niagara Street in Denver, CO. See pricing, photos & reviews on Seniorly.com! ... 4855 South Niagara Street, Denver, CO 80237 Calculate travel time. Assisted Living \u00b7 Memory Care \u00b7 Independent Living ... such as full kitchens and in-unit laundry, are also noted ...",
+        "dateLastCrawled": "2025-05-30T15:34:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.wZDCL43jx4QZ2QYEu88YCwAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 320,
+          "sourceHeight": 240,
+          "imageId": "OIP.wZDCL43jx4QZ2QYEu88YCwAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "4855 South Niagara Street, Denver, 80237, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(720) 440-8200"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Seniorly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "The Carillon at Belleview Station - 4855 Niagara St Denver, CO 80237 ...",
+        "url": "https://www.apartments.com/the-carillon-at-belleview-station-denver-co/3x6qfyg/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.NT-rXXkBM-s9BPcmxIXSWwHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/the-carillon-at-belleview-station-denver-co/3x6qfyg",
+        "snippet": "You'll find this community at 4855 Niagara St in Denver. The leasing staff is ready to help you find your perfect new place. It's time to find your new home. Contact or stop by the The Carillon at Belleview Station leasing office to schedule a tour. The Carillon at Belleview Station is an apartment community located in Denver County and the ...",
+        "dateLastCrawled": "2025-06-06T05:11:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.NT-rXXkBM-s9BPcmxIXSWwHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.NT-rXXkBM-s9BPcmxIXSWwHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "The Carillon at Belleview Station | Assisted Living & Memory Care ...",
+        "url": "https://www.aplaceformom.com/community/the-carillon-at-belleview-station-1408748",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.O8VJ6Zoh3I2uCukd5jCmcAHaFL&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 3.8,
+              "bestRating": 5,
+              "reviewCount": 15
+            }
+          }
+        ],
+        "datePublished": "2025-05-31T00:00:00.0000000",
+        "datePublishedDisplayText": "May 31, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.aplaceformom.com/community/the-carillon-at-belleview-station-1408748",
+        "snippet": "Eastern Star Masonic Retirement CampusEastern Star Masonic Retirement Campus is a memory care and assisted living community available in Denver, County of Denver, Colorado. This campus is situated on 19 acres of picturesque landscape in beautiful southeast Denver, conveniently located near city...",
+        "dateLastCrawled": "2025-05-30T09:16:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.O8VJ6Zoh3I2uCukd5jCmcAHaFL&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 331,
+          "imageId": "OIP.O8VJ6Zoh3I2uCukd5jCmcAHaFL"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "4855 S Niagara St, Denver, 80237, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-16T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          },
+          {
+            "label": {
+              "text": "Start Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-15T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:STARTDATE"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "A Place for Mom"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "The Carillon at Belleview Station - May 2025 Pricing (UPDATED)",
+        "url": "https://www.familyassets.com/assisted-living/colorado/denver/the-carillon-at-bellview-station",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.lwjhZ56RpWhdNieJpUhiVAHaDt&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 8,
+              "bestRating": 10,
+              "reviewCount": 18
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.familyassets.com/assisted-living/colorado/denver/the-carillon-at-bellview...",
+        "snippet": "The Carillon at Belleview Station is an Assisted Living facility in Denver, Colorado. Learn about pricing and amenities, read reviews, and see photos of the facility. ... 4855 South Niagara Street, Denver CO, 80237. Resident Review Score. 8 ... Get Personalized Pricing. The Carillon at Belleview Station. 4855 South Niagara Street, Denver CO ...",
+        "dateLastCrawled": "2025-05-29T20:00:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.lwjhZ56RpWhdNieJpUhiVAHaDt&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 237,
+          "imageId": "OIP.lwjhZ56RpWhdNieJpUhiVAHaDt"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "4855 South Niagara Street, Denver, 80237, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Family Assets"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Carillon At Belleview Station | Senior Housing in Denver, Colorado",
+        "url": "https://seniorsbluebook.com/senior-housing/carillon-at-belleview-station-the-denver-co",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://seniorsbluebook.com/senior-housing/carillon-at-belleview-station-the-denver-co",
+        "snippet": "4855 S Niagara St, Denver, Colorado, 80237. Independent Living. Share This Print Details. General Property Features; Independent Living; Location; PHONE Click to View Number 720-440-8200. Email US Click to Email Us ... Unit Sizes Studio, 1 BR, 2 BR; Additional Levels of Care Offered.",
+        "dateLastCrawled": "2025-05-08T06:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Seniors Blue Book"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Carillon At Belleview Station Denver | Independent ... - SENIORGEVITY",
+        "url": "https://www.seniorgevity.com/independent-living-for-seniors/the-carillon-at-belleview-station-independent-living-assisted-living-memory-care-denver-colorado/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorgevity.com/independent-living-for-seniors/the-carillon-at-belleview...",
+        "snippet": "The Details. Name of Facility or Community: The Carillon at Belleview Station. Type of Facility: Independent Living, Assisted Living, and Memory Care. Phone: (720) 440-8200. Location: Denver (in the Denver Tech Center area). Address: 4855 South Niagara Street, Denver, Colorado, 80237. Nearby Major Cross-Streets: I-25 and Belleview Avenue. Cost: The cost of Independent Living and Assisted ...",
+        "dateLastCrawled": "2025-05-28T23:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "The Carillon at Belleview Station - Assisted Living Center",
+        "url": "https://www.assistedlivingcenter.com/facilities/co/denver/the-carillon-at-belleview-station-80237/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.sLBNLIgDeBg5vvQTvXvAEgHaEI&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.assistedlivingcenter.com/.../co/denver/the-carillon-at-belleview-station-80237",
+        "snippet": "4855 Niagara St, Denver, CO 80237. 4.5 / 5.0 35 Reviews . Independent Living. View Details. View all communities near Denver . Assisted Living Center is not affiliated with The Carillon at Belleview Station and does not guarantee the completeness or accuracy of pricing, photos, living or care available, services or amenities. All phone calls ...",
+        "dateLastCrawled": "2025-06-04T08:27:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.sLBNLIgDeBg5vvQTvXvAEgHaEI&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 264,
+          "imageId": "OIP.sLBNLIgDeBg5vvQTvXvAEgHaEI"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Assisted Living Center"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "CARILLON AT BELLEVIEW STATION - Updated May 2025 - 4855 S Niagara St ...",
+        "url": "https://www.yelp.com/biz/carillon-at-belleview-station-denver",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.AcKf6OJFm3jkjERZCPm2IgAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.yelp.com/biz/carillon-at-belleview-station-denver",
+        "snippet": "CARILLON AT BELLEVIEW STATION, 4855 S Niagara St, Denver, CO 80237, 5 Photos, Mon - Open 24 hours, Tue - Open 24 hours, Wed - Open 24 hours, Thu - Open 24 hours, Fri - Open 24 hours, Sat - Open 24 hours, Sun - Open 24 hours",
+        "dateLastCrawled": "2025-05-24T21:58:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.AcKf6OJFm3jkjERZCPm2IgAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 0,
+          "sourceHeight": 0,
+          "imageId": "OIP.AcKf6OJFm3jkjERZCPm2IgAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "4855 S Niagara St Denver, CO 80237"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": true,
+        "siteName": "Yelp"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Enjoyable Senior Living Near Denver, CO - Carillon at Belleview Station",
+        "url": "https://carillonatbelleviewstation.com/denver/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://carillonatbelleviewstation.com/denver",
+        "snippet": "Carillon at Belleview Station is a senior living community in Denver, Colorado. It offers independent living, assisted living, and memory care. ... Careers; Gallery; Blogs: (720) 440-8200; Plans and Pricing; Find us on Facebook; Denver; GreenwoodVillage; Carillon at Belleview Station. ABOUT US. Management; ... 4855 South Niagara Street Denver ...",
+        "dateLastCrawled": "2025-05-29T07:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "The Carillon at Belleview Station Assisted Living in Denver, CO",
+        "url": "https://www.seniorcare.com/assisted-living/co/denver/the-carillon-at-belleview-station/54553/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorcare.com/assisted-living/co/denver/the-carillon-at-belleview-station/...",
+        "snippet": "4855 S Niagara Street Denver, CO 80237 Phone: (720) 440-8200. Get Pricing Information | Payment Options | Detailed Facility Reports | Update This Listing. Full Name Phone Number ... 4855 S Niagara Street: City: Denver: State: CO: Zip: 80237: Phone (720) 440-8200: State Issued Unique Id: 23N139:",
+        "dateLastCrawled": "2025-05-28T08:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorCare.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Carillon at Belleview Station - Milender White",
+        "url": "https://www.milenderwhite.com/our-work/carillon-at-belleview-station/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.milenderwhite.com/our-work/carillon-at-belleview-station",
+        "snippet": "4855 Niagara St. Denver, CO. Type: Multi-Unit Residential. Owner: MGL Partners. Architect: Parikh Stevens Architects. 163. Units. 6. Stories. Project Summary. This six-story senior community in southwest Denver includes 163 apartments \u2013 139 independent and assisted living suites and 24 memory care suites. Amenities include a salon and spa ...",
+        "dateLastCrawled": "2025-05-21T05:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Milender White"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Carillon at Belleview Station | Assisted Living Denver, CO | SeniorResource",
+        "url": "https://www.seniorresource.com/assisted_living/carillon-at-belleview-station/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seniorresource.com/assisted_living/carillon-at-belleview-station",
+        "snippet": "Carillon at Belleview Station. What it is: A full-scale senior living community with assisted living. Features we love: Whether you need regular assisted living or memory Assisted Living in Denver, Colorado. 4855 Niagara St",
+        "dateLastCrawled": "2025-04-27T05:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "SeniorResource.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Carillon at Belleview Station Located in Devner, CO",
+        "url": "https://carillonatbelleviewstation.com/location/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://carillonatbelleviewstation.com/location",
+        "snippet": "The Carillon at Belleview Station offers excellent senior care services in an upscale community in Denver, CO. Visit our site to check out our location today! Skip to primary navigation; ... Just across the street is Belleview Station, the light rail stop for Denver Tech Center. ... 4855 South Niagara Street Denver, Colorado 80237 Phone: (720 ...",
+        "dateLastCrawled": "2025-05-02T08:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Carillon At Belleview Station | Senior Housing in Denver, Colorado",
+        "url": "https://seniorsbluebook.com/senior-housing/carillon-at-belleview-station-the-denver-co-2",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://seniorsbluebook.com/senior-housing/carillon-at-belleview-station-the-denver-co-2",
+        "snippet": "4855 S Niagara St, Denver, Colorado, 80237. Assisted Living. Share This ... Unit Sizes 1 BR, 2 BR, Studio; Add'l Property Features Kitchenette, Memory Care (Dementia) Additional Levels of Care Offered. Carillon At Belleview Station Memory Care 4855 S Niagara St, Denver, Denver, Colorado, 80237.",
+        "dateLastCrawled": "2025-05-25T05:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Seniors Blue Book"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "The Carillon at Belleview Station - Denver, CO - Kithward",
+        "url": "https://www.kithward.com/community/the-carillon-at-belleview-station-independent-living-7298",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.kithward.com/community/the-carillon-at-belleview-station-independent...",
+        "snippet": "The Carillon at Belleview Station is a Senior Independent Living community located at 4855 South Niagara Street, Denver, Colorado, 80237. Search communities near... Signup. Login. ... 4855 South Niagara Street, Denver, Colorado 80237. Rural. ... and memory care services in Denver, Colorado for seniors looking to live their best years surrounded ...",
+        "dateLastCrawled": "2025-05-21T13:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Contact Us - Carillon at Belleview Station | 720-440-8200",
+        "url": "https://carillonatbelleviewstation.com/contact/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://carillonatbelleviewstation.com/contact",
+        "snippet": "4855 South Niagara Street Denver, Colorado 80237. Phone (720) 440-8200. Contact Form. We\u2019d love to speak with you! Fill out the contact form below and someone will be in touch shortly! ... 4855 South Niagara Street Denver, Colorado 80237 Phone: (720) 440-8200 About Us. Management; Leadership; Levels Of Care. Independent Living; Assisted ...",
+        "dateLastCrawled": "2025-06-06T00:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Carillon At Belleview Station | Senior Housing in Denver, Colorado",
+        "url": "https://seniorsbluebook.com/senior-housing/carillon-at-belleview-station-the-denver-co-3",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://seniorsbluebook.com/senior-housing/carillon-at-belleview-station-the-denver-co-3",
+        "snippet": "Let's Connect. Call Us. 800-201-9989. Social Media. Chat Now. Home; Memory Care; Carillon At Belleview Station; Carillon At Belleview Station. 4855 S Niagara St, Denver, Colorado, 80237. Memory Care. Share This Print Details. General Property Features; Memory Care ... Unit Sizes Studio; Add'l Services Doctor Visits, Off Campus Outings, ...",
+        "dateLastCrawled": "2024-08-29T16:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Seniors Blue Book"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "3rd Generation Salon LLC \u00b7 4855 S Niagara St, Denver, CO 80237-3343 ...",
+        "url": "https://opengovco.com/license/1334004",
+        "datePublished": "2020-09-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 24, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/license/1334004",
+        "snippet": "The business address is 4855 S Niagara St, Denver, CO 80237-3343. The license first issue date is September 24, 2020. License Overview. Entity Name: 3rd Generation Salon LLC: ... 4885 S Monaco St. Unit 304, Denver, CO 80237-0237: 2022-07-27: Leigha Cheri Braden: COZ.720735: 3655 S Verbena St, A-102, Denver, CO 80237-0237: 2022-07-29: Kory D Reed:",
+        "dateLastCrawled": "2025-05-09T14:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "4855 S Niagara St, Denver, CO 80237 - Zillow",
+        "url": "https://www.zillow.com/homedetails/4855-S-Niagara-St-Denver-CO-80237/247393720_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4855-S-Niagara-St-Denver-CO-80237/247393720_zpid",
+        "snippet": "4855 S Niagara St, Denver, CO 80237 is currently not for sale. The 154,590 Square Feet single family home is a -- beds, -- baths property. This home was built in 2017 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-07-26T05:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

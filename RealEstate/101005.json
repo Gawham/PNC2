@@ -1,0 +1,500 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "6700 150th Ave N, Unit 134, Clearwater FL 33764"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=6700+150th+Ave+N%2c+Unit+134%2c+Clearwater+FL+33764",
+    "totalEstimatedMatches": 638000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "6700 150th Ave N Clearwater FL - Zillow",
+        "url": "https://www.zillow.com/b/6700-150th-ave-n-clearwater-fl-5j5DCw/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/b/6700-150th-ave-n-clearwater-fl-5j5DCw",
+        "snippet": "6700 150th Ave N. Clearwater, FL 33764. Apartment building. Studio-3 beds. Available units. ... 5265 E Bay Dr APT 410, Clearwater, FL 33764. For sale. HIGH POINT REALTY INC. $216,000. 2 bd 2 ba 900 sqft. 5265 E Bay Dr APT 420, Clearwater, FL 33764. For sale. BHHS FLORIDA PROPERTIES GROUP. $150,000.",
+        "deepLinks": [
+          {
+            "name": "6700 150th Ave N #400, Clearwater, FL 33764 - Zillow",
+            "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-400-Clearwater-FL-33764/2070600401_zpid/",
+            "snippet": "6700 150th Ave N #400, Clearwater FL, is a Mobile / Manufactured home that contains 1000 sq ft and was built in 1971.It contains 2 bedrooms and 2 bathrooms. The Zestimate for this Mobile / Manufactured is $62,300, which has decreased by $10,133 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,832/mo, which has increased by $1,832/mo in the last 30 days."
+          },
+          {
+            "name": "6700 150th Ave N #934, Clearwater, FL 33764 - Zillow",
+            "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-934-Clearwater-FL-33764/2078034310_zpid/",
+            "snippet": "6700 150th Ave N #934, Clearwater, FL 33764 is currently not for sale. The 1,008 Square Feet manufactured home is a 2 beds, 2 baths property. This home was built in 1982 and last sold on 2020-11-13 for $18,900. View more property details, sales history, and Zestimate data on Zillow."
+          },
+          {
+            "name": "6700 150th Ave N, Clearwater, FL 33764 - Zillow",
+            "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-Clearwater-FL-33764/2079950826_zpid/",
+            "snippet": "6700 150th Ave N, Clearwater, FL 33764 is currently not for sale. The 552 Square Feet manufactured home is a 1 bed, 1 bath property. This home was built in 1972 and last sold on 2023-11-12 for $--. View more property details, sales history, and Zestimate data on Zillow."
+          },
+          {
+            "name": "6700 150th Ave N LOT 938, Clearwater, FL 33764 | Zillow",
+            "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-LOT-938-Clearwater-FL-33764/2082022362_zpid/",
+            "snippet": "Zillow has 12 photos of this $89,900 2 beds, 2 baths, 1,560 Square Feet manufactured home located at 6700 150th Ave N LOT 938, Clearwater, FL 33764 built in 1982."
+          }
+        ],
+        "dateLastCrawled": "2025-05-11T07:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "6700 150th Ave N, Clearwater, 33764, FL"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$37,500 - $146,900"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "6700 150th Ave N, Clearwater, FL 33764 [Updated 6/3] - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6700-150th-Ave-N_Clearwater_FL_33764_M94682-31699",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/6700-150th-Ave-N_Clearwater_FL_33764...",
+        "snippet": "6700 150th Ave N, Clearwater, FL 33764 is for sale. View 30 photos of this 2 bed, 2 bath, 1296 sqft. mobile home with a list price of $143500.",
+        "dateLastCrawled": "2025-06-03T23:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "6700 150th Ave N, Clearwater, FL 33764 - Apartments.com",
+        "url": "https://www.apartments.com/6700-150th-ave-n-clearwater-fl/nled1dm/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/6700-150th-ave-n-clearwater-fl/nled1dm",
+        "snippet": "6700 150th Ave N house in Clearwater,FL, is available for rent. ... 6700 150th Ave N media gallery Unit. call 763-287-0800 Send Message Photos Floor Plans Matterport 3D Tours Videos View From Unit Floor Plan View Body Houses Florida ... 6700 150th Ave N. Clearwater, FL 33764. Email Copy Link.",
+        "dateLastCrawled": "2025-06-03T17:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "6700 150th Ave N, Clearwater, FL 33764 | Redfin",
+        "url": "https://www.redfin.com/FL/Clearwater/6700-150th-Ave-N-33764/home/148083554",
+        "datePublished": "2025-03-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 13, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/FL/Clearwater/6700-150th-Ave-N-33764/home/148083554",
+        "snippet": "2 baths, 6153 sq. ft. vacant land located at 6700 150th Ave N, Clearwater, FL 33764. View sales history, tax history, home value estimates, and overhead views. APN 31/29/16/70344/400/1000.",
+        "dateLastCrawled": "2025-03-27T01:54:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "6700 150th Ave N LOT 127, Clearwater, FL 33764 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-LOT-127-Clearwater-FL-33764/446234736_zpid/",
+        "datePublished": "2025-03-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 17, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-LOT-127-Clearwater-FL-33764/...",
+        "snippet": "Zillow has 19 photos of this $69,900 3 beds, 2 baths, -- sqft manufactured home located at 6700 150th Ave N LOT 127, Clearwater, FL 33764 built in 1983. MLS #11414641.",
+        "dateLastCrawled": "2025-04-01T21:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "6700 150th Ave N , Lot 941, Clearwater, FL 33764 - MHVillage",
+        "url": "https://www.mhvillage.com/homes/3239749",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.89vZbumiJGQZ0x3CUhErpgAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mhvillage.com/homes/3239749",
+        "snippet": "Mobile home located at 6700 150th Ave N , Lot 941 Clearwater, FL. 2 beds, 2 baths, listed for sale at $42000. View photos and home details here.",
+        "dateLastCrawled": "2025-05-31T08:18:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.89vZbumiJGQZ0x3CUhErpgAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 400,
+          "sourceHeight": 500,
+          "imageId": "OIP.89vZbumiJGQZ0x3CUhErpgAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MHVillage"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "6700 150th Ave N Lot 136, Clearwater, FL 33764 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6700-150th-Ave-N-Lot-136_Clearwater_FL_33764_M92790-83144",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.Yz2-B0ZTsnkBAOS41m_W0gHaFj&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2023-03-28T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 28, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6700-150th-Ave-N-Lot-136_Clearwater_FL_33764_M92790-83144",
+        "snippet": "View 25 photos for 6700 150th Ave N Lot 136, Clearwater, FL 33764, a 2 bed, 2 bath, 1,056 Sq. Ft. mobile home built in 1982 that was last sold on 01/24/2024.",
+        "dateLastCrawled": "2024-10-01T21:35:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.Yz2-B0ZTsnkBAOS41m_W0gHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.Yz2-B0ZTsnkBAOS41m_W0gHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "6700 150th Ave N, Clearwater, FL 33764 - Apartments.com",
+        "url": "https://www.apartments.com/6700-150th-ave-n-clearwater-fl/kkv7w18/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/6700-150th-ave-n-clearwater-fl/kkv7w18",
+        "snippet": "See all available condos for rent at 6700 150th Ave N in Clearwater, FL. 6700 150th Ave Nhas rental units starting at $1600. Map. Menu. ... Walkability Near 6700 150th Ave N Clearwater, FL 33764. ... 202 Windward Passage Unit 507, Clearwater, FL 33767 (727) 734-2200. Email. $2,250.",
+        "dateLastCrawled": "2025-05-30T12:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "6700 150th Ave N | Clearwater, FL Rentals - ApartmentHomeLiving.com",
+        "url": "https://www.apartmenthomeliving.com/apartment-finder/6700-150th-Ave-N-Clearwater-FL-33764-27176183",
+        "datePublished": "2025-05-01T00:00:00.0000000",
+        "datePublishedDisplayText": "May 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmenthomeliving.com/.../6700-150th-Ave-N-Clearwater-FL-33764-27176183",
+        "snippet": "6700 150th Ave N, Clearwater, FL 33764 | See official prices, pictures, current floorplans and amenities for this 2 bedroom, 2 bath rental for $1300 in Clearwater, FL. Check availability! ... Unit Rent and Fees. Price. $1,300; Deposit. $1,300 deposit; Property Map. Expand. Property Map. You are viewing: Schedule a Tour. Thursday 08 MAY Friday ...",
+        "dateLastCrawled": "2025-05-08T23:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ApartmentHomeLiving.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "6700 150th Ave N, Clearwater, FL 33764 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6700-150th-Ave-N_Clearwater_FL_33764_M90571-28784",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.N4y61UOOABxEGqfL-pWpfQHaDV&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2023-09-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 7, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/6700-150th-Ave-N_Clearwater_FL_33764...",
+        "snippet": "View detailed information about property 6700 150th Ave N, Clearwater, FL 33764 including listing details, property photos, school and neighborhood data, and much more. ... Property detail for ...",
+        "dateLastCrawled": "2025-03-27T21:18:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.N4y61UOOABxEGqfL-pWpfQHaDV&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 213,
+          "imageId": "OIP.N4y61UOOABxEGqfL-pWpfQHaDV"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "6700 150th Ave N, Clearwater, FL 33764 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-Clearwater-FL-33764/2079950826_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.arLBJObAYjnH2OMnAEqLqQHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-Clearwater-FL-33764/2079950826_zpid",
+        "snippet": "6700 150th Ave N, Clearwater, FL 33764 is currently not for sale. The 552 Square Feet manufactured home is a 1 bed, 1 bath property. This home was built in 1972 and last sold on 2023-11-12 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-06-05T07:39:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.arLBJObAYjnH2OMnAEqLqQHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.arLBJObAYjnH2OMnAEqLqQHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "6700 150th Ave N #339, Clearwater, FL 33764 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-339-Clearwater-FL-33764/2069798638_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-339-Clearwater-FL-33764/2069798638...",
+        "snippet": "6700 150th Ave N #339, Clearwater FL, is a Mobile / Manufactured home that was built in 1971.It contains 2 bedrooms and 2 bathrooms.This home last sold for $48,900 in November 2021. The Rent Zestimate for this Mobile / Manufactured is $1,780/mo, which has increased by $1,780/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-28T03:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "6700 150th Ave N Lot 127, Clearwater, FL 33764 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6700-150th-Ave-N-Lot-127_Clearwater_FL_33764_M99398-01983",
+        "datePublished": "2025-01-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 24, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6700-150th-Ave-N-Lot-127_Clearwater_FL_33764_M99398-01983",
+        "snippet": "6700 150th Ave N Lot 127, Clearwater, FL 33764 is a mobile home for sale listed on the market for 7 Days. 6700 150th Ave N Lot 127, Clearwater, FL 33764 is in the La Plaza neighborhood, which has ...",
+        "dateLastCrawled": "2025-02-01T16:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "6700 150th Ave N LOT 938, Clearwater, FL 33764 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-LOT-938-Clearwater-FL-33764/2082022362_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-LOT-938-Clearwater-FL-33764/...",
+        "snippet": "Zillow has 12 photos of this $89,900 2 beds, 2 baths, 1,560 Square Feet manufactured home located at 6700 150th Ave N LOT 938, Clearwater, FL 33764 built in 1982.",
+        "dateLastCrawled": "2025-06-06T07:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "6700 150th Ave N #202, Clearwater, FL 33764 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-202-Clearwater-FL-33764/444776520_zpid/",
+        "datePublished": "2025-01-18T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 18, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-202-Clearwater-FL-33764/444776520_zpid",
+        "snippet": "Zillow has 15 photos of this $19,900 2 beds, 2 baths, -- sqft manufactured home located at 6700 150th Ave N #202, Clearwater, FL 33764 MLS #11411242.",
+        "dateLastCrawled": "2025-03-12T05:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "6700 150th Ave N #934, Clearwater, FL 33764 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-934-Clearwater-FL-33764/2078034310_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-934-Clearwater-FL-33764/2078034310...",
+        "snippet": "6700 150th Ave N #934, Clearwater, FL 33764 is currently not for sale. The 1,008 Square Feet manufactured home is a 2 beds, 2 baths property. This home was built in 1982 and last sold on 2020-11-13 for $18,900. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2024-12-21T20:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "6700 150th Ave N #400, Clearwater, FL 33764 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-400-Clearwater-FL-33764/2070600401_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-400-Clearwater-FL-33764/2070600401...",
+        "snippet": "6700 150th Ave N #400, Clearwater FL, is a Mobile / Manufactured home that contains 1000 sq ft and was built in 1971.It contains 2 bedrooms and 2 bathrooms. The Zestimate for this Mobile / Manufactured is $62,300, which has decreased by $10,133 in the last 30 days.The Rent Zestimate for this Mobile / Manufactured is $1,832/mo, which has increased by $1,832/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-16T12:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "6700 150th Ave N #353, Clearwater, FL 33764 - Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-353-Clearwater-FL-33764/447624142_zpid/",
+        "datePublished": "2025-02-22T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 22, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-353-Clearwater-FL-33764/447624142_zpid",
+        "snippet": "Zillow has 44 photos of this $59,000 2 beds, 2 baths, 1,440 Square Feet manufactured home located at 6700 150th Ave N #353, Clearwater, FL 33764 built in 1982. MLS #11438407.",
+        "dateLastCrawled": "2025-03-21T18:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "6700 150th Ave N LOT 724, Clearwater, FL 33764 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6700-150th-Ave-N-LOT-724-Clearwater-FL-33764/2054927953_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6700-150th-Ave-N-LOT-724-Clearwater-FL-33764/...",
+        "snippet": "6700 150th Ave N LOT 724, Clearwater, FL 33764 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on 2025-03-10 for $146,900. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-08T20:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

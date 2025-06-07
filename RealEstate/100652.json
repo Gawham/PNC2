@@ -1,0 +1,590 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "395 W Burgundy St, Unit 1815, Highlands Ranch CO 80129"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=395+W+Burgundy+St%2c+Unit+1815%2c+Highlands+Ranch+CO+80129",
+    "totalEstimatedMatches": 740000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Legacy at Highlands Ranch, CO | Now Leasing Apartments",
+        "url": "https://legacyathighlandsranch.com/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://legacyathighlandsranch.com",
+        "snippet": "Garages, fireplaces, and in-unit washer & dryer are just a few of the amenities you can choose from. We offer several facilities for our residents, including a fully equipped fitness center, gorgeous clubhouse, and functional business center. ... 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293. Site Map. Home; Amenities ...",
+        "deepLinks": [
+          {
+            "name": "Amenities",
+            "url": "https://legacyathighlandsranch.com/amenities/",
+            "snippet": "Enjoy luxury amenities at Legacy at Highlands Ranch, featuring a ... Washer/Dryer In Unit. Show more. Your Community. Dog Park. Fire Pit. Game Room. Garages. Outdoor Grilling Station. Peloton Bikes. Show More * In select units. Designed for modern luxury. Contact Us Book A Tour. Pet Policy. Our Address. 355 W. Burgundy Street Highlands Ranch ..."
+          },
+          {
+            "name": "Floorplans",
+            "url": "https://legacyathighlandsranch.com/floorplans/",
+            "snippet": "Explore elegant 1 & 2 bedroom floor plans at Legacy in Highlands Ranch, CO. Find comfort and style in our luxury apartments situated in a prime location. ... Utilities not included in base rent: trash ($10 per unit), electric (varies based on usage), and water/sewer (varies based on usage). Floorplans are artist's rendering. ... 355 W. Burgundy ..."
+          },
+          {
+            "name": "Neighborhood",
+            "url": "https://legacyathighlandsranch.com/neighborhood/",
+            "snippet": "Come visit our houses for rent in Highlands Ranch to see why our location is perfect for you! Restaurants . Coffee . Shopping ... 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293. Site Map. Home; Amenities; Floorplans; Neighborhood; Gallery; Residents; Contact; Book A Tour"
+          },
+          {
+            "name": "Gallery",
+            "url": "https://legacyathighlandsranch.com/gallery/",
+            "snippet": "Browse the photo gallery of Legacy at Highlands Ranch and see our stylish apartments and modern amenities designed for comfortable living in Colorado. ... 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293. Site Map. Home; Amenities; Floorplans; Neighborhood; Gallery; Residents; Contact; Book A Tour"
+          },
+          {
+            "name": "Residents",
+            "url": "https://legacyathighlandsranch.com/residents/",
+            "snippet": "At Legacy at Highlands Ranch, we're committed to providing you with the top-notch service you deserve. Contact us anytime with questions, concerns, or comments. ... 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293. Site Map. Home; Amenities; Floorplans; Neighborhood; Gallery; Residents; Contact; Book A Tour"
+          },
+          {
+            "name": "Contact",
+            "url": "https://legacyathighlandsranch.com/contact/",
+            "snippet": "Legacy at Highlands Ranch. 355 W. Burgundy Street Highlands Ranch, CO 80129 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293; Get Directions. Office Hours . Monday - Friday . 10:00 AM - 6:00 PM . Saturday . 10:00 AM - 5:00 PM ..."
+          },
+          {
+            "name": "Tour",
+            "url": "https://legacyathighlandsranch.com/schedule-a-tour/",
+            "snippet": "Book a tour today and experience what it's like to live at Legacy at Highlands Ranch."
+          }
+        ],
+        "dateLastCrawled": "2025-06-04T08:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "The Legacy at Highlands Ranch Apartments - Highlands Ranch, CO ...",
+        "url": "https://www.forrent.com/co/highlands-ranch/the-legacy-at-highlands-ranch/c93nsvf",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.cfB9FtHAl6ircovsLPTZlQHaE7&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 5,
+              "bestRating": 5,
+              "reviewCount": 205
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forrent.com/co/highlands-ranch/the-legacy-at-highlands-ranch/c93nsvf",
+        "snippet": "Shoppers will appreciate The Legacy at Highlands Ranch Apartments proximity to Highlands Ranch Town Center, Parkway Center I, and Highlands Ranch Town Center North. Highlands Ranch Town Center is 0.4 miles away, and Parkway Center I is within an 11 minute walk. Parks and Recreation",
+        "dateLastCrawled": "2025-06-01T08:49:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.cfB9FtHAl6ircovsLPTZlQHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.cfB9FtHAl6ircovsLPTZlQHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "355 W Burgundy St, Highlands Ranch, 80129, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(720) 212-2141"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "End Date"
+            },
+            "items": [
+              {
+                "text": "2025-03-15T00:00:00.0000000"
+              }
+            ],
+            "hint": {
+              "text": "BASE:ENDDATE"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "ForRent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "MS. FATEMEH FARIBA ARDEBILIPOUR RN - NPI 1336513563 - NPI Profile",
+        "url": "https://npiprofile.com/npi/1336513563",
+        "datePublished": "2015-11-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 27, 2015",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://npiprofile.com/npi/1336513563",
+        "snippet": "NPI Profile for Fatemeh Ardebilipour in 395 W Burgundy St Unit 1815 Highlands Ranch, Co 80129. Phone: (310) 428-8277 . Taxonomy 163W00000X",
+        "dateLastCrawled": "2025-03-27T08:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NPI Profile"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Ms. Fatemeh Ardebilipour RN Highlands Ranch, CO - Registered Nurse 395 W",
+        "url": "https://www.ehealthscores.com/care-lttcxltxct-fatemeh-ardebilipour-highlands-ranch.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ehealthscores.com/care-lttcxltxct-fatemeh-ardebilipour-highlands-ranch.html",
+        "snippet": "Ms. Fatemeh Ardebilipour RN practices as a Registered Nurse provider at 395 W Burgundy St in Highlands Ranch, Colorado. Get directions, phone, and ratings. ... Fatemeh Ardebilipour RN's practice location is: 395 W Burgundy St (unit 1815) Highlands Ranch, CO 80129-6610 ... 395 W BURGUNDY ST UNIT 1815 HIGHLANDS RANCH, CO 80129-6610 Phone and Fax ...",
+        "dateLastCrawled": "2023-10-05T18:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "The Legacy at Highlands Ranch - 355 W Burgundy St Highlands Ranch, CO ...",
+        "url": "https://www.apartments.com/the-legacy-at-highlands-ranch-highlands-ranch-co/y93nyvt/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.wziS5iVF4uSgK6t2LszxjQHaEn&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 4.3,
+              "bestRating": 5,
+              "reviewCount": 206
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/the-legacy-at-highlands-ranch-highlands-ranch-co/y93nyvt",
+        "snippet": "See all available apartments for rent at The Legacy at Highlands Ranch in Highlands Ranch, CO. The Legacy at Highlands Ranch has rental units ranging from 707-1093 sq ft starting at $1737. ... The Legacy at Highlands Ranch media gallery Unit. call 720-212-2195 Send Message ... 355 W Burgundy St. Highlands Ranch, CO 80129. Email Copy Link.",
+        "dateLastCrawled": "2025-06-04T02:43:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.wziS5iVF4uSgK6t2LszxjQHaEn&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 295,
+          "imageId": "OIP.wziS5iVF4uSgK6t2LszxjQHaEn"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "355 W Burgundy St, Highlands Ranch, 80129, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(720) 212-2195"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,793 - $2,532"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "The Legacy at Highlands Ranch - Sunny",
+        "url": "https://www.sunny.com/co/highlands-ranch/the-legacy-at-highlands-ranch",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.sunny.com/co/highlands-ranch/the-legacy-at-highlands-ranch",
+        "snippet": "Located in Highlands Ranch, with easy access to c-470, Town Center, South Broadway, Lucent Blvd and the Mineral Light Rail Station, The Legacy at Highlands Ranch Apartments is just minutes away from everything! ... 355 West Burgundy Street, Highlands Ranch, CO 80129. 1 bed \u2013 2 bed. Pets allowed. Parking. Go back. The Legacy at Highlands Ranch ...",
+        "dateLastCrawled": "2024-08-14T19:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Sunny"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "1 & 2 Bedroom Apartment Homes for Rent in Highlands Ranch, CO",
+        "url": "https://legacyathighlandsranch.com/floorplans/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.vaS382kLtHpSiqYEIY5UtQHaD4&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://legacyathighlandsranch.com/floorplans",
+        "snippet": "Explore elegant 1 & 2 bedroom floor plans at Legacy in Highlands Ranch, CO. Find comfort and style in our luxury apartments situated in a prime location. ... Utilities not included in base rent: trash ($10 per unit), electric (varies based on usage), and water/sewer (varies based on usage). Floorplans are artist's rendering. ... 355 W. Burgundy ...",
+        "dateLastCrawled": "2025-06-03T12:30:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.vaS382kLtHpSiqYEIY5UtQHaD4&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 248,
+          "imageId": "OIP.vaS382kLtHpSiqYEIY5UtQHaD4"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Ready to Move? Contact Legacy Highlands Ranch Apartments!",
+        "url": "https://legacyathighlandsranch.com/contact/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://legacyathighlandsranch.com/contact",
+        "snippet": "Legacy at Highlands Ranch. 355 W. Burgundy Street Highlands Ranch, CO 80129 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293; Get Directions. Office Hours . Monday - Friday . 10:00 AM - 6:00 PM . Saturday . 10:00 AM - 5:00 PM ...",
+        "dateLastCrawled": "2025-05-30T13:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Resident information for Legacy at Highlands Ranch in Highlands Ranch, CO",
+        "url": "https://legacyathighlandsranch.com/residents/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://legacyathighlandsranch.com/residents",
+        "snippet": "At Legacy at Highlands Ranch, we're committed to providing you with the top-notch service you deserve. Contact us anytime with questions, concerns, or comments. ... 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293. Site Map. Home; Amenities; Floorplans; Neighborhood; Gallery; Residents; Contact; Book A Tour",
+        "dateLastCrawled": "2025-06-03T06:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Explore Legacy at Highlands Ranch | Apartment Photos",
+        "url": "https://legacyathighlandsranch.com/gallery/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.jMXv02l34t79eG5BBt6uYQHaEE&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://legacyathighlandsranch.com/gallery",
+        "snippet": "Browse the photo gallery of Legacy at Highlands Ranch and see our stylish apartments and modern amenities designed for comfortable living in Colorado. ... 355 W. Burgundy Street Highlands Ranch, CO 80129 (720) 759-3293. Site Map. Home; Amenities; Floorplans; Neighborhood; Gallery; Residents; Contact; Book A Tour",
+        "dateLastCrawled": "2025-05-27T14:23:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.jMXv02l34t79eG5BBt6uYQHaEE&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 260,
+          "imageId": "OIP.jMXv02l34t79eG5BBt6uYQHaEE"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "355 W Burgundy St Unit 1815, Highlands Ranch, CO 80129 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/355-W-Burgundy-St-80129/unit-1815/home/191383449",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/355-W-Burgundy-St-80129/unit-1815/home/191383449",
+        "snippet": "For Rent: 1 beds, 1 baths \u00b7 796 sq. ft. \u00b7 $2273/mo \u00b7 See photos, floor plans and more details about 355 W Burgundy St Unit 1815, Highlands Ranch, CO 80129.",
+        "dateLastCrawled": "2024-06-26T14:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "The Legacy at Highlands Ranch - HotPads",
+        "url": "https://hotpads.com/the-legacy-at-highlands-ranch-highlands-ranch-co-80129-tmdu9b/pad",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hotpads.com/the-legacy-at-highlands-ranch-highlands-ranch-co-80129-tmdu9b/pad",
+        "snippet": "See apartments for rent at The Legacy at Highlands Ranch located at 355 W Burgundy St. Pet friendly, parking garage, gym, & more. Skip main navigation. ... 355 W Burgundy St, Highlands Ranch, CO 80129. Visit www.legacyathighlandsranch.com. $1,599 - $2,700 Monthly Rent. 1 ... Apt building in Denver, CO. Favorite button. Previous image Next image ...",
+        "dateLastCrawled": "2025-05-30T04:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "HotPads"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Address: 395 W (West) BURGUNDY ST, HIGHLANDS RANCH, CO 80129-6610, USA",
+        "url": "https://co.postcodebase.com/zipcode/80129-6610",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://co.postcodebase.com/zipcode/80129-6610",
+        "snippet": "What's 80129-6610? 80129-6610 is a ZIP Code 5 Plus 4 number of 395 W (West) BURGUNDY ST, HIGHLANDS RANCH, CO, USA. Below is detail information.",
+        "dateLastCrawled": "2024-09-05T13:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "ROMANO VALET DRY CLEANERS Highlands Ranch CO, 80129 - Cortera",
+        "url": "https://start.cortera.com/company/research/l8m0nys6n/romano-valet-dry-cleaners/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://start.cortera.com/company/research/l8m0nys6n/romano-valet-dry-cleaners",
+        "snippet": "Free Business profile for ROMANO VALET DRY CLEANERS at 395 W Burgundy St, Highlands Ranch, CO, 80129-6612, US. ROMANO VALET DRY CLEANERS specializes in: Legal Services. ... 395 W Burgundy St, Unit 1827. Highlands Ranch, CO 80129-6612 VIEW MAP. Company Details. Location Type: Single Location Industry: Legal Services Ownership: Private ...",
+        "dateLastCrawled": "2025-05-22T07:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Cortera"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "Who Lives at 395 W Burgundy St, Unit 1825, Highlands Ranch, CO 80129 ...",
+        "url": "https://www.spokeo.com/CO/Highlands-Ranch/395-W-Burgundy-St/1825",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Highlands-Ranch/395-W-Burgundy-St/1825",
+        "snippet": "Find people by address using reverse address lookup for 395 W Burgundy St, Unit 1825, Highlands Ranch, CO 80129. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2025-05-02T22:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "395 W Burgundy St Unit 1834 - Whitepages",
+        "url": "https://www.whitepages.com/address/395-W-Burgundy-St-Unit-1834/Highlands-Ranch-CO/AQKk93YdgOj",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.whitepages.com/address/395-W-Burgundy-St-Unit-1834/Highlands-Ranch-CO/AQKk...",
+        "snippet": "Find out who owns 395 W Burgundy St Unit 1834, Highlands Ranch, CO and who lives at this property. Look up sale history, residents' phone numbers & property values with Whitepages Property Records Search. ... 395 W Burgundy St Unit 1834 Highlands Ranch CO. People Search. Phone.",
+        "dateLastCrawled": "2025-05-18T12:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Whitepages"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "665 W Burgundy St UNIT A, Highlands Ranch, CO 80129",
+        "url": "https://www.zillow.com/homedetails/665-W-Burgundy-St-UNIT-A-Highlands-Ranch-CO-80129/67455161_zpid/",
+        "datePublished": "2025-03-17T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 17, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/665-W-Burgundy-St-UNIT-A-Highlands-Ranch-CO-80129/...",
+        "snippet": "665 W Burgundy St UNIT A, Highlands Ranch, CO 80129 is currently not for sale. The 1,294 Square Feet townhouse home is a 2 beds, 2 baths property. This home was built in null and last sold on 2025-03-19 for $2,650. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-06T13:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "The Legacy at Highlands Ranch - 355 W Burgundy St, Highlands Ranch, CO ...",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/355-W-Burgundy-St-80129/home/35155035",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/355-W-Burgundy-St-80129/home/35155035",
+        "snippet": "The Legacy at Highlands Ranch has 16 units. The Legacy at Highlands Ranch is located in Highlands Ranch, the 80129 zipcode, and the Douglas County Re 1 School District. The full address of this building is 355 W Burgundy St Highlands Ranch, CO 80129.",
+        "dateLastCrawled": "2025-06-05T20:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "455 W Burgundy St Unit 1535, Highlands Ranch, CO 80129 - OpenGovCO",
+        "url": "https://opengovco.com/business/20211551809",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20211551809",
+        "snippet": "Jazmine Realty LLC (Entity #20211551809) is a DLLC in Highlands Ranch, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on June 15, 2021 in the jurisdiction of Colorado. The registered office location is at 455 W Burgundy St Unit 1535, Highlands Ranch, CO 80129. The current entity status is delinquent.",
+        "dateLastCrawled": "2025-05-11T17:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "681 W Burgundy St Unit A, Highlands Ranch, CO 80129 | For Sale ... - Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/681-W-Burgundy-St-80129/unit-A/home/35122087",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/681-W-Burgundy-St-80129/unit-A/home/35122087",
+        "snippet": "For Sale: 2 beds, 2 baths \u2219 1294 sq. ft. \u2219 681 W Burgundy St Unit A, Highlands Ranch, CO 80129 \u2219 $529,000 \u2219 MLS# 2257103 \u2219 Beautifully Updated End-Unit Townhome in the Brownstones at Town Center. T... (REColorado as Distributed by MLS Grid) For Sale: 2 beds, 2 baths \u2219 1294 sq. ft. \u2219 681 W Burgundy St Unit A, Highlands Ranch, CO ...",
+        "dateLastCrawled": "2025-06-07T02:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

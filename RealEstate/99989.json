@@ -1,0 +1,487 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "253 W 72nd St, Unit B, New York NY 10023"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=253+W+72nd+St%2c+Unit+B%2c+New+York+NY+10023",
+    "totalEstimatedMatches": 5560000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "West Pierre in Upper West Side at 253 West 72nd Street",
+        "url": "https://streeteasy.com/building/west-pierre",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://streeteasy.com/building/west-pierre",
+        "snippet": "253 West 72nd Street, New York, NY 10023. Rental building; Upper West Side; View Gallery (7) For Sale. For Rent. 1 bed- ... 160 West 71st Street, New York, NY 10023 Hours MON-FRI: 10am-6pm, SAT: 11am-5pm, SUN: Closed. Facts. Development status ... Not all features are available in every unit. Dishwasher. Private outdoor space. Balcony, Patio ...",
+        "deepLinks": [
+          {
+            "name": "253 West 72nd Street #405 in Upper West Side, Manhattan | StreetEasy",
+            "url": "https://streeteasy.com/building/west-pierre/405",
+            "snippet": "About the building West Pierre. 253 West 72nd Street, New York, NY 10023"
+          },
+          {
+            "name": "StreetEasy",
+            "url": "https://streeteasy.com/building/west-pierre/documents",
+            "snippet": "We would like to show you a description here but the site won\u2019t allow us."
+          },
+          {
+            "name": "253 West 72nd Street #1201 in Upper West Side, Manhattan | StreetEasy",
+            "url": "https://streeteasy.com/building/west-pierre/1201",
+            "snippet": "253 West 72nd Street #1201 in Upper West Side, Manhattan | StreetEasy - West Pierre in Upper West Side at 253 West 72nd Street"
+          },
+          {
+            "name": "253 West 72nd Street #1710 in Upper West Side, Manhattan | StreetEasy",
+            "url": "https://streeteasy.com/building/west-pierre/1710",
+            "snippet": "253 West 72nd Street #1710 in Upper West Side, Manhattan | StreetEasy - West Pierre in Upper West Side at 253 West 72nd Street"
+          },
+          {
+            "name": "253 West 72nd Street #1001 in Upper West Side, Manhattan | StreetEasy",
+            "url": "https://streeteasy.com/building/west-pierre/1001",
+            "snippet": "253 West 72nd Street #1001 in Upper West Side, Manhattan | StreetEasy - West Pierre in Upper West Side at 253 West 72nd Street"
+          }
+        ],
+        "dateLastCrawled": "2025-06-03T03:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "StreetEasy"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "253 W 72nd St New York NY - Zillow",
+        "url": "https://www.zillow.com/b/253-w-72nd-st-new-york-ny-Chfkwy/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/b/253-w-72nd-st-new-york-ny-Chfkwy",
+        "snippet": "View 19 pictures of the 180 units for 253 W 72nd St New York NY | Zillow, as well as Zestimates and nearby comps. Find the perfect place to live. ... 253 W 72nd St. New York, NY 10023. Apartment building. Studio-3 beds. In-unit dryer + 1. ... 253 W 72nd St has in-unit laundry for some or all of the units.",
+        "dateLastCrawled": "2025-06-01T12:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "253 West 72nd St | Lincoln Square No Fee Rentals | Brodsky",
+        "url": "https://brodsky.com/rentals/upper-west-side/253-west-72nd-street",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.u6Ut6QvjeSXK1DG9WeF-bQAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://brodsky.com/rentals/upper-west-side/253-west-72nd-street",
+        "snippet": "253 W 72nd St is a rental building in Lincoln Square and near Central Park. The no fee rentals features a concierge, a gym, and laundry facilities. | Brodsky ... APT 1201. 1 Bed 1 Bath. Available 06/07/2025 ... 253 West 72nd Street, New York, NY 10023 (Broadway and West End Avenue) 833-292-1517. First Name* Last Name* Email* Phone Number ...",
+        "dateLastCrawled": "2025-06-04T20:52:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.u6Ut6QvjeSXK1DG9WeF-bQAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 296,
+          "imageId": "OIP.u6Ut6QvjeSXK1DG9WeF-bQAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Brodsky"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "253 W 72nd St, New York, NY 10023 - Apartments.com",
+        "url": "https://www.apartments.com/253-w-72nd-st-new-york-ny/xc65ygn/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.lfc9j9bX7wAKpgyIpnH55wHaEo&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/253-w-72nd-st-new-york-ny/xc65ygn",
+        "snippet": "See all available apartments for rent at 253 W 72nd St in New York, NY. 253 W 72nd St has rental units . Map. Menu. Add a Property ... About 253 W 72nd St New York, NY 10023. ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tour Video Property Site Map Location Map Unit Map ...",
+        "dateLastCrawled": "2025-06-04T20:52:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.lfc9j9bX7wAKpgyIpnH55wHaEo&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 296,
+          "imageId": "OIP.lfc9j9bX7wAKpgyIpnH55wHaEo"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "West Pierre | 253 West 72nd Street, Manhattan | Corcoran",
+        "url": "https://www.corcoran.com/building/upper-west-side/8098",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.corcoran.com/building/upper-west-side/8098",
+        "snippet": "253 West 72nd Street, Upper West Side, Manhattan, NY 10023. Pre-war Rental. 259 units. ... within Central Park West and the Hudson River? All New York City neighborhoods are created equal, but there\u2019s just something about the Upper West Side. ... 590 Madison Avenue New York, NY 10022 | 800.544.4055 | 212.355.3550 | Fax: ...",
+        "dateLastCrawled": "2025-06-02T01:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "253 West 72Nd Street, Manhattan, 10023, NY"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "The Corcoran Group"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "253 W 72nd St, New York, NY 10023 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/253-W-72nd-St_New-York_NY_10023_M40891-39728",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/253-W-72nd-St_New-York_NY_10023_M...",
+        "snippet": "View detailed information about property 253 W 72nd St, New York, NY 10023 including listing details, property photos, school and neighborhood data, and much more. ... 269 W 72nd St Apt 3A, New ...",
+        "dateLastCrawled": "2024-01-01T21:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "253 West 72nd Street in New York, NY 10023 | PropertyClub",
+        "url": "https://propertyclub.nyc/building/253-west-72nd-street",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://propertyclub.nyc/building/253-west-72nd-street",
+        "snippet": "253 West 72nd Street is located in the Upper West Side neighborhood in New York City. The 22-story Rental building at 253 West 72nd Street was completed in 1926 and features 252 apartments. View active listings, photos, amenities & more.",
+        "dateLastCrawled": "2025-05-24T09:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PropertyClub"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "253 W 72nd St, New York, NY 10023 | Redfin",
+        "url": "https://www.redfin.com/NY/New-York/253-W-72nd-St-10023/apartment/45270422",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NY/New-York/253-W-72nd-St-10023/apartment/45270422",
+        "snippet": "201 W 70th St Unit 5D, New York City, NY 10023; ... 253 W 72nd St is located in New York, the 10023 zipcode, and the New York City Geographic District # 3. Join us. Become an Agent. Get referrals. Careers. Find homes faster. About us. Why Redfin? Community Impact. Diversity & Inclusion.",
+        "dateLastCrawled": "2025-05-08T09:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "253 West 72nd Street #1001 in Upper West Side, Manhattan | StreetEasy",
+        "url": "https://streeteasy.com/building/west-pierre/1001",
+        "datePublished": "2023-07-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 24, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://streeteasy.com/building/west-pierre/1001",
+        "snippet": "West Pierre at 253 West 72nd Street, New York, Ny, 10023: Our apartments can be experienced virtually with a 3D walkthrough or with a video call with one of our agen... Skip Navigation. Advertise; Sign up / Sign in; ... Rental unit in Upper West Side. 212 West 91st Street #425. Save. $4,395.",
+        "dateLastCrawled": "2025-04-16T18:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "StreetEasy"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "West Pierre - 253 W 72nd St New York, NY 10023 | Apartments.com",
+        "url": "https://www.apartments.com/west-pierre-new-york-ny/75myz5x/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.8vAaFKgOsvGaWKlu8H0zEwHaLG&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/west-pierre-new-york-ny/75myz5x",
+        "snippet": "See all available apartments for rent at West Pierre in New York, NY. West Pierre has rental units starting at $2395. Map. Menu. ... 253 W 72nd St. New York, NY 10023. ... Floor Plan Details Unit Details Pricing Details Photos Floor Plans Matterport 3D Tour Video Property Site Map Location Map Unit Map ...",
+        "dateLastCrawled": "2025-05-16T19:58:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.8vAaFKgOsvGaWKlu8H0zEwHaLG&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 710,
+          "imageId": "OIP.8vAaFKgOsvGaWKlu8H0zEwHaLG"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "West Pierre, 253 West 72nd Street, NYC - Rental Apartments",
+        "url": "https://www.cityrealty.com/nyc/broadway-corridor/west-pierre-253-west-72nd-street/1038",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.I90TGfE-OnkBC4Q3jT9kLQAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.cityrealty.com/nyc/broadway-corridor/west-pierre-253-west-72nd-street/1038",
+        "snippet": "Overview of West Pierre at 253 West 72nd Street. 253 West 72nd Street was built in 1928 and has a total of 259 rental apartments. Located in the Upper West Side, West Pierre is very close to the 1, 2 and 3 subway lines. Amenities at this pet friendly pre war building include doorman, concierge, resident storage and live-in superintendent.",
+        "dateLastCrawled": "2025-04-20T06:22:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.I90TGfE-OnkBC4Q3jT9kLQAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 200,
+          "sourceHeight": 267,
+          "imageId": "OIP.I90TGfE-OnkBC4Q3jT9kLQAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "CityRealty"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "253 W 72nd St APT 1011, New York, NY 10023 | Zillow",
+        "url": "https://www.zillow.com/homedetails/253-W-72nd-St-APT-1011-New-York-NY-10023/2112457535_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/253-W-72nd-St-APT-1011-New-York-NY-10023/2112457535...",
+        "snippet": "253 W 72nd St Apt 1011, New York NY, is a Multiple Occupancy home that was built in 1926.It contains 2 bedrooms and 2 bathrooms. The Zestimate for this Multiple Occupancy is $1,305,400, which has decreased by $77,194 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $6,938/mo, which has increased by $6,938/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-05T14:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "253 W 72nd St, New York, NY 10023 | Apartments.com",
+        "url": "https://www.apartments.com/w-72nd-st-new-york-ny/80yzqn3/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/w-72nd-st-new-york-ny/80yzqn3",
+        "snippet": "W 72nd St media gallery Unit. Photos Floor Plans Matterport 3D Tours Videos View From Unit Floor Plan View Body New York New York County New York Upper West Side W 72nd St. $3,375 ... 253 W 72nd St. New York, NY 10023. Email Copy Link. Link Copied.",
+        "dateLastCrawled": "2025-06-01T23:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "253 West 72nd Street #1710 in Upper West Side, Manhattan | StreetEasy",
+        "url": "https://streeteasy.com/building/west-pierre/1710",
+        "datePublished": "2025-02-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 15, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://streeteasy.com/building/west-pierre/1710",
+        "snippet": "West Pierre at 253 West 72nd Street, New York, Ny, 10023: Our apartments can be experienced virtually with a 3D walkthrough or with a video call with one of our agen... Skip Navigation. Advertise; ... Rental unit in Upper West Side. 41 West 86th Street #16A. Save. $3,111. $90. NO FEE. Studio;",
+        "dateLastCrawled": "2025-06-02T18:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "StreetEasy"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "253 W 72nd St #1200, New York, NY 10023 - Zillow",
+        "url": "https://www.zillow.com/homedetails/253-W-72nd-St-1200-New-York-NY-10023/2077994335_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/253-W-72nd-St-1200-New-York-NY-10023/2077994335_zpid",
+        "snippet": "253 W 72nd St #1200, New York, NY 10023 is currently not for sale. The -- sqft apartment home is a 3 beds, 2 baths property. This home was built in null and last sold on 2023-07-14 for $--. ... 253 W 72nd St APT 301, New York, NY 10023. Off Market. Skip to the beginning of the carousel. Skip carousel. Neighborhood stats provided by third party ...",
+        "dateLastCrawled": "2024-11-14T12:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "253 W 72nd St - 253 W 71st St, New York, NY 10023 | Redfin",
+        "url": "https://www.redfin.com/NY/New-York/253-W-71st-St-10023/apartment/179384456",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NY/New-York/253-W-71st-St-10023/apartment/179384456",
+        "snippet": "See photos, floor plans and more details about 253 W 72nd St at 253 W 71st St, New York, NY 10023.",
+        "dateLastCrawled": "2025-05-01T14:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "253 West 72nd Street #1201 in Upper West Side, Manhattan | StreetEasy",
+        "url": "https://streeteasy.com/building/west-pierre/1201",
+        "datePublished": "2023-12-11T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 11, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://streeteasy.com/building/west-pierre/1201",
+        "snippet": "West Pierre at 253 West 72nd Street, New York, Ny, 10023: Our apartments can be experienced virtually with a 3D walkthrough or with a video call with one of our agen... Skip Navigation. Advertise; ... Rental unit in Upper West Side. 50 West 77th Street #02H. Save. $4,862. $160. NO FEE. 1 bed;",
+        "dateLastCrawled": "2025-06-04T21:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "StreetEasy"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "253 W 72nd St APT 711, New York, NY 10023 | Zillow",
+        "url": "https://www.zillow.com/homedetails/253-W-72nd-St-APT-711-New-York-NY-10023/2115340717_zpid/",
+        "datePublished": "2024-07-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Jul 27, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/253-W-72nd-St-APT-711-New-York-NY-10023/2115340717_zpid",
+        "snippet": "253 W 72nd St APT 711, New York, NY 10023 is currently not for sale. The -- sqft apartment home is a 1 bed, 1 bath property. This home was built in null and last sold on 2024-11-08 for $4,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-25T16:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "250 W 73rd St, New York, NY 10023 | MLS #S1763110 | Zillow",
+        "url": "https://www.zillow.com/homedetails/250-W-73rd-St-New-York-NY-10023/31522076_zpid/",
+        "datePublished": "2025-06-03T00:00:00.0000000",
+        "datePublishedFreshnessText": "4 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/250-W-73rd-St-New-York-NY-10023/31522076_zpid",
+        "snippet": "Zillow has 39 photos of this $16,500,000 8 beds, 10 baths, 7,811 Square Feet single family home located at 250 W 73rd St, New York, NY 10023 built in 1900. MLS #S1763110.",
+        "dateLastCrawled": "2025-06-03T15:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "1025 Oxford Ln, Unit 115J, Fort Collins CO 80525"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=1025+Oxford+Ln%2c+Unit+115J%2c+Fort+Collins+CO+80525",
+    "totalEstimatedMatches": 515000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Village Gardens Apartments - 1025 Oxford Ln Fort Collins, CO 80525 ...",
+        "url": "https://www.apartments.com/village-gardens-apartments-fort-collins-co/7ejgblx/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.YfLttbkSgZO3HQpe3juR2wHaE8&w=80&h=80&c=1&pid=5.1",
+        "about": [
+          {
+            "_type": "CreativeWork",
+            "aggregateRating": {
+              "ratingValue": 3.8,
+              "bestRating": 5,
+              "reviewCount": 3
+            }
+          }
+        ],
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/village-gardens-apartments-fort-collins-co/7ejgblx",
+        "snippet": "See all available apartments for rent at Village Gardens Apartments in Fort Collins, CO. Village Gardens Apartments has rental units ranging from 600-865 sq ft starting at $1469. ... Apply Now Unit 115J. 1 - Iris $1,469 \u2013 $2,266 1 Bed 1 Bath 600 Sq Ft. View 1 - Iris Floor ... 1025 Oxford Ln. Fort Collins, CO 80525. Email Copy Link. Link Copied",
+        "dateLastCrawled": "2025-06-04T02:20:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.YfLttbkSgZO3HQpe3juR2wHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.YfLttbkSgZO3HQpe3juR2wHaE8"
+        },
+        "language": "en",
+        "isNavigational": true,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1025 Oxford Ln, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(970) 632-6430"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,378 - $3,229"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Fort Collins, CO Apartments | Village Gardens Apartments",
+        "url": "https://www.liveatvillagegardens.com/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.27yt1ieokTeVvv7hGG6YgQHaFn&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.liveatvillagegardens.com",
+        "snippet": "Our Fort Collins, CO apartments offer a prime address and top amenities. Call us for a well-rounded life! ... 1025 Oxford Lane Fort Collins, CO 80525. Opens in a new tab. OFFICE HOURS. Closed Detail Office Hours Monday: 9:00 AM to - 6:00 PM Tuesday: 9:00 AM to - 6:00 PM Wednesday: 9: ...",
+        "dateLastCrawled": "2025-06-03T09:11:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.27yt1ieokTeVvv7hGG6YgQHaFn&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 359,
+          "imageId": "OIP.27yt1ieokTeVvv7hGG6YgQHaFn"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Village Gardens Apartments"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Village Gardens Apartments - 1025 Oxford Ln Fort Collins CO ... - Zillow",
+        "url": "https://www.zillow.com/apartments/fort-collins-co/village-gardens-apartments/5Xhvtb/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.MR-osC3nexYTq-BQ4J8_7QAAAA&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/apartments/fort-collins-co/village-gardens-apartments/5Xhvtb",
+        "snippet": "Village Gardens Apartments apartment community at 1025 Oxford Ln Fort Collins CO, offers units from 600 - 865 sqft, a Pet-friendly, Shared laundry, and Deck. ... 1025 Oxford Ln, Fort Collins, CO 80525. ... Available Aug 8 2025 Unit: Unit 115J. 2 bd, 1 ba. $1,557-1,629. 765 sqft. 4 units available Jun 7-Aug 13.",
+        "dateLastCrawled": "2025-06-04T03:30:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.MR-osC3nexYTq-BQ4J8_7QAAAA&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 384,
+          "sourceHeight": 288,
+          "imageId": "OIP.MR-osC3nexYTq-BQ4J8_7QAAAA"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1025 Oxford Ln, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(720) 961-2605"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          },
+          {
+            "label": {
+              "text": "Price Range"
+            },
+            "items": [
+              {
+                "text": "$1,378 - $1,667"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "1025 Oxford Ln #115J, Fort Collins, CO 80525 | Trulia",
+        "url": "https://www.trulia.com/home/1025-oxford-ln-115j-fort-collins-co-80525-452278776",
+        "datePublished": "2025-05-23T00:00:00.0000000",
+        "datePublishedDisplayText": "May 23, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/1025-oxford-ln-115j-fort-collins-co-80525-452278776",
+        "snippet": "1025 Oxford Ln #115J, Fort Collins, CO 80525 is a 1 bed, 1 bath, 700 sqft Apartment listed for rent on Trulia for $1,496. See 14 photos, review amenities, and request a tour of the property today.",
+        "dateLastCrawled": "2025-06-04T23:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Village Gardens Apartments in Fort Collins | HotPads",
+        "url": "https://hotpads.com/village-gardens-apartments-fort-collins-co-80525-skdy4q/pad",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://hotpads.com/village-gardens-apartments-fort-collins-co-80525-skdy4q/pad",
+        "snippet": "See apartments for rent at Village Gardens Apartments located at 1025 Oxford Ln. Pet friendly, laundry, parking no parking, & more. Skip main navigation. ... 1025 Oxford Ln, Fort Collins, CO 80525. $1,499 - $3,006 Monthly Rent. 1 - 3 Beds. 1 Baths. ... Unit amenities. Balcony; Pet policy. Cats allowed. 2 pets max;",
+        "dateLastCrawled": "2025-05-27T14:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "1025 Oxford Ln, Fort Collins, 80525"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Phone"
+            },
+            "items": [
+              {
+                "text": "(720) 730-3783"
+              }
+            ],
+            "hint": {
+              "text": "BASE:PHONENUMBER"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "HotPads"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Village Gardens Apartments, 1025 Oxford Lane, Fort Collins, CO - RentCafe",
+        "url": "https://www.rentcafe.com/apartments/co/fort-collins/village-gardens-apartment/default.aspx",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.JYDEp82QN618xL_LYWbm4wHaE8&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rentcafe.com/apartments/co/fort-collins/village-gardens-apartment/default.aspx",
+        "snippet": "1025 Oxford Lane, Fort Collins, CO 80525. Floorplans Updated Today. All; 1 Bed; 2 Beds; 3+ Beds; 2A - Dahlia. 2 Beds; 1 Bath; 765 Sq.Ft. Available now. ... At Village Gardens Apartments, every unit offers a refreshing escape from the outdoor elements with efficient air conditioning, ensuring a comfortable indoor climate year-round. ...",
+        "dateLastCrawled": "2025-06-02T18:03:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.JYDEp82QN618xL_LYWbm4wHaE8&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 316,
+          "imageId": "OIP.JYDEp82QN618xL_LYWbm4wHaE8"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RentCafe"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Village Gardens Apartments - 1025 Oxford Ln - Fort Collins, CO | Rent.",
+        "url": "https://www.rent.com/apartment/village-gardens-apartments-fort-collins-co-lc5932715",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.rent.com/apartment/village-gardens-apartments-fort-collins-co-lc5932715",
+        "snippet": "1025 Oxford Ln, Fort Collins, CO 80525. Close. Village Gardens Apartments (970) 837-0547 Email. 1\u20133 Beds; 1 Bath; 600-865 Sqft; ... 115J. $1,526. 1 Bd, 1 Ba. 700 Sqft. Aug 8. 125K. $1,514. 1 Bd, 1 Ba. 700 Sqft. Jun 21. 2 Bedrooms. 2A - Dahlia. ... Does this property have in-unit laundry? In-unit laundry is not available. Please contact for ...",
+        "dateLastCrawled": "2025-05-27T10:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rent.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Village Gardens Apartments - 1025 Oxford Ln Fort Collins CO 80525 ...",
+        "url": "https://www.apartmentfinder.com/Colorado/Fort-Collins-Apartments/Village-Gardens-Apartments",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentfinder.com/Colorado/Fort-Collins-Apartments/Village-Gardens...",
+        "snippet": "1025 Oxford Ln, Fort Collins, CO 80525 Map Fort Collins. ... 115J 115J $1,526 700. Aug 8 . 1 - Iris $1,499 \u2013 $2,310 1 bed, ... Apartments with Washer/Dryer in Unit in Fort Collins; Apartments with Pool in Fort Collins;",
+        "dateLastCrawled": "2025-06-02T11:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartment Finder"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "1025 Oxford Ln, Fort Collins, CO 80525 - For Rent - Homes.com",
+        "url": "https://www.homes.com/property/village-gardens-apartments-fort-collins-co/rpnmqm5dczje5/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/village-gardens-apartments-fort-collins-co/rpnmqm5dczje5",
+        "snippet": "Apartments for Rent in Fort Collins, CO This apartment is located at 1025 Oxford Ln, Fort Collins, CO 80525 and is currently priced between $1,464-$3,447. This property was built in 1974. 1025 Oxford Ln is a home located in Larimer County with nearby schools including O'Dea Elementary School, Boltz Middle School, and Fort Collins High School.",
+        "dateLastCrawled": "2025-05-15T00:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Village Gardens Apartments - Fort Collins, CO | Trulia",
+        "url": "https://www.trulia.com/building/village-gardens-apartments-1025-oxford-ln-fort-collins-co-80525-1001418419",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/building/village-gardens-apartments-1025-oxford-ln-fort-collins...",
+        "snippet": "Village Gardens Apartments is located at 1025 Oxford Ln, Fort Collins, CO 80525 in the Southmoore Village neighborhood. See 6 floorplans, review amenities, and request a tour of the building today. Fort Collins. Buy. ... Unit 115J. 700 sqft. 1bd: 1ba: 700 sqft: Contact. Contact. $1,526: Available Aug 8. 2 Bedrooms (3 Floorplans, 6 Units) 2 ...",
+        "dateLastCrawled": "2025-05-31T00:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "1025 Oxford Ln #28C, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1025-Oxford-Ln-28C-Fort-Collins-CO-80525/343498029_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1025-Oxford-Ln-28C-Fort-Collins-CO-80525/343498029_zpid",
+        "snippet": "1025 Oxford Ln #28C, Fort Collins, CO 80525 is an apartment unit listed for rent at $1,577 /mo. The 865 Square Feet unit is a 3 beds, 1 bath apartment unit. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-01T08:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Village Gardens Apartments - Fort Collins, CO 80525 | ApartmentGuide.com",
+        "url": "https://www.apartmentguide.com/apartments/Colorado/Fort-Collins/Village-Gardens/100010502/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartmentguide.com/apartments/Colorado/Fort-Collins/Village-Gardens/100010502",
+        "snippet": "115J. $1,526. 1 Bd, 1 Ba. 700 Sqft. Aug 8. 125K. $1,514. 1 Bd, 1 Ba. 700 Sqft. Jul 21. 2 Bedrooms. ... Habitat at Fort Collins; 1727 Pecan St unit 1727 Pecan St; 207 E Stuart St unit #4; 4501 Boardwalk Dr unit E-42 ... Find your new home at Village Gardens Apartments located at 1025 Oxford Ln, Fort Collins, CO 80525. Floor plans starting at ...",
+        "dateLastCrawled": "2025-05-29T22:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "ApartmentGuide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Village Gardens Apartments - 1025 Oxford Ln, Fort Collins, CO 80525 ...",
+        "url": "https://www.redfin.com/CO/Fort-Collins/Village-Gardens-Apartments/apartment/34741470",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Fort-Collins/Village-Gardens-Apartments/apartment/34741470",
+        "snippet": "Village Gardens Apartments has 12 units. Village Gardens Apartments is located in Fort Collins, the 80525 zipcode, and the Poudre R-1 School District. The full address of this building is 1025 Oxford Ln Fort Collins, CO 80525.",
+        "dateLastCrawled": "2025-06-03T17:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "1025 Oxford Ln #117J, Fort Collins, CO 80525 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1025-Oxford-Ln-117J-Fort-Collins-CO-80525/2074096213_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1025-Oxford-Ln-117J-Fort-Collins-CO-80525/...",
+        "snippet": "1025 Oxford Ln #117J, Fort Collins CO, is a Apartment home that contains 700 sq ft.It contains 1 bedroom and 1 bathroom. The Rent Zestimate for this Apartment is $1,380/mo, which has increased by $1,380/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-05T15:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1025 Oxford Ln #74G, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1025-Oxford-Ln-74G-Fort-Collins-CO-80525/2077397897_zpid/",
+        "datePublished": "2024-10-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 5, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1025-Oxford-Ln-74G-Fort-Collins-CO-80525/2077397897...",
+        "snippet": "1025 Oxford Ln #74G, Fort Collins, CO 80525 is currently not for sale. The 765 Square Feet apartment home is a 2 beds, 1 bath property. This home was built in null and last sold on 2024-10-05 for $1,466. View more property details, sales history, and Zestimate data on Zillow. ... 1025 Oxford Ln APT 133L, Fort Collins, CO 80525. Off Market",
+        "dateLastCrawled": "2025-02-04T08:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "1025 Oxford Ln #110J, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1025-Oxford-Ln-110J-Fort-Collins-CO-80525/2079940821_zpid/",
+        "datePublished": "2024-11-21T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 21, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1025-Oxford-Ln-110J-Fort-Collins-CO-80525/...",
+        "snippet": "1025 Oxford Ln #110J, Fort Collins, CO 80525 is currently not for sale. The 700 Square Feet apartment home is a 1 bed, 1 bath property. This home was built in null and last sold on 2024-11-21 for $1,322. ... 1025 Oxford Ln APT 133L, Fort Collins, CO 80525. Off Market. Skip to the beginning of the carousel. Skip carousel. Nearby schools ...",
+        "dateLastCrawled": "2025-04-18T18:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1025 Oxford Ln #100I, Fort Collins, CO 80525 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1025-Oxford-Ln-100I-Fort-Collins-CO-80525/2072085806_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1025-Oxford-Ln-100I-Fort-Collins-CO-80525/...",
+        "snippet": "1025 Oxford Ln #100I, Fort Collins, CO 80525 is currently not for sale. The 845 Square Feet apartment home is a 2 beds, 1 bath property. This home was built in null and last sold on 2021-10-18 for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-27T16:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "1025 Oxford Ln #49E, Fort Collins, CO 80525 | Zillow",
+        "url": "https://www.zillow.com/homedetails/1025-Oxford-Ln-49E-Fort-Collins-CO-80525/2073333683_zpid/",
+        "datePublished": "2025-01-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 27, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1025-Oxford-Ln-49E-Fort-Collins-CO-80525/2073333683...",
+        "snippet": "1025 Oxford Ln #49E, Fort Collins, CO 80525 is currently not for sale. The 865 Square Feet apartment home is a 3 beds, 1 bath property. This home was built in null and last sold on 2025-01-31 for $1,628. ... 1025 Oxford Ln APT 133L, Fort Collins, CO 80525. Off Market. Skip to the beginning of the carousel. Skip carousel. Nearby schools ...",
+        "dateLastCrawled": "2025-04-21T17:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

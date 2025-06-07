@@ -1,0 +1,444 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "4717 Woodland Ave, Unit 3, West Des Moines IA 50266"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=4717+Woodland+Ave%2c+Unit+3%2c+West+Des+Moines+IA+50266",
+    "totalEstimatedMatches": 2080000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "4717 Woodland Ave UNIT 3, West Des Moines, IA 50266 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-3-West-Des-Moines-IA-50266/84089975_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-3-West-Des-Moines-IA-50266/...",
+        "snippet": "4717 Woodland Ave Unit 3, West Des Moines IA, is a Condo home that contains 1152 sq ft and was built in 1978.It contains 2 bedrooms and 2 bathrooms.This home last sold for $169,000 in June 2023. The Zestimate for this Condo is $164,400, which has decreased by $3,874 in the last 30 days.The Rent Zestimate for this Condo is $1,251/mo, which has increased by $1,251/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "4717 Woodland Ave West Des Moines IA - Zillow",
+            "url": "https://www.zillow.com/b/4717-woodland-ave-west-des-moines-ia-9H8YTR/",
+            "snippet": "View 15 pictures of the 4 units for 4717 Woodland Ave West Des Moines IA | Zillow, as well as Zestimates and nearby comps. Find the perfect place to live. ... Source: Unit 3. 4717 Woodland Ave. West Des Moines, IA 50266. Apartment building. 2 beds."
+          },
+          {
+            "name": "4717 Woodland Ave UNIT 1, West Des Moines, IA 50266 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-1-West-Des-Moines-IA-50266/84094314_zpid/",
+            "snippet": "4717 Woodland Ave Unit 1, West Des Moines IA, is a Single Family home that contains 1152 sq ft and was built in 1978.It contains 2 bedrooms and 2 bathrooms.This home last sold for $91,597 in December 2017. The Zestimate for this Single Family is $143,600, which has increased by $1,347 in the last 30 days.The Rent Zestimate for this Single Family is $1,253/mo, which has increased by $1,253/mo ..."
+          },
+          {
+            "name": "4717 Woodland Ave UNIT 4, West Des Moines, IA 50266 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-4-West-Des-Moines-IA-50266/84088564_zpid/",
+            "snippet": "4717 Woodland Ave Unit 4, West Des Moines IA, is a Condo home that contains 1152 sq ft and was built in 1978.It contains 2 bedrooms and 2 bathrooms.This home last sold for $77,500 in July 2010. The Zestimate for this Condo is $142,000, which has decreased by $1,139 in the last 30 days.The Rent Zestimate for this Condo is $1,251/mo, which has increased by $1,251/mo in the last 30 days."
+          },
+          {
+            "name": "4717 Woodland Ave UNIT 2, West Des Moines, IA 50266 | Zillow",
+            "url": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-2-West-Des-Moines-IA-50266/84087555_zpid/",
+            "snippet": "4717 Woodland Ave Unit 2, West Des Moines IA, is a Condo home that contains 1152 sq ft and was built in 1978.It contains 2 bedrooms and 2 bathrooms.This home last sold for $82,500 in September 2014. The Zestimate for this Condo is $142,100, which has decreased by $133 in the last 30 days.The Rent Zestimate for this Condo is $1,247/mo, which has increased by $1,247/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2025-04-04T23:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "4717 Woodland Ave #3, West Des Moines, IA 50266 | Redfin",
+        "url": "https://www.redfin.com/IA/West-Des-Moines/4717-Woodland-Ave-50266/unit-3/home/123724994",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/IA/West-Des-Moines/4717-Woodland-Ave-50266/unit-3/home/123724994",
+        "snippet": "2 beds, 2 baths, 1152 sq. ft. condo located at 4717 Woodland Ave #3, West Des Moines, IA 50266 sold for $169,000 on Jun 30, 2023. MLS# 671395. Great convenient location!!! Looking for that updated ...",
+        "dateLastCrawled": "2025-03-03T15:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "4717 Woodland Avenue #3 West Des Moines, IA 50266",
+        "url": "https://www.iowarealty.com/realestate/details/27239426/4717-woodland-avenue-3-west-des-moines-ia-50266",
+        "datePublished": "2024-09-13T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 13, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.iowarealty.com/.../27239426/4717-woodland-avenue-3-west-des-moines-ia-50266",
+        "snippet": "4717 Woodland Avenue #3, West Des Moines, IA 50266 is a 2 beds, 2 baths, 1152 SqFt Condominium home. View property details, photos, school and neighborhood data, and more. ... 4717 Woodland Avenue #3 West Des Moines, IA 50266 Condo/Townhouse \u00b7 2 Beds \u00b7 1 Full Bath \u00b7 1 Three Quarter Bath \u00b7 1,152 Sq. ft.",
+        "dateLastCrawled": "2024-09-13T01:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Iowa Realty"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "4717 Woodland Ave #3, West Des Moines, IA 50266 | 19 Photos | MLS ...",
+        "url": "https://www.movoto.com/west-des-moines-ia/4717-woodland-ave-3-west-des-moines-ia-50266/pid_5e2hw88qdh/for-sale/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/west-des-moines-ia/4717-woodland-ave-3-west-des-moines-ia-50266/...",
+        "snippet": "For Sale: Condominium home, $110,000, 2 Bd, 2 Ba, 1,152 Sqft, $95/Sqft, at 4717 Woodland Ave #3, West Des Moines, IA 50266",
+        "dateLastCrawled": "2022-08-14T17:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "4717 Woodland Ave Unit 3, West Des Moines, IA 50266",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4717-Woodland-Ave-Unit-3_West-Des-Moines_IA_50266_M78590-97128",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4717-Woodland-Ave-Unit-3_West-Des-Moines_IA_50266_M78590-97128",
+        "snippet": "See photos and price history of this 2 bed, 1 bath, 1,152 Sq. Ft. recently sold home located at 4717 Woodland Ave Unit 3, West Des Moines, IA 50266 that was sold on 06/30/2023 for $169000.",
+        "dateLastCrawled": "2024-01-01T21:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "4717 Woodland Avenue Unit 3, West Des Moines, IA 50266 - Realty.com",
+        "url": "https://www.realty.com/home-listings/346644647/4717-Woodland-Avenue-Unit-3-West-Des-Moines-IA-50266",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realty.com/.../346644647/4717-Woodland-Avenue-Unit-3-West-Des-Moines-IA-50266",
+        "snippet": "4717 Woodland Avenue Unit 3, West Des Moines, IA 50266 is a 1,152 sq. ft. condo listed for sale with 2 bedrooms and 2 bathrooms. Realty.com has 15 photos of this condominium, listed at $167,000. View sales and tax history of condos, use our mortgage calculator and more on Realty.com",
+        "dateLastCrawled": "2025-03-20T20:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realty.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "4717 Woodland Ave Unit 3, West Des Moines, IA 50266 | Homes.com",
+        "url": "https://www.homes.com/property/4717-woodland-ave-west-des-moines-ia-unit-3/hd4943f04rt28/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/4717-woodland-ave-west-des-moines-ia-unit-3/hd4943f04rt28",
+        "snippet": "4717 Woodland Ave Unit 3, West Des Moines, IA 50266 - 1,152 sqft home built in 1978 . Browse photos, take a 3D tour & see transaction details about this recently sold property. MLS# 671395.",
+        "dateLastCrawled": "2025-04-06T01:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "4717 Woodland Ave #3 West Des Moines, IA 50266 - Trulia",
+        "url": "https://www.trulia.com/home/4717-woodland-ave-3-west-des-moines-ia-50266-84089975",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/4717-woodland-ave-3-west-des-moines-ia-50266-84089975",
+        "snippet": "4717 Woodland Ave #3, West Des Moines, IA 50266 is a 1,152 sqft, 2 bed, 2 bath home sold in 2023. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-10-31T20:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "4717 Woodland Avenue #3, West Des Moines, IA 50266 - MLS# 671395 ...",
+        "url": "https://www.coldwellbanker.com/ia/west-des-moines/4717-woodland-ave-unit-3/lid-P00800000GF4k5a0BKqbKgfMxGCLTYJOfybkyQty",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/ia/west-des-moines/4717-woodland-ave-unit-3/lid-P...",
+        "snippet": "Find Property Information for 4717 Woodland Avenue #3, West Des Moines, IA 50266. MLS# 671395. View Photos, Pricing, Listing Status & More. Skip to main content. Buy ... Iowa Real Estate / West Des Moines Real Estate. 4717 Woodland Avenue #3, West Des Moines, IA 50266. $169,000. 2. Beds. 2. Baths. 1,152. Sq Ft. Condo. Sold. Listed by. Scott ...",
+        "dateLastCrawled": "2024-05-16T11:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "4717 Woodland Avenue, Unit 3, West Des Moines, IA Property Records",
+        "url": "https://www.countyoffice.org/property-record-4717-woodland-ave-unit-3-west-des-moines-ia-50266-ea3/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-4717-woodland-ave-unit-3-west-des-moines...",
+        "snippet": "View 4717 Woodland Avenue, Unit 3, West Des Moines, IA property records for FREE including property ownership, deeds, mortgages, titles & sales history ... 4717 Woodland Ave West Des Moines, IA 50266 Details Type: Affidavit Of Death Document ID: 5890 Book: 17412 Page: 986 Recording Date: 19 Jul 2019",
+        "dateLastCrawled": "2024-04-25T01:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "4717 Woodland Ave West Des Moines IA - Zillow",
+        "url": "https://www.zillow.com/b/4717-woodland-ave-west-des-moines-ia-9H8YTR/",
+        "datePublished": "2023-06-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 29, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/b/4717-woodland-ave-west-des-moines-ia-9H8YTR",
+        "snippet": "View 15 pictures of the 4 units for 4717 Woodland Ave West Des Moines IA | Zillow, as well as Zestimates and nearby comps. Find the perfect place to live. ... Source: Unit 3. 4717 Woodland Ave. West Des Moines, IA 50266. Apartment building. 2 beds.",
+        "dateLastCrawled": "2025-03-08T09:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "4717 Woodland Avenue, Unit 3, West Des Moines, IA 50266",
+        "url": "https://www.hunzikerrealty.com/p/4717-Woodland-Avenue-West-Des-Moines-IA-50266/dmgsid_50632667",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hunzikerrealty.com/p/4717-Woodland-Avenue-West-Des-Moines-IA-50266/dmgsid...",
+        "snippet": "4717 Woodland Avenue, Unit 3, West Des Moines, IA 50266 See description and maps; Bedrooms: 2; Full Baths: 2; Square Feet: 1152; Price: call for price; MLS ID: 657852",
+        "dateLastCrawled": "2024-07-24T17:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "4717 Woodland Ave. Unit 3, West Des Moines, IA 50266",
+        "url": "https://www.century21.com/property/4717-woodland-ave-unit-3-west-des-moines-ia-50266-CBR52702292",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.century21.com/property/4717-woodland-ave-unit-3-west-des-moines-ia-50266...",
+        "snippet": "Home for Sale: 2 bed house located at 4717 Woodland Ave. Unit 3, West Des Moines, IA 50266 on sale for $167,000. MLS# 671395. Great convenient location!!!",
+        "dateLastCrawled": "2023-04-21T13:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "CENTURY 21"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "4717 Woodland Avenue 3, West Des Moines, IA, 50266 \u2014 PropertyShark",
+        "url": "https://www.propertyshark.com/homes/US/Condo-For-Sale/IA/West-Des-Moines/Crossroads/4717-Woodland-Avenue/138496054.html",
+        "datePublished": "2023-03-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 7, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.propertyshark.com/homes/US/Condo-For-Sale/IA/West-Des-Moines/Crossroads/...",
+        "snippet": "View listing information for 4717 Woodland Avenue, West Des Moines, IA, 50266. Listing details information provided by Andrew DePhillips. $110,000 USD: Great location!!! 2 bedroom, 2 bathroom, 2nd story condo in the heart of WDM.",
+        "dateLastCrawled": "2023-03-07T01:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "4717 Woodland Ave UNIT 1, West Des Moines, IA 50266 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-1-West-Des-Moines-IA-50266/84094314_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-1-West-Des-Moines-IA-50266/...",
+        "snippet": "4717 Woodland Ave Unit 1, West Des Moines IA, is a Single Family home that contains 1152 sq ft and was built in 1978.It contains 2 bedrooms and 2 bathrooms.This home last sold for $91,597 in December 2017. The Zestimate for this Single Family is $143,600, which has increased by $1,347 in the last 30 days.The Rent Zestimate for this Single Family is $1,253/mo, which has increased by $1,253/mo ...",
+        "dateLastCrawled": "2025-04-14T15:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "4717 Woodland Ave Unit 1, West Des Moines, IA 50266",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4717-Woodland-Ave-Unit-1_West-Des-Moines_IA_50266_M77430-97971",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4717-Woodland-Ave-Unit-1_West-Des-Moines_IA_50266_M77430-97971",
+        "snippet": "View 18 photos for 4717 Woodland Ave Unit 1, West Des Moines, IA 50266, a 2 bed, 2 bath, 1,152 Sq. Ft. condo townhome rowhome coop home built in 1978 that was last sold on 12/28/2017.",
+        "dateLastCrawled": "2024-02-02T18:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "4717 Woodland Ave UNIT 4, West Des Moines, IA 50266 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-4-West-Des-Moines-IA-50266/84088564_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-4-West-Des-Moines-IA-50266/...",
+        "snippet": "4717 Woodland Ave Unit 4, West Des Moines IA, is a Condo home that contains 1152 sq ft and was built in 1978.It contains 2 bedrooms and 2 bathrooms.This home last sold for $77,500 in July 2010. The Zestimate for this Condo is $142,000, which has decreased by $1,139 in the last 30 days.The Rent Zestimate for this Condo is $1,251/mo, which has increased by $1,251/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-04T15:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "4717 Woodland Ave Unit 4, West Des Moines, IA 50266",
+        "url": "https://www.realtor.com/realestateandhomes-detail/4717-Woodland-Ave-Unit-4_West-Des-Moines_IA_50266_M82578-49287",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../4717-Woodland-Ave-Unit-4_West-Des-Moines_IA_50266_M82578-49287",
+        "snippet": "View 11 photos for 4717 Woodland Ave Unit 4, West Des Moines, IA 50266, a 2 bed, 2 bath, 1,152 Sq. Ft. condo home built in 1978 that was last sold on 07/20/2010.",
+        "dateLastCrawled": "2024-07-25T20:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "4717 Woodland Ave UNIT 2, West Des Moines, IA 50266 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-2-West-Des-Moines-IA-50266/84087555_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4717-Woodland-Ave-UNIT-2-West-Des-Moines-IA-50266/...",
+        "snippet": "4717 Woodland Ave Unit 2, West Des Moines IA, is a Condo home that contains 1152 sq ft and was built in 1978.It contains 2 bedrooms and 2 bathrooms.This home last sold for $82,500 in September 2014. The Zestimate for this Condo is $142,100, which has decreased by $133 in the last 30 days.The Rent Zestimate for this Condo is $1,247/mo, which has increased by $1,247/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-22T11:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "4517 Woodland Ave UNIT 3, West Des Moines, IA 50266 | Zillow",
+        "url": "https://www.zillow.com/homedetails/4517-Woodland-Ave-UNIT-3-West-Des-Moines-IA-50266/84089644_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/4517-Woodland-Ave-UNIT-3-West-Des-Moines-IA-50266/...",
+        "snippet": "4517 Woodland Ave Unit 3, West Des Moines IA, is a Multiple Occupancy home that contains 1152 sq ft and was built in 1976.It contains 2 bedrooms and 2 bathrooms. The Zestimate for this Multiple Occupancy is $139,200, which has decreased by $1,867 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $1,121/mo, which has increased by $1,121/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-16T17:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

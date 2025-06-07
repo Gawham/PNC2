@@ -1,0 +1,374 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Po Box 352, Fort Garland CO 81133"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Po+Box+352%2c+Fort+Garland+CO+81133",
+    "totalEstimatedMatches": 1320000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Post Office in Fort Garland, CO - Hours and Location - Postal Locations",
+        "url": "https://www.postallocations.com/co/fort-garland/fort-garland",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postallocations.com/co/fort-garland/fort-garland",
+        "snippet": "Fort Garland Post Office. 313 Highway 159, Fort Garland, CO 81133. Contact Numbers Phone: 719-379-3481 TTY: 877-889-2457 ... PO Box rentals and fees, and Available Jobs. *Please call to verify information. Is anything incorrect? Let us know here. Nearby Post Offices: Blanca 406 Smith St ...",
+        "dateLastCrawled": "2025-06-02T14:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "PostalLocations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "FORT GARLAND US Post Office | 313 HIGHWAY 159 FORT GARLAND, CO 81133 - 9990",
+        "url": "https://postofficefinder.org/co/costilla/fort-garland/81133/fort-garland/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficefinder.org/co/costilla/fort-garland/81133/fort-garland",
+        "snippet": "FORT GARLAND. 313 HIGHWAY 159 FORT GARLAND, CO 81133 - 9990. Phone: 719-379-3481. Hours: Mon-Fri: 08:00 AM - 04:30 PM | Sat: 08:00 AM - 11:30 AM | Sun: Closed. PostOfficeFinder.org ... PO Box Online; Which post offices are located close to the FORT GARLAND Post Office?",
+        "dateLastCrawled": "2025-05-30T23:47:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PostOfficeFinder.org"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Fort Garland Post Office, CO 81133 - Hours Phone Service and Location",
+        "url": "https://us-postoffice.com/co/fort-garland/fort-garland-post-office",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://us-postoffice.com/co/fort-garland/fort-garland-post-office",
+        "snippet": "Fort Garland Post Office in Colorado, CO 81133. Operating hours, phone number, services information, and other locations near you. ... Fort Garland; Fort Garland Post Office; Fort Garland Post Office 313 Highway 159, Fort Garland CO 81133. About. Address: 313 Highway 159, Fort Garland CO 81133 Large Map & Directions ; Phone ... PO Box Online ...",
+        "dateLastCrawled": "2025-01-14T07:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Postoffice of US"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "United States Postal Service, 313 Highway 159, Fort Garland, CO 81133 ...",
+        "url": "https://www.mapquest.com/us/colorado/united-states-postal-service-353216164",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/united-states-postal-service-353216164",
+        "snippet": "Get more information for United States Postal Service in Fort Garland, CO. See reviews, map, get the address, and find directions. ... Directions. Advertisement. Advertisement. Photos View gallery. LOGO. 313 Highway 159. Fort Garland, CO 81133 +1 (800) 275-8777. https://tools.usps.com ... Visit your local Post Office\u2122 at 117 E Ryus Ave to ...",
+        "dateLastCrawled": "2025-05-25T12:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Fort Garland Post Office 313 Highway 159 Fort Garland Colorado 81133",
+        "url": "https://www.uspostoffices.net/fort-garland-post-office-colorado-pl17914",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.uspostoffices.net/fort-garland-post-office-colorado-pl17914",
+        "snippet": "Fort Garland post office location at 313 Highway 159 Fort Garland Colorado 81133. View hours of operations, phone number, services provides including money orders, stamps, passports and PO boxes. US Post Offices-Locations- ... PO Box Hours: Mon-Fri: 7:00am - 5:00pm: Sat: 7:00am - 12:00pm: Sun: Closed: Except on Federal Holidays. Nearby Post ...",
+        "dateLastCrawled": "2024-04-21T07:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Fort Garland Post Office Hours and Phone Number - Post Locations",
+        "url": "https://www.postlocations.com/fort-garland-post-office-313f-in-fort-garland-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postlocations.com/fort-garland-post-office-313f-in-fort-garland-co",
+        "snippet": "Fort Garland, Colorado, 81133 Phone 719-379-3481 Hours Monday: ... Money Orders (International) Pickup Accountable Mail Pickup Hold Mail PO Box Online Priority Mail International ... Fort Garland CO. View map of Fort Garland Post Office, and get driving directions from your location. Post Offices Nearby. Post Offices Location; Blanca Post ...",
+        "dateLastCrawled": "2025-06-03T16:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Post Locations"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Fort Garland Post Office, 313 Highway 159, CO",
+        "url": "https://postofficeguide.com/fort-garland-post-office-313-highway-159-co.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficeguide.com/fort-garland-post-office-313-highway-159-co.html",
+        "snippet": "Find the Fort Garland Post Office, 313 Highway 159, CO on the map GPS location: lat 37.315831000000003, lon -105.43312 See other Post offices: Colorado | Fort Garland",
+        "dateLastCrawled": "2024-10-01T03:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "United States Postal Service Guide"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Fort Garland Post Office 313 Highway 159 Fort Garland, CO",
+        "url": "https://postallocationsnearme.com/colorado/fort-garland/fort-garland-post-office-313-highway-159-fort-garland-co/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postallocationsnearme.com/colorado/fort-garland/fort-garland-post-office-313...",
+        "snippet": "Fort Garland Post Office P.O. Box Access Hours; ... Services Hours; Fort Garland Post Office Onsite Services; USPS Online Services; Below is more information about your local Fort Garland Post Office, including Fort Garland post office hours, phone numbers, passport appointment services, and other information provided by the US Postal Service ...",
+        "dateLastCrawled": "2024-11-01T18:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Post Office Near Me"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Post Office in Fort Garland, CO | PostOfficeHours.net",
+        "url": "https://www.postofficehours.net/office/313-Highway-159-Fort-Garland-CO-81133/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficehours.net/office/313-Highway-159-Fort-Garland-CO-81133",
+        "snippet": "View information about the post office in Fort Garland, CO. Map out the location, find hours of operation, and view contact information about this Fort Garland post office. HOME; POST OFFICE SEARCH. ... Fort Garland, CO 81133 (719) 379-3481 (719) 379-3481. Hours of Operation: View Hours.",
+        "dateLastCrawled": "2025-06-03T16:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "US Post Office, 313 Highway 159, Fort Garland, CO 81133, US - MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/us-post-office-401158812",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/us-post-office-401158812",
+        "snippet": "Get more information for US Post Office in Fort Garland, CO. See reviews, map, get the address, and find directions. Advertisement. ... More. Directions. Advertisement. Advertisement. 313 Highway 159. Fort Garland, CO 81133 +1 (719) 379-3481. According to the website: Located in Fort Garland, CO, the USPS is responsible for the delivery of mail ...",
+        "dateLastCrawled": "2025-03-31T12:20:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "USPS Post Office - Fort Garland CO - Mapdoor",
+        "url": "https://mapdoor.com/us/co/fort-garland/usps/post-office",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mapdoor.com/us/co/fort-garland/usps/post-office",
+        "snippet": "The USPS Post Office at 313 Highway 159 in Fort Garland, CO 81133 is a reliable and convenient location for all mailing and shipping needs. The staff is friendly and knowledgeable, always willing to assist customers with any questions or concerns.",
+        "dateLastCrawled": "2024-06-16T09:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Mapdoor"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "Post Office Fort Garland (CO) - Opening Hours of USPS Post Offices",
+        "url": "https://www.hourspostoffice.com/USPS%20Post%20Office%20Fort%20Garland%20%28CO%29/81133/Fort%20Garland/17705",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hourspostoffice.com/USPS Post Office Fort Garland (CO)/81133/Fort Garland...",
+        "snippet": "Opening Hours of Post Office Fort Garland (CO) in Fort Garland, CO on 313 Highway 159. Location, phone number, operating hours, services available and other post offices near you. For example: \"New York\", or \"Chicago\" ... Fort Garland: State: CO: ZIP : 81133-9990: Phone: 719-379-3481:",
+        "dateLastCrawled": "2024-09-23T09:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Opening Hours of USPS Post Offices"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "Fort Garland, CO Post Offices - PostOfficeFinder.org",
+        "url": "https://postofficefinder.org/co/costilla/fort-garland/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://postofficefinder.org/co/costilla/fort-garland",
+        "snippet": "Post Office: Address: Phone: Hours: FORT GARLAND: 313 HIGHWAY 159 FORT GARLAND, CO 81133 - 9990: 719-379-3481: Mon-Fri 08:00 AM - 04:30 PM Sat 08:00 AM - 11:30 AM Sun Closed PostOfficeFinder.org is is not a part of, or affiliated with, the official United States Postal Service (USPS).",
+        "dateLastCrawled": "2023-09-12T22:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "PostOfficeFinder.org"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "Fort Garland in Fort Garland, CO - postofficelocator.org",
+        "url": "https://www.postofficelocator.org/fort-garland-post-office-colorado-pl17914",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficelocator.org/fort-garland-post-office-colorado-pl17914",
+        "snippet": "Where is the Fort Garland located? The post office name is located at 313 Highway 159 Fort Garland, CO 81133. If you live near the office and have questions, you can go there and speak with a representative. You can also call this CO post office at You can call the Fort Garland post office location at 719-379-3481 (TTY: 877-889-2457)..",
+        "dateLastCrawled": "2025-04-13T05:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "United States Postal Service, 313 Highway 159, Fort Garland, CO, Post ...",
+        "url": "https://www.mapquest.com/us/colorado/united-states-postal-service-453117595",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/united-states-postal-service-453117595",
+        "snippet": "Fort Garland, CO 81133 Opens at 8:00 AM. Hours. Mon 8:00 AM ... Visit your local Post Office at 313 Highway 159! The U.S. Postal Service (USPS ) is the only organization in the country to regularly deliver to every residential and business address. USPS is committed to providing secure, reliable, and affordable delivery of mail and packages to ...",
+        "dateLastCrawled": "2024-02-06T09:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "US Post Office, 313 Highway 159, Fort Garland, CO 81133, US - MapQuest",
+        "url": "https://www.mapquest.com/us/colorado/us-post-office-471478958",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.mapquest.com/us/colorado/us-post-office-471478958",
+        "snippet": "Get more information for US Post Office in Fort Garland, CO. See reviews, map, get the address, and find directions. ... Fort Garland, CO 81133 +1 (719) 379-3481. https://www.usps.com. Visit your local Post OfficeTM at 313 Highway 159! The U.S. Postal Service (USPS) is the only organization in the country to regularly deliver to every ...",
+        "dateLastCrawled": "2025-05-23T11:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "MapQuest"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "Post Office In Fort Garland, CO | PostOfficeLocator.org",
+        "url": "https://www.postofficelocator.org/fort-garland-colorado-post-offices-pc2984",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.postofficelocator.org/fort-garland-colorado-post-offices-pc2984",
+        "snippet": "Learn about how the post office in Fort Garland, Colorado, can help you. Post Office Locator-Locations-Passports. Passport Fees; ... The ability to set up a post office (P.O.) box, where individual can receive mail. ... Fort Garland, CO 81133 View Details | View Map. Search Post Office Locations. Street Address. City, State or Zip Code ...",
+        "dateLastCrawled": "2024-06-24T00:22:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Summit Calvary Chapel \u00b7 1289 Claytor LN., Fort Garland, CO 81133",
+        "url": "https://opengovco.com/business/20251208984",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opengovco.com/business/20251208984",
+        "snippet": "Summit Calvary Chapel (Entity #20251208984) is a DNC in Fort Garland, Colorado registered with the Colorado Department of State (CDOS). The entity was formed on February 24, 2025 in the jurisdiction of Colorado. The registered office location is at 1289 Claytor LN., Fort Garland, CO 81133. The current entity status is good standing. The registered agent of the entity is Michael Cardenas .",
+        "dateLastCrawled": "2025-06-02T07:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenGovCO"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

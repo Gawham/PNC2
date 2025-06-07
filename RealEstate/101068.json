@@ -1,0 +1,437 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "9135 W 107th Pl, Westminster CO 80021"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=9135+W+107th+Pl%2c+Westminster+CO+80021",
+    "totalEstimatedMatches": 724000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "9135 W 107th Pl, Westminster, CO 80021 - Zillow",
+        "url": "https://www.zillow.com/homedetails/9135-W-107th-Pl-Westminster-CO-80021/63365857_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9135-W-107th-Pl-Westminster-CO-80021/63365857_zpid",
+        "snippet": "9135 W 107th Pl, Westminster CO, is a Multiple Occupancy home that contains 1462 sq ft and was built in 2005.It contains 3 bedrooms and 3 bathrooms.This home last sold for $224,862 in November 2004. The Zestimate for this Multiple Occupancy is $509,400, which has decreased by $926 in the last 30 days.The Rent Zestimate for this Multiple Occupancy is $2,846/mo, which has increased by $2,846/mo ...",
+        "dateLastCrawled": "2025-05-17T06:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "9135 W 107th Pl, Broomfield, CO 80021 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/9135-W-107th-Pl-80021/home/34009475",
+        "datePublished": "2025-03-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 12, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/9135-W-107th-Pl-80021/home/34009475",
+        "snippet": "3 beds, 2.5 baths, 1462 sq. ft. house located at 9135 W 107th Pl, Broomfield, CO 80021. View sales history, tax history, home value estimates, and overhead views. APN 300446081. ... 9266 W 107th Ln, Westminster, CO 80021. ABOUT THIS HOME. Nestled in the desirable Countryside neighborhood, this single family home is only minutes away from ...",
+        "dateLastCrawled": "2025-04-16T09:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "9135 W 107th Pl, Broomfield, 80021, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "9135 W 107th Pl, Westminster, CO 80021 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/9135-W-107th-Pl_Westminster_CO_80021_M21125-32440",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/9135-W-107th-Pl_Westminster_CO_80021...",
+        "snippet": "See sales history and home details for 9135 W 107th Pl, Westminster, CO 80021, a 3 bed, 3 bath, 1,462 Sq. Ft. single family home built in 2005 that was last sold on 11/04/2004.",
+        "dateLastCrawled": "2023-05-26T03:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "9135 W 107th Pl, Westminster, CO 80021 - Trulia",
+        "url": "https://www.trulia.com/home/9135-w-107th-pl-westminster-co-80021-63365857",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/9135-w-107th-pl-westminster-co-80021-63365857",
+        "snippet": "9135 W 107th Pl, Westminster, CO 80021 is a 1,462 sqft, 3 bed, 3 bath home sold in 2004. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-10-23T12:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "9135 W 107th Place, Westminster, CO 80021 - Homes.com",
+        "url": "https://www.homes.com/property/9135-w-107th-place-westminster-co/rfs3h78f5x11e/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/9135-w-107th-place-westminster-co/rfs3h78f5x11e",
+        "snippet": "This home is located at 9135 W 107th Place, Westminster, CO 80021 and is currently estimated at $509,762, approximately $261 per square foot. 9135 W 107th Place is a home located in Jefferson County with nearby schools including Lukas Elementary School, Wayne Carle Middle School, and Standley Lake High School. ...",
+        "dateLastCrawled": "2024-05-19T13:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "9136 W 107th Pl, Westminster, CO 80021 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9136-W-107th-Pl-Westminster-CO-80021/68013658_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9136-W-107th-Pl-Westminster-CO-80021/68013658_zpid",
+        "snippet": "9136 W 107th Pl, Westminster CO, is a Townhouse home that contains 1461 sq ft and was built in 2006.It contains 3 bedrooms and 2.5 bathrooms.This home last sold for $233,000 in April 2013. The Zestimate for this Townhouse is $490,600, which has decreased by $4,300 in the last 30 days.The Rent Zestimate for this Townhouse is $2,441/mo, which has increased by $2,441/mo in the last 30 days.",
+        "dateLastCrawled": "2024-09-25T07:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "9183 W 107th Pl, Westminster, CO 80021 | MLS# 838905 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/9183-W-107th-Pl-80021/home/34009429",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/9183-W-107th-Pl-80021/home/34009429",
+        "snippet": "3 beds, 2.5 baths, 1462 sq. ft. townhouse located at 9183 W 107th Pl, Westminster, CO 80021 sold for $340,000 on Feb 15, 2018. MLS# 838905. BEAUTIFUL, WELL CARED FOR HOME IN DESIRED VILLAGE AT WALN...",
+        "dateLastCrawled": "2025-01-09T19:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "9122 W 107th Pl, Westminster, CO 80021 - Apartments.com",
+        "url": "https://www.apartments.com/9122-w-107th-pl-westminster-co/y09g0mr/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/9122-w-107th-pl-westminster-co/y09g0mr",
+        "snippet": "9122 W 107th Pl house in Westminster,CO, is available for rent. This house rental unit is available on Apartments.com, starting at $2650 monthly. Map. Menu. Add a Property ; Renter Tools Favorites ; Saved Searches ... 9122 W 107th Pl. Westminster, CO 80021. Email Copy Link. Link Copied.",
+        "dateLastCrawled": "2025-04-24T12:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "9117 W 107th Pl, Westminster, CO 80021 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/9117-W-107th-Pl_Westminster_CO_80021_M18161-94888",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/9117-W-107th-Pl_Westminster_CO_80021...",
+        "snippet": "See sales history and home details for 9117 W 107th Pl, Westminster, CO 80021, a 3 bed, 3 bath, 1,664 Sq. Ft. single family home built in 2005 that was last sold on 07/07/2014.",
+        "dateLastCrawled": "2024-02-21T16:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "9129 W 107th Pl, Westminster, CO 80021 - Zillow",
+        "url": "https://www.zillow.com/homedetails/9129-W-107th-Pl-Westminster-CO-80021/63778822_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9129-W-107th-Pl-Westminster-CO-80021/63778822_zpid",
+        "snippet": "9129 W 107th Pl, Westminster CO, is a Condo home that contains 1324 sq ft and was built in 2005.It contains 2 bedrooms and 1.5 bathrooms.This home last sold for $232,000 in June 2014. The Zestimate for this Condo is $435,800, which has decreased by $1,861 in the last 30 days.The Rent Zestimate for this Condo is $2,283/mo, which has increased by $2,283/mo in the last 30 days.",
+        "dateLastCrawled": "2025-05-27T10:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "9129 W 107th Pl, Broomfield, CO 80021 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/9129-W-107th-Pl-80021/home/34017274",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/9129-W-107th-Pl-80021/home/34017274",
+        "snippet": "2 beds, 2.5 baths, 1324 sq. ft. house located at 9129 W 107th Pl, Broomfield, CO 80021 sold for $232,000 on Jun 16, 2014. View sales history, tax history, home value estimates, and overhead views. ...",
+        "dateLastCrawled": "2025-05-27T10:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "9105 W 107th Pl, Westminster, CO 80021 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/9105-W-107th-Pl_Westminster_CO_80021_M28420-44752",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/9105-W-107th-Pl_Westminster_CO_80021...",
+        "snippet": "View 29 photos for 9105 W 107th Pl, Westminster, CO 80021, a 2 bed, 3 bath, 1,304 Sq. Ft. single family home built in 2005 that was last sold on 05/08/2023.",
+        "dateLastCrawled": "2024-02-28T19:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "9147 W 107th Pl, Westminster, CO 80021 | MLS# 861426 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/9147-W-107th-Pl-80021/home/34009486",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/9147-W-107th-Pl-80021/home/34009486",
+        "snippet": "4 beds, 3.5 baths, 2017 sq. ft. townhouse located at 9147 W 107th Pl, Westminster, CO 80021 sold for $390,000 on Oct 5, 2018. MLS# 861426. Look No Further! This Spacious, Move In Ready Duplex Has a...",
+        "dateLastCrawled": "2025-01-18T14:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "9123 W 107th Pl, Westminster, CO 80021 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9123-W-107th-Pl-Westminster-CO-80021/58767968_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9123-W-107th-Pl-Westminster-CO-80021/58767968_zpid",
+        "snippet": "9123 W 107th Pl, Westminster CO, is a Condo home that contains 2017 sq ft and was built in 2005.It contains 4 bedrooms and 4 bathrooms.This home last sold for $520,000 in September 2021. The Zestimate for this Condo is $561,000, which has increased by $2,667 in the last 30 days.The Rent Zestimate for this Condo is $3,190/mo, which has increased by $3,190/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-18T20:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "9123 W 107th Pl, Westminster, CO 80021 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/9123-W-107th-Pl-80021/home/34682991",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/9123-W-107th-Pl-80021/home/34682991",
+        "snippet": "4 beds, 3.5 baths, 2017 sq. ft. house located at 9123 W 107th Pl, Westminster, CO 80021 sold for $520,000 on Sep 10, 2021. MLS# 5231756. Fantastic 4 Bedroom, 4 Bathroom townhome that lives like a s...",
+        "dateLastCrawled": "2025-03-30T08:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "9117 W 107th Pl, Westminster, CO 80021 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9117-W-107th-Pl-Westminster-CO-80021/63778823_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9117-W-107th-Pl-Westminster-CO-80021/63778823_zpid",
+        "snippet": "9117 W 107th Pl, Westminster CO, is a Townhouse home that contains 1664 sq ft and was built in 2005.It contains 3 bedrooms and 3 bathrooms.This home last sold for $260,000 in July 2014. The Zestimate for this Townhouse is $511,700, which has increased by $9,084 in the last 30 days.The Rent Zestimate for this Townhouse is $2,851/mo, which has increased by $2,851/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-28T23:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "9105 W 107th Pl, Westminster, CO 80021 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/9105-W-107th-Pl-80021/home/34009489",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/9105-W-107th-Pl-80021/home/34009489",
+        "snippet": "2 beds, 3 baths, 1304 sq. ft. townhouse located at 9105 W 107th Pl, Westminster, CO 80021 sold for $490,000 on May 3, 2023. MLS# 1778504. Don't miss this great opportunity to own a beautiful two be...",
+        "dateLastCrawled": "2025-04-23T08:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "9177 W 107th Pl, Broomfield, CO 80021 | Redfin",
+        "url": "https://www.redfin.com/CO/Broomfield/9177-W-107th-Pl-80021/home/34009431",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Broomfield/9177-W-107th-Pl-80021/home/34009431",
+        "snippet": "3 beds, 2.5 baths, 1664 sq. ft. house located at 9177 W 107th Pl, Broomfield, CO 80021. View sales history, tax history, home value estimates, and overhead views. APN 300445491.",
+        "dateLastCrawled": "2025-05-07T22:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "10405 W 107th Place, Westminster, CO 80021 | MLS #3903126 - Zillow",
+        "url": "https://www.zillow.com/homedetails/10405-W-107th-Pl-Westminster-CO-80021/13681753_zpid/",
+        "datePublished": "2025-05-10T00:00:00.0000000",
+        "datePublishedDisplayText": "May 10, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/10405-W-107th-Pl-Westminster-CO-80021/13681753_zpid",
+        "snippet": "Zillow has 26 photos of this $475,000 3 beds, 2 baths, 1,234 Square Feet single family home located at 10405 W 107th Place, Westminster, CO 80021 built in 1977. MLS #3903126.",
+        "dateLastCrawled": "2025-05-30T07:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "9105 W 107th Place, Westminster, CO 80021 | Zillow",
+        "url": "https://www.zillow.com/homedetails/9105-W-107th-Pl-Westminster-CO-80021/130361345_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/9105-W-107th-Pl-Westminster-CO-80021/130361345_zpid",
+        "snippet": "9105 W 107th Place, Westminster CO, is a Townhouse home that contains 1304 sq ft and was built in 2005.It contains 2 bedrooms and 3 bathrooms.This home last sold for $490,000 in May 2023. The Zestimate for this Townhouse is $490,100, which has increased by $5,503 in the last 30 days.The Rent Zestimate for this Townhouse is $2,726/mo, which has increased by $2,726/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T15:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

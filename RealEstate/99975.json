@@ -1,0 +1,420 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "19730 Capella Dr, Monument CO 80132"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=19730+Capella+Dr%2c+Monument+CO+80132",
+    "totalEstimatedMatches": 183000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "19730 Capella Dr, Monument, CO 80132 | Zillow",
+        "url": "https://www.zillow.com/homedetails/19730-Capella-Dr-Monument-CO-80132/13645368_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/19730-Capella-Dr-Monument-CO-80132/13645368_zpid",
+        "snippet": "19730 Capella Dr, Monument, CO 80132 is currently not for sale. The 3,258 Square Feet single family home is a 3 beds, 3.5 baths property. This home was built in 1980 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-05-07T05:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "19730 Capella Dr, Monument, CO 80132 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/19730-Capella-Dr_Monument_CO_80132_M20559-65552",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/19730-Capella-Dr_Monument_CO_80132_M...",
+        "snippet": "View detailed information about property 19730 Capella Dr, Monument, CO 80132 including listing details, property photos, school and neighborhood data, and much more.",
+        "dateLastCrawled": "2023-12-17T16:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "19730 Capella Dr, Monument, CO 80132 | Redfin",
+        "url": "https://www.redfin.com/CO/Monument/19730-Capella-Dr-80132/home/34531948",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Monument/19730-Capella-Dr-80132/home/34531948",
+        "snippet": "3 beds, 4 baths, 3306 sq. ft. house located at 19730 Capella Dr, Monument, CO 80132. View sales history, tax history, home value estimates, and overhead views. APN ...",
+        "dateLastCrawled": "2024-11-25T22:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "19730 Capella Dr, Monument, CO 80132 - Trulia",
+        "url": "https://www.trulia.com/home/19730-capella-dr-monument-co-80132-13645368",
+        "datePublished": "2024-02-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 7, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/19730-capella-dr-monument-co-80132-13645368",
+        "snippet": "19730 Capella Dr, Monument, CO 80132 is a 3,258 sqft, 3 bed, 3.5 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-02-07T11:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Capella Dr, Monument, CO 80132 Property Records",
+        "url": "https://www.countyoffice.org/capella-dr-monument-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/capella-dr-monument-co-property-records",
+        "snippet": "View property records for 36 addresses on Capella Drive in Monument, CO 80132, including property ownership, deeds, mortgages, titles & sales history, current & historic tax assessments, legal, parcel & structure description, land use, zoning & more. ... 19680 Capella Dr; 19730 Capella Dr; 19765 Capella Dr; 19770 Capella Dr; 19815 Capella Dr ...",
+        "dateLastCrawled": "2025-06-04T20:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "19730 Capella Dr Monument CO 80132 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/19730-capella-dr-monument-co-80132-35405260",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/19730-capella-dr-monument-co-80132-35405260",
+        "snippet": "19730 Capella Dr Monument CO with 3 bedroom and 3 bath is currently not for sale. Xome's estimated value is $814,148. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-04-29T15:53:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "19730 Capella Dr, Monument, CO 80132 - Property Summary - DiedinHouse.com\u2122",
+        "url": "https://www.diedinhouse.com/property/details/19730-capella-dr-monument-co",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.diedinhouse.com/property/details/19730-capella-dr-monument-co",
+        "snippet": "This home is 2 stories tall. This property is located in the COLORADO ESTATES SUB 3 subdivision. The entire market value of this property is $471,661. The land is valued at $132,000. Use this website to learn of any stigmatized details and history about 19730 CAPELLA DR.",
+        "dateLastCrawled": "2024-08-14T11:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Died in House"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Who Lives at 19730 Capella Dr, Monument, CO 80132 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Monument/19730-Capella-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Monument/19730-Capella-Dr",
+        "snippet": "Find people by address using reverse address lookup for 19730 Capella Dr, Monument, CO 80132. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2024-11-06T09:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Who Lives on Capella Dr, Monument, CO 80132 | Spokeo",
+        "url": "https://www.spokeo.com/Capella+Dr+Monument+CO+addresses",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/Capella+Dr+Monument+CO+addresses",
+        "snippet": "Find out who lives on Capella Dr, Monument, CO 80132. Uncover property values, resident history, neighborhood safety score, and more! 35 records found for Capella Dr, Monument, CO 80132. ... 19730 Capella Dr Monument, CO 80132 3 Beds / 3 Baths 3,258 sqft Single Family Residence Built in 1980 7 residents. 19765 Capella Dr Monument, ...",
+        "dateLastCrawled": "2025-05-04T06:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "19770 Capella Dr, Monument, CO 80132 - Zillow",
+        "url": "https://www.zillow.com/homedetails/19770-Capella-Dr-Monument-CO-80132/13645367_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.xtQ70_VRLJTw5f3z-12Y0QHaFi&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/19770-Capella-Dr-Monument-CO-80132/13645367_zpid",
+        "snippet": "19770 Capella Dr, Monument CO, is a Single Family home that contains 4436 sq ft and was built in 1989.It contains 4 bedrooms and 4 bathrooms.This home last sold for $950,000 in November 2023. The Zestimate for this Single Family is $964,500, which has increased by $2,210 in the last 30 days.The Rent Zestimate for this Single Family is $4,564/mo, which has increased by $4,564/mo in the last 30 ...",
+        "dateLastCrawled": "2025-05-24T06:20:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.xtQ70_VRLJTw5f3z-12Y0QHaFi&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 354,
+          "imageId": "OIP.xtQ70_VRLJTw5f3z-12Y0QHaFi"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "19770 Capella Dr, Monument, CO 80132 | Redfin",
+        "url": "https://www.redfin.com/CO/Monument/19770-Capella-Dr-80132/home/34531947",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.jj045u_TCZL2uZXSOqZezQHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Monument/19770-Capella-Dr-80132/home/34531947",
+        "snippet": "4 beds, 4 baths, 4436 sq. ft. house located at 19770 Capella Dr, Monument, CO 80132 sold for $950,000 on Nov 21, 2023. MLS# 3525798. This hidden gem nestled in Monument is situated on 2.75 acres of...",
+        "dateLastCrawled": "2025-04-09T09:13:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.jj045u_TCZL2uZXSOqZezQHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.jj045u_TCZL2uZXSOqZezQHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "19730 Capella Dr, Monument, CO 80132 | RealtyTrac",
+        "url": "https://www.realtytrac.com/p/capella-dr-monument-co-80132-184392569/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtytrac.com/p/capella-dr-monument-co-80132-184392569",
+        "snippet": "3 Bedrooms, 3 Bathrooms, Single Family Home - Off Market Property in Monument, Colorado. This home was built in 1980, is 3258 square feet, and its expected value is $840,900. For Sale. Foreclosure; Recently Sold. ... 19730 Capella Dr, Monument, CO 80132. Register to see property details. Member Features. Find Real Estate Bargain! Full ...",
+        "dateLastCrawled": "2024-10-12T12:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RealtyTrac"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "19680 Capella Dr, Monument, CO 80132 - Zillow",
+        "url": "https://www.zillow.com/homedetails/19680-Capella-Dr-Monument-CO-80132/13645369_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/19680-Capella-Dr-Monument-CO-80132/13645369_zpid",
+        "snippet": "19680 Capella Dr, Monument CO, is a Single Family home that contains 2865 sq ft and was built in 1977.It contains 4 bedrooms and 3 bathrooms.This home last sold for $220,000 in February 1998. The Zestimate for this Single Family is $860,200, which has increased by $19,233 in the last 30 days.The Rent Zestimate for this Single Family is $3,564/mo, which has increased by $3,564/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-16T19:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "19820 Capella Dr, Monument, CO 80132 | Redfin",
+        "url": "https://www.redfin.com/CO/Monument/19820-Capella-Dr-80132/home/34531946",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Monument/19820-Capella-Dr-80132/home/34531946",
+        "snippet": "3 beds, 2 baths, 1504 sq. ft. house located at 19820 Capella Dr, Monument, CO 80132 sold for $392,100 on May 12, 2015. View sales history, tax history, home value estimates, and overhead views. APN...",
+        "dateLastCrawled": "2025-05-14T01:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "19770 Capella Dr, Monument, CO 80132 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/19770-Capella-Dr_Monument_CO_80132_M13432-93409",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/19770-Capella-Dr_Monument_CO_80132_M...",
+        "snippet": "View 40 photos for 19770 Capella Dr, Monument, CO 80132, a 4 bed, 3 bath, 4,436 Sq. Ft. single family home built in 1989 that was last sold on 06/09/2017.",
+        "dateLastCrawled": "2024-02-29T21:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "19770 Capella Dr, Monument, CO 80132 - MLS #3525798 | Flyhomes",
+        "url": "https://flyhomes.com/search/details/19770-capella-dr-monument-co-80132/33367160",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://flyhomes.com/search/details/19770-capella-dr-monument-co-80132/33367160",
+        "snippet": "4 beds, 4 baths \u2219 3,288 sq. ft. \u2219 19770 Capella Dr, Monument, CO 80132 \u2219 Sold for: $950,000 on Nov 21, 2023 \u2219 MLS#: 3525798 \u2219 This hidden gem nestled in Monument is situated on 2.75 acres of beautiful pine trees, open meadow, and those breathtaking views of Elephant Rock in your back yard! Plus Pikes Peak views too. Inside, you will notice a fully remodeled walk out ranch w...",
+        "dateLastCrawled": "2025-01-27T21:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Flyhomes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "19730 Belatrix Dr, Monument, CO 80132 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/19730-Belatrix-Dr_Monument_CO_80132_M19204-34730",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/19730-Belatrix-Dr_Monument_CO_80132...",
+        "snippet": "View detailed information about property 19730 Belatrix Dr, Monument, CO 80132 including listing details, property photos, school and neighborhood data, and much more. ... 19680 Capella Dr ...",
+        "dateLastCrawled": "2024-03-01T19:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "19730 Belatrix Dr, Monument, CO 80132 | Redfin",
+        "url": "https://www.redfin.com/CO/Monument/19730-Belatrix-Dr-80132/home/34665388",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Monument/19730-Belatrix-Dr-80132/home/34665388",
+        "snippet": "1 bed, 1 bath, 1228 sq. ft. house located at 19730 Belatrix Dr, Monument, CO 80132. View sales history, tax history, home value estimates, and overhead views. APN ...",
+        "dateLastCrawled": "2024-12-12T19:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "19950 Capella Dr, Monument, CO 80132 - Zillow",
+        "url": "https://www.zillow.com/homedetails/19950-Capella-Dr-Monument-CO-80132/13645362_zpid/",
+        "datePublished": "2024-06-25T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 25, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/19950-Capella-Dr-Monument-CO-80132/13645362_zpid",
+        "snippet": "19950 Capella Dr, Monument CO, is a Single Family home that contains 5040 sq ft and was built in 1985.It contains 6 bedrooms and 5 bathrooms.This home last sold for $999,500 in June 2024. The Zestimate for this Single Family is $991,500, which has decreased by $19,584 in the last 30 days.The Rent Zestimate for this Single Family is $5,119/mo, which has increased by $5,119/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-19T04:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

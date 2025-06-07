@@ -1,0 +1,430 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "512 Chadwick Dr, Saint Augustine FL 32086"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=512+Chadwick+Dr%2c+Saint+Augustine+FL+32086",
+    "totalEstimatedMatches": 1490000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "512 Chadwick Dr, Saint Augustine, FL 32086 | Zillow",
+        "url": "https://www.zillow.com/homedetails/512-Chadwick-Dr-Saint-Augustine-FL-32086/66755604_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/512-Chadwick-Dr-Saint-Augustine-FL-32086/66755604_zpid",
+        "snippet": "512 Chadwick Dr, Saint Augustine FL, is a Single Family home that contains 1761 sq ft and was built in 2004.It contains 3 bedrooms and 2 bathrooms.This home last sold for $370,000 in December 2023. The Zestimate for this Single Family is $364,200, which has decreased by $2,281 in the last 30 days.The Rent Zestimate for this Single Family is $2,223/mo, which has increased by $2,223/mo in the ...",
+        "dateLastCrawled": "2025-03-20T00:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "512 Chadwick Dr, Saint Augustine, FL 32086 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/512-Chadwick-Dr_St-Augustine_FL_32086_M53117-92194",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.QESSD4tED2pKBTcmBaKuTgHaE7&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2018-05-09T00:00:00.0000000",
+        "datePublishedDisplayText": "May 9, 2018",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../512-Chadwick-Dr_St-Augustine_FL_32086_M53117-92194",
+        "snippet": "See photos and price history of this 3 bed, 2 bath, 1,761 Sq. Ft. recently sold home located at 512 Chadwick Dr, Saint Augustine, FL 32086 that was sold on 12/04/2023 for $370000.",
+        "dateLastCrawled": "2024-05-27T00:52:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.QESSD4tED2pKBTcmBaKuTgHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 108,
+          "height": 108,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.QESSD4tED2pKBTcmBaKuTgHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "512 Chadwick Dr, St Augustine, FL 32086 - St. Augustine/St. Johns M...",
+        "url": "https://staugustinehomes.io/512-chadwick-dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://staugustinehomes.io/512-chadwick-dr",
+        "snippet": "View photos and detailed information for 512 Chadwick Dr, St Augustine, FL 32086 - St. Augustine/St. Johns MLS (SASJ), MLS#235625, don't miss your chance to own this hot property! GET MORE INFO. $ 370,000. 512 Chadwick Dr. St Augustine, FL 32086. 3 Beds; 2 Baths. Full Baths: 2.",
+        "dateLastCrawled": "2024-08-13T06:55:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "512 Chadwick Dr, St Augustine, FL 32086, MLS# 235625 - flstaug - Realty.com",
+        "url": "https://www.realty.com/home-listings/354731784/512-Chadwick-Dr-Saint-Augustine-FL-32086",
+        "datePublished": "2023-09-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 12, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realty.com/home-listings/354731784/512-Chadwick-Dr-Saint-Augustine-FL-32086",
+        "snippet": "512 Chadwick Dr, St Augustine, FL 32086 is a Single Family 0 sq. ft. home listed for sale. Realty.com has 40 photos available of this 3 bed, 2 bath house, listed at $379,000. View sales and tax history, use our mortgage calculator and more on Realty.com",
+        "dateLastCrawled": "2025-04-22T17:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realty.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "512 Chadwick Dr, Saint Augustine, FL 32086 | Homes.com",
+        "url": "https://www.homes.com/property/512-chadwick-dr-saint-augustine-fl/gf781nrbks1jh/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/512-chadwick-dr-saint-augustine-fl/gf781nrbks1jh",
+        "snippet": "512 Chadwick Dr, Saint Augustine, FL 32086 - 1,761 sqft home built in 2004 . Browse photos, take a 3D tour & see transaction details about this recently sold property. MLS# 235625.",
+        "dateLastCrawled": "2025-03-07T08:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "St Augustine, FL 32086 512 Chadwick Dr - jpar.com",
+        "url": "https://www.jpar.com/property/62-235625-512-Chadwick-Dr-St-Augustine-FL-32086/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.jpar.com/property/62-235625-512-Chadwick-Dr-St-Augustine-FL-32086",
+        "snippet": "3 beds, 2 baths in this Single Family Home located at 512 Chadwick Dr, St Augustine, FL 32086 in the beautiful neighborhood of Hidden Lakes. Priced at $379000. See photos, schedule a showing, and request information for this beautiful listing.",
+        "dateLastCrawled": "2024-10-06T16:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "512 CHADWICK DR St Augustine FL for sale: MLS #1247276 | Weichert",
+        "url": "https://www.weichert.com/114872552/",
+        "datePublished": "2023-09-12T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 12, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.weichert.com/114872552",
+        "snippet": "512 CHADWICK DR is for sale in St Augustine Florida. Learn more about this Single Family with Weichert\u2019s property listing for 512 CHADWICK DR. Skip page header and navigation. Home Buyers: Receive a $10,000 closing date guarantee! Register today to become eligible. Get Started. X.",
+        "dateLastCrawled": "2023-09-12T15:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Weichert Realtors"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "512 Chadwick Dr St Augustine, FL 32086 | MLS 235625",
+        "url": "https://www.searchnortheastflhomes.com/property-search/detail/326/235625/512-chadwick-dr-st-augustine-fl-32086/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.searchnortheastflhomes.com/.../235625/512-chadwick-dr-st-augustine-fl-32086",
+        "snippet": "Home for sale at 512 Chadwick Dr St Augustine, FL 32086, with MLS 235625.",
+        "dateLastCrawled": "2024-09-03T14:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "512 CHADWICK DR, SAINT AUGUSTINE, FL 32086 - RE/MAX",
+        "url": "https://www.remax.com/fl/saint-augustine/home-details/512-chadwick-dr-saint-augustine-fl-32086/10614288879616568508",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/.../512-chadwick-dr-saint-augustine-fl-32086/10614288879616568508",
+        "snippet": "512 CHADWICK DR SAINT AUGUSTINE, FL 32086. Off Market. SEE THIS HOME'S ESTIMATED VALUE. 3 Beds. 2 Baths. 1,761 Sq Ft. Details for 512 CHADWICK DR. Built in 2004. No Info. 0.2 acres lot. Interior. Bathrooms Full. 2.",
+        "dateLastCrawled": "2025-05-20T19:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "512 Chadwick Dr Saint Augustine, FL 32086 - Trulia",
+        "url": "https://www.trulia.com/home/512-chadwick-dr-saint-augustine-fl-32086-66755604",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/512-chadwick-dr-saint-augustine-fl-32086-66755604",
+        "snippet": "512 Chadwick Dr, Saint Augustine, FL 32086 is a 1,761 sqft, 3 bed, 2 bath home sold in 2023. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-03-26T14:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "512 Chadwick Dr, St Augustine, FL 32086 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/fl/saint-augustine/512-chadwick-dr/lid-P00800000GMUS4vtcdb1n4w6WCLxgPaEFdCdaYp6",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/fl/saint-augustine/512-chadwick-dr/lid-P00800000GMUS4...",
+        "snippet": "Find Property Information for 512 Chadwick Dr, St Augustine, FL 32086. MLS# 235625. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2024-12-13T16:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "512 Chadwick Dr, St Augustine, FL 32086 for Sale MLS# 235625 - Xome",
+        "url": "https://www.xome.com/homes-for-sale/512-Chadwick-Dr-St-Augustine-FL-32086-384338226",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/homes-for-sale/512-Chadwick-Dr-St-Augustine-FL-32086-384338226",
+        "snippet": "512 Chadwick Dr, St Augustine, FL with 1761 sqft, 3 bedroom and 2.0 bath is for sale, listed at $370,000. Discover more property details and get prequalified at Xome.com 512 Chadwick Dr, St Augustine, FL 32086 for Sale MLS# 235625",
+        "dateLastCrawled": "2024-09-29T15:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "512 Chadwick Dr, Saint Augustine, FL, 32086",
+        "url": "https://www.larosarealty.com/property/62-235625-512-Chadwick-Dr-Saint-Augustine-FL-32086",
+        "datePublished": "2023-11-09T06:28:00.0000000",
+        "datePublishedDisplayText": "Nov 9, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.larosarealty.com/property/62-235625-512-Chadwick-Dr-Saint-Augustine-FL-32086",
+        "snippet": "Nestled within the esteemed Hidden Lakes neighborhood, th...",
+        "dateLastCrawled": "2023-11-09T09:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "La Rosa Realty"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "512 Chadwick Dr St Augustine, FL 32086 home for sale, MLS#235625 ...",
+        "url": "https://www.chadandsandy.com/property-search/detail/326/235625/512-chadwick-dr-st-augustine-fl-32086/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.chadandsandy.com/.../detail/326/235625/512-chadwick-dr-st-augustine-fl-32086",
+        "snippet": "St. Augustine; St. Johns County; The Plantation at Ponte Vedra; Valencia ; Buyers. Buyers; Mortgage Calculator; Mortgage Pre-Approval; First Time Buyers; ... 512 Chadwick Dr St Augustine, FL 32086 View Map $370,000 Ask a Question. Beds 3. Baths 2. Sq.Ft. 1,761. Year 2004. Ask a Question Save Share Social. Chad and Sandy Real Estate Group",
+        "dateLastCrawled": "2024-06-10T15:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "512 Chadwick Dr Unit 1, Saint Augustine, FL 32086 - Homes.com",
+        "url": "https://www.homes.com/property/512-chadwick-dr-saint-augustine-fl-unit-1/gf781nrbks1jh/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/512-chadwick-dr-saint-augustine-fl-unit-1/gf781nrbks1jh",
+        "snippet": "512 Chadwick Dr Unit 1, Saint Augustine, FL 32086 - 1,761 sqft home built in 2004 . Browse photos, take a 3D tour & see transaction details about this recently sold property. MLS# 235625.",
+        "dateLastCrawled": "2024-07-01T01:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "512 Chadwick Dr Saint Augustine, FL 32086 - Xome",
+        "url": "https://www.xome.com/realestate/512-chadwick-dr-saint-augustine-fl-32086-22070210",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/512-chadwick-dr-saint-augustine-fl-32086-22070210",
+        "snippet": "512 Chadwick Dr Saint Augustine FL with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $376,564. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-08-05T15:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "513 Chadwick Dr, Saint Augustine, FL 32086 - Zillow",
+        "url": "https://www.zillow.com/homedetails/513-Chadwick-Dr-Saint-Augustine-FL-32086/66755599_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/513-Chadwick-Dr-Saint-Augustine-FL-32086/66755599_zpid",
+        "snippet": "513 Chadwick Dr, Saint Augustine FL, is a Single Family home that contains 2057 sq ft and was built in 2003.It contains 3 bedrooms and 2 bathrooms.This home last sold for $235,000 in July 2017. The Zestimate for this Single Family is $418,700, which has increased by $1,060 in the last 30 days.The Rent Zestimate for this Single Family is $2,600/mo, which has increased by $2,600/mo in the last ...",
+        "dateLastCrawled": "2025-04-17T05:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "Property Report for 512 Chadwick Dr, Saint Augustine, FL 32086",
+        "url": "https://www.attomdata.com/property-reports/512-chadwick-dr-saint-augustine-fl-32086/46625952/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.attomdata.com/property-reports/512-chadwick-dr-saint-augustine-fl-32086/...",
+        "snippet": "View property report for 512 Chadwick Dr, Saint Augustine, FL 32086 on ATTOM\u2019s Property Navigator. Home values, sales prices, taxes, school data, and more. Contact; ... Property Report for 512 Chadwick Dr, Saint Augustine, FL 32086 Find Comparables. Image courtesy of Bing Streetside View View Map Layers ...",
+        "dateLastCrawled": "2024-11-13T10:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ATTOM"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "512 Chadwick Dr St Augustine FL 32086 Weichert.com - Sold or expired ...",
+        "url": "https://www.weichert.com/114087512/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.weichert.com/114087512",
+        "snippet": "512 Chadwick Dr St Augustine FL 32086 Weichert.com. Skip page header and navigation. 1-800-401-0486. Looking for an Associate? All you have to do is search Weichert.com for a rental property in the area you're in. Once you find a property you'd like to see fill out the form and a Weichert Associate will contact you",
+        "dateLastCrawled": "2024-10-09T20:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Weichert Realtors"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "512 CHADWICK DR, MLS # 1247276, ST AUGUSTINE Homes Sold | HomeLife Euro",
+        "url": "https://www.homelifeeuro.com/FLORIDA/ST_AUGUSTINE/54-1247276-512-CHADWICK-DR-32086",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homelifeeuro.com/FLORIDA/ST_AUGUSTINE/54-1247276-512-CHADWICK-DR-32086",
+        "snippet": "512 CHADWICK DR, ST AUGUSTINE Real Estate, MLS # 1247276. Homes Sold in ST AUGUSTINE by HomeLife Euro . Nestled within the esteem. 512 CHADWICK DR , ST AUGUSTINE, FLORIDA 32086 | HomeLifeEuro, d.d. ... Home \u00bb Florida \u00bb St Augustine \u00bb 512 CHADWICK DR , ST AUGUSTINE, FLORIDA 32086 | More | 512 CHADWICK DR , HIDDEN LAKES, ST AUGUSTINE, 32086 ...",
+        "dateLastCrawled": "2025-04-14T03:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

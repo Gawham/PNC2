@@ -1,0 +1,508 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "850 W Moorhead Cir, Unit 2E, Boulder CO 80305"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=850+W+Moorhead+Cir%2c+Unit+2E%2c+Boulder+CO+80305",
+    "totalEstimatedMatches": 501000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "850 W Moorhead Circle Unit 2e, Boulder, CO 80305 | Zillow",
+        "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2E-Boulder-CO-80305/61637744_zpid/",
+        "datePublished": "2025-04-03T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 3, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2E-Boulder-CO-80305/61637744...",
+        "snippet": "850 W Moorhead Circle Unit 2e, Boulder CO, is a Condo home that contains 484 sq ft and was built in 1972.It contains 1 bedroom and 1 bathroom.This home last sold for $265,000 in April 2025. The Zestimate for this Condo is $264,900, which has decreased by $6,020 in the last 30 days.The Rent Zestimate for this Condo is $1,518/mo, which has increased by $1,518/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "850 W Moorhead Cir UNIT 2J, Boulder, CO 80305 | Zillow",
+            "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2J-Boulder-CO-80305/61637756_zpid/",
+            "snippet": "850 W Moorhead Cir Unit 2j, Boulder CO, is a Condo home that contains 500 sq ft and was built in 1972.It contains 1 bedroom and 1 bathroom.This home last sold for $250,000 in November 2024. The Zestimate for this Condo is $266,200, which has increased by $266,200 in the last 30 days.The Rent Zestimate for this Condo is $1,684/mo, which has increased by $1,684/mo in the last 30 days."
+          },
+          {
+            "name": "850 W Moorhead Cir APT 2L, Boulder, CO 80305 | Zillow",
+            "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2L-Boulder-CO-80305/61637758_zpid/",
+            "snippet": "850 W Moorhead Cir APT 2L, Boulder, CO 80305 is an apartment unit listed for rent at $1,985 /mo. The 550 Square Feet unit is a 1 bed, 1 bath apartment unit. View more property details, sales history, and Zestimate data on Zillow."
+          },
+          {
+            "name": "850 W Moorhead Cir #R-2E, Boulder, CO 80305 | Zillow",
+            "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-R-2E-Boulder-CO-80305/2060457518_zpid/",
+            "snippet": "850 W Moorhead Cir #R-2E, Boulder, CO 80305 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow."
+          },
+          {
+            "name": "850 W Moorhead Cir, Boulder, CO 80305 - Zillow",
+            "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-Boulder-CO-80305/2111676613_zpid/",
+            "snippet": "850 W Moorhead Cir, Boulder CO, is a Apartment home that contains 630 sq ft.It contains 1 bedroom and 1 bathroom.This home last sold for $259,900 in August 2018. The Rent Zestimate for this Apartment is $1,634/mo, which has increased by $1,634/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2025-04-12T06:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "850 W Moorhead Cir Unit 2E, Boulder, CO 80305 | Redfin",
+        "url": "https://www.redfin.com/CO/Boulder/850-W-Moorhead-Cir-80305/unit-2E/home/35139874",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Boulder/850-W-Moorhead-Cir-80305/unit-2E/home/35139874",
+        "snippet": "Sold: 1 bed, 1 bath, 484 sq. ft. condo located at 850 W Moorhead Cir Unit 2E, Boulder, CO 80305 sold for $265,000 on Apr 1, 2025. MLS# 6601295. ... Nearby homes similar to 850 W Moorhead Cir Unit 2E have recently sold between $280K to $495K at an average of $530 per square foot. SOLD NOV 26, 2024.",
+        "dateLastCrawled": "2025-04-03T22:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "850 W Moorhead Cir Unit 2E, Boulder, 80305, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "850 W Moorhead Cir Apt 2E, Boulder, CO 80305 | Realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/850-W-Moorhead-Cir-Apt-2E_Boulder_CO_80305_M17274-89349",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../850-W-Moorhead-Cir-Apt-2E_Boulder_CO_80305_M17274-89349",
+        "snippet": "850 W Moorhead Cir Apt 2E, Boulder, CO 80305 is for sale. View 23 photos of this 1 bed, 1 bath, 484 sqft. condo with a list price of $265000.",
+        "dateLastCrawled": "2025-03-02T11:59:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "850 W Moorhead Cir Apt 2E, Boulder, 80305, CO"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          },
+          {
+            "label": {
+              "text": "Posted on"
+            },
+            "items": [
+              {
+                "text": "January 09, 2025"
+              }
+            ],
+            "hint": {
+              "text": "BASE:GENERICFACT"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "850 W Moorhead Cir #2E Boulder, CO 80305 - ColdwellBankerHomes.com",
+        "url": "https://www.coldwellbankerhomes.com/co/boulder/850-w-moorhead-circle-2e/pid_63098609/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbankerhomes.com/co/boulder/850-w-moorhead-circle-2e/pid_63098609",
+        "snippet": "Sold - 850 W Moorhead Cir #2E, Boulder, CO - $265,000. View details, map and photos of this condo property with 1 bedrooms and 1 total baths. MLS# 6601295.",
+        "dateLastCrawled": "2025-05-24T02:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ColdwellBankerHomes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "850 W Moorhead Cir Unit 2E, Boulder, CO 80305 | Homes.com",
+        "url": "https://www.homes.com/property/850-w-moorhead-cir-boulder-co-unit-2e/2s1jvkrgxg7qc/",
+        "datePublished": "2025-04-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 1, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/850-w-moorhead-cir-boulder-co-unit-2e/2s1jvkrgxg7qc",
+        "snippet": "This home is located at 850 W Moorhead Cir Unit 2E, Boulder, CO 80305 and is currently priced at $265,000, approximately $547 per square foot. This property was built in 1972. 850 W Moorhead Cir Unit 2E is a home located in Boulder County with nearby schools including Creekside Elementary School, Southern Hills Middle School, and Fairview High ...",
+        "dateLastCrawled": "2025-05-25T08:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "850 W Moorhead Cir #2E, Boulder, CO 80305 - Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/co/boulder/850-w-moorhead-cir-apt-2e/lid-P00800000GlaqXcgwgHFr6yyxIGYEfecVsy06qw8",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/co/boulder/850-w-moorhead-cir-apt-2e/lid-P00800000...",
+        "snippet": "Find Property Information for 850 W Moorhead Cir #2E, Boulder, CO 80305. MLS# 6601295. View Photos, Pricing, Listing Status & More. ... 850 W Moorhead Cir #2E, ... This beautiful end unit just remodel condo located in the heart of Boulder. and so much to offer in so many ways! This 1 bedroom, 1 full-bathroom condo has 1 reserved exclusive ...",
+        "dateLastCrawled": "2025-05-19T09:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "850 W Moorhead Circle 2E Boulder, CO 80305 - Windermere Real Estate",
+        "url": "https://www.windermere.com/listing/CO/Boulder/850-W-Moorhead-Circle-2E-80305/204624617",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.windermere.com/listing/CO/Boulder/850-W-Moorhead-Circle-2E-80305/204624617",
+        "snippet": "850 W Moorhead Circle 2E Boulder, CO 80305. Contact agent Favorite Hide Share Share. Link . See Similar Listings. Listing Courtesy of: Colorado Real Estate Associates LLC - Contact: 303-717-3449 . 850 W Moorhead Circle 2E Boulder, CO 80305 Sold. $265,000 . 1. BED. 1. BATH. 484. SQFT. See Similar Listings. Favorite",
+        "dateLastCrawled": "2025-05-16T21:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Windermere Real Estate"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "850 W Moorhead Cir #2E, Boulder, CO 80305 - MLS #6601295 | Flyhomes",
+        "url": "https://flyhomes.com/search/details/850-w-moorhead-cir-apt-2e-boulder-co-80305/18429814",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://flyhomes.com/search/details/850-w-moorhead-cir-apt-2e-boulder-co-80305/18429814",
+        "snippet": "For Sale: 1 beds, 1 baths \u2219 484 sq. ft. \u2219 850 W Moorhead Cir #2E, Boulder, CO 80305 \u2219 Listed for: $265,000 \u2219 MLS#: 6601295 \u2219 MOVE IN TURN KEY CONDO NESTLED IN A PERFECT LOCATION PRICED TO SELL!!! GR8 income investment for CU student!!!! This beautiful end unit just remodel condo located in the heart of Boulder. and so much to offer in so many ways! This 1 bedroom, 1 full-b...",
+        "dateLastCrawled": "2025-03-28T21:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Flyhomes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "850 W Moorhead Cir, Boulder, CO 80305 - Apartments.com",
+        "url": "https://www.apartments.com/850-w-moorhead-cir-boulder-co/wq2308l/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.2Snn3HsjZM2y-5KK3xHBoQHaE7&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.apartments.com/850-w-moorhead-cir-boulder-co/wq2308l",
+        "snippet": "850 W Moorhead Cir house in Boulder,CO, is available for rent. This house rental unit is available on Apartments.com, starting at $1650 monthly. ... 850 W Moorhead Cir media gallery Unit. Photos Floor Plans Matterport 3D Tours Videos View From Unit Floor Plan View Body Houses ... 850 W Moorhead Cir. Boulder, CO 80305. Email Copy Link.",
+        "dateLastCrawled": "2025-04-24T00:42:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.2Snn3HsjZM2y-5KK3xHBoQHaE7&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 315,
+          "imageId": "OIP.2Snn3HsjZM2y-5KK3xHBoQHaE7"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Apartments.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "850 W Moorhead Cir, Boulder, CO 80305 - Zillow",
+        "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-Boulder-CO-80305/2111676613_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.MSranWG6GXXqsXwrP5jBAAHaFj&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-Boulder-CO-80305/2111676613_zpid",
+        "snippet": "850 W Moorhead Cir, Boulder CO, is a Apartment home that contains 630 sq ft.It contains 1 bedroom and 1 bathroom.This home last sold for $259,900 in August 2018. The Rent Zestimate for this Apartment is $1,634/mo, which has increased by $1,634/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-18T09:15:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.MSranWG6GXXqsXwrP5jBAAHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.MSranWG6GXXqsXwrP5jBAAHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "850 W Moorhead Cir #2E, Boulder, CO 80305 - Movoto by OJO",
+        "url": "https://www.movoto.com/boulder-co/850-w-moorhead-cir-2e-boulder-co-80305/pid_e333nl3s9g/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/boulder-co/850-w-moorhead-cir-2e-boulder-co-80305/pid_e333nl3s9g",
+        "snippet": "For Sale: $265,000 $548/Sqft, $363/month HOA - 850 W Moorhead Cir #2E, Boulder, CO 80305 in Tantra Park is a 1 bed, 1 bath, 484 Sqft, 361,548 sqft lot, Condominium built in 1972, with an estimated value of $271,000",
+        "dateLastCrawled": "2025-03-22T07:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "850 W Moorhead Circle Unit 2e Boulder, CO 80305 - Trulia",
+        "url": "https://www.trulia.com/home/850-w-moorhead-cir-2e-boulder-co-80305-61637744",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/850-w-moorhead-cir-2e-boulder-co-80305-61637744",
+        "snippet": "850 W Moorhead Circle Unit 2e, Boulder, CO 80305 is a 484 sqft, 1 bed, 1 bath Condo listed for $280,000. MOVE IN TURN KEY CONDO NESTLED IN A PERFECT LOCATION PRICED TO SELL!!! GR8 income investment for CU student!!!! This...",
+        "dateLastCrawled": "2025-01-29T18:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "850 W Moorhead Circle, 2E Boulder, CO 80305 - corcoran.com",
+        "url": "https://www.corcoran.com/listing/for-sale/850-w-moorhead-circle-2e-boulder-co-80305/92233744/regionId/109",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.corcoran.com/listing/for-sale/850-w-moorhead-circle-2e-boulder-co-80305/...",
+        "snippet": "850 W Moorhead Circle, 2E Boulder, CO 80305. Boulder, CO 80305. for sale | Condo | Built in 1972. 1 bed. 1 bath. 484 Approx. Sqft/ 8.3 acres. $280,000. Maintenance/Common Charges: $363; Annual Tax: $1,342.00; PRESENTED BY CORCORAN PERRY & CO. This is a carousel. Use Next and Previous buttons to navigate. Click on image or \"Expand\" button to ...",
+        "dateLastCrawled": "2025-01-10T04:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "The Corcoran Group"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "850 W Moorhead Circle 2E, Boulder, CO 80305 - exitrealty.com",
+        "url": "https://exitrealty.com/listing/coml_pro6601295/850_W_Moorhead_Circle_2E__Boulder__CO_80305",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://exitrealty.com/listing/coml_pro6601295/850_W_Moorhead_Circle_2E__Boulder__CO_80305",
+        "snippet": "View 23 photos of 850 W Moorhead Circle 2E, Boulder, CO 80305. This 484 sq ft, 1.0 bed, 1.0 bath, Residential is listed for 280000.0000. MLS #6601295",
+        "dateLastCrawled": "2025-01-15T09:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "EXIT Realty"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "850 W Moorhead Cir APT 2L, Boulder, CO 80305 | Zillow",
+        "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2L-Boulder-CO-80305/61637758_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2L-Boulder-CO-80305/61637758...",
+        "snippet": "850 W Moorhead Cir APT 2L, Boulder, CO 80305 is an apartment unit listed for rent at $1,985 /mo. The 550 Square Feet unit is a 1 bed, 1 bath apartment unit. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-06-01T15:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "850 W Moorhead Circle #2E, Boulder, CO 80305 - ERA",
+        "url": "https://www.era.com/co/boulder/850-w-moorhead-cir-apt-2e/lid-P00800000GlaqwJ7Y1r6hyuK6HkJXIOpIZiBtwiA",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.era.com/co/boulder/850-w-moorhead-cir-apt-2e/lid-P00800000GlaqwJ7Y1r6hyuK6...",
+        "snippet": "Find Property Information for 850 W Moorhead Circle #2E, Boulder, CO 80305. View Photos, Pricing, Listing Status & More.",
+        "dateLastCrawled": "2025-01-10T19:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "ERA"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "850 W Moorhead Cir UNIT 2J, Boulder, CO 80305 | Zillow",
+        "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2J-Boulder-CO-80305/61637756_zpid/",
+        "datePublished": "2024-11-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 27, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-APT-2J-Boulder-CO-80305/61637756...",
+        "snippet": "850 W Moorhead Cir Unit 2j, Boulder CO, is a Condo home that contains 500 sq ft and was built in 1972.It contains 1 bedroom and 1 bathroom.This home last sold for $250,000 in November 2024. The Zestimate for this Condo is $266,200, which has increased by $266,200 in the last 30 days.The Rent Zestimate for this Condo is $1,684/mo, which has increased by $1,684/mo in the last 30 days.",
+        "dateLastCrawled": "2024-12-03T10:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "850 W Moorhead Cir, Boulder, CO 80305 | Redfin",
+        "url": "https://www.redfin.com/CO/Boulder/850-W-Moorhead-Cir-80305/home/39517119",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Boulder/850-W-Moorhead-Cir-80305/home/39517119",
+        "snippet": "1 bed, 1 bath, 600 sq. ft. townhouse located at 850 W Moorhead Cir, Boulder, CO 80305 sold for $114,500 on Mar 31, 2005. MLS# 439713. Gorgeous condo in desirable South Boulder location. This spacio...",
+        "dateLastCrawled": "2025-03-21T22:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "850 W Moorhead Cir Apt 2E, Boulder, CO 80305 - Highrises.com",
+        "url": "https://www.highrises.com/listings/850-w-moorhead-cir-apt-2e_boulder_co_80305_1727489349",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.highrises.com/listings/850-w-moorhead-cir-apt-2e_boulder_co_80305_1727489349",
+        "snippet": "Check out 23 photos of this 1 bed, 1 bath, 484 Sq. Ft. condo located at 850 W Moorhead Cir Apt 2E, Boulder, CO 80305 on sale now for $280000.",
+        "dateLastCrawled": "2025-02-25T14:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Highrises.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "850 W Moorhead Cir #R-2E, Boulder, CO 80305 | Zillow",
+        "url": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-R-2E-Boulder-CO-80305/2060457518_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/850-W-Moorhead-Cir-R-2E-Boulder-CO-80305/2060457518...",
+        "snippet": "850 W Moorhead Cir #R-2E, Boulder, CO 80305 is currently not for sale. The -- sqft home type unknown home is a -- beds, -- baths property. This home was built in null and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-01-09T17:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

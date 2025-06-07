@@ -1,0 +1,435 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "16506 Meredith Ave, Omaha NE 68116"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=16506+Meredith+Ave%2c+Omaha+NE+68116",
+    "totalEstimatedMatches": 354000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "16506 Meredith Ave, Omaha, NE 68116 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16506-Meredith-Ave-Omaha-NE-68116/118806276_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16506-Meredith-Ave-Omaha-NE-68116/118806276_zpid",
+        "snippet": "16506 Meredith Ave, Omaha, NE 68116 is currently not for sale. The 1,490 Square Feet single family home is a 3 beds, 2 baths property. This home was built in 2009 and last sold on 2016-08-08 for $181,000. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-03-04T14:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "16506 Meredith Ave, Omaha, NE 68116 | Redfin",
+        "url": "https://www.redfin.com/NE/Omaha/16506-Meredith-Ave-68116/home/64029379",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NE/Omaha/16506-Meredith-Ave-68116/home/64029379",
+        "snippet": "3 beds, 2 baths, 1487 sq. ft. house located at 16506 Meredith Ave, Omaha, NE 68116 sold for $174,650 on Nov 25, 2009. MLS# 20914447. Don't miss out on this Stimulus Ready House!!!!",
+        "dateLastCrawled": "2025-04-20T20:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "16506 Meredith Ave, Omaha, 68116, NE"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "16506 Meredith Ave, Omaha, NE 68116 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/16506-Meredith-Ave_Omaha_NE_68116_M70254-58941",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/16506-Meredith-Ave_Omaha_NE_68116_M...",
+        "snippet": "View 10 photos for 16506 Meredith Ave, Omaha, NE 68116, a 3 bed, 2 bath, 1,490 Sq. Ft. single family home built in 2009 that was last sold on 12/04/2009.",
+        "dateLastCrawled": "2024-04-27T16:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "16506 Meredith Ave, Omaha, NE 68116 - Trulia",
+        "url": "https://www.trulia.com/home/16506-meredith-ave-omaha-ne-68116-118806276",
+        "datePublished": "2024-03-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 7, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/16506-meredith-ave-omaha-ne-68116-118806276",
+        "snippet": "16506 Meredith Ave, Omaha, NE 68116 is a 1,492 sqft, 3 bed, 2 bath home sold in 2016. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-03-07T08:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "16506 Meredith Ave, Omaha, NE 68116 - Homes.com",
+        "url": "https://www.homes.com/property/16506-meredith-ave-omaha-ne/5ptvrlhjmwfbh/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/16506-meredith-ave-omaha-ne/5ptvrlhjmwfbh",
+        "snippet": "16506 Meredith Ave, Omaha, NE 68116 - 1,487 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... NE 68116 and is currently estimated at $327,078, approximately $219 per square foot. 16506 Meredith Ave is a home located in Douglas County with nearby schools including Standing Bear Elementary School, Alice ...",
+        "dateLastCrawled": "2025-02-04T10:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "16506 Meredith Ave Omaha NE 68116 Property Details & Valuation - Xome",
+        "url": "https://www.xome.com/realestate/16506-meredith-ave-omaha-ne-68116-143325959",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/16506-meredith-ave-omaha-ne-68116-143325959",
+        "snippet": "16506 Meredith Ave Omaha NE with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $320,070. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2025-03-25T00:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "16506 MEREDITH AVE, OMAHA, NE 68116 - RE/MAX",
+        "url": "https://www.remax.com/ne/omaha/home-details/16506-meredith-ave-omaha-ne-68116/1504403177664189826",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/ne/omaha/home-details/16506-meredith-ave-omaha-ne-68116/...",
+        "snippet": "View 16506 MEREDITH AVE, OMAHA, NE 68116 property and neighbourhood details. Find out how much this listing is worth with RE/MAX's Home Value Estimator and view similar real estate listings. ... Details for 16506 MEREDITH AVE. Built in 2009. No Info. 0.16 acres lot. Interior. Bathrooms Full. 2.",
+        "dateLastCrawled": "2024-09-27T16:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Who Lives at 16506 Meredith Ave, Omaha, NE 68116 | Spokeo",
+        "url": "https://www.spokeo.com/NE/Omaha/16506-Meredith-Ave",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/NE/Omaha/16506-Meredith-Ave",
+        "snippet": "Find people by address using reverse address lookup for 16506 Meredith Ave, Omaha, NE 68116. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2023-05-14T20:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "16506 MEREDITH AVE, Omaha, NE 68116 | Property records - Rehold",
+        "url": "https://rehold.com/Omaha+NE/MEREDITH+AVE/16506",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://rehold.com/Omaha+NE/MEREDITH+AVE/16506",
+        "snippet": "16506 MEREDITH AVE, Omaha, NE 68116 is a 1,492 sqft, 3 beds, 2 baths house. View more property details, see the estimate, sales history and search for homes nearby on Rehold ... The property features fireplace. The single-family residence is situated at the end of the street at 16506 Meredith Ave, Omaha, Nebraska. Property information includes ...",
+        "dateLastCrawled": "2025-04-14T03:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Rehold"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Meredith Ave, Omaha, NE 68116 | Owner & Property Records - NeighborWho",
+        "url": "https://www.neighborwho.com/Meredith-Ave-Omaha-NE-addresses/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.neighborwho.com/Meredith-Ave-Omaha-NE-addresses",
+        "snippet": "We found 561 addresses on Meredith Avenue in Omaha, NE 68116. Find out who lives and owns property on this street. Get home owner information, property tax, mortgage records and much more. ... 16506 Meredith Ave Omaha, NE 68116. See Address . POSSIBLE OWNERS & RESIDENTS. Joseph Hiykel. Ann Couch. A Couch. FEATURES. 0.16 acre. 3 beds / 2 baths ...",
+        "dateLastCrawled": "2025-05-18T13:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NeighborWho"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "16502 Meredith Ave, Omaha, NE 68116 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16502-Meredith-Ave-Omaha-NE-68116/118806275_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16502-Meredith-Ave-Omaha-NE-68116/118806275_zpid",
+        "snippet": "16502 Meredith Ave, Omaha NE, is a Single Family home that contains 1402 sq ft and was built in 2009.It contains 3 bedrooms and 2 bathrooms.This home last sold for $181,000 in October 2014. The Zestimate for this Single Family is $319,800, which has increased by $6,090 in the last 30 days.The Rent Zestimate for this Single Family is $2,150/mo, which has increased by $2,150/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-09T02:38:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "16503 Meredith Ave, Omaha, NE 68116 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/16503-Meredith-Ave_Omaha_NE_68116_M81164-88346",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/16503-Meredith-Ave_Omaha_NE_68116_M...",
+        "snippet": "See photos and price history of this 3 bed, 1 bath, 1,667 Sq. Ft. recently sold home located at 16503 Meredith Ave, Omaha, NE 68116 that was sold on 05/31/2024 for $333500.",
+        "dateLastCrawled": "2024-06-28T14:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "16502 Meredith Ave, Omaha, NE 68116 | Redfin",
+        "url": "https://www.redfin.com/NE/Omaha/16502-Meredith-Ave-68116/home/64068974",
+        "datePublished": "2014-10-10T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 10, 2014",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NE/Omaha/16502-Meredith-Ave-68116/home/64068974",
+        "snippet": "3 beds, 2 baths, 1402 sq. ft. house located at 16502 Meredith Ave, Omaha, NE 68116 sold for $181,000 on Oct 10, 2014. MLS# 21416216. Beautiful one-owner ranch in Stone Ridge! Built in 2009, this ho...",
+        "dateLastCrawled": "2025-05-18T18:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "16507 Meredith Ave, Omaha, NE 68116 | MLS# 22216751 - Redfin",
+        "url": "https://www.redfin.com/NE/Omaha/16507-Meredith-Ave-68116/home/64032930",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NE/Omaha/16507-Meredith-Ave-68116/home/64032930",
+        "snippet": "3 beds, 2 baths, 1799 sq. ft. house located at 16507 Meredith Ave, Omaha, NE 68116 sold for $299,000 on Sep 8, 2022. MLS# 22216751. Don't miss out on & this move-in ready 3 BDRM multi-level i...",
+        "dateLastCrawled": "2025-01-29T05:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "16514 Meredith Ave, Omaha, NE 68116 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16514-Meredith-Ave-Omaha-NE-68116/118806278_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16514-Meredith-Ave-Omaha-NE-68116/118806278_zpid",
+        "snippet": "16514 Meredith Ave, Omaha NE, is a Single Family home that contains 1490 sq ft and was built in 2010.It contains 4 bedrooms and 3 bathrooms.This home last sold for $179,950 in February 2013. The Zestimate for this Single Family is $332,900, which has increased by $2,407 in the last 30 days.The Rent Zestimate for this Single Family is $2,220/mo, which has increased by $2,220/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-19T03:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "16526 Meredith Ave, Omaha, NE 68116 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16526-Meredith-Ave-Omaha-NE-68116/118806281_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16526-Meredith-Ave-Omaha-NE-68116/118806281_zpid",
+        "snippet": "16526 Meredith Ave, Omaha NE, is a Single Family home that contains 1523 sq ft and was built in 2011.It contains 3 bedrooms and 3 bathrooms.This home last sold for $169,900 in May 2011. The Zestimate for this Single Family is $341,200, which has increased by $4,560 in the last 30 days.The Rent Zestimate for this Single Family is $2,239/mo, which has increased by $2,239/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-16T23:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "16510 Meredith Ave, Omaha, NE 68116 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16510-Meredith-Ave-Omaha-NE-68116/118806277_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16510-Meredith-Ave-Omaha-NE-68116/118806277_zpid",
+        "snippet": "16510 Meredith Ave, Omaha NE, is a Single Family home that contains 1382 sq ft and was built in 2009.It contains 3 bedrooms and 2 bathrooms.This home last sold for $180,000 in November 2015. The Zestimate for this Single Family is $308,400, which has increased by $1,879 in the last 30 days.The Rent Zestimate for this Single Family is $2,113/mo, which has increased by $2,113/mo in the last 30 days.",
+        "dateLastCrawled": "2025-02-25T19:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "16526 Meredith Ave, Omaha, NE 68116 | MLS# 21021189 - Redfin",
+        "url": "https://www.redfin.com/NE/Omaha/16526-Meredith-Ave-68116/home/64035817",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NE/Omaha/16526-Meredith-Ave-68116/home/64035817",
+        "snippet": "3 beds, 2 baths, 1521 sq. ft. house located at 16526 Meredith Ave, Omaha, NE 68116 sold for $169,900 on May 23, 2011. MLS# 21021189. Everything's included-blinds, Stainless Steel appliances-even w/...",
+        "dateLastCrawled": "2024-09-15T22:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "16514 Meredith Ave, Omaha, NE 68116 | Redfin",
+        "url": "https://www.redfin.com/NE/Omaha/16514-Meredith-Ave-68116/home/64032624",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/NE/Omaha/16514-Meredith-Ave-68116/home/64032624",
+        "snippet": "4 beds, 3 baths, 1740 sq. ft. house located at 16514 Meredith Ave, Omaha, NE 68116 sold for $179,950 on Feb 28, 2013. MLS# 21300113. Included in this Celebrity home is refrigerator, washer, dryer, ...",
+        "dateLastCrawled": "2025-05-16T23:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "16503 Meredith Ave, Omaha, NE 68116 - Zillow",
+        "url": "https://www.zillow.com/homedetails/16503-Meredith-Ave-Omaha-NE-68116/118806274_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/16503-Meredith-Ave-Omaha-NE-68116/118806274_zpid",
+        "snippet": "16503 Meredith Ave, Omaha NE, is a Single Family home that contains 1667 sq ft and was built in 2010.It contains 3 bedrooms and 2 bathrooms.This home last sold for $333,500 in May 2024. The Zestimate for this Single Family is $345,000, which has increased by $3,581 in the last 30 days.The Rent Zestimate for this Single Family is $2,259/mo, which has increased by $2,259/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-14T10:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

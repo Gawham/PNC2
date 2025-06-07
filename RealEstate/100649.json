@@ -1,0 +1,409 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "841 Huntington Dr, Highlands Ranch CO 80126"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=841+Huntington+Dr%2c+Highlands+Ranch+CO+80126",
+    "totalEstimatedMatches": 537000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "841 Huntington Dr, Highlands Ranch, CO 80126 | Zillow",
+        "url": "https://www.zillow.com/homedetails/841-Huntington-Dr-Highlands-Ranch-CO-80126/13447188_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/841-Huntington-Dr-Highlands-Ranch-CO-80126/13447188...",
+        "snippet": "841 Huntington Dr, Highlands Ranch CO, is a Single Family home that contains 2853 sq ft and was built in 1994.It contains 3 bedrooms and 3 bathrooms. The Zestimate for this Single Family is $899,700, which has increased by $12,353 in the last 30 days.The Rent Zestimate for this Single Family is $3,662/mo, which has increased by $3,662/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-23T08:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "841 Huntington Dr, Highlands Ranch, CO 80126 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/841-Huntington-Dr-80126/home/35161531",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/841-Huntington-Dr-80126/home/35161531",
+        "snippet": "3 beds, 3 baths, 3752 sq. ft. house located at 841 Huntington Dr, Highlands Ranch, CO 80126 sold for $265,869 on Mar 21, 1994. View sales history, tax history, home value estimates, and overhead vi...",
+        "dateLastCrawled": "2025-04-25T08:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "841 Huntington Dr, Highlands Ranch, CO 80126 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/841-Huntington-Dr_Highlands-Ranch_CO_80126_M19299-52953",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../841-Huntington-Dr_Highlands-Ranch_CO_80126_M19299-52953",
+        "snippet": "See sales history and home details for 841 Huntington Dr, Highlands Ranch, CO 80126, a 3 bed, 3 bath, 3,752 Sq. Ft. single family home built in 1994 that was last sold on 03/21/1994.",
+        "dateLastCrawled": "2024-02-24T16:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "841 Huntington Dr, Highlands Ranch, CO 80126 | Homes.com",
+        "url": "https://www.homes.com/property/841-huntington-dr-highlands-ranch-co/2sn3bdhpqry7e/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/841-huntington-dr-highlands-ranch-co/2sn3bdhpqry7e",
+        "snippet": "841 Huntington Dr, Highlands Ranch, CO 80126 - 3,883 sqft home . Browse photos, take a 3D tour & get detailed information about this property. Buy For Sale; Houses; Townhouses; ... 841 Huntington Dr Highlands Ranch, CO 80126 Northridge Neighborhood. Estimated Value: $861,986 - $1,006,000. 3 Beds. 4 Baths. 3,883 Sq Ft. $244 ...",
+        "dateLastCrawled": "2024-12-04T03:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "841 HUNTINGTON DR, HIGHLANDS RANCH, CO 80126 - RE/MAX",
+        "url": "https://www.remax.com/co/highlands-ranch/home-details/841-huntington-dr-highlands-ranch-co-80126/11468870054369014423",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.remax.com/.../841-huntington-dr-highlands-ranch-co-80126/11468870054369014423",
+        "snippet": "View 841 HUNTINGTON DR, HIGHLANDS RANCH, CO 80126 property and neighbourhood details. Find out how much this listing is worth with RE/MAX's Home Value Estimator and view similar real estate listings. ... Details for 841 HUNTINGTON DR. Built in 1994. $175 / Sq Ft. No Info. 0.17 acres lot. Interior.",
+        "dateLastCrawled": "2024-06-07T03:48:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RE/MAX"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "SPENDEN LLC - I Highlands Ranch CO, 80126 - Company Profile - Cortera",
+        "url": "https://start.cortera.com/company/research/m0o3nrp5s/spenden-llc--i/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://start.cortera.com/company/research/m0o3nrp5s/spenden-llc--i",
+        "snippet": "Free Business profile for SPENDEN LLC - I at 841 Huntington Dr, Highlands Ranch, CO, 80126-4729, US. Business Directory. Search Home; Industry Directory; Edit Company Profile; Add Company Profile; Resources. Resource Hub; ... Highlands Ranch, CO 80126-4729 VIEW MAP. Company Details. Location Type: Single Location Ownership: Private ...",
+        "dateLastCrawled": "2025-05-31T19:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Cortera"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "841 HUNTINGTON DR HIGHLANDS RANCH, CO 80126 - Bizapedia",
+        "url": "https://www.bizapedia.com/addresses/841-huntington-dr-highlands-ranch-co-80126.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bizapedia.com/addresses/841-huntington-dr-highlands-ranch-co-80126.html",
+        "snippet": "There are 5 companies that have an address matching 841 Huntington Dr Highlands Ranch, CO 80126. The companies are Blakeland Drive Investors Llp IV, Columbine Car Care Center Owners Association, Spenden Limited Liability Company I, Rbr Management LLP, and Blakeland Drive Investors Llp I.",
+        "dateLastCrawled": "2024-12-02T22:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bizapedia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "BLAKELAND DRIVE INVESTORS LLP - IV :: Colorado (US) - OpenCorporates",
+        "url": "https://opencorporates.com/companies/us_co/19971072817",
+        "datePublished": "2023-06-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Jun 27, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://opencorporates.com/companies/us_co/19971072817",
+        "snippet": "Free and open company data on Colorado (US) company BLAKELAND DRIVE INVESTORS LLP - IV (company number 19971072817) Changes to our website \u2014 to find out why access to some data now requires a login, click here",
+        "dateLastCrawled": "2024-04-12T05:57:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "OpenCorporates"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "841 Huntington Dr Highlands Ranch, CO 80126 - Xome",
+        "url": "https://www.xome.com/realestate/841-huntington-dr-highlands-ranch-co-80126-169050028",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/841-huntington-dr-highlands-ranch-co-80126-169050028",
+        "snippet": "841 Huntington Dr Highlands Ranch CO with 3 bedroom and 3 bath is currently not for sale. Xome's estimated value is $830,243. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-06-28T04:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "841 Hughes Lane, Highlands Ranch, CO 80126 - Zillow",
+        "url": "https://www.zillow.com/homedetails/841-Hughes-Ln-Highlands-Ranch-CO-80126/13447116_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.AYc3iQTa2BmNXxPVkla_tgHaFI&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/841-Hughes-Ln-Highlands-Ranch-CO-80126/13447116_zpid",
+        "snippet": "841 Hughes Lane, Highlands Ranch CO, is a Single Family home that contains 4467 sq ft and was built in 1996.It contains 4 bedrooms and 4 bathrooms.This home last sold for $820,000 in January 2024. The Zestimate for this Single Family is $838,200, which has increased by $15,781 in the last 30 days.The Rent Zestimate for this Single Family is $4,349/mo, which has increased by $4,349/mo in the ...",
+        "dateLastCrawled": "2025-02-12T02:40:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.AYc3iQTa2BmNXxPVkla_tgHaFI&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 328,
+          "imageId": "OIP.AYc3iQTa2BmNXxPVkla_tgHaFI"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "841 Huntington Dr Highlands Ranch, CO 80126 - Trulia",
+        "url": "https://www.trulia.com/home/841-huntington-dr-highlands-ranch-co-80126-13447188",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/841-huntington-dr-highlands-ranch-co-80126-13447188",
+        "snippet": "841 Huntington Dr, Highlands Ranch, CO 80126 is a 2,853 sqft, 3 bed, 3 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-11-24T20:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "853 Huntington Dr, Highlands Ranch, CO 80126 [Updated 5/9]",
+        "url": "https://www.realtor.com/realestateandhomes-detail/853-Huntington-Dr_Highlands-Ranch_CO_80126_M16513-55396",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../853-Huntington-Dr_Highlands-Ranch_CO_80126_M16513-55396",
+        "snippet": "853 Huntington Dr, Highlands Ranch, CO 80126 is pending. View 47 photos of this 6 bed, 3.5 bath, 4737 sqft. single family home with a list price of $949000.",
+        "dateLastCrawled": "2025-06-03T11:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "841 Hughes Ln, Highlands Ranch, CO 80126 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/841-Hughes-Ln-80126/home/35161468",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/841-Hughes-Ln-80126/home/35161468",
+        "snippet": "(REColorado as Distributed by MLS Grid) 4 beds, 4 baths, 4467 sq. ft. house located at 841 Hughes Ln, Highlands Ranch, CO 80126 sold for $820,000 on Jan 8, 2024. MLS# 2992498. Welcome to this exceptional one-owner home in the highly soug...",
+        "dateLastCrawled": "2025-03-31T03:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "853 Huntington Drive, Highlands Ranch, CO 80126 - Zillow",
+        "url": "https://www.zillow.com/homedetails/853-Huntington-Dr-Highlands-Ranch-CO-80126/13447189_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/853-Huntington-Dr-Highlands-Ranch-CO-80126/13447189...",
+        "snippet": "Zillow has 47 photos of this $949,000 6 beds, 4 baths, 4,737 Square Feet single family home located at 853 Huntington Drive, Highlands Ranch, CO 80126 built in 1994. MLS #2238495. 3D Home Tour Available!",
+        "dateLastCrawled": "2025-04-19T04:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "841 Summer Drive, Highlands Ranch, CO 80126 | Zillow",
+        "url": "https://www.zillow.com/homedetails/841-Summer-Dr-Highlands-Ranch-CO-80126/13444261_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/841-Summer-Dr-Highlands-Ranch-CO-80126/13444261_zpid",
+        "snippet": "841 Summer Drive, Highlands Ranch CO, is a Condo home that contains 508 sq ft and was built in 1984.It contains 1 bedroom and 1 bathroom.This home last sold for $285,000 in August 2023. The Zestimate for this Condo is $274,000, which has decreased by $7,787 in the last 30 days.The Rent Zestimate for this Condo is $1,426/mo, which has increased by $1,426/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-21T10:28:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "842 Huntington Dr, Highlands Ranch, CO 80126 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/842-Huntington-Dr-80126/home/35161469",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/842-Huntington-Dr-80126/home/35161469",
+        "snippet": "4 beds, 3 baths, 3708 sq. ft. house located at 842 Huntington Dr, Highlands Ranch, CO 80126 sold for $559,697 on Jul 14, 2016. View sales history, tax history, home value estimates, and overhead vi...",
+        "dateLastCrawled": "2025-05-11T11:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "848 Huntington Dr, Highlands Ranch, CO 80126 | Zillow",
+        "url": "https://www.zillow.com/homedetails/848-Huntington-Dr-Highlands-Ranch-CO-80126/13447112_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/848-Huntington-Dr-Highlands-Ranch-CO-80126/13447112...",
+        "snippet": "848 Huntington Dr, Highlands Ranch CO, is a Single Family home that contains 2808 sq ft and was built in 1994.It contains 4 bedrooms and 3 bathrooms.This home last sold for $410,000 in October 2007. The Zestimate for this Single Family is $925,000, which has increased by $12,952 in the last 30 days.The Rent Zestimate for this Single Family is $3,745/mo, which has increased by $3,745/mo in the ...",
+        "dateLastCrawled": "2025-04-02T09:27:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "883 Huntington Dr, Highlands Ranch, CO 80126 | Redfin",
+        "url": "https://www.redfin.com/CO/Highlands-Ranch/883-Huntington-Dr-80126/home/35161527",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Highlands-Ranch/883-Huntington-Dr-80126/home/35161527",
+        "snippet": "3 beds, 3.5 baths, 3735 sq. ft. house located at 883 Huntington Dr, Highlands Ranch, CO 80126 sold for $751,000 on Sep 10, 2021. MLS# 6777848. Rare opportunity to own in desirable Mansion Place! Lo...",
+        "dateLastCrawled": "2025-05-12T18:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "842 Huntington Dr, Highlands Ranch, CO 80126 | Zillow",
+        "url": "https://www.zillow.com/homedetails/842-Huntington-Dr-Highlands-Ranch-CO-80126/13447113_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/842-Huntington-Dr-Highlands-Ranch-CO-80126/13447113...",
+        "snippet": "842 Huntington Dr, Highlands Ranch CO, is a Single Family home that contains 3754 sq ft and was built in 1994.It contains 5 bedrooms and 4 bathrooms.This home last sold for $559,697 in July 2016. The Zestimate for this Single Family is $953,900, which has increased by $15,880 in the last 30 days.The Rent Zestimate for this Single Family is $4,109/mo, which has increased by $4,109/mo in the ...",
+        "dateLastCrawled": "2025-04-18T23:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

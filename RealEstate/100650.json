@@ -1,0 +1,422 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "6573 Tillamook Dr, Colorado Springs CO 80925"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=6573+Tillamook+Dr%2c+Colorado+Springs+CO+80925",
+    "totalEstimatedMatches": 1060000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "6573 Tillamook Dr, Colorado Springs, CO 80925 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6573-Tillamook-Dr-Colorado-Springs-CO-80925/338033322_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6573-Tillamook-Dr-Colorado-Springs-CO-80925/...",
+        "snippet": "6573 Tillamook Dr, Colorado Springs CO, is a Single Family home that contains 3319 sq ft and was built in 2020.It contains 5 bedrooms and 4 bathrooms.This home last sold for $473,700 in April 2021. The Zestimate for this Single Family is $559,700, which has increased by $7,514 in the last 30 days.The Rent Zestimate for this Single Family is $2,986/mo, which has increased by $2,986/mo in the ...",
+        "deepLinks": [
+          {
+            "name": "6583 Tillamook Dr, Colorado Springs, CO 80925 | Zillow",
+            "url": "https://www.zillow.com/homedetails/6583-Tillamook-Dr-Colorado-Springs-CO-80925/338032910_zpid/",
+            "snippet": "6583 Tillamook Dr, Colorado Springs CO, is a Single Family home that contains 3064 sq ft and was built in 2020.It contains 6 bedrooms and 4 bathrooms.This home last sold for $550,000 in March 2024. The Zestimate for this Single Family is $550,100, which has decreased by $5,680 in the last 30 days.The Rent Zestimate for this Single Family is $2,999/mo, which has increased by $54/mo in the last ..."
+          }
+        ],
+        "dateLastCrawled": "2025-03-05T01:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "6573 Tillamook Dr, Colorado Springs, CO 80925 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6573-Tillamook-Dr-80925/home/174375307",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6573-Tillamook-Dr-80925/home/174375307",
+        "snippet": "3 beds, 3 baths, 3551 sq. ft. house located at 6573 Tillamook Dr, Colorado Springs, CO 80925. View sales history, tax history, home value estimates, and overhead views. APN 5524208019.",
+        "dateLastCrawled": "2025-02-28T23:44:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "6573 Tillamook Dr, Colorado Springs, CO 80925 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6573-Tillamook-Dr_Colorado-Springs_CO_80925_M96184-60800",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6573-Tillamook-Dr_Colorado-Springs_CO_80925_M96184-60800",
+        "snippet": "View 29 photos for 6573 Tillamook Dr, Colorado Springs, CO 80925, a 5 bed, 4 bath, 3,319 Sq. Ft. single family home built in 2020 that was last sold on 04/09/2021.",
+        "dateLastCrawled": "2025-01-14T06:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "6573 Tillamook Dr, Colorado Springs, CO 80925 | Homes.com",
+        "url": "https://www.homes.com/property/6573-tillamook-dr-colorado-springs-co/y7q8g4hwrvhw0/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/6573-tillamook-dr-colorado-springs-co/y7q8g4hwrvhw0",
+        "snippet": "6573 Tillamook Dr, Colorado Springs, CO 80925 - 2,298 sqft home . Browse photos, take a 3D tour & get detailed information about this property. ... CO 80925 and is currently estimated at $559,241, approximately $243 per square foot. 6573 Tillamook Dr is a home located in El Paso County with nearby schools including Grand Mountain School, Mesa ...",
+        "dateLastCrawled": "2025-06-02T20:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "6573 Tillamook Drive, Colorado Springs, CO 80925 - Realty.com",
+        "url": "https://www.realty.com/home-listings/307286699/6573-Tillamook-Dr-Colorado-Springs-CO-80925",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realty.com/home-listings/307286699/6573-Tillamook-Dr-Colorado-Springs-CO-80925",
+        "snippet": "6573 Tillamook Drive, Colorado Springs, CO 80925 is a Single Family 3,319 sq. ft. home listed for sale. Realty.com has 29 photos available of this 5 bed, 4 bath house, listed at $453,800. View sales and tax history, use our mortgage calculator and more on Realty.com",
+        "dateLastCrawled": "2024-07-31T06:32:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realty.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "6573 Tillamook Dr, Colorado Springs, CO 80925 | 36 Photos | MLS ...",
+        "url": "https://www.movoto.com/colorado-springs-co/6573-tillamook-dr-colorado-springs-co-80925-523_7263713/for-sale/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/colorado-springs-co/6573-tillamook-dr-colorado-springs-co-80925...",
+        "snippet": "For Sale - 6573 Tillamook Dr, Colorado Springs, CO. This Single Family House is 3-bed, 2-bath, 3,319-Sqft ($130/Sqft), listed at $430,900. MLS# 7263713.",
+        "dateLastCrawled": "2020-09-23T04:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "6573 Tillamook Drive, Colorado Springs, CO Property Records - County Office",
+        "url": "https://www.countyoffice.org/property-record-6573-tillamook-dr-colorado-springs-co-80925-3eb/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-6573-tillamook-dr-colorado-springs-co...",
+        "snippet": "6573 Tillamook Dr Colorado Springs, CO 80925 Owner Occupied True Property Description. Year: 2020: Total Area: 2,298 sq ft: Stories: 2: Rooms: 6: Bedrooms: 3: Bathrooms: 2: Parking Spaces: 2: ... 6573 Tillamook Colorado Springs, CO 80925 Loan Mortgage Solutions Of Colorado Llc (Mortgage Company) Amount: $484,641 Type: Veteran Affairs Due Date ...",
+        "dateLastCrawled": "2024-03-01T02:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "6573 Tillamook Dr, Colorado Springs, CO 80925 - Trulia",
+        "url": "https://www.trulia.com/home/6573-tillamook-dr-colorado-springs-co-80925-338033322",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/6573-tillamook-dr-colorado-springs-co-80925-338033322",
+        "snippet": "6573 Tillamook Dr, Colorado Springs, CO 80925 is a 3,319 sqft, 5 bed, 4 bath home sold in 2021. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-10-25T11:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "6573 Tillamook Drive Colorado Springs CO 80925 Weichert.com - Sold or ...",
+        "url": "https://www.weichert.com/93591807/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.weichert.com/93591807",
+        "snippet": "6573 Tillamook Drive Colorado Springs CO 80925 Weichert.com. Skip page header and navigation. Colorado Springs - WEICHERT, REALTORS\u00ae - Pikes Peak Group (719) 634-0500. 1-800-401-0486. Looking for an Associate? ... 6573 Tillamook Drive Colorado Springs, CO $ 430,900 $ 430,900 Get more info.",
+        "dateLastCrawled": "2024-12-22T11:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Weichert Realtors"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "6583 Tillamook Dr, Colorado Springs, CO 80925 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6583-Tillamook-Dr_Colorado-Springs_CO_80925_M98221-48191",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6583-Tillamook-Dr_Colorado-Springs_CO_80925_M98221-48191",
+        "snippet": "View detailed information about property 6583 Tillamook Dr, Colorado Springs, CO 80925 including listing details, property photos, school and neighborhood data, and much more. ... 6573 Tillamook ...",
+        "dateLastCrawled": "2024-03-22T12:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "6583 Tillamook Dr, Colorado Springs, CO 80925 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6583-Tillamook-Dr-Colorado-Springs-CO-80925/338032910_zpid/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.UdrHRLF6Naw_qLRMG49sWgHaFj&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2024-03-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 15, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6583-Tillamook-Dr-Colorado-Springs-CO-80925/...",
+        "snippet": "6583 Tillamook Dr, Colorado Springs CO, is a Single Family home that contains 3064 sq ft and was built in 2020.It contains 6 bedrooms and 4 bathrooms.This home last sold for $550,000 in March 2024. The Zestimate for this Single Family is $550,100, which has decreased by $5,680 in the last 30 days.The Rent Zestimate for this Single Family is $2,999/mo, which has increased by $54/mo in the last ...",
+        "dateLastCrawled": "2024-07-10T16:47:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.UdrHRLF6Naw_qLRMG49sWgHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.UdrHRLF6Naw_qLRMG49sWgHaFj"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "6573 Tillamook Dr Colorado Springs, CO 80925 - Xome",
+        "url": "https://www.xome.com/realestate/6573-tillamook-dr-colorado-springs-co-80925-171679921",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/6573-tillamook-dr-colorado-springs-co-80925-171679921",
+        "snippet": "6573 Tillamook Dr Colorado Springs CO with 3 bedroom and 2 bath is currently not for sale. Xome's estimated value is $537,692. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-05-11T10:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "6573 Tillamook Dr, Colorado Springs, CO 80925 MLS# 7263713 - Movoto.com",
+        "url": "https://www.movoto.com/colorado-springs-co/6573-tillamook-dr-colorado-springs-co-80925-523_7263713/",
+        "datePublished": "2020-10-24T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 24, 2020",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/colorado-springs-co/6573-tillamook-dr-colorado-springs-co-80925...",
+        "snippet": "Off-market - See photos and descriptions of 6573 Tillamook Dr, Colorado Springs, CO 80925. This Colorado Springs, Colorado Single Family House is 3-bed, 2-bath, estimated for undefined MLS# 7263713.",
+        "dateLastCrawled": "2020-10-24T04:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "6473 Tillamook Dr, Colorado Springs, CO 80925 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6473-Tillamook-Dr-Colorado-Springs-CO-80925/338031711_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6473-Tillamook-Dr-Colorado-Springs-CO-80925/...",
+        "snippet": "6473 Tillamook Dr, Colorado Springs CO, is a Single Family home that contains 1698 sq ft and was built in 2021.It contains 4 bedrooms and 3 bathrooms.This home last sold for $359,500 in March 2021. The Zestimate for this Single Family is $436,200, which has increased by $107 in the last 30 days.The Rent Zestimate for this Single Family is $2,339/mo, which has increased by $2,339/mo in the last ...",
+        "dateLastCrawled": "2024-10-03T01:30:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "6572 Tillamook Dr, Colorado Springs, CO 80925 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/6572-Tillamook-Dr-80925/home/174375281",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/6572-Tillamook-Dr-80925/home/174375281",
+        "snippet": "4 beds, 3 baths, 1748 sq. ft. house located at 6572 Tillamook Dr, Colorado Springs, CO 80925. View sales history, tax history, home value estimates, and overhead views. APN 5524207003.",
+        "dateLastCrawled": "2025-05-19T00:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "6572 Tillamook Dr, Colorado Springs, CO 80925 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/6572-Tillamook-Dr_Colorado-Springs_CO_80925_M97916-45420",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../6572-Tillamook-Dr_Colorado-Springs_CO_80925_M97916-45420",
+        "snippet": "View 39 photos for 6572 Tillamook Dr, Colorado Springs, CO 80925, a 4 bed, 3 bath, 1,748 Sq. Ft. single family home built in 2020 that was last sold on 03/08/2021.",
+        "dateLastCrawled": "2024-02-05T01:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "6552 Tillamook Dr, Colorado Springs, CO 80925 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6552-Tillamook-Dr-Colorado-Springs-CO-80925/2073543662_zpid/",
+        "datePublished": "2025-04-15T00:00:00.0000000",
+        "datePublishedDisplayText": "Apr 15, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6552-Tillamook-Dr-Colorado-Springs-CO-80925/...",
+        "snippet": "6552 Tillamook Dr, Colorado Springs CO, is a Single Family home that contains 2253 sq ft and was built in 2020.It contains 4 bedrooms and 3 bathrooms.This home last sold for $469,000 in April 2025. The Zestimate for this Single Family is $469,000, which has increased by $1,613 in the last 30 days.The Rent Zestimate for this Single Family is $2,457/mo, which has increased by $2,457/mo in the ...",
+        "dateLastCrawled": "2025-04-28T01:17:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "6572 Tillamook Dr, Colorado Springs, CO 80925 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6572-Tillamook-Dr-Colorado-Springs-CO-80925/2077229999_zpid/",
+        "datePublished": "2025-03-05T00:00:00.0000000",
+        "datePublishedDisplayText": "Mar 5, 2025",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6572-Tillamook-Dr-Colorado-Springs-CO-80925/...",
+        "snippet": "6572 Tillamook Dr, Colorado Springs CO, is a Single Family home that contains 1748 sq ft.It contains 4 bedrooms and 2 bathrooms.This home last sold for $395,000 in March 2021. The Zestimate for this Single Family is $433,800, which has increased by $200 in the last 30 days.The Rent Zestimate for this Single Family is $2,348/mo, which has increased by $2,348/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-30T05:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "6532 Tillamook Dr, Colorado Springs, CO 80925 | Zillow",
+        "url": "https://www.zillow.com/homedetails/6532-Tillamook-Dr-Colorado-Springs-CO-80925/338033692_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/6532-Tillamook-Dr-Colorado-Springs-CO-80925/...",
+        "snippet": "6532 Tillamook Dr, Colorado Springs CO, is a Single Family home that contains 2544 sq ft and was built in 2020.It contains 4 bedrooms and 3 bathrooms.This home last sold for $500,000 in April 2022. The Zestimate for this Single Family is $499,200, which has decreased by $2,884 in the last 30 days.The Rent Zestimate for this Single Family is $2,390/mo, which has increased by $2,390/mo in the ...",
+        "dateLastCrawled": "2025-03-27T03:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "316 Princeton St, Brush CO 80723"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=316+Princeton+St%2c+Brush+CO+80723",
+    "totalEstimatedMatches": 368000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "316 Princeton St, Brush, CO 80723 - Zillow",
+        "url": "https://www.zillow.com/homedetails/316-Princeton-St-Brush-CO-80723/194088214_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/316-Princeton-St-Brush-CO-80723/194088214_zpid",
+        "snippet": "316 Princeton St, Brush, CO 80723 is currently not for sale. The 2,660 Square Feet single family home is a 5 beds, 3 baths property. This home was built in 1977 and last sold on -- for $--. View more property details, sales history, and Zestimate data on Zillow.",
+        "dateLastCrawled": "2025-04-21T21:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "316 Princeton, Brush, CO 80723 | MLS# 180418 | Redfin",
+        "url": "https://www.redfin.com/CO/Brush/316-Princeton-St-80723/home/66077261",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brush/316-Princeton-St-80723/home/66077261",
+        "snippet": "4 beds, 2 baths, 3200 sq. ft. house located at 316 Princeton, Brush, CO 80723 sold for $150,000 on Jun 5, 1998. MLS# 180418.",
+        "dateLastCrawled": "2024-11-22T23:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "316 Princeton St, Brush, CO 80723 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/316-Princeton-St_Brush_CO_80723_M24491-60649",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/316-Princeton-St_Brush_CO_80723_M...",
+        "snippet": "See sales history and home details for 316 Princeton St, Brush, CO 80723, a 5 bed, 3 bath, 2,930 Sq. Ft. single family home built in 1985 that was last sold on 06/08/1998.",
+        "dateLastCrawled": "2024-05-20T01:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "316 Princeton St, Brush, CO 80723 - See Est. Value, Schools & More - Trulia",
+        "url": "https://www.trulia.com/home/316-princeton-st-brush-co-80723-194088214",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/316-princeton-st-brush-co-80723-194088214",
+        "snippet": "316 Princeton St, Brush, CO 80723 is a 4,519 sqft, 5 bed, 3 bath home. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2025-01-18T03:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "316 Princeton St , Brush, CO, 80723-1621 - Nuwber",
+        "url": "https://nuwber.com/address/CO/Brush/316-Princeton-St/57e272c6f3ff834bf4c5c36c",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nuwber.com/address/CO/Brush/316-Princeton-St/57e272c6f3ff834bf4c5c36c",
+        "snippet": "Marvin J Gardner, Louis Gardner, Sheryl R Garvik and Louise M Gardner live here. Find out homeowner information, property details, mortgage records, neighbors and more.",
+        "dateLastCrawled": "2025-04-07T07:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Nuwber"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Princeton St, Brush, CO 80723 Property Records",
+        "url": "https://www.countyoffice.org/princeton-st-brush-co-property-records/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/princeton-st-brush-co-property-records",
+        "snippet": "Princeton St in Brush, CO 80723 has 18 properties with an average market value of $327,719. These homes, built between 1970 and 1978, typically offer 3-8 bedrooms and 1-4 bathrooms. Property records show the average building size is 3,202 sq ft on lots averaging 0.234 acres.",
+        "dateLastCrawled": "2024-10-04T22:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Who Lives on Princeton St, Brush, CO 80723 - Spokeo",
+        "url": "https://www.spokeo.com/Princeton+St+Brush+CO+addresses",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/Princeton+St+Brush+CO+addresses",
+        "snippet": "Find out who lives on Princeton St, Brush, CO 80723. Uncover property values, resident history, neighborhood safety score, and more! 19 records found for Princeton St, Brush, CO 80723.",
+        "dateLastCrawled": "2025-05-30T08:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "316 Clayton St, Brush, CO 80723 - Zillow",
+        "url": "https://www.zillow.com/homedetails/316-Clayton-St-Brush-CO-80723/194089174_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/316-Clayton-St-Brush-CO-80723/194089174_zpid",
+        "snippet": "316 Clayton St, Brush CO, is a Single Family home that contains 2023 sq ft and was built in 1904.It contains 5 bedrooms and 2 bathrooms.This home last sold for $106,000 in February 2010. The Zestimate for this Single Family is $308,900, which has increased by $3,347 in the last 30 days.The Rent Zestimate for this Single Family is $2,043/mo, which has increased by $2,043/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-14T07:42:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "320 Princeton St, Brush, CO 80723 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/320-Princeton-St_Brush_CO_80723_M24491-97915",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/320-Princeton-St_Brush_CO_80723_M...",
+        "snippet": "View 39 photos for 320 Princeton St, Brush, CO 80723, a 4 bed, 3 bath, 2,990 Sq. Ft. single family home built in 1977 that was last sold on 03/25/2021.",
+        "dateLastCrawled": "2024-02-25T19:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "320 Princeton St, Brush, CO 80723 | MLS# 926901 | Redfin",
+        "url": "https://www.redfin.com/CO/Brush/320-Princeton-St-80723/home/66077264",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brush/320-Princeton-St-80723/home/66077264",
+        "snippet": "4 beds, 3 baths, 2990 sq. ft. house located at 320 Princeton St, Brush, CO 80723 sold for $357,555 on Mar 25, 2021. MLS# 926901. MOTIVATED SELLER! Beautiful 4 BR, 3 BA home ready to move into! Lar...",
+        "dateLastCrawled": "2024-08-25T17:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "336 Princeton St, Brush, CO 80723 - Zillow",
+        "url": "https://www.zillow.com/homedetails/336-Princeton-St-Brush-CO-80723/194088726_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/336-Princeton-St-Brush-CO-80723/194088726_zpid",
+        "snippet": "336 Princeton St, Brush CO, is a Single Family home that contains 1118 sq ft and was built in 1974.It contains 3 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $315,000, which has decreased by $1,287 in the last 30 days.The Rent Zestimate for this Single Family is $1,827/mo, which has increased by $1,827/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-05T19:25:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "316 Custer St, Brush, CO 80723 | Redfin",
+        "url": "https://www.redfin.com/CO/Brush/316-Custer-St-80723/home/66076734",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brush/316-Custer-St-80723/home/66076734",
+        "snippet": "Sold: 5 beds, 3 baths, 3430 sq. ft. house located at 316 Custer St, Brush, CO 80723 sold for $412,500 on Feb 3, 2025. MLS# 7849697. Discover the perfect blend of comfort and entertainment in this b...",
+        "dateLastCrawled": "2025-03-22T08:36:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "301 Princeton St, Brush, CO 80723 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/301-Princeton-St_Brush_CO_80723_M22113-42763",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/301-Princeton-St_Brush_CO_80723_M...",
+        "snippet": "View detailed information about property 301 Princeton St, Brush, CO 80723 including listing details, property photos, school and neighborhood data, and much more. ... 316 Princeton St, Brush, CO ...",
+        "dateLastCrawled": "2023-12-07T16:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "308 Princeton St, Brush, CO 80723 - Zillow",
+        "url": "https://www.zillow.com/homedetails/308-Princeton-St-Brush-CO-80723/194088921_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/308-Princeton-St-Brush-CO-80723/194088921_zpid",
+        "snippet": "308 Princeton St, Brush CO, is a Single Family home that contains 1220 sq ft and was built in 1975.It contains 3 bedrooms and 3 bathrooms. The Zestimate for this Single Family is $331,700, which has decreased by $2,071 in the last 30 days.The Rent Zestimate for this Single Family is $1,962/mo, which has increased by $1,962/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-28T08:34:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "316 Custer St, Brush, CO 80723 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/316-Custer-St_Brush_CO_80723_M24210-62130",
+        "datePublished": "2017-10-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 7, 2017",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/316-Custer-St_Brush_CO_80723_M24210...",
+        "snippet": "See photos and price history of this 5 bed, 3 bath, 3,430 Sq. Ft. recently sold home located at 316 Custer St, Brush, CO 80723 that was sold on 02/03/2025 for $412500.",
+        "dateLastCrawled": "2025-02-22T15:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "316 Applewood St, Brush, CO 80723 - Zillow",
+        "url": "https://www.zillow.com/homedetails/316-Applewood-St-Brush-CO-80723/194088772_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/316-Applewood-St-Brush-CO-80723/194088772_zpid",
+        "snippet": "316 Applewood St, Brush CO, is a Single Family home that contains 3106 sq ft and was built in 1979.It contains 3 bedrooms and 1.5 bathrooms. The Zestimate for this Single Family is $338,900, which has decreased by $880 in the last 30 days.The Rent Zestimate for this Single Family is $1,717/mo, which has increased by $1,717/mo in the last 30 days.",
+        "dateLastCrawled": "2024-11-23T03:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "316 Clayton St, Brush, CO 80723 | Redfin",
+        "url": "https://www.redfin.com/CO/Brush/316-Clayton-St-80723/home/66076850",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Brush/316-Clayton-St-80723/home/66076850",
+        "snippet": "5 beds, 2 baths, 2023 sq. ft. house located at 316 Clayton St, Brush, CO 80723 sold for $106,000 on Dec 4, 2009. View sales history, tax history, home value estimates, and overhead views. APN 12310...",
+        "dateLastCrawled": "2025-03-11T10:15:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "316 Clayton St, Brush, CO 80723 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/316-Clayton-St_Brush_CO_80723_M24201-30481",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/realestateandhomes-detail/316-Clayton-St_Brush_CO_80723_M24201...",
+        "snippet": "See sales history and home details for 316 Clayton St, Brush, CO 80723, a 5 bed, 2 bath, 2,023 Sq. Ft. single family home built in 1904 that was last sold on 12/04/2009.",
+        "dateLastCrawled": "2024-01-04T01:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "300 Princeton St, Brush, CO 80723 - Zillow",
+        "url": "https://www.zillow.com/homedetails/300-Princeton-St-Brush-CO-80723/194089104_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/300-Princeton-St-Brush-CO-80723/194089104_zpid",
+        "snippet": "300 Princeton St, Brush CO, is a Single Family home that contains 1196 sq ft and was built in 1970.It contains 3 bedrooms and 2 bathrooms.This home last sold for $100,000 in April 2021. The Zestimate for this Single Family is $258,900, which has increased by $6,960 in the last 30 days.The Rent Zestimate for this Single Family is $1,586/mo, which has increased by $1,586/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-22T22:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "320 Princeton St, Brush, CO 80723 - Zillow",
+        "url": "https://www.zillow.com/homedetails/320-Princeton-St-Brush-CO-80723/194088579_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/320-Princeton-St-Brush-CO-80723/194088579_zpid",
+        "snippet": "320 Princeton St, Brush CO, is a Single Family home that contains 2990 sq ft and was built in 1977.It contains 4 bedrooms and 3 bathrooms.This home last sold for $357,555 in March 2021. The Zestimate for this Single Family is $425,800, which has increased by $1,000 in the last 30 days.The Rent Zestimate for this Single Family is $2,044/mo, which has increased by $2,044/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-07T13:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}

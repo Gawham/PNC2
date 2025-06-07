@@ -1,0 +1,383 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "2275 Piros Dr, Colorado Springs CO 80915"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=2275+Piros+Dr%2c+Colorado+Springs+CO+80915",
+    "totalEstimatedMatches": 887000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "2275 Piros Dr, Colorado Springs, CO 80915 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2275-Piros-Dr-Colorado-Springs-CO-80915/13542579_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2275-Piros-Dr-Colorado-Springs-CO-80915/13542579_zpid",
+        "snippet": "2275 Piros Dr, Colorado Springs CO, is a Single Family home that contains 1920 sq ft and was built in 1984.It contains 4 bedrooms and 2.5 bathrooms.This home last sold for $216,000 in December 2016. The Zestimate for this Single Family is $405,500, which has increased by $1,780 in the last 30 days.The Rent Zestimate for this Single Family is $2,289/mo, which has increased by $2,289/mo in the ...",
+        "dateLastCrawled": "2024-12-04T09:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "2275 Piros Dr, Colorado Springs, CO 80915 - realtor.com",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2275-Piros-Dr_Colorado-Springs_CO_80915_M19327-24450",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2275-Piros-Dr_Colorado-Springs_CO_80915_M19327-24450",
+        "snippet": "View 9 photos for 2275 Piros Dr, Colorado Springs, CO 80915, a 4 bed, 2.5 bath, 1,920 Sq. Ft. single family home built in 1984 that was last sold on 12/30/2016.",
+        "dateLastCrawled": "2024-11-22T16:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "2275 Piros Dr, Colorado Springs, CO 80915 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2275-Piros-Dr-80915/home/34313858",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2275-Piros-Dr-80915/home/34313858",
+        "snippet": "4 beds, 3 baths, 1920 sq. ft. house located at 2275 Piros Dr, Colorado Springs, CO 80915 sold for $216,000 on Dec 30, 2016. View sales history, tax history, home value estimates, and overhead views...",
+        "dateLastCrawled": "2025-05-30T16:58:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Piros Drive, Colorado Springs, CO 80915 - House Value ... - Ownerly",
+        "url": "https://www.ownerly.com/co/colorado-springs/piros-dr-home-details",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.ownerly.com/co/colorado-springs/piros-dr-home-details",
+        "snippet": "216 properties found on Piros Dr in Colorado Springs, Colorado. See property details, house value estimates, owner contact information, property tax, lien, deed, mortgage history records and more. ... 2275 Piros Dr. Colorado Springs, CO 80915. View . 8 bed(s) 2.5 bath(s) 0.22 acre; 1984 built yr; Last Sold: 2016; Last Sale Price: $177.2K;",
+        "dateLastCrawled": "2025-05-26T10:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "Ownerly"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Who Lives at 2275 Piros Dr, Colorado Springs, CO 80915 | Spokeo",
+        "url": "https://www.spokeo.com/CO/Colorado-Springs/2275-Piros-Dr",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.spokeo.com/CO/Colorado-Springs/2275-Piros-Dr",
+        "snippet": "Find people by address using reverse address lookup for 2275 Piros Dr, Colorado Springs, CO 80915. Find contact info for current and past residents, property value, and more.",
+        "dateLastCrawled": "2023-12-24T10:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Spokeo"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Paul W Elias, (719) 576-9921, 2275 Piros Dr, Colorado Springs, CO",
+        "url": "https://nuwber.com/person/563a92a27686b0176b896d07",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nuwber.com/person/563a92a27686b0176b896d07",
+        "snippet": "Paul W Elias from Colorado Springs, CO . Alias Mr Paul W Elias, Mr Paul Elias. Male, 53. Born May 2, 1971 . Address. 2275 Piros Dr, Colorado Springs, CO, 80915 . Cell phone (719) 216-7662 . Landline (719) 576-9921 . Status. Married . Click if you want to know all the information about Paul VIEW FULL REPORT .",
+        "dateLastCrawled": "2024-07-31T00:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Nuwber"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "2275 Piros Dr, Colorado Springs, CO 80915 - Trulia",
+        "url": "https://www.trulia.com/home/2275-piros-dr-colorado-springs-co-80915-13542579",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/2275-piros-dr-colorado-springs-co-80915-13542579",
+        "snippet": "2275 Piros Dr, Colorado Springs, CO 80915 is a 960 sqft, 4 bed, 2.5 bath home sold in 2016. See the estimate, review home details, and search for homes nearby.",
+        "dateLastCrawled": "2024-03-31T13:02:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Piros Dr, Colorado Springs, CO 80915 - NeighborWho",
+        "url": "https://www.neighborwho.com/Piros-Dr-Colorado-Springs-CO-addresses/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.neighborwho.com/Piros-Dr-Colorado-Springs-CO-addresses",
+        "snippet": "We found 215 addresses on Piros Drive in Colorado Springs, CO 80915. Find out who lives and owns property on this street. Get home owner information, property tax, mortgage records and much more. ... 2275 Piros Dr Colorado Springs, CO 80915. See Address . POSSIBLE OWNERS & RESIDENTS. Michael Breton. Eleanor Gary. Edie Long. David Ritterbush ...",
+        "dateLastCrawled": "2025-01-01T19:14:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "NeighborWho"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "People who live on Piros Dr in Colo Springs, Colorado",
+        "url": "https://voterrecords.com/street/piros+dr-colo+springs-co/47",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://voterrecords.com/street/piros+dr-colo+springs-co/47",
+        "snippet": "There are 545 people who live on Piros Dr in Colo Springs, Colorado that are registered to vote. Toggle navigation VoterRecords.com. Share 21.8K. Search; Address Search; Reverse Phone; Charts; FAQ; Register To Vote; Search ... 2275 Piros Dr Colo Springs, CO 80915: View Details : Javier Lua: Unaffiliated: 2285 Piros Dr Colo Springs, CO 80915 ...",
+        "dateLastCrawled": "2024-06-04T13:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Voter Records"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "2295 Piros Dr, Colorado Springs, CO 80915 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2295-Piros-Dr-Colorado-Springs-CO-80915/13542577_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2295-Piros-Dr-Colorado-Springs-CO-80915/13542577_zpid",
+        "snippet": "2295 Piros Dr, Colorado Springs CO, is a Single Family home that contains 1680 sq ft and was built in 1984.It contains 3 bedrooms and 3 bathrooms.This home last sold for $177,400 in September 2013. The Zestimate for this Single Family is $401,500, which has increased by $8,229 in the last 30 days.The Rent Zestimate for this Single Family is $1,986/mo, which has increased by $1,986/mo in the ...",
+        "dateLastCrawled": "2025-03-17T16:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "2295 Piros Dr, Colorado Springs, CO 80915 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/2295-Piros-Dr_Colorado-Springs_CO_80915_M17077-32989",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../2295-Piros-Dr_Colorado-Springs_CO_80915_M17077-32989",
+        "snippet": "View 23 photos for 2295 Piros Dr, Colorado Springs, CO 80915, a 3 bed, 2.5 bath, 1,680 Sq. Ft. single family home built in 1984 that was last sold on 09/27/2013.",
+        "dateLastCrawled": "2024-10-22T17:45:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "2295 Piros Dr, Colorado Springs, CO 80915 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/2295-Piros-Dr-80915/home/34313879",
+        "datePublished": "2013-09-27T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 27, 2013",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/2295-Piros-Dr-80915/home/34313879",
+        "snippet": "3 beds, 2 baths, 1680 sq. ft. house located at 2295 Piros Dr, Colorado Springs, CO 80915 sold for $177,400 on Sep 27, 2013. View sales history, tax history, home value estimates, and overhead views...",
+        "dateLastCrawled": "2025-05-17T19:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "2375 Piros Dr, Colorado Springs, CO 80915 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2375-Piros-Dr-Colorado-Springs-CO-80915/13543302_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2375-Piros-Dr-Colorado-Springs-CO-80915/13543302_zpid",
+        "snippet": "2375 Piros Dr, Colorado Springs CO, is a Single Family home that contains 1920 sq ft and was built in 1984.It contains 4 bedrooms and 2.5 bathrooms.This home last sold for $129,684 in August 1999. The Zestimate for this Single Family is $389,100, which has increased by $5,436 in the last 30 days.The Rent Zestimate for this Single Family is $2,152/mo, which has increased by $2,152/mo in the ...",
+        "dateLastCrawled": "2025-02-26T03:46:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "2175 Piros Dr, Colorado Springs, CO 80915 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2175-Piros-Dr-Colorado-Springs-CO-80915/13542500_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2175-Piros-Dr-Colorado-Springs-CO-80915/13542500_zpid",
+        "snippet": "2175 Piros Dr, Colorado Springs CO, is a Single Family home that contains 960 sq ft and was built in 1984.It contains 2 bedrooms and 2 bathrooms. The Zestimate for this Single Family is $321,700, which has increased by $1,133 in the last 30 days.The Rent Zestimate for this Single Family is $1,523/mo, which has increased by $1,523/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-14T14:35:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "1775 Piros Dr, Colorado Springs, CO 80915 | Redfin",
+        "url": "https://www.redfin.com/CO/Colorado-Springs/1775-Piros-Dr-80915/home/34314787",
+        "datePublished": "2005-09-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Sep 7, 2005",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/CO/Colorado-Springs/1775-Piros-Dr-80915/home/34314787",
+        "snippet": "3 beds, 3 baths, 1414 sq. ft. house located at 1775 Piros Dr, Colorado Springs, CO 80915 sold for $280,000 on Nov 19, 2019. View sales history, tax history, home value estimates, and overhead views...",
+        "dateLastCrawled": "2025-05-02T22:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "2075 Piros Dr, Colorado Springs, CO 80915 | Zillow",
+        "url": "https://www.zillow.com/homedetails/2075-Piros-Dr-Colorado-Springs-CO-80915/13542494_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2075-Piros-Dr-Colorado-Springs-CO-80915/13542494_zpid",
+        "snippet": "2075 Piros Dr, Colorado Springs CO, is a Single Family home that contains 1680 sq ft and was built in 1984.It contains 3 bedrooms and 1.5 bathrooms.This home last sold for $140,000 in July 2018. The Zestimate for this Single Family is $365,500, which has decreased by $7,677 in the last 30 days.The Rent Zestimate for this Single Family is $1,946/mo, which has increased by $1,946/mo in the last ...",
+        "dateLastCrawled": "2024-12-12T04:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "1575 Piros Dr, Colorado Springs, CO 80915 - Zillow",
+        "url": "https://www.zillow.com/homedetails/1575-Piros-Dr-Colorado-Springs-CO-80915/13543464_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/1575-Piros-Dr-Colorado-Springs-CO-80915/13543464_zpid",
+        "snippet": "1575 Piros Dr, Colorado Springs CO, is a Single Family home that contains 1982 sq ft and was built in 1985.It contains 4 bedrooms and 3 bathrooms.This home last sold for $160,000 in May 2012. The Zestimate for this Single Family is $414,100, which has increased by $1,594 in the last 30 days.The Rent Zestimate for this Single Family is $2,199/mo, which has increased by $2,199/mo in the last 30 ...",
+        "dateLastCrawled": "2025-04-14T21:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "2285 Piros Dr, Colorado Springs, CO 80915 - Zillow",
+        "url": "https://www.zillow.com/homedetails/2285-Piros-Dr-Colorado-Springs-CO-80915/13542578_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/2285-Piros-Dr-Colorado-Springs-CO-80915/13542578_zpid",
+        "snippet": "2285 Piros Dr, Colorado Springs CO, is a Single Family home that contains 1680 sq ft and was built in 1984.It contains 3 bedrooms and 2 bathrooms.This home last sold for $285,000 in December 2019. The Zestimate for this Single Family is $391,500, which has increased by $2,627 in the last 30 days.The Rent Zestimate for this Single Family is $2,108/mo, which has increased by $2,108/mo in the ...",
+        "dateLastCrawled": "2025-04-20T05:52:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        }
+      ]
+    }
+  }
+}

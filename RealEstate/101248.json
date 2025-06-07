@@ -1,0 +1,472 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "8 Royal Dane Dr, Unit 72, Marshfield MA 02050"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=8+Royal+Dane+Dr%2c+Unit+72%2c+Marshfield+MA+02050",
+    "totalEstimatedMatches": 667000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "8 Royal Dane Dr APT 72, Marshfield, MA 02050 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-72-Marshfield-MA-02050/56643925_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-72-Marshfield-MA-02050/56643925...",
+        "snippet": "8 Royal Dane Dr Apt 72, Marshfield MA, is a Condo home that contains 809 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $200,000 in July 2019. The Zestimate for this Condo is $282,200, which has decreased by $167 in the last 30 days.The Rent Zestimate for this Condo is $2,451/mo, which has increased by $2,451/mo in the last 30 days.",
+        "deepLinks": [
+          {
+            "name": "8 Royal Dane Dr APT 66, Marshfield, MA 02050 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-66-Marshfield-MA-02050/56643919_zpid/",
+            "snippet": "8 Royal Dane Dr Apt 66, Marshfield MA, is a Condo home that contains 808 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $125,699 in May 2016. The Rent Zestimate for this Condo is $2,450/mo, which has increased by $2,450/mo in the last 30 days."
+          },
+          {
+            "name": "8 Royal Dane Dr APT 64, Marshfield, MA 02050 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-64-Marshfield-MA-02050/56643917_zpid/",
+            "snippet": "8 Royal Dane Dr Apt 64, Marshfield MA, is a Condo home that contains 723 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $211,000 in December 2022. The Zestimate for this Condo is $263,900, which has increased by $10,784 in the last 30 days.The Rent Zestimate for this Condo is $2,033/mo, which has increased by $2,033/mo in the last 30 days."
+          },
+          {
+            "name": "8 Royal Dane Dr APT 70, Marshfield, MA 02050 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-70-Marshfield-MA-02050/56643923_zpid/",
+            "snippet": "8 Royal Dane Dr Apt 70, Marshfield MA, is a Condo home that contains 724 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $140,000 in June 2007. The Zestimate for this Condo is $269,000, which has decreased by $367 in the last 30 days.The Rent Zestimate for this Condo is $2,370/mo, which has increased by $2,370/mo in the last 30 days."
+          },
+          {
+            "name": "8 Royal Dane Dr APT 69, Marshfield, MA 02050 | Zillow",
+            "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-69-Marshfield-MA-02050/56643922_zpid/",
+            "snippet": "8 Royal Dane Dr Apt 69, Marshfield MA, is a Condo home that contains 809 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $290,000 in December 2023. The Zestimate for this Condo is $310,100, which has increased by $145 in the last 30 days.The Rent Zestimate for this Condo is $2,329/mo, which has increased by $2,329/mo in the last 30 days."
+          }
+        ],
+        "dateLastCrawled": "2025-04-14T09:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "8 Royal Dane Dr #72, Marshfield, MA 02050 | Redfin",
+        "url": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-02050/unit-72/home/16390250",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.ukyMsich5yKpIyeebGG1kAHaE6&w=80&h=80&c=1&pid=5.1",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-02050/unit-72/home/16390250",
+        "snippet": "Wonderful opportunity to get into Marshfield under $200k. De... (MLS PIN) 2 beds, 1 bath, 809 sq. ft. condo located at 8 Royal Dane Dr #72, Marshfield, MA 02050 sold for $200,000 on Jul 25, 2019.",
+        "dateLastCrawled": "2025-04-29T20:07:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.ukyMsich5yKpIyeebGG1kAHaE6&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 314,
+          "imageId": "OIP.ukyMsich5yKpIyeebGG1kAHaE6"
+        },
+        "language": "en",
+        "isNavigational": false,
+        "richFacts": [
+          {
+            "label": {
+              "text": "Location"
+            },
+            "items": [
+              {
+                "text": "8 Royal Dane Dr #72, Marshfield, 02050"
+              }
+            ],
+            "hint": {
+              "text": "ADDRESS:LOCATIONGENERAL"
+            }
+          }
+        ],
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "8 Royal Dane Dr Apt 72, Marshfield, MA 02050 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/8-Royal-Dane-Dr-Apt-72_Marshfield_MA_02050_M40938-41751",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../8-Royal-Dane-Dr-Apt-72_Marshfield_MA_02050_M40938-41751",
+        "snippet": "View 9 photos for 8 Royal Dane Dr Apt 72, Marshfield, MA 02050, a 2 bed, 1 bath, 809 Sq. Ft. condo townhome rowhome coop home built in 1968 that was last sold on 07/25/2019.",
+        "dateLastCrawled": "2024-05-20T17:01:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Sold 8 Royal Dane Dr Unit 72, Marshfield, MA 02050 | Homes.com",
+        "url": "https://www.homes.com/property/8-royal-dane-dr-marshfield-ma-unit-72/x9sdxkb066gpp/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.homes.com/property/8-royal-dane-dr-marshfield-ma-unit-72/x9sdxkb066gpp",
+        "snippet": "8 Royal Dane Dr Unit 72, Marshfield, MA 02050 - 809 sqft home built in 1968 . Browse photos, take a 3D tour & see transaction details about this recently sold property. MLS# 72514689.",
+        "dateLastCrawled": "2024-11-13T14:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Homes.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "8 Royal Dane Drive, Apt 72, Marshfield, MA Property Records - County Office",
+        "url": "https://www.countyoffice.org/property-record-8-royal-dane-dr-apt-72-marshfield-ma-02050-ed5/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.countyoffice.org/property-record-8-royal-dane-dr-apt-72-marshfield-ma...",
+        "snippet": "Residential (Condominium Unit) County: Plymouth: Zoning Designation: R-1: Legal Description: LOT:72 BLK:2 CITY/MUNI/TWP:MARSHFIELD: Lot Number: 72: Property Owner Details Address ... 8 Royal Dane Dr # 72 72 Marshfield, MA 2050 Loan Guaranteed Rate Amount: $129,500 Type: New Conventional Due Date: 23 May 2047 Details Type: Grant Deed",
+        "dateLastCrawled": "2024-05-21T14:33:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "County Office"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "8 Royal Dane Dr #72, Marshfield, MA 02050 - Trulia",
+        "url": "https://www.trulia.com/home/8-royal-dane-dr-72-marshfield-ma-02050-56643925",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.trulia.com/home/8-royal-dane-dr-72-marshfield-ma-02050-56643925",
+        "snippet": "8 Royal Dane Dr #72, Marshfield, MA 02050 is a 809 sqft, 2 bed, 1 bath home sold in 2019. See the estimate, review home details, and search for homes nearby. Marshfield. Buy. 02050. Homes for Sale.",
+        "dateLastCrawled": "2023-12-13T16:12:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Trulia"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "8 Royal Dane Dr #72, Marshfield, MA \u2014 Coldwell Banker",
+        "url": "https://www.coldwellbanker.com/property/8-Royal-Dane-Dr-_UNIT_72-Marshfield-MA-02050/M-72514689-MLSPIN/detail",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.coldwellbanker.com/property/8-Royal-Dane-Dr-_UNIT_72-Marshfield-MA-02050/M...",
+        "snippet": "Find information about 8 Royal Dane Dr #72, Marshfield, MA 02050 on coldwellbanker.com. View photos, get a property value estimate and more. Buy Sell. Home Value Estimate; Find an Agent. SEARCH FOR HOMES. Enter a city, neighborhood, school district, address or MLS#",
+        "dateLastCrawled": "2022-11-28T20:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Coldwell Banker"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "8 Royal Dane Dr #72, Marshfield, MA 02050 | 9 Photos | MLS #72514689 ...",
+        "url": "https://www.movoto.com/marshfield-ma/8-royal-dane-dr-72-marshfield-ma-02050/pid_cznyyv5tfh/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.movoto.com/marshfield-ma/8-royal-dane-dr-72-marshfield-ma-02050/pid_cznyyv5tfh",
+        "snippet": "8 Royal Dane Dr #72 Marshfield, MA 02050. $200,000 2 Bd 1 Ba 809 Sqft. SOLD in 49 Days on 07/26/2019. Home Value ($/Sqft) $247/Sqft. Home Value Estimate . $276,608. Time on Movoto. ... Desirable top floor unit is light and bright and boasts a great location. Conveniently, just half a mile to the highway, and a quick drive to the beautiful ...",
+        "dateLastCrawled": "2022-02-08T20:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Movoto by OJO"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "8 Royal Dane Drive Unit 72, Marshfield, MA 02050 | RealtyInSite",
+        "url": "https://www.realtyinsite.com/comp?id=MARSHFIELD$C11-02-72",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtyinsite.com/comp?id=MARSHFIELD$C11-02-72",
+        "snippet": "8 Royal Dane Drive Unit 72 Marshfield MA 02050. Click to view the Official Assessors Field Card Copy Print Report ... Owner 2 Owner's Address 8 Royal Dane Drive #72 Marshfield, MA 02050-0000 . Market Sale Information. Most recent sale date 7/25/2019. Previous sale date 5/24/2017.",
+        "dateLastCrawled": "2024-10-07T07:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "RealtyInSite"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "8 Royal Dane Dr #72 Marshfield, MA 02050 - Xome",
+        "url": "https://www.xome.com/realestate/8-royal-dane-dr-72-marshfield-ma-02050-146934195",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.xome.com/realestate/8-royal-dane-dr-72-marshfield-ma-02050-146934195",
+        "snippet": "8 Royal Dane Dr #72 Marshfield MA with 2 bedroom and 1 bath is currently not for sale. Xome's estimated value is $262,744. Discover more property details at Xome.com.",
+        "dateLastCrawled": "2024-05-16T03:43:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Xome"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10",
+        "name": "8 Royal Dane Dr Unit 72,8, Marshfield, MA 02050 - Redfin",
+        "url": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-02050/unit-72-8/home/137212185",
+        "datePublished": "2004-11-26T00:00:00.0000000",
+        "datePublishedDisplayText": "Nov 26, 2004",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-02050/unit-72-8/home/137212185",
+        "snippet": "2 beds, 1 bath, 802 sq. ft. condo located at 8 Royal Dane Dr Unit 72,8, Marshfield, MA 02050 sold for $168,600 on Nov 26, 2004. MLS# 70107757. Vacant and easy to show, move-in condition. One min to...",
+        "dateLastCrawled": "2024-10-25T12:10:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11",
+        "name": "8 Royal Dane Dr APT 66, Marshfield, MA 02050 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-66-Marshfield-MA-02050/56643919_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-66-Marshfield-MA-02050/56643919...",
+        "snippet": "8 Royal Dane Dr Apt 66, Marshfield MA, is a Condo home that contains 808 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $125,699 in May 2016. The Rent Zestimate for this Condo is $2,450/mo, which has increased by $2,450/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-17T12:07:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12",
+        "name": "8 Royal Dane Dr Apt 64, Marshfield, MA 02050 | realtor.com\u00ae",
+        "url": "https://www.realtor.com/realestateandhomes-detail/8-Royal-Dane-Dr-Apt-64_Marshfield_MA_02050_M47705-71793",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.realtor.com/.../8-Royal-Dane-Dr-Apt-64_Marshfield_MA_02050_M47705-71793",
+        "snippet": "View 18 photos for 8 Royal Dane Dr Apt 64, Marshfield, MA 02050, a 2 bed, 1 bath, 723 Sq. Ft. condos home built in 1968 that was last sold on 12/01/2022.",
+        "dateLastCrawled": "2025-01-06T02:29:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Realtor.com"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13",
+        "name": "8 Royal Dane Dr, Marshfield, MA 02050 - Redfin",
+        "url": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-Marshfield-MA-02050/building/143525",
+        "datePublished": "2003-12-04T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 4, 2003",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-Marshfield-MA-02050/building/143525",
+        "snippet": "View units for 8 Royal Dane Dr, Marshfield, MA 02050 located at 8 Royal Dane Dr in Marshfield, MA along with 8 photos of the property. This building has in total. Sign in. SEARCH; ... Unit Sale Price Beds Baths Sq. Ft. Dec 29, 2023: 69. $290,000: 2 beds: 1 bath: 809 sq. ft.",
+        "dateLastCrawled": "2025-06-03T15:56:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14",
+        "name": "8 Royal Dane Dr APT 64, Marshfield, MA 02050 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-64-Marshfield-MA-02050/56643917_zpid/",
+        "datePublished": "2022-12-01T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 1, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-64-Marshfield-MA-02050/56643917...",
+        "snippet": "8 Royal Dane Dr Apt 64, Marshfield MA, is a Condo home that contains 723 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $211,000 in December 2022. The Zestimate for this Condo is $263,900, which has increased by $10,784 in the last 30 days.The Rent Zestimate for this Condo is $2,033/mo, which has increased by $2,033/mo in the last 30 days.",
+        "dateLastCrawled": "2024-08-30T23:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15",
+        "name": "8 Royal Dane Dr APT 69, Marshfield, MA 02050 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-69-Marshfield-MA-02050/56643922_zpid/",
+        "datePublished": "2023-12-29T00:00:00.0000000",
+        "datePublishedDisplayText": "Dec 29, 2023",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-69-Marshfield-MA-02050/56643922...",
+        "snippet": "8 Royal Dane Dr Apt 69, Marshfield MA, is a Condo home that contains 809 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $290,000 in December 2023. The Zestimate for this Condo is $310,100, which has increased by $145 in the last 30 days.The Rent Zestimate for this Condo is $2,329/mo, which has increased by $2,329/mo in the last 30 days.",
+        "dateLastCrawled": "2025-01-03T12:08:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16",
+        "name": "8 Royal Dane Dr #64, Marshfield, MA 02050 | MLS# 73048038 | Redfin",
+        "url": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-02050/unit-64/home/16389901",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.redfin.com/MA/Marshfield/8-Royal-Dane-Dr-02050/unit-64/home/16389901",
+        "snippet": "2 beds, 1 bath, 723 sq. ft. condo located at 8 Royal Dane Dr #64, Marshfield, MA 02050 sold for $211,000 on Dec 1, 2022. MLS# 73048038. This well-maintained garden-level condo is close to many amen...",
+        "dateLastCrawled": "2024-12-24T09:49:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Redfin"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17",
+        "name": "8 Royal Dane Dr APT 70, Marshfield, MA 02050 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-70-Marshfield-MA-02050/56643923_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-70-Marshfield-MA-02050/56643923...",
+        "snippet": "8 Royal Dane Dr Apt 70, Marshfield MA, is a Condo home that contains 724 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $140,000 in June 2007. The Zestimate for this Condo is $269,000, which has decreased by $367 in the last 30 days.The Rent Zestimate for this Condo is $2,370/mo, which has increased by $2,370/mo in the last 30 days.",
+        "dateLastCrawled": "2025-04-14T23:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18",
+        "name": "8 Royal Dane Dr APT 67, Marshfield, MA 02050 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-67-Marshfield-MA-02050/56643920_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-67-Marshfield-MA-02050/56643920...",
+        "snippet": "8 Royal Dane Dr Apt 67, Marshfield MA, is a Condo home that contains 725 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom.This home last sold for $100,002 in July 2014. The Zestimate for this Condo is $245,900, which has increased by $1,539 in the last 30 days.The Rent Zestimate for this Condo is $2,427/mo, which has increased by $2,427/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-31T18:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19",
+        "name": "8 Royal Dane Dr APT 71, Marshfield, MA 02050 | Zillow",
+        "url": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-71-Marshfield-MA-02050/56643924_zpid/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zillow.com/homedetails/8-Royal-Dane-Dr-APT-71-Marshfield-MA-02050/56643924...",
+        "snippet": "8 Royal Dane Dr Apt 71, Marshfield MA, is a Condo home that contains 809 sq ft and was built in 1968.It contains 2 bedrooms and 1 bathroom. The Zestimate for this Condo is $265,800, which has increased by $4,981 in the last 30 days.The Rent Zestimate for this Condo is $2,345/mo, which has increased by $2,345/mo in the last 30 days.",
+        "dateLastCrawled": "2025-03-29T16:50:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Zillow"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 10,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.10"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 11,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.11"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 12,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.12"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 13,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.13"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 14,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.14"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 15,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.15"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 16,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.16"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 17,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.17"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 18,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.18"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 19,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.19"
+          }
+        }
+      ]
+    }
+  }
+}
